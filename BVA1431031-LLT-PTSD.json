@@ -1,0 +1,477 @@
+{
+    "docID": "1431031",
+    "sentences": [
+        {
+            "sentID": "1431031P1S1",
+            "text": "Citation Nr: 1431031",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P15S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P17S1",
+            "text": "2. The evidence does not show an in-service incurrence of mental health problems.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P21S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P49S1",
+            "text": "Psychiatric Disability",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P50S1",
+            "text": "The criteria for service connection for an acquired psychiatric disability have not been met.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P50S2",
+            "text": "See 38 C.F.R. § 3.303.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P51S1",
+            "text": "The Veteran has current mental health diagnoses and treatment.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P51S2",
+            "text": "VA treatment from 2013 shows diagnoses of bipolar disability, PTSD, and polysubstance abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P51S3",
+            "text": "Dr. AMS diagnosed mood disability in May 2012.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S1",
+            "text": "The evidence does not show an in-service incurrence of mental health problems.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S2",
+            "text": "Service treatment records from February 1974 note psychiatric problems prior to entering service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S3",
+            "text": "The Veteran was given a mental health evaluation prior to acceptance for service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S4",
+            "text": "A pre-service history was noted, but no current neurosis or psychosis was found.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S5",
+            "text": "Despite the noted history, the Veteran was found fit for duty without any psychiatric disability at the time of entrance into service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S6",
+            "text": "Thus, the presumption of soundness could be for application in this claim as well.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S7",
+            "text": "38 C.F.R. § 3.304(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S8",
+            "text": "However, before the presumption of soundness is for application, there must be evidence that a disease or injury that was not noted upon entry to service manifested or was incurred in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S9",
+            "text": "See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S10",
+            "text": "There is no evidence in the Veteran's service records of any treatment or complaints of mental health problems.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S11",
+            "text": "The Veteran has also not reported any mental health symptoms during service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P52S12",
+            "text": "Therefore, the presumption of soundness is not for application and there is no in-service incurrence of mental health problems.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S1",
+            "text": "Claims for service connection for PTSD require an in-service incurrence, or stressor, accompanied by credible and supporting evidence that the stressor claimed to be the cause of the disability occurred in service, or specific circumstances of combat or hostile military or terrorist activities consistent with the nature of said service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S2",
+            "text": "38 C.F.R. § 3.304(f); Cohen v. Brown, 10 Vet. App. 128, 138 (1997).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S3",
+            "text": "In a February 2012 letter, the Joint Services Records Research Center coordinator determined that there was insufficient evidence in the Veteran's claims file to corroborate any stressor associated with a claim for PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S3",
+            "text": "The Veteran has not provided a statement of a stressor event of any kind.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S4",
+            "text": "Therefore, service connection for PTSD cannot be established.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P53S5",
+            "text": "See 38 C.F.R. § 3.304.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P54S1",
+            "text": "Service connection for substance abuse is prohibited by law.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P54S2",
+            "text": "38 U.S.C.A. § 1110.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P55S1",
+            "text": "Private treatment records show treatment for situational depression in 1979 and continuous mental health treatment in the 1990s and 2000s.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P55S2",
+            "text": "Additionally, an opinion from Dr. AMS concludes that the Veteran's mental health conditions are aggravated by his back condition.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P55S3",
+            "text": "However, his back condition is not service-connected and cannot provide a basis upon which to grant service connection for his mental health disabilities.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P55S4",
+            "text": "Moreover, with no in-service incurrence of mental health problems, service connection cannot be granted and a discussion of the nexus element is moot.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P55S5",
+            "text": "See 38 C.F.R. § 3.303.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P56S1",
+            "text": "The preponderance of the evidence is against service connection for a low back disability and an acquired psychiatric disability.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P56S2",
+            "text": "See 38 C.F.R. § 3.303.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P56S3",
+            "text": "The benefit of the doubt was given and is otherwise inapplicable.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1431031P56S4",
+            "text": "See 38 C.F.R. § 3.102.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1431031\t\nDecision Date: 07/10/14 Archive Date: 07/15/14\n\nDOCKET NO. 09-25 944\t)\tDATE\n\t)\n\t)\n\nOn appeal from the\nDepartment of Veterans Affairs Regional Office in Hartford, Connecticut\n\n\nTHE ISSUES\n\n1. Entitlement to service connection for a low back disability.\n\n2. Entitlement to service connection for an acquired psychiatric disability, to include posttraumatic stress disorder (PTSD), mood disability, and bipolar disability, on a direct basis and secondary to low back disability.\n\n\nREPRESENTATION\n\nAppellant represented by:\tKenneth Lavan, Attorney\n\n\nATTORNEY FOR THE BOARD\n\nA.P. Armstrong, Associate Counsel\n\n\n\nINTRODUCTION\n\nThe Veteran served on active duty from February 1974 to April 1974.\n\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from November 2008 and March 2012 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Hartford, Connecticut. The Board previously remanded the claim for a low back disability in August 2012. \n\nThere is evidence of PTSD, mood disability, and bipolar disability. As the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the description, reported symptoms, and the other information of record, the issue has been recharacterized as stated above. Clemons v. Shinseki, 23 Vet. App. 1, 4-6 (2009). \n\n\nFINDINGS OF FACT\n\n1. The Veteran's current low back disability is not related to service.\n\n2. The evidence does not show an in-service incurrence of mental health problems.\n\n\nCONCLUSIONS OF LAW\n\n1. The criteria for service connection for a low back disability have not been met. 38 U.S.C.A. §§ 1110, 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303 (2013).\n\n2. The criteria for service connection for an acquired psychiatric disability have not been met. 38 U.S.C.A. §§ 1110, 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303, 3.304 (2013).\n\n\n\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\n\nI. Procedural Duties\n\t\nThe Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations require VA to provide claimants with notice and assistance in substantiating a claim. See 38 U.S.C.A. §§ 5102, 5103, 5103A, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2013).\n\nIn September 2008 and August 2011, prior to adjudication of his claims, the RO sent the Veteran a letter, providing notice that satisfied the requirements of the VCAA. See Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006). No additional notice is required. \n\nNext, VA has a duty to assist the Veteran in the development of claims. This duty includes assisting him in the procurement of pertinent treatment records and providing an examination when necessary. 38 C.F.R. § 3.159.\n\nAll pertinent, identified medical records have been obtained and considered. VA provided an examination for the Veteran's low back in February 2013 and an addendum opinion in April 2013. The April 2013 addendum opinion cured any deficiencies in the February 2013 opinion and the accompanying examination is detailed and thorough. VA was not required to provide a mental health examination for the Veteran as there is no evidence of an in-service incurrence of mental health problems or symptoms. See McLendon v. Nicholson, 20 Vet. App. 79 (2006). \n\nFollowing the remand directives, the Agency of Original Jurisdiction (AOJ) obtained Social Security Administration records and an addendum medical opinion for the Veteran's spine claim. The examiner adequately discussed the evidence and provided detailed rationale for the opinions offered. These actions were in substantial compliance with the remand directives and further remand is not necessary. See D'Aries v. Peake, 22 Vet. App. 97, 106 (2008); Stegall v. West, 11 Vet. App. 268 (1998). The Board has carefully reviewed the record and determines there is no additional development needed. \n\nAs VA has satisfied its duties to notify and assist the Veteran, no further notice or assistance is required. See 38 U.S.C.A. §§ 5103, 5103A; 38 C.F.R. §3.159.\n\nII. Service Connection\n\nService connection will be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. 38 U.S.C.A. § 1131; 38 C.F.R. § 3.303(a). To establish entitlement to service-connected compensation benefits, a Veteran must show \"(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service-the so-called 'nexus' requirement.\" Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010). \n\nAlternatively, service connection may be granted on a secondary basis for a disability that is proximately due to or the result of (caused) or permanently worsened beyond its natural progression (aggravated) by a service-connected disease or injury. Allen v. Brown, 7 Vet. App. 439, 448-49 (1995) (en banc); 38 C.F.R. § 3.310(b).\n\nThe Board must consider all the evidence of record and make appropriate determinations of competence, credibility, and weight. See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005). When there is an approximate balance of positive and negative evidence regarding any material issue, all reasonable doubt will be resolved in favor of the claimant. 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102.\n\nThe Veteran, his relatives, and friends are competent to report symptoms and experiences observable by their senses; however, they are not competent to diagnose his disabilities or determine their cause as this requires specialized knowledge and testing to understand the complex nature of musculoskeletal system and psychiatric disabilities. See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); 38 C.F.R. § 3.159(a). The Board also finds them generally credible as their statements have been detailed and consistent. \n\nLow Back\n\nThe criteria for service connection for a low back disability have not been met. See 38 C.F.R. § 3.303.\n\nThe Veteran has a current low back disability. The VA examiner in February 2013 found evidence of lumbar spinal stenosis and degenerative disc disease of the lumbar spine. Private treatment records from the University of Connecticut Health Center note severe degenerative disc disease of the lumbar spine in 2009. Treatment records from the same facility show that the Veteran had lumbar injections in 2008 as treatment for chronic back pain.\n\nService treatment records from February and March 1974 show treatment for back pain and a diagnosis of lumbar strain during service. The treatment records noted that the Veteran attributed the pain to an automobile accident in December 1973. Medical opinions offered with the Veteran's medical discharge found a preexisting condition from the pre-service automobile accident. \n\nWhen no preexisting condition is noted upon entry into service, the Veteran is presumed to have been sound upon entry. 38 U.S.C.A § 1111; 38 C.F.R. § 3.304(b). The burden then shifts to VA to rebut the presumption of soundness by clear and unmistakable evidence that the Veteran's condition was both preexisting and not aggravated by service. Id. If VA fails to rebut the presumption of soundness, the Veteran's claim is treated as one for service connection. Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); Horn v. Schinseki, 25 Vet. App. 231, 234-35 (2012).\n\nThe service examination from the Veteran's entry into service did not note any preexisting back condition. Thus, the presumption of soundness applies. The evidence is in relative equipoise as to whether the Veteran had an in-service incurrence. In a September 2008 statement, the Veteran reported slipping and falling in a bathroom and injuring his low back. His relatives and friends reiterated this story in their statements to VA, but none purported to be present at the time of injury. As mentioned, service treatment records associated the Veteran's low back symptoms with the pre-service automobile accident. Service treatment records have no mention of an injury during service. \n\nThe Veteran's report of an injury in service is credible. The April 2013 VA examiner found no evidence in the claims file that active duty caused additional injury or aggravated the preexisting lumbar strain. Conversely, the private evaluator, Dr. AMS, concluded that the in-service diagnosis of lumbar strain was due to in-service activity and not the pre-service automobile accident. The evidence is in relative equipoise as to an injury in service, far from clear and unmistakable evidence. Therefore, the presumption of soundness has not been rebutted, and an in-service incurrence of lumbar strain is found. See 38 C.F.R. § 3.304(b).\n\nHowever, the evidence does not show that the current lumbar spinal stenosis or degenerative disc disease is related to the lumbar strain in service. Private treatment records show treatment for back pain beginning in December 1989 and a lumbar laminectomy with infusion in September 1999. Treatment records from 1991 and 1992 note a motor vehicle accident in May 1991, after which the Veteran complained of and sought treatment for pain in his back consistently. Diagnostic testing from May 1991 showed a normal lumbar spine with no notation of degenerative changes or disability. \n\nThe VA examiner in April 2013 found no relationship between the Veteran's current low back disabilities and service. First, the examiner found the current disabilities, lumbar stenosis and degenerative disc disease, did not preexist service. The examiner explained that the only injury diagnosed in service was lumbar strain, and the lumbar strain preexisted service. More importantly, the examiner found that the current disability of lumbar spinal stenosis with degenerative disc disease was not likely related to service and more likely related to the motor vehicle accident in 1991. The examiner explained that these disabilities were diagnosed 25 years after service with no documentation of a relationship to the lumbar strain or active service.\n\nDr. AMS, a private physician, concluded that it was reasonable to assume that the Veteran's injury occurred in service and not from the motor vehicle accident in December 1973. Dr. AMS noted that the Veteran had not complained of, or noted, back pain before service but well documented his pain at separation. This led him to conclude that the injury must have occurred in service. \n\nThe private opinion notes that the Veteran claimed he had chronic back pain since separation from service. However, Dr. AMS did not provide an opinion as to whether the in-service injury caused the current lumbar stenosis or degenerative disc disease. He did not address chronicity or the majority of the evidence in the intervening 20 years between service and the diagnosis of these disabilities. As Dr. AMS's opinion does not address the causal relationship between the in-service injury and the current disability, his opinion is not probative as to the nexus element. Instead, his opinion addresses the second element of service connection and supports the idea of an in-service incurrence, which the Board has herein found. \n\nBoth experts agree that the spina bifida occulta, diagnosed in service, was an incidental finding of an asymptomatic condition not related to the current disabilities or the in-service diagnosis.\n\nA letter from Dr. HCO in May 2010 notes treatment for the Veteran's back since April 1999 with his chief complaint as low back pain since 1991. Dr. HCO goes on to say the Veteran \"apparently hurt his back in 1974 when he fell while in the army and he was involved in a motor vehicle accident in 1991 with exacerbation of symptoms.\" Dr. HCO does not offer an opinion on any connection between service and the current disabilities supported by medical rationale. Use of the term \"apparently\" casts doubt as to whether Dr. HCO accepts the in-service fall as medically sound information, and without rationale, the statement is not probative. See Stefl v. Nicholson, 21 Vet. App. 120 (2007). \n\nThe Veteran, his relatives, and friends noted that he was physically active before service but unable to do such things currently and experienced pain. The statements from his children and nephew are probative of his current symptoms, but they do not have first-hand knowledge of his condition before or immediately after service. The statements from CAF and TLM note that he was fit and active in school, prior to the military, and that they were surprised by his disabled state currently. However, CAF and TLM did not provide evidence of symptoms during the intervening period; therefore, their statements are less probative as to the question of nexus. \n\nThe Veteran, his siblings, and his aunt noted a difference in his abilities and symptoms after service, in this intervening period. They noted that he was unable to dance or play sports because of his pain. A letter from a community member notes the Veteran's 30 years of service and mentoring in the local boys club, specifically noting him playing baseball and basketball with the boys. These statements appear contradictory as to his symptoms and abilities. More importantly, the Veteran and his relatives are not competent to determine whether his pain symptoms in the intervening time were due to acute, intervening injuries or from service. Their statements are probative to show continuous symptoms but not conclusive to show a nexus between the currently identified back disability and the in-service injury. See Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013) (the nexus element may be proven by lay evidence of continuity of symptomatology only for chronic diseases listed in 38 C.F.R. § 3.309(a)). \n\nThere are no treatment records for low back pain in the period from service to December 1989. Diagnostic tests from 1991 show no abnormality of the low back. The VA examiner concluded that the current lumbar stenosis and degenerative disc disease were not caused by or aggravated by service. Dr. AMS did not provide an opinion on any causal relationship between the current disabilities to service. Therefore, the evidence is against any causal relationship upon which service connection could be granted. \n\nPsychiatric Disability\n\nThe criteria for service connection for an acquired psychiatric disability have not been met. See 38 C.F.R. § 3.303. \n\nThe Veteran has current mental health diagnoses and treatment. VA treatment from 2013 shows diagnoses of bipolar disability, PTSD, and polysubstance abuse. Dr. AMS diagnosed mood disability in May 2012. \n\nThe evidence does not show an in-service incurrence of mental health problems. Service treatment records from February 1974 note psychiatric problems prior to entering service. The Veteran was given a mental health evaluation prior to acceptance for service. A pre-service history was noted, but no current neurosis or psychosis was found. Despite the noted history, the Veteran was found fit for duty without any psychiatric disability at the time of entrance into service. Thus, the presumption of soundness could be for application in this claim as well. 38 C.F.R. § 3.304(b). However, before the presumption of soundness is for application, there must be evidence that a disease or injury that was not noted upon entry to service manifested or was incurred in service. See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012). There is no evidence in the Veteran's service records of any treatment or complaints of mental health problems. The Veteran has also not reported any mental health symptoms during service. Therefore, the presumption of soundness is not for application and there is no in-service incurrence of mental health problems. \n\nClaims for service connection for PTSD require an in-service incurrence, or stressor, accompanied by credible and supporting evidence that the stressor claimed to be the cause of the disability occurred in service, or specific circumstances of combat or hostile military or terrorist activities consistent with the nature of said service. 38 C.F.R. § 3.304(f); Cohen v. Brown, 10 Vet. App. 128, 138 (1997). In a February 2012 letter, the Joint Services Records Research Center coordinator determined that there was insufficient evidence in the Veteran's claims file to corroborate any stressor associated with a claim for PTSD. The Veteran has not provided a statement of a stressor event of any kind. Therefore, service connection for PTSD cannot be established. See 38 C.F.R. § 3.304. \n\nService connection for substance abuse is prohibited by law. 38 U.S.C.A. § 1110.\n\nPrivate treatment records show treatment for situational depression in 1979 and continuous mental health treatment in the 1990s and 2000s. Additionally, an opinion from Dr. AMS concludes that the Veteran's mental health conditions are aggravated by his back condition. However, his back condition is not service-connected and cannot provide a basis upon which to grant service connection for his mental health disabilities. Moreover, with no in-service incurrence of mental health problems, service connection cannot be granted and a discussion of the nexus element is moot. See 38 C.F.R. § 3.303.\n\nThe preponderance of the evidence is against service connection for a low back disability and an acquired psychiatric disability. See 38 C.F.R. § 3.303. The benefit of the doubt was given and is otherwise inapplicable. See 38 C.F.R. § 3.102.\n\n\nORDER\n\nService connection for a low back disability is denied.\n\nService connection for an acquired psychiatric disability is denied.\n\n\n\n____________________________________________\nMark D. Hindin\nVeterans Law Judge, Board of Veterans' Appeals\n\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1431031",
+        "decisionDate": "2014-07-10T00:00:00",
+        "archiveDate": "2014-07-15T00:00:00",
+        "docketNumber": "09-25 944",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Hartford, Connecticut",
+        "judge": "Mark D. Hindin",
+        "fileName": "BVA1431031.txt",
+        "processDate": "2018-12-11T09:24:22.8884358-08:00"
+    }
+}
