@@ -1,0 +1,1854 @@
+{
+  "docID": "1709261",
+  "sentences": [
+    {
+      "sentID": "1709261P1S1,",
+      "text": "Citation Nr: 1709261",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P18S1",
+      "text": "FINDINGS OF FACT",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P19S1",
+      "text": "1.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P19S2",
+      "text": "There is credible supporting evidence of the Veteran's in-service exposure to noncombat-related stressors in the Marine Corps in April 1975 during Operations Eagle Pull and Frequent Wind, involving evacuations in Cambodia and Vietnam.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P19S3",
+      "text": "These stressors included rockets and bombs heard on the outskirts of the cities, mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead marines.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P20S1",
+      "text": "2.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P20S2",
+      "text": "There is an approximate balance of favorable and unfavorable evidence as to whether the Veteran has a current diagnosis of PTSD that is related to the confirmed in-service stressors from Cambodia and Vietnam.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P23S1",
+      "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSION",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P27S1",
+      "text": "II.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P27S2",
+      "text": "Service Connection for PTSD",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S1",
+      "text": "Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S2",
+      "text": "38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S3",
+      "text": "In addition, disorders diagnosed after discharge may also still be service connected if all the evidence, including pertinent service records, establishes the disorder was incurred in service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S4",
+      "text": "38 C.F.R. § 3.303(d).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S5",
+      "text": "See Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S6",
+      "text": "As a general matter, service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called \"nexus\" requirement.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P28S7",
+      "text": "Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P29S1",
+      "text": "Service connection for PTSD has unique evidentiary requirements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P29S2",
+      "text": "It generally requires:  (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P29S3",
+      "text": "38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P29S4",
+      "text": "See also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S1",
+      "text": "Effective August 4, 2014, VA amended the portion of its Schedule for Rating Disabilities dealing with mental disorders and its adjudication regulations that define the term \"psychosis\" to remove outdated references to the DSM-IV and replace them with references to the recently updated Diagnostic and Statistical Manual (Fifth Edition) (the DSM-5).",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S2",
+      "text": "See 79 Fed. Reg. 45,094 (August 4, 2014).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S3",
+      "text": "VA adopted as final, without change, this interim final rule and clarified that the provisions of this interim final rule do not apply to claims that have been certified for appeal to the Board or are pending before the Board on or before August 4, 2014.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S4",
+      "text": "See Schedule for Rating Disabilities - Mental Disorders and Definition of Psychosis for Certain VA Purposes, 80 Fed. Reg. 14,308 (March 19, 2015).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S5",
+      "text": "In the present case, the RO certified the Veteran's PTSD appeal to the Board in August 2007, several years prior to August 4, 2014.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S6",
+      "text": "Thus, DSM-IV is still the governing directive.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S7",
+      "text": "That is, the amended 38 C.F.R. § 4.125 conforming to the DSM-5 is not applicable in the present case.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P30S8",
+      "text": "In any event, the Board will still consider any private or VA examiner's discussion of both the DSM-IV and DSM-5 in adjudicating the current Veteran's PTSD claim, in order to provide the Veteran with every benefit of the doubt.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P31S1",
+      "text": "If it is established through military citation or other supportive evidence that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P31S2",
+      "text": "38 C.F.R. § 3.304(f)(2).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P31S3",
+      "text": "See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d); Gaines v. West, 11 Vet. App. 353 (1998) (Board must make a specific finding as to whether the Veteran engaged in combat).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P31S4",
+      "text": "To gain the benefit of a relaxed standard for proof of service incurrence of an injury or disease, 38 U.S.C.A. § 1154(b) requires that the veteran have actually participated in combat with the enemy.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P31S5",
+      "text": "See VAOPGCPREC 12-99.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P32S1",
+      "text": "If VA determines either that the veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P32S2",
+      "text": "Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P32S3",
+      "text": "38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128, 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P33S1",
+      "text": "However, corroboration of every detail of a claimed stressor, including the veteran's personal participation, is not required; rather, a veteran only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P33S2",
+      "text": "See Pentecost v. Principi, 16 Vet. App. 124, 128 (2002) (quoting Suozzi v. Brown, 10 Vet. App. 307 (1997)).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P33S3",
+      "text": "In other words, a veteran's presence with the unit at the time such attacks occurred corroborates his statement that he experienced such attacks personally.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P33S4",
+      "text": "Suozzi v. Brown, 10 Vet. App. 307, 311 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P34S1",
+      "text": "The final requirement of 38 C.F.R. § 3.304(f) is medical evidence of a nexus between the claimed in-service stressor and the current disability.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P34S2",
+      "text": "However, such after-the-fact medical nexus evidence generally cannot also be the sole evidence of the occurrence of the claimed stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P34S3",
+      "text": "Moreau, 9 Vet. App. at 396.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P35S1",
+      "text": "Effective July 13, 2010, if a stressor claimed by a veteran is related to that veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that a veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of that veteran's service, a veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P35S2",
+      "text": "38 C.F.R. § 3.304(f)(3).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P36S1",
+      "text": "\"[F]ear of hostile military or terrorist activity\" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P36S2",
+      "text": "See id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P37S1",
+      "text": "A veteran must have experienced, witnessed, or have been confronted by an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of that veteran or others, and that veteran's response to the event or circumstance must have involved a psychological or psycho-physiological state of fear, helplessness, or horror.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P37S2",
+      "text": "The occurrence of an actual event or circumstance is necessary.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P37S3",
+      "text": "In making this determination, VA must duly consider the places, types, and circumstances of a veteran's service as shown by the service record, the official history of each organization in which such a veteran served, a veteran's medical records, and all pertinent medical and lay evidence.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P37S4",
+      "text": "The new rule is limited to cases in which the claimed stressor is related to a veteran's fear of hostile military or terrorist activity.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P37S5",
+      "text": "See 75 Fed. Reg. 39,843 (Jul. 13, 2010).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S1",
+      "text": "With regard to an actual diagnosis of PTSD, lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S2",
+      "text": "Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S3",
+      "text": "The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S4",
+      "text": "See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S5",
+      "text": "In this regard, the Federal Circuit recently held that \"PTSD is not the type of medical condition that lay evidence . . . is competent and sufficient to identify.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S6",
+      "text": "Young v. McDonald, 766 F.3d 1348, 1352-53 (Fed. Cir. 2014).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S7",
+      "text": "Regardless, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P38S8",
+      "text": "See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P39S1",
+      "text": "That is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P39S2",
+      "text": "Davidson, 581 F.3d at 1316.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P39S3",
+      "text": "See also Jandreau, 492 F.3d at 1376-77.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P40S1",
+      "text": "In determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P40S2",
+      "text": "38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S1",
+      "text": "The Veteran contends that he has PTSD as the result of exposure to noncombat-related stressors during his service with the Marine Corps from February 1973 to September 1975.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S2",
+      "text": "Specifically, he states that while serving as an Amtrac crewman in the Marine Corps in April 1975 during Operations Eagle Pull and Frequent Wind, involving evacuations in Cambodia and Vietnam, he was confronted with several traumatic stressors.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S3",
+      "text": "These stressors included hearing rockets and bombs on the outskirts of the cities, witnessing the mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead Marines.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S4",
+      "text": "He asserts these incidents were extremely traumatic for him.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S5",
+      "text": "He believes his mental problems began during his Vietnam and Cambodia service, and have continued to this day.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S6",
+      "text": "The Veteran alleges PTSD-related symptoms since service to include nightmares, insomnia, flashbacks, re-experiencing, intrusive thoughts, avoidance, hypervigilance, detachment, numbness, paranoia, depression, and anxiety.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S7",
+      "text": "The Veteran does not assert he received any therapy or treatment for his psychiatric problems until 1997, many years after active duty service.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P41S8",
+      "text": "See March 2008 Veteran's statement; February 2012 buddy statement from soldier who served with the Veteran; April 2012 private counselor opinion; December 2016 VA psychological examination.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P42S1",
+      "text": "Upon review of the evidence of record, the Board grants the appeal for service connection for PTSD with depression.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S1",
+      "text": "Initially, the Veteran's service personnel records (SPRs) and Reports of Separation from the Armed Forces (DD Form 214s) do not reflect receipt of medals, badges, or decorations that specifically denote combat with the enemy.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S2",
+      "text": "His military occupational specialty (MOS) was an Amtrac crewman, which is not indicative of combat.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S3",
+      "text": "Moreover, his SPRs indicate he did not participate in any combat campaigns and received no wounds due to combat.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S4",
+      "text": "Thus, the combat provisions are not for application.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S5",
+      "text": "38 C.F.R. § 3.304(f)(2).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P43S6",
+      "text": "See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d) (pertaining to combat Veterans).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P44S1",
+      "text": "With respect to the non-combat stressors of hearing rockets and bombs on the outskirts of the cities, witnessing the mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead marines, that occurred at that time off the evacuations of Cambodia and Vietnam in April 1975, there is credible supporting evidence that exposure to these stressors occurred.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P44S2",
+      "text": "38 C.F.R. § 3.304(f); Cohen, 10 Vet. App. at 147; Moreau, 9 Vet. App. at 395.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S1",
+      "text": "In particular, the Veteran has submitted a February 2012 buddy statement from a soldier who served with the Veteran in Cambodia and Vietnam, verifying elements of exposure to the above stressors.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S2",
+      "text": "In addition, the Veteran's SPRs and DD Form 215s indicate that he took part in operations Eagle Pull and Frequent Wind.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S3",
+      "text": "Both of these operations involved recovery of embassy and civilians from Phnom Pen, Cambodia and Saigon, South Vietnam in April 1975.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S4",
+      "text": "The Veteran's military occupational specialty (MOS) in the Marine Corps as an Amtrac (amphibious tractor) crewman, also provides support for the fact that he was involved in the evacuations.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S5",
+      "text": "The SPRs verify the Veteran was in a combat zone during coastal operations, patrols, etc., while evacuations were occurring in April 1975.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S6",
+      "text": "The Veteran's SPRs confirm the Veteran received the Armed Forces Expeditionary Medal with one bronze star, and the Humanitarian Service Medal with bronze numeral \"2\" for his service in \"Operation Eagle Pull and Operation Frequent Wind 1975.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S7",
+      "text": "The Veteran also submitted various internet articles, publications, and eye-witness accounts of the situation in Saigon during the April 1975 evacuations, which described a scene of \"confusion, panic, [and] anxiety\" with \"shells and rockets . . . pounding the outskirts\" of the city.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S8",
+      "text": "Thus, this evidence of record shows it was highly plausible the Veteran experienced exposure to these stressors.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S9",
+      "text": "Moreover, under the amended PTSD regulation, the December 2016 VA psychological examiner further assessed that the Veteran's stressors were related to his \"fear of hostile military or terrorist activity.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S10",
+      "text": "38 C.F.R. § 3.304(f)(3).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S11",
+      "text": "Again, a stressor need not be corroborated in every detail, including the Veteran's personal participation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S12",
+      "text": "Pentecost, 16 Vet. App. at 128.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S13",
+      "text": "In summary, there is sufficient credible evidence to verify the occurrence of the Veteran's noncombat- related stressors in April 1975.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P45S14",
+      "text": "38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P46S1",
+      "text": "The Veteran's service treatment records (STRs) dated from 1973 to 1975, and in 1985, as well as his National Guard / Reserve records dated from 1975 to 1995, do not reveal any treatment or diagnosis of PTSD or any other acquired psychiatric disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P46S2",
+      "text": "The Veteran denied any depressive symptomatology at various STR and National Guard Reports of Medical History throughout the years up to 1995.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P46S3",
+      "text": "In any event, as to PTSD, an in-service diagnosis is not required.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P46S4",
+      "text": "See 38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P47S1",
+      "text": "Post-service, it appears the Veteran was first treated for PTSD and depression in 1997, according to VA treatment records.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P47S2",
+      "text": "From 1997 to 2016, VA medical personnel in VA treatment records and VA examinations have rendered various diagnoses for the Veteran, to include the following:  depression, mental disorder NOS, mood disorder, adjustment disorder, personality change, schizotypal personality disorder, Asperger's, rule out (R/O) bipolar disorder, R/O psychosis NOS, R/O obsessive compulsive disorder (OCD), R/O anxiety NOS, and R/O mood disorder secondary to traumatic brain injury.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P48S1",
+      "text": "Post-service, with respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P48S2",
+      "text": "38 U.S.C.A. § 1110; 38 C.F.R. § 3.303; Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P48S3",
+      "text": "In particular, aside from corroboration of an in-service stressor (this element is already met here), current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P48S4",
+      "text": "38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P48S5",
+      "text": "See also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P49S1",
+      "text": "With regard to a diagnosis of PTSD based on his already confirmed in-service noncombat-related stressors from Operation Eagle Pull and Operation Frequent Wind in April 1975, the record is mixed and reflects several favorable and unfavorable medical opinions and treatment records.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P49S2",
+      "text": "However, upon review of this evidence, the Board concludes that the evidence of record is equally balanced in finding that the Veteran has a PTSD diagnosis due to the verified in-service stressors, in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV).",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P50S1",
+      "text": "The Board must determine, as a question of fact, both the weight and credibility of the evidence.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P50S2",
+      "text": "Equal weight is not accorded to each piece of evidence contained in a record; every item does not have the same probative value.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P50S3",
+      "text": "The Board must account for the evidence which it finds to be persuasive or unpersuasive, analyze the credibility and probative value of all material evidence submitted by and on behalf of a claimant, and provide the reasons for its rejection of any such evidence.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P50S4",
+      "text": "See Struck v. Brown, 9 Vet. App. 145, 152 (1996); Caluza v. Brown, 7 Vet. App. 498, 506 (1995); Gabrielson v. Brown, 7 Vet. App. 36, 40 (1994); Abernathy v. Principi, 3 Vet. App. 461, 465 (1992); Simon v. Derwinski, 2 Vet. App. 621, 622 (1992); Hatlestad v. Derwinski, 1 Vet. App. 164, 169 (1991).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P51S1",
+      "text": "It is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons or bases.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P51S2",
+      "text": "See Owens v. Brown, 7 Vet. App. 429, 433 (1995).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S1",
+      "text": "When VA undertakes to provide a medical examination or opinion, it must be adequate.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S2",
+      "text": "See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (\"[O]nce the Secretary undertakes the effort to provide an examination when developing a service-connection claim ..., he must provide an adequate one....\").",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S3",
+      "text": "An examination or opinion is adequate if it is \"thorough and contemporaneous,\" considers the Veteran's prior medical examinations and treatment, and \"describes the disability ... in sufficient detail so that the Board's 'evaluation of the claimed disability will be a fully informed one.'\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S4",
+      "text": "Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007) (quoting Ardison v. Brown, 6 Vet. App. 405, 407 (1994)); Green v. Derwinski, 1 Vet. App. 121, 124 (1991).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S5",
+      "text": "A medical examination report or opinion must also \"contain not only clear conclusions with supporting data but also a reasoned medical explanation connecting the two.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S6",
+      "text": "Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S7",
+      "text": "The Board errs by relying on an inadequate opinion.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P52S8",
+      "text": "Ardison v. Brown, 6 Vet. App. 405, 407 (1994).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P53S1",
+      "text": "With regard to favorable evidence, VA mental health practitioners in treatment records dated from 1997 to 2016 have at various times diagnosed the Veteran with PTSD in the context of the above in-service stressors.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P53S2",
+      "text": "See e.g., June 2005 VA Agent Orange History and Physical; 2004 VA Vet Center records; April 1997 VA treatment records.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P53S3",
+      "text": "The Veteran underwent VA PTSD screens in March 2007 and November 2009, and these PTSD screens were positive.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P53S4",
+      "text": "The positive PTSD screens were based on the Veteran's reports of nightmares based on his traumatic military experiences, avoiding situations that remind him of his stressors, being on guard, easily started, numbness, and detachment from others, activities, and surroundings.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S1",
+      "text": "With regard to favorable evidence, and most importantly, in April 2012, Ms. A.G., P.C.C., a private counselor, submitted a comprehensive medical opinion concluding that the Veteran has PTSD in accordance with the DSM-IV.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S2",
+      "text": "The PTSD diagnosis was deemed secondary to the Veteran's military service from Operations Eagle Pull and Frequent Wind during the Vietnam and Cambodia evacuations - from the chaos of evacuation and exposure to dead bodies.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S3",
+      "text": "He also has depressive symptoms secondary to PTSD and his military service.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S4",
+      "text": "The private counselor assessed that the Veteran has credibly described PTSD-related symptoms such as avoidance, re-experiencing, flashbacks, nightmares, depression, hyperarousal, insomnia, and anxiety in VA treatment records.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S5",
+      "text": "The private counselor did not perform a psychological examination on the Veteran when offering this opinion.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P54S6",
+      "text": "However, she did review extensive records in the Veteran's claims file.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S1",
+      "text": "Pursuant to 38 C.F.R. §4.125(a), if the diagnosis of a mental disorder does not conform to DSM-IV or is not supported by the findings on the examination report, the rating agency shall return the report to the examiner to substantiate the diagnosis.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S2",
+      "text": "Mental health professionals are experts and are presumed to know the DSM requirements applicable to their practice and to have taken them into account in providing a PTSD diagnosis.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S3",
+      "text": "As such, the Court has held that a PTSD diagnosis provided by a mental-health professional must be presumed to have been made in accordance with the applicable DSM-IV criteria as to both the adequacy of the symptomatology and the sufficiency of the stressor, unless there is evidence to the contrary.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S4",
+      "text": "Cohen v. Brown, 10 Vet. App. 128, 140 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S5",
+      "text": "The DSM-IV cannot be used \"as a basis for rejecting the Veteran's favorable medical evidence as to the sufficiency of a stressor or the adequacy of the Veteran's symptomatology.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S6",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S7",
+      "text": "As such, in order to make a finding that the Veteran in this case did not have a valid PTSD diagnosis, the Board must clearly articulate its reasons for finding that the PTSD diagnosis was not made in accordance with the DSM-IV requirements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S8",
+      "text": "If the Board cannot support a conclusion that the diagnosis was not made in accordance with DSM-IV requirements, it must accept the diagnosis as valid.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P55S9",
+      "text": "In the present case, the Board will therefore accept the above PTSD diagnoses as valid and in accordance with the DSM-IV.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S1",
+      "text": "Conversely, with regard to the unfavorable evidence, it was a December 2016 VA neuropsychological examiner's medical opinion that the Veteran currently does not meet the full DSM-5 criteria for PTSD.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S2",
+      "text": "The Veteran's various in-service stressors during exposure to chaotic evacuations in Operations Eagle Pull and Frequent Wind in April 1975 were acknowledged.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S3",
+      "text": "The VA examiner added that these stressors were adequate and were related to the Veteran's fear of hostile military or terrorist activity.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S4",
+      "text": "However, even though the Veteran reported cardinal symptoms of PTSD and he met most of the criteria for PTSD under the DSM-5 (he met criteria A, B, D, E, F, G, and H), he nevertheless did not meet criterion \"C.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S5",
+      "text": "That is, he failed to exhibit persistent avoidance of stimuli associated with the traumatic events.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S6",
+      "text": "The VA examiner reasoned that Veteran does not report consistent DSM-5 Criterion C avoidance behaviors, because he continues to seek out DAV and other veterans for support and assistance.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S7",
+      "text": "The Veteran also reported attending war movies such as \"Saving Pvt. Ryan\".",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S8",
+      "text": "The Veteran was noted to be a very poor historian, responding to many clinical questions with rambling, circumstantial, and off-subject responses.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S9",
+      "text": "The Veteran has had marked difficulty providing specific index incidents for his reported PTSD symptoms.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S10",
+      "text": "The Veteran was often noted to deflect other questions and return back to his report of cardinal PTSD symptoms.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S11",
+      "text": "The Veteran's cognition appeared very loosely associated and occasionally difficult to understand in context.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S12",
+      "text": "The Veteran's responses were often vague and nonspecific.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P56S13",
+      "text": "Instead, the VA examiner diagnosed the Veteran with schizotypal personality disorder, which preceded his military service.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S1",
+      "text": "But notably, the December 2016 VA examiner failed to discuss whether the Veteran met a PTSD diagnosis in the context of the applicable DSM-IV.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S2",
+      "text": "The VA examiner only addressed the criteria of the DSM-5.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S3",
+      "text": "This is significant in the instant case because \"effortful avoidance\" is a required symptom for a PTSD diagnosis in Criterion C of the DSM-5.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S4",
+      "text": "In contrast, the DSM-IV also included \"effortful avoidance\" in Criterion C, but it comprised of only two of the requisite seven symptoms, of which only three were required.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S5",
+      "text": "In other words, the DSM-IV did not dictate that \"effortful avoidance\" be present in a veteran in order to meet the criteria for PTSD.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P57S6",
+      "text": "The DSM-IV was more flexible on this issue, as opposed to the DSM-5.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P58S1",
+      "text": "As currently codified, VA law defines the \"benefit of the doubt\" doctrine as:",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P59S1",
+      "text": "When, after consideration of all evidence and material of record in this case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination in the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P60S1",
+      "text": "38 U.S.C.A. § 5107(b).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P60S2",
+      "text": "See also 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S1",
+      "text": "Based on the foregoing, the Board finds that there is an approximate balance of positive and negative evidence on the PTSD issue.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S2",
+      "text": "Certain elements of both the positive and negative medical opinions in this case are probative.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S3",
+      "text": "Both sets of evidence have respective strengths and weaknesses.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S4",
+      "text": "In such situations, the benefit of the doubt is resolved in the Veteran's favor.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S5",
+      "text": "Given the law and the medical evidence of record, the Board is compelled to grant the Veteran the benefit of the doubt and allow service connection for PTSD.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P61S6",
+      "text": "See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P62S1",
+      "text": "In making this determination, the Board is cognizant that VA may not order additional development for the sole purpose of obtaining evidence unfavorable to a claimant.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P62S2",
+      "text": "Mariano v. Principi, 17 Vet. App. 305, 312 (2003).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S1",
+      "text": "In addition, the Board has also considered whether the Veteran's PTSD claim raised the issue of whether service connection is warranted for any other acquired psychiatric disorder in addition to PTSD.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S2",
+      "text": "See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (holding that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S3",
+      "text": "In this regard, the record also shows the Veteran has depression as secondary to his service-connected PTSD.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S4",
+      "text": "See 38 C.F.R. § 3.310(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S5",
+      "text": "Specifically, in April 2012, Ms. A.G., P.C.C., a private counselor, assessed that the Veteran's depressive symptoms he has consistently displayed are a component of his current PTSD diagnosis.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P63S6",
+      "text": "In addition, VA mental health treatment records dated from 1997 to 2016 frequently discuss the Veteran's depressive symptoms, sometimes interwoven with a PTSD diagnosis.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P64S1",
+      "text": "The Board also notes that post-service, the Veteran has been diagnosed with mental disorder NOS, mood disorder, adjustment disorder, personality change, schizotypal personality disorder, Asperger's, rule out (R/O) bipolar disorder, R/O psychosis NOS, R/O obsessive compulsive disorder (OCD), R/O anxiety NOS, and R/O mood disorder secondary to traumatic brain injury.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P64S2",
+      "text": "However, there is no evidence or allegation of symptoms of these disorders during service, and no probative evidence linking these diagnoses to the Veteran's military service.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S1",
+      "text": "With regard to the Veteran's personality disorder diagnoses, personality disorders are not \"diseases\" or \"injuries\" within the meaning of applicable legislation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S2",
+      "text": "38 C.F.R. §§ 3.303(c), 4.9, 4.127.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S3",
+      "text": "Defects are defined as \"structural or inherent abnormalities or conditions which are more or less stationary in nature.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S4",
+      "text": "VAOPGCPREC 82-90.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S5",
+      "text": "It is therefore unnecessary to examine causality, or consider VA's presumption of soundness under 38 U.S.C.A. § 1111, because personality disorders cannot legally be service-related.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S6",
+      "text": "See Morris v. Shinseki, 678 F.3d 1346, 1354 (2012).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P65S7",
+      "text": "Thus, service connection is not warranted for the Veteran's personality disorders.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P66S1",
+      "text": "In any event, the present decision is considered a full grant of the benefits sought by the Veteran for his acquired psychiatric disorder claim to include PTSD.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P66S2",
+      "text": "In granting service connection for PTSD with depression, the RO should assign a disability rating or ratings that encompass the symptoms of these disorders.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1709261P66S3",
+      "text": "See Amberman v. Shinseki, 570 F.3d 1377, 1381 (2009) (two defined diagnoses constitute the same disability for purposes of 38 C.F.R. § 4.14 if they have overlapping symptomatology, but bipolar disorder and PTSD could have different symptoms and it could therefore be improper in some circumstances for VA to treat these separately diagnosed conditions as producing only the same disability).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    }
+  ],
+  "ruleTree": {
+    "name": "The veteran has a disability that is service-connected.",
+    "truthValue": "",
+    "children": [{
+        "name": "The veteran has a present disability.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    },
+    {
+        "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": ""
+                }
+            },
+            {
+                "name": "The injury or disease did not preexist entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                        "inferenceRelation": "REBUT",
+                        "truthValue": ""
+                    }            
+                }
+            }]        
+            },
+            {
+            "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [
+                {
+                "name": "The injury or disease preexisted entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": ""
+                },
+                {
+                "name": "There was an aggravation during service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The presumption of aggravation has been satisfied.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                            "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                    }
+                }
+            }]        
+            },
+            {
+            "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+            "siblingRelation": "",
+            "siblingCount": 0,
+            "inferenceRelation": "REBUT",
+            "truthValue": ""
+        }]
+    },
+    {
+        "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    }]
+},
+  "text": "Citation Nr: 1709261\t\r\nDecision Date: 03/24/17 Archive Date: 04/07/17\r\n\r\nDOCKET NO. 07-00 021A\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Roanoke, Virginia\r\n\r\n\r\nTHE ISSUE\r\n\r\nEntitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).\r\n\r\n\r\nREPRESENTATION\r\n\r\nVeteran represented by:\tEric A. Gang, Attorney at Law\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nP.S. Rubin, Counsel\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran had active duty service in the U.S. Marine Corps from February 1973 to September 1975 and in the U.S. Air Force from February 1985 to October 1985. He also served in the Air Force Reserve, Marine Corps Reserve, and Army and Air National Guards of various states from 1975 to 1995. \r\n\r\nThis matter comes to the Board of Veterans' Appeals (Board) on appeal from a June 2005 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in San Diego, California. Jurisdiction of case has since been transferred to the RO in Roanoke, Virginia. That office forwarded his appeal to the Board. \r\n\r\nA review of the Virtual VA paperless claims processing system and the Veterans Benefits Management System (VBMS) reveals additional service treatment records, service personnel records, attorney letters, Veterans Service Organizations (VSO) briefs, and VA treatment records that have been reviewed by the Board. \r\n\r\nIn an earlier December 2010 Board decision, the Board denied the Veteran's claim for service connection for PTSD. The Veteran appealed the Board's December 2010 decision to the United States Court of Appeals for Veterans Claims (Court). \r\n\r\nIn a July 2011 Order, the Court vacated and remanded the Board's decision as to issue of service connection for PTSD, for proceedings consistent with a Joint Motion for Remand (Joint Motion). \r\n\r\nUpon return from the Court, in May 2012 and May 2016, the Board remanded the PTSD issue for further development. The case has been returned to the Board for further appellate consideration. \r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. There is credible supporting evidence of the Veteran's in-service exposure to noncombat-related stressors in the Marine Corps in April 1975 during Operations Eagle Pull and Frequent Wind, involving evacuations in Cambodia and Vietnam. These stressors included rockets and bombs heard on the outskirts of the cities, mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead marines.\r\n\r\n2. There is an approximate balance of favorable and unfavorable evidence as to whether the Veteran has a current diagnosis of PTSD that is related to the confirmed in-service stressors from Cambodia and Vietnam.\r\n\r\n\r\nCONCLUSION OF LAW\r\n\r\nResolving all reasonable doubt in his favor, the Veteran has PTSD with depression that was incurred in active military service. 38 U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304(f), 3.310, 4.125(a) (2016).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSION\r\n\r\nI. VA's Duty to Notify and Assist\r\n\r\nThe Veterans Claims Assistance Act of 2000 (VCAA), in part, describes VA's duties to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126 (West 2014); Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, Pub. L. No. 112-154, §§ 504, 505, 126 Stat. 1165, 1191-93; 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2015). The VCAA applies to the instant service connection claim for an acquired psychiatric disorder, to include PTSD. However, the Veteran was provided adequate VCAA notice for the appeal in May 2004, August 2004, December 2004, April 2005, June 2005, March 2006, and April 2006. Also, the May 2004 letter included a copy of a VA form with specific instructions for identifying PTSD stressors. \r\n\r\nMoreover, if any defect in VCAA notice or assistance is found, such defect is not prejudicial to the Veteran, given the completely favorable disposition of the PTSD and depression appeal. Bernard v. Brown, 4 Vet. App. 384, 392-94 (1993). \r\n\r\nII. Service Connection for PTSD\r\n\r\nService connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a). In addition, disorders diagnosed after discharge may also still be service connected if all the evidence, including pertinent service records, establishes the disorder was incurred in service. 38 C.F.R. § 3.303(d). See Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994). As a general matter, service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called \"nexus\" requirement. Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). \r\n\r\nService connection for PTSD has unique evidentiary requirements. It generally requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). \r\n\r\nEffective August 4, 2014, VA amended the portion of its Schedule for Rating Disabilities dealing with mental disorders and its adjudication regulations that define the term \"psychosis\" to remove outdated references to the DSM-IV and replace them with references to the recently updated Diagnostic and Statistical Manual (Fifth Edition) (the DSM-5). See 79 Fed. Reg. 45,094 (August 4, 2014). VA adopted as final, without change, this interim final rule and clarified that the provisions of this interim final rule do not apply to claims that have been certified for appeal to the Board or are pending before the Board on or before August 4, 2014. See Schedule for Rating Disabilities - Mental Disorders and Definition of Psychosis for Certain VA Purposes, 80 Fed. Reg. 14,308 (March 19, 2015). In the present case, the RO certified the Veteran's PTSD appeal to the Board in August 2007, several years prior to August 4, 2014. Thus, DSM-IV is still the governing directive. That is, the amended 38 C.F.R. § 4.125 conforming to the DSM-5 is not applicable in the present case. In any event, the Board will still consider any private or VA examiner's discussion of both the DSM-IV and DSM-5 in adjudicating the current Veteran's PTSD claim, in order to provide the Veteran with every benefit of the doubt. \r\n\r\nIf it is established through military citation or other supportive evidence that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 38 C.F.R. § 3.304(f)(2). See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d); Gaines v. West, 11 Vet. App. 353 (1998) (Board must make a specific finding as to whether the Veteran engaged in combat). To gain the benefit of a relaxed standard for proof of service incurrence of an injury or disease, 38 U.S.C.A. § 1154(b) requires that the veteran have actually participated in combat with the enemy. See VAOPGCPREC 12-99. \r\n\r\nIf VA determines either that the veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor. Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements. 38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128, 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996). \r\n\r\nHowever, corroboration of every detail of a claimed stressor, including the veteran's personal participation, is not required; rather, a veteran only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure. See Pentecost v. Principi, 16 Vet. App. 124, 128 (2002) (quoting Suozzi v. Brown, 10 Vet. App. 307 (1997)). In other words, a veteran's presence with the unit at the time such attacks occurred corroborates his statement that he experienced such attacks personally. Suozzi v. Brown, 10 Vet. App. 307, 311 (1997). \r\n\r\nThe final requirement of 38 C.F.R. § 3.304(f) is medical evidence of a nexus between the claimed in-service stressor and the current disability. However, such after-the-fact medical nexus evidence generally cannot also be the sole evidence of the occurrence of the claimed stressor. Moreau, 9 Vet. App. at 396.\r\n\r\nEffective July 13, 2010, if a stressor claimed by a veteran is related to that veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that a veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of that veteran's service, a veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 38 C.F.R. § 3.304(f)(3).\r\n\r\n\"[F]ear of hostile military or terrorist activity\" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the Veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror. See id. \r\n\r\nA veteran must have experienced, witnessed, or have been confronted by an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of that veteran or others, and that veteran's response to the event or circumstance must have involved a psychological or psycho-physiological state of fear, helplessness, or horror. The occurrence of an actual event or circumstance is necessary. In making this determination, VA must duly consider the places, types, and circumstances of a veteran's service as shown by the service record, the official history of each organization in which such a veteran served, a veteran's medical records, and all pertinent medical and lay evidence. The new rule is limited to cases in which the claimed stressor is related to a veteran's fear of hostile military or terrorist activity. See 75 Fed. Reg. 39,843 (Jul. 13, 2010).\r\n\r\nWith regard to an actual diagnosis of PTSD, lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009). The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology. See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007). In this regard, the Federal Circuit recently held that \"PTSD is not the type of medical condition that lay evidence . . . is competent and sufficient to identify.\" Young v. McDonald, 766 F.3d 1348, 1352-53 (Fed. Cir. 2014). Regardless, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service. See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms). \r\n\r\nThat is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson, 581 F.3d at 1316. See also Jandreau, 492 F.3d at 1376-77. \r\n\r\nIn determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine. 38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991).\r\n\r\nThe Veteran contends that he has PTSD as the result of exposure to noncombat-related stressors during his service with the Marine Corps from February 1973 to September 1975. Specifically, he states that while serving as an Amtrac crewman in the Marine Corps in April 1975 during Operations Eagle Pull and Frequent Wind, involving evacuations in Cambodia and Vietnam, he was confronted with several traumatic stressors. These stressors included hearing rockets and bombs on the outskirts of the cities, witnessing the mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead Marines. He asserts these incidents were extremely traumatic for him. He believes his mental problems began during his Vietnam and Cambodia service, and have continued to this day. The Veteran alleges PTSD-related symptoms since service to include nightmares, insomnia, flashbacks, re-experiencing, intrusive thoughts, avoidance, hypervigilance, detachment, numbness, paranoia, depression, and anxiety. The Veteran does not assert he received any therapy or treatment for his psychiatric problems until 1997, many years after active duty service. See March 2008 Veteran's statement; February 2012 buddy statement from soldier who served with the Veteran; April 2012 private counselor opinion; December 2016 VA psychological examination. \r\n\r\nUpon review of the evidence of record, the Board grants the appeal for service connection for PTSD with depression. \r\n\r\nInitially, the Veteran's service personnel records (SPRs) and Reports of Separation from the Armed Forces (DD Form 214s) do not reflect receipt of medals, badges, or decorations that specifically denote combat with the enemy. His military occupational specialty (MOS) was an Amtrac crewman, which is not indicative of combat. Moreover, his SPRs indicate he did not participate in any combat campaigns and received no wounds due to combat. Thus, the combat provisions are not for application. 38 C.F.R. § 3.304(f)(2). See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d) (pertaining to combat Veterans). \r\n\r\nWith respect to the non-combat stressors of hearing rockets and bombs on the outskirts of the cities, witnessing the mass evacuations of embassy and civilian personnel with panic and unsanitary conditions, and witnessing the bodies of 30 dead marines, that occurred at that time off the evacuations of Cambodia and Vietnam in April 1975, there is credible supporting evidence that exposure to these stressors occurred. 38 C.F.R. § 3.304(f); Cohen, 10 Vet. App. at 147; Moreau, 9 Vet. App. at 395. \r\n\r\nIn particular, the Veteran has submitted a February 2012 buddy statement from a soldier who served with the Veteran in Cambodia and Vietnam, verifying elements of exposure to the above stressors. In addition, the Veteran's SPRs and DD Form 215s indicate that he took part in operations Eagle Pull and Frequent Wind. Both of these operations involved recovery of embassy and civilians from Phnom Pen, Cambodia and Saigon, South Vietnam in April 1975. The Veteran's military occupational specialty (MOS) in the Marine Corps as an Amtrac (amphibious tractor) crewman, also provides support for the fact that he was involved in the evacuations. The SPRs verify the Veteran was in a combat zone during coastal operations, patrols, etc., while evacuations were occurring in April 1975. The Veteran's SPRs confirm the Veteran received the Armed Forces Expeditionary Medal with one bronze star, and the Humanitarian Service Medal with bronze numeral \"2\" for his service in \"Operation Eagle Pull and Operation Frequent Wind 1975.\" The Veteran also submitted various internet articles, publications, and eye-witness accounts of the situation in Saigon during the April 1975 evacuations, which described a scene of \"confusion, panic, [and] anxiety\" with \"shells and rockets . . . pounding the outskirts\" of the city. Thus, this evidence of record shows it was highly plausible the Veteran experienced exposure to these stressors. Moreover, under the amended PTSD regulation, the December 2016 VA psychological examiner further assessed that the Veteran's stressors were related to his \"fear of hostile military or terrorist activity.\" 38 C.F.R. § 3.304(f)(3). Again, a stressor need not be corroborated in every detail, including the Veteran's personal participation. Pentecost, 16 Vet. App. at 128. In summary, there is sufficient credible evidence to verify the occurrence of the Veteran's noncombat- related stressors in April 1975. 38 C.F.R. § 3.304(f). \r\n\r\nThe Veteran's service treatment records (STRs) dated from 1973 to 1975, and in 1985, as well as his National Guard / Reserve records dated from 1975 to 1995, do not reveal any treatment or diagnosis of PTSD or any other acquired psychiatric disorder. The Veteran denied any depressive symptomatology at various STR and National Guard Reports of Medical History throughout the years up to 1995. In any event, as to PTSD, an in-service diagnosis is not required. See 38 C.F.R. § 3.304(f). \r\n\r\nPost-service, it appears the Veteran was first treated for PTSD and depression in 1997, according to VA treatment records. From 1997 to 2016, VA medical personnel in VA treatment records and VA examinations have rendered various diagnoses for the Veteran, to include the following: depression, mental disorder NOS, mood disorder, adjustment disorder, personality change, schizotypal personality disorder, Asperger's, rule out (R/O) bipolar disorder, R/O psychosis NOS, R/O obsessive compulsive disorder (OCD), R/O anxiety NOS, and R/O mood disorder secondary to traumatic brain injury. \r\n\r\nPost-service, with respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability. 38 U.S.C.A. § 1110; 38 C.F.R. § 3.303; Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). In particular, aside from corroboration of an in-service stressor (this element is already met here), current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). \r\n\r\nWith regard to a diagnosis of PTSD based on his already confirmed in-service noncombat-related stressors from Operation Eagle Pull and Operation Frequent Wind in April 1975, the record is mixed and reflects several favorable and unfavorable medical opinions and treatment records. However, upon review of this evidence, the Board concludes that the evidence of record is equally balanced in finding that the Veteran has a PTSD diagnosis due to the verified in-service stressors, in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV). \r\n\r\nThe Board must determine, as a question of fact, both the weight and credibility of the evidence. Equal weight is not accorded to each piece of evidence contained in a record; every item does not have the same probative value. The Board must account for the evidence which it finds to be persuasive or unpersuasive, analyze the credibility and probative value of all material evidence submitted by and on behalf of a claimant, and provide the reasons for its rejection of any such evidence. See Struck v. Brown, 9 Vet. App. 145, 152 (1996); Caluza v. Brown, 7 Vet. App. 498, 506 (1995); Gabrielson v. Brown, 7 Vet. App. 36, 40 (1994); Abernathy v. Principi, 3 Vet. App. 461, 465 (1992); Simon v. Derwinski, 2 Vet. App. 621, 622 (1992); Hatlestad v. Derwinski, 1 Vet. App. 164, 169 (1991). \r\n\r\nIt is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons or bases. See Owens v. Brown, 7 Vet. App. 429, 433 (1995).\r\n\r\nWhen VA undertakes to provide a medical examination or opinion, it must be adequate. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007) (\"[O]nce the Secretary undertakes the effort to provide an examination when developing a service-connection claim . . ., he must provide an adequate one. . . .\"). An examination or opinion is adequate if it is \"thorough and contemporaneous,\" considers the Veteran's prior medical examinations and treatment, and \"describes the disability . . . in sufficient detail so that the Board's 'evaluation of the claimed disability will be a fully informed one.'\" Stefl v. Nicholson, 21 Vet. App. 120, 123 (2007) (quoting Ardison v. Brown, 6 Vet. App. 405, 407 (1994)); Green v. Derwinski, 1 Vet. App. 121, 124 (1991). A medical examination report or opinion must also \"contain not only clear conclusions with supporting data but also a reasoned medical explanation connecting the two.\" Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 301 (2008). The Board errs by relying on an inadequate opinion. Ardison v. Brown, 6 Vet. App. 405, 407 (1994).\r\n\r\nWith regard to favorable evidence, VA mental health practitioners in treatment records dated from 1997 to 2016 have at various times diagnosed the Veteran with PTSD in the context of the above in-service stressors. See e.g., June 2005 VA Agent Orange History and Physical; 2004 VA Vet Center records; April 1997 VA treatment records. The Veteran underwent VA PTSD screens in March 2007 and November 2009, and these PTSD screens were positive. The positive PTSD screens were based on the Veteran's reports of nightmares based on his traumatic military experiences, avoiding situations that remind him of his stressors, being on guard, easily started, numbness, and detachment from others, activities, and surroundings. \r\n\r\nWith regard to favorable evidence, and most importantly, in April 2012, Ms. A.G., P.C.C., a private counselor, submitted a comprehensive medical opinion concluding that the Veteran has PTSD in accordance with the DSM-IV. The PTSD diagnosis was deemed secondary to the Veteran's military service from Operations Eagle Pull and Frequent Wind during the Vietnam and Cambodia evacuations - from the chaos of evacuation and exposure to dead bodies. He also has depressive symptoms secondary to PTSD and his military service. The private counselor assessed that the Veteran has credibly described PTSD-related symptoms such as avoidance, re-experiencing, flashbacks, nightmares, depression, hyperarousal, insomnia, and anxiety in VA treatment records. The private counselor did not perform a psychological examination on the Veteran when offering this opinion. However, she did review extensive records in the Veteran's claims file. \r\n\r\nPursuant to 38 C.F.R. §4.125(a), if the diagnosis of a mental disorder does not conform to DSM-IV or is not supported by the findings on the examination report, the rating agency shall return the report to the examiner to substantiate the diagnosis. Mental health professionals are experts and are presumed to know the DSM requirements applicable to their practice and to have taken them into account in providing a PTSD diagnosis. As such, the Court has held that a PTSD diagnosis provided by a mental-health professional must be presumed to have been made in accordance with the applicable DSM-IV criteria as to both the adequacy of the symptomatology and the sufficiency of the stressor, unless there is evidence to the contrary. Cohen v. Brown, 10 Vet. App. 128, 140 (1997). The DSM-IV cannot be used \"as a basis for rejecting the Veteran's favorable medical evidence as to the sufficiency of a stressor or the adequacy of the Veteran's symptomatology.\" Id. As such, in order to make a finding that the Veteran in this case did not have a valid PTSD diagnosis, the Board must clearly articulate its reasons for finding that the PTSD diagnosis was not made in accordance with the DSM-IV requirements. If the Board cannot support a conclusion that the diagnosis was not made in accordance with DSM-IV requirements, it must accept the diagnosis as valid. In the present case, the Board will therefore accept the above PTSD diagnoses as valid and in accordance with the DSM-IV. \r\n\r\nConversely, with regard to the unfavorable evidence, it was a December 2016 VA neuropsychological examiner's medical opinion that the Veteran currently does not meet the full DSM-5 criteria for PTSD. The Veteran's various in-service stressors during exposure to chaotic evacuations in Operations Eagle Pull and Frequent Wind in April 1975 were acknowledged. The VA examiner added that these stressors were adequate and were related to the Veteran's fear of hostile military or terrorist activity. However, even though the Veteran reported cardinal symptoms of PTSD and he met most of the criteria for PTSD under the DSM-5 (he met criteria A, B, D, E, F, G, and H), he nevertheless did not meet criterion \"C.\" That is, he failed to exhibit persistent avoidance of stimuli associated with the traumatic events. The VA examiner reasoned that Veteran does not report consistent DSM-5 Criterion C avoidance behaviors, because he continues to seek out DAV and other veterans for support and assistance. The Veteran also reported attending war movies such as \"Saving Pvt. Ryan\". The Veteran was noted to be a very poor historian, responding to many clinical questions with rambling, circumstantial, and off-subject responses. The Veteran has had marked difficulty providing specific index incidents for his reported PTSD symptoms. The Veteran was often noted to deflect other questions and return back to his report of cardinal PTSD symptoms. The Veteran's cognition appeared very loosely associated and occasionally difficult to understand in context. The Veteran's responses were often vague and nonspecific. Instead, the VA examiner diagnosed the Veteran with schizotypal personality disorder, which preceded his military service.\r\n\r\nBut notably, the December 2016 VA examiner failed to discuss whether the Veteran met a PTSD diagnosis in the context of the applicable DSM-IV. The VA examiner only addressed the criteria of the DSM-5. This is significant in the instant case because \"effortful avoidance\" is a required symptom for a PTSD diagnosis in Criterion C of the DSM-5. In contrast, the DSM-IV also included \"effortful avoidance\" in Criterion C, but it comprised of only two of the requisite seven symptoms, of which only three were required. In other words, the DSM-IV did not dictate that \"effortful avoidance\" be present in a veteran in order to meet the criteria for PTSD. The DSM-IV was more flexible on this issue, as opposed to the DSM-5. \r\n\r\nAs currently codified, VA law defines the \"benefit of the doubt\" doctrine as:\r\n\r\n\tWhen, after consideration of all evidence and material of record in this case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination in the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.\r\n\r\n38 U.S.C.A. § 5107(b). See also 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990). \r\n\r\nBased on the foregoing, the Board finds that there is an approximate balance of positive and negative evidence on the PTSD issue. Certain elements of both the positive and negative medical opinions in this case are probative. Both sets of evidence have respective strengths and weaknesses. In such situations, the benefit of the doubt is resolved in the Veteran's favor. Given the law and the medical evidence of record, the Board is compelled to grant the Veteran the benefit of the doubt and allow service connection for PTSD. See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.\r\n\r\nIn making this determination, the Board is cognizant that VA may not order additional development for the sole purpose of obtaining evidence unfavorable to a claimant. Mariano v. Principi, 17 Vet. App. 305, 312 (2003). \r\n\r\nIn addition, the Board has also considered whether the Veteran's PTSD claim raised the issue of whether service connection is warranted for any other acquired psychiatric disorder in addition to PTSD. See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (holding that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record). In this regard, the record also shows the Veteran has depression as secondary to his service-connected PTSD. See 38 C.F.R. § 3.310(a). Specifically, in April 2012, Ms. A.G., P.C.C., a private counselor, assessed that the Veteran's depressive symptoms he has consistently displayed are a component of his current PTSD diagnosis. In addition, VA mental health treatment records dated from 1997 to 2016 frequently discuss the Veteran's depressive symptoms, sometimes interwoven with a PTSD diagnosis. \r\n\r\nThe Board also notes that post-service, the Veteran has been diagnosed with mental disorder NOS, mood disorder, adjustment disorder, personality change, schizotypal personality disorder, Asperger's, rule out (R/O) bipolar disorder, R/O psychosis NOS, R/O obsessive compulsive disorder (OCD), R/O anxiety NOS, and R/O mood disorder secondary to traumatic brain injury. However, there is no evidence or allegation of symptoms of these disorders during service, and no probative evidence linking these diagnoses to the Veteran's military service. \r\n\r\nWith regard to the Veteran's personality disorder diagnoses, personality disorders are not \"diseases\" or \"injuries\" within the meaning of applicable legislation. 38 C.F.R. §§ 3.303(c), 4.9, 4.127. Defects are defined as \"structural or inherent abnormalities or conditions which are more or less stationary in nature.\" VAOPGCPREC 82-90. It is therefore unnecessary to examine causality, or consider VA's presumption of soundness under 38 U.S.C.A. § 1111, because personality disorders cannot legally be service-related. See Morris v. Shinseki, 678 F.3d 1346, 1354 (2012). Thus, service connection is not warranted for the Veteran's personality disorders.\r\n\r\nIn any event, the present decision is considered a full grant of the benefits sought by the Veteran for his acquired psychiatric disorder claim to include PTSD. In granting service connection for PTSD with depression, the RO should assign a disability rating or ratings that encompass the symptoms of these disorders. See Amberman v. Shinseki, 570 F.3d 1377, 1381 (2009) (two defined diagnoses constitute the same disability for purposes of 38 C.F.R. § 4.14 if they have overlapping symptomatology, but bipolar disorder and PTSD could have different symptoms and it could therefore be improper in some circumstances for VA to treat these separately diagnosed conditions as producing only the same disability). \r\n\r\n\r\nORDER\r\n\r\nSubject to the provisions governing the award of monetary benefits, service connection for PTSD with depression is granted.\r\n\r\n\r\n\r\n____________________________________________\r\nDAVID L. WIGHT\r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+  "metadm": {
+    "citationNr": "1709261",
+    "decisionDate": "2017-03-24T00:00:00",
+    "archiveDate": "2017-04-07T00:00:00",
+    "docketNumber": "07-00 021A",
+    "regionalOffice": "Department of Veterans Affairs Regional Office in Roanoke, Virginia",
+    "judge": "DAVID L. WIGHT",
+    "fileName": "BVA1709261.txt",
+    "processDate": "2019-01-20T14:42:23.9873435-08:00"
+  }
+}

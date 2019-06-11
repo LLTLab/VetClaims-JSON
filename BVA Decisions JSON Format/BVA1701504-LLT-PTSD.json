@@ -1,0 +1,747 @@
+{
+  "docID": "1701504",
+  "sentences": [
+    {
+      "sentID": "1701504P1S1,",
+      "text": "Citation Nr: 1701504",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P17S1",
+      "text": "FINDING OF FACT",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P18S1",
+      "text": "The Veteran's acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, is caused by his service-connected disabilities.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P21S1",
+      "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P24S1",
+      "text": "Service Connection - Laws and Regulations",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P25S1",
+      "text": "Service connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P25S2",
+      "text": "38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P25S3",
+      "text": "Establishing service connection generally requires competent evidence of three things: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P25S4",
+      "text": "Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009); 38 C.F.R. § 3.303(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P26S1",
+      "text": "Service connection is also warranted for disability proximately due to or the result of a service-connected disease or injury. ",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P26S2",
+      "text": "38 C.F.R. § 3.310(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P26S3",
+      "text": "Such secondary service connection is warranted for any increase in severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disease.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P26S4",
+      "text": "38 C.F.R. § 3.310(b).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P27S1",
+      "text": "In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material favorable to the claimant.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P27S2",
+      "text": "Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P27S3",
+      "text": "Competency of evidence differs from weight and credibility.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P27S4",
+      "text": "Competency is a legal concept determining whether testimony may be heard and considered by the trier of fact, while credibility is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P27S5",
+      "text": "Rucker v. Brown, 10 Vet. App. 67, 74 (1997); Layno v. Brown, 6 Vet. App. 465, 469 (1994).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S1",
+      "text": "When considering whether lay evidence is competent, the Board must determine, on a case-by-case basis, whether a veteran's particular disability is the type of disability for which lay evidence may be competent.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S2",
+      "text": "Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S3",
+      "text": "A veteran is competent to report symptoms because this requires only personal knowledge, not medical expertise, as it comes to her through her senses.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S4",
+      "text": "See Layno, 6 Vet. App. 465, 469.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S5",
+      "text": " Lay testimony is competent to establish the presence of observable symptomatology, where the determination is not medical in nature and is capable of lay observation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S6",
+      "text": "Barr v. Nicholson, 21 Vet. App. 303 (2007).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S7",
+      "text": "Lay evidence may establish a diagnosis of a simple medical condition, a contemporaneous medical diagnosis, or symptoms that later support a diagnosis by a medical professional.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P28S8",
+      "text": "Jandreau, 492 F.3d 1372, 1377.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S1",
+      "text": "In the case of conflicting medical opinions, the Board must weigh the credibility and probative value of the medical opinions, and in so doing, the Board may favor one medical opinion over the other.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S2",
+      "text": "See Evans v. West, 12 Vet. App. 22, 30 (1998) (citing Owens v. Brown, 7 Vet. App. 429, 433 (1995)); see also Wensch v. Principi, 15 Vet. App. 362, 368 (2001) (it is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons and bases for doing so).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S3",
+      "text": "The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion the physician reaches.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S4",
+      "text": "Guerrieri v. Brown, 4 Vet. App. 467, 470 (1993).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S5",
+      "text": "Other factors affecting the probative value of a medical opinion include thoroughness and degree of detail, and a well-reasoned rationale.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S6",
+      "text": "See Prejean v. West, 13 Vet. App. 444, 448-49 (2000); see also Bloom v.West, 12 Vet. App. 185, 187 (1999).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S7",
+      "text": "The credibility and weight to be attached to these opinions is within the province of the Board.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P29S8",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P30S1",
+      "text": "When all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a veteran prevailing in either event, or whether a preponderance of the evidence is against a claim, in which case, the claim is denied.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+        "sentID": "1701504P30S2",
+        "text": "38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.",
+        "rhetRole": [
+          "CitationSentence"
+        ],
+        "ruleCondition": "ADD",
+        "nlpOutput": {}
+      },
+      {
+      "sentID": "1701504P31S1",
+      "text": "Service Connection for an Acquired Psychiatric Condition - Analysis",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P32S1",
+      "text": "The Veteran contends that his current acquired psychiatric conditions are related to or caused by his service-connected disabilities.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P32S2",
+      "text": "His medical treatment records list current diagnoses of depressive disorder NOS, generalized anxiety disorder, mood disorder NOS, bipolar disorder, personality disorder and alcohol dependence.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P33S1",
+      "text": "An October 2002 VA treatment record indicates that the Veteran had been diagnosed with depression.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P34S1",
+      "text": "A March 2007 VA treatment record indicates that the Veteran had been diagnosed with anxiety disorder NOS.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P35S1",
+      "text": "The Veteran was afforded a VA examination in August 2009.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P35S2",
+      "text": "The VA examiner diagnosed the Veteran with depression NOS.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P35S3",
+      "text": "The VA examiner stated that the question of whether this diagnosis is related to or caused by the service-connected Hodgkin's disease could not be resolved without resort to mere speculation, noting that the Hodgkin's disease had been in remission for 10 years.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P36S1",
+      "text": "A September 2009 VA treatment record indicates that the Veteran had been diagnosed with a mood disorder NOS and alcohol dependence.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P37S1",
+      "text": "In a February 2010 VA treatment record, the Veteran reported that he began to experience depression and an increase in anxiety and anger after he was diagnosed and treated for Hodgkin's Lymphoma while on active duty.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P37S2",
+      "text": "He was diagnosed with cyclothymic disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P38S1",
+      "text": "An October 2011 VA examiner noted that the Veteran's Hodgkin's disease caused him to have ongoing problems with intermittent fatigue, mood swings impacting his work ability, and interpersonal relationships.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P39S1",
+      "text": "A February 2012 VA treatment record indicates that the Veteran reported having felt depressed for 14 years.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P39S2",
+      "text": "He was diagnosed with depression.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P40S1",
+      "text": "A March 2012 VA treatment record indicates that the Veteran had been diagnosed with a bipolar spectrum disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P41S1",
+      "text": "In November 2012, the Veteran reported that he had been diagnosed with an anxiety disorder and non-combat PTSD starting in March 2007, related to his service-connected Hodgkin's disease.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P41S2",
+      "text": "He stated that he began dealing with his depression by drinking while he was in service.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P41S3",
+      "text": "He also reported being diagnosed with alcohol dependence, which he described as beginning during service as a way to cope with his mental health issues related to his Hodgkin's disease.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P42S1",
+      "text": "In December 2013, a private psychologist diagnosed the Veteran with PTSD and depressive disorder NOS.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P42S2",
+      "text": "He stated that the Veteran's PTSD was caused by his loss of his career as a police officer and loss of his health when he was diagnosed with Hodgkin's disease.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P42S3",
+      "text": "He noted that the Veteran was let go from his job as a police officer due to his service-connected right arm disability.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P42S4",
+      "text": "The psychologist also stated that the Veteran lived in constant threat of his Hodgkin's disease recurring and passing this disease on to his children.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P42S5",
+      "text": "This opinion is probative as it was offered in connection with the psychologist's treatment of the Veteran, indicating a strong familiarity with the Veteran's condition, and provides an adequate rationale for the conclusions.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S1",
+      "text": "In October 2014, a private psychologist evaluated the Veteran and opined that the service-connected right arm brachial plexus nerve injury (right arm disability) and scars caused his current mood disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S2",
+      "text": "She also opined that the Veteran's service-connected right arm disability, associated with Hodgkin's disease; scar, right and left anterior chest; and scar, right lateral chest, are more likely than not aggravating his mood disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S3",
+      "text": "The private psychologist gave a detailed description of the Veteran's psychiatric symptoms, service-connected disabilities, and psychiatric and medical treatment history.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S4",
+      "text": "In support of her opinion, she cited medical literature supporting a causal relationship between medical and psychiatric difficulty.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S5",
+      "text": "The Board finds this medical opinion to be highly probative.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P43S6",
+      "text": "This opinion included a detailed and accurate description of the Veteran's medical and psychiatric treatment history, citations to medical literature support the relationship between the service-connected disabilities and current acquired psychiatric disability, and an adequate rationale for the conclusion.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P44S1",
+      "text": "After a review of all of the evidence of record, both lay and medical, the Board finds that the preponderance of the evidence is in favor of a finding that the Veteran's current acquired psychiatric disorder, to include depressive disorder and  generalized anxiety disorder, is related to or caused by his service-connected disabilities.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P44S2",
+      "text": "The December 2013 and October 2014 private opinions are the only adequate medical opinions of record, and both conclude that the Veteran's current acquired psychiatric disability is related to his service-connected disabilities.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P44S3",
+      "text": "For these reasons, and resolving all reasonable doubt in the Veteran's favor, the Board finds that the criteria for service connection for an acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, claimed as secondary to the service-connected disabilities, have been met.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1701504P44S4",
+      "text": "See 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    }
+  ],
+  "ruleTree": {
+    "name": "The veteran has a disability that is service-connected.",
+    "truthValue": "",
+    "children": [{
+        "name": "The veteran has a present disability.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    },
+    {
+        "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": ""
+                }
+            },
+            {
+                "name": "The injury or disease did not preexist entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                        "inferenceRelation": "REBUT",
+                        "truthValue": ""
+                    }            
+                }
+            }]        
+            },
+            {
+            "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [
+                {
+                "name": "The injury or disease preexisted entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": ""
+                },
+                {
+                "name": "There was an aggravation during service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The presumption of aggravation has been satisfied.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                            "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                    }
+                }
+            }]        
+            },
+            {
+            "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+            "siblingRelation": "",
+            "siblingCount": 0,
+            "inferenceRelation": "REBUT",
+            "truthValue": ""
+        }]
+    },
+    {
+        "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    }]
+},
+  "text": "Citation Nr: 1701504\t\r\nDecision Date: 01/23/17 Archive Date: 02/09/17\r\n\r\nDOCKET NO. 11-20 562\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Denver, Colorado\r\n\r\n\r\nTHE ISSUES\r\n\r\n1. Entitlement to service connection for an acquired psychiatric disability, to include depressive disorder and generalized anxiety disorder, claimed as secondary to service-connected disabilities.\r\n\r\n2. Entitlement to service connection for a bilateral knee condition, including as secondary to service-connected disabilities.\r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tDisabled American Veterans\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nM. Thomas, Associate Counsel\r\n\r\n\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran, who is the appellant in this case, served on active duty from June 1998 to April 1999.\r\n\r\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from a September 2009 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas. Jurisdiction has since been transferred to the VA RO in Denver, Colorado.\r\n\r\nThe Veteran initially requested a Travel Board hearing. However, he withdrew this request in a May 2016 statement.\r\n\r\nAfter reviewing the contentions and evidence of record, the Board finds that the issues on appeal are more accurately stated as listed on the title page of this decision. In Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009), the United States Court of Appeals for Veterans Claims (Court) held that the scope of a mental health disability claim includes any mental disorder that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and other information of record. In consideration of Clemons and the other diagnoses of record, the Board has re-characterized the claims as reflected on the title page.\r\n\r\nIn November 2016, during the pendency of this appeal, the Veteran revoked his Power of Attorney, which had appointed J. Michael Woods, Esquire, as his representative. The Board finds that the Veteran properly revoked this attorney's representation. See 38 C.F.R. § 14.631(f)(1). At the same time, the Veteran appointed Disabled American Veterans as his new representative.\r\n\r\nThe issue of entitlement to service connection for a bilateral knee condition is addressed in the REMAND portion of the decision below and is REMANDED to the Agency of Original Jurisdiction (AOJ).\r\n\r\n\r\nFINDING OF FACT\r\n\r\nThe Veteran's acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, is caused by his service-connected disabilities.\r\n\r\n\r\nCONCLUSION OF LAW\r\n\r\nThe criteria for service connection an acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, have been met. 38 U.S.C.A. §§ 1110, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, (2015).\r\n\r\n\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\n\r\nDuties to Notify and Assist\r\n\r\nThe Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations imposes obligations on VA to provide claimants with notice and assistance. 38 U.S.C.A. §§ 5102, 5103, 5103A, 5107, 5126; 38 C.F.R. §§ 3.102, 3.156(a), 3.326(a). Given the favorable outcome of this decision, no prejudice to the Veteran could result from this decision. See Bernard v. Brown, 4 Vet. App. 384, 394 (1993).\r\n\r\nService Connection - Laws and Regulations\r\n\r\nService connection will be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred in or aggravated by active military service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Establishing service connection generally requires competent evidence of three things: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability. Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2009); 38 C.F.R. § 3.303(a).\r\n\r\nService connection is also warranted for disability proximately due to or the result of a service-connected disease or injury. 38 C.F.R. § 3.310(a). Such secondary service connection is warranted for any increase in severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disease. 38 C.F.R. § 3.310(b). \r\n\r\nIn rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material favorable to the claimant. Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990). Competency of evidence differs from weight and credibility. Competency is a legal concept determining whether testimony may be heard and considered by the trier of fact, while credibility is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted. Rucker v. Brown, 10 Vet. App. 67, 74 (1997); Layno v. Brown, 6 Vet. App. 465, 469 (1994). \r\n\r\nWhen considering whether lay evidence is competent, the Board must determine, on a case-by-case basis, whether a veteran's particular disability is the type of disability for which lay evidence may be competent. Kahana v. Shinseki, 24 Vet. App. 428 (2011); see also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007). A veteran is competent to report symptoms because this requires only personal knowledge, not medical expertise, as it comes to her through her senses. See Layno, 6 Vet. App. 465, 469. Lay testimony is competent to establish the presence of observable symptomatology, where the determination is not medical in nature and is capable of lay observation. Barr v. Nicholson, 21 Vet. App. 303 (2007). Lay evidence may establish a diagnosis of a simple medical condition, a contemporaneous medical diagnosis, or symptoms that later support a diagnosis by a medical professional. Jandreau, 492 F.3d 1372, 1377. \r\n\r\nIn the case of conflicting medical opinions, the Board must weigh the credibility and probative value of the medical opinions, and in so doing, the Board may favor one medical opinion over the other. See Evans v. West, 12 Vet. App. 22, 30 (1998) (citing Owens v. Brown, 7 Vet. App. 429, 433 (1995)); see also Wensch v. Principi, 15 Vet. App. 362, 368 (2001) (it is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons and bases for doing so). The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion the physician reaches. Guerrieri v. Brown, 4 Vet. App. 467, 470 (1993). Other factors affecting the probative value of a medical opinion include thoroughness and degree of detail, and a well-reasoned rationale. See Prejean v. West, 13 Vet. App. 444, 448-49 (2000); see also Bloom v.West, 12 Vet. App. 185, 187 (1999). The credibility and weight to be attached to these opinions is within the province of the Board. Id.\r\n\r\nWhen all the evidence is assembled, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with a veteran prevailing in either event, or whether a preponderance of the evidence is against a claim, in which case, the claim is denied. 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.\r\n\r\nService Connection for an Acquired Psychiatric Condition - Analysis\r\n\r\nThe Veteran contends that his current acquired psychiatric conditions are related to or caused by his service-connected disabilities. His medical treatment records list current diagnoses of depressive disorder NOS, generalized anxiety disorder, mood disorder NOS, bipolar disorder, personality disorder and alcohol dependence.\r\n\r\nAn October 2002 VA treatment record indicates that the Veteran had been diagnosed with depression.\r\n\r\nA March 2007 VA treatment record indicates that the Veteran had been diagnosed with anxiety disorder NOS.\r\n\r\nThe Veteran was afforded a VA examination in August 2009. The VA examiner diagnosed the Veteran with depression NOS. The VA examiner stated that the question of whether this diagnosis is related to or caused by the service-connected Hodgkin's disease could not be resolved without resort to mere speculation, noting that the Hodgkin's disease had been in remission for 10 years.\r\n\r\nA September 2009 VA treatment record indicates that the Veteran had been diagnosed with a mood disorder NOS and alcohol dependence.\r\n\r\nIn a February 2010 VA treatment record, the Veteran reported that he began to experience depression and an increase in anxiety and anger after he was diagnosed and treated for Hodgkin's Lymphoma while on active duty. He was diagnosed with cyclothymic disorder.\r\n\r\nAn October 2011 VA examiner noted that the Veteran's Hodgkin's disease caused him to have ongoing problems with intermittent fatigue, mood swings impacting his work ability, and interpersonal relationships.\r\n\r\nA February 2012 VA treatment record indicates that the Veteran reported having felt depressed for 14 years. He was diagnosed with depression.\r\n\r\nA March 2012 VA treatment record indicates that the Veteran had been diagnosed with a bipolar spectrum disorder.\r\n\r\nIn November 2012, the Veteran reported that he had been diagnosed with an anxiety disorder and non-combat PTSD starting in March 2007, related to his service-connected Hodgkin's disease. He stated that he began dealing with his depression by drinking while he was in service. He also reported being diagnosed with alcohol dependence, which he described as beginning during service as a way to cope with his mental health issues related to his Hodgkin's disease. \r\n\r\nIn December 2013, a private psychologist diagnosed the Veteran with PTSD and depressive disorder NOS. He stated that the Veteran's PTSD was caused by his loss of his career as a police officer and loss of his health when he was diagnosed with Hodgkin's disease. He noted that the Veteran was let go from his job as a police officer due to his service-connected right arm disability. The psychologist also stated that the Veteran lived in constant threat of his Hodgkin's disease recurring and passing this disease on to his children. This opinion is probative as it was offered in connection with the psychologist's treatment of the Veteran, indicating a strong familiarity with the Veteran's condition, and provides an adequate rationale for the conclusions. \r\n\r\nIn October 2014, a private psychologist evaluated the Veteran and opined that the service-connected right arm brachial plexus nerve injury (right arm disability) and scars caused his current mood disorder. She also opined that the Veteran's service-connected right arm disability, associated with Hodgkin's disease; scar, right and left anterior chest; and scar, right lateral chest, are more likely than not aggravating his mood disorder. The private psychologist gave a detailed description of the Veteran's psychiatric symptoms, service-connected disabilities, and psychiatric and medical treatment history. In support of her opinion, she cited medical literature supporting a causal relationship between medical and psychiatric difficulty. The Board finds this medical opinion to be highly probative. This opinion included a detailed and accurate description of the Veteran's medical and psychiatric treatment history, citations to medical literature support the relationship between the service-connected disabilities and current acquired psychiatric disability, and an adequate rationale for the conclusion.\r\n\r\nAfter a review of all of the evidence of record, both lay and medical, the Board finds that the preponderance of the evidence is in favor of a finding that the Veteran's current acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, is related to or caused by his service-connected disabilities. The December 2013 and October 2014 private opinions are the only adequate medical opinions of record, and both conclude that the Veteran's current acquired psychiatric disability is related to his service-connected disabilities. For these reasons, and resolving all reasonable doubt in the Veteran's favor, the Board finds that the criteria for service connection for an acquired psychiatric disorder, to include depressive disorder and generalized anxiety disorder, claimed as secondary to the service-connected disabilities, have been met. See 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102.\r\n\r\n\r\nORDER\r\n\r\nService connection for an acquired psychiatric condition, to include depressive disorder and generalized anxiety disorder, is granted.\r\n\r\n\r\nREMAND\r\n\r\nOnce VA undertakes the effort to provide an examination when developing a service-connection claim, even if not statutorily obligated to do so, it must provide an adequate one. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). \r\n\r\nThe Veteran was afforded a VA examination in July 2009. He reported speculation by his physicians that his knee pain was a side effect of chemotherapy treatment for Hodgkin's disease during service. He reported that the knee pain began six or seven years earlier. The Veteran contended that his left knee pain was secondary to a right knee condition. X-rays revealed a \"posterior horn, lateral meniscus possible tear\" of the right knee. X-rays did not reveal any left knee abnormalities. The VA examiner diagnosed the Veteran with a degenerative lateral meniscus of the right knee. He explicitly stated that degenerative joint disease was not found in the Veteran's bilateral knees. No nexus opinion was given for the Veteran's lateral meniscus condition. \r\n\r\nIn December 2009, the Veteran had surgery to repair a lateral meniscal tear and to replace his right knee ACL.\r\n\r\nThe Veteran was afforded a VA examination in October 2011. He reported having surgery for an ACL replacement of the right knee in December 2009. He also had a debridement arthroscopy of the right knee in August 2010. The Veteran reported having osteoarthritis of both knees with an onset date of 2000. He did not report any injury.\r\n\r\nIn December 2016, the Veteran's representative contended that his knees were injured during in-service basic training involving jumping with back packs and crawling on his knees.\r\n\r\nOnce VA undertakes the effort to provide an examination when developing a service-connection claim, even if not statutorily obligated to do so, it must provide an adequate one. See Barr v. Nicholson, 21 Vet. App. 303, 311 (2007). As the July 2009 VA examination did not address the etiology of the Veteran's lateral meniscus tear or his ACL condition, a new examination is necessary.\r\n\r\nEvery Veteran is presumed to have been in sound condition at entry into service except as to defects, infirmities, or disorders noted at the time of such entry, or where clear and unmistakable evidence demonstrates that the injury or disease existed before entry and was not aggravated by such service. 38 U.S.C.A. § 1111. The term \"noted,\" in 38 U.S.C.A. § 1111, refers to \"[o]nly such conditions as are recorded in examination reports.\" 38 C.F.R. § 3.304 (b). As there were no defects, infirmities, or disorders noted at entry into service, the Veteran's right knee is presumed to have been in sound condition at this time. However, this presumption can be rebutted by clear and unmistakable (obvious or manifest) evidence demonstrates that an injury or disease existed prior to service and was not aggravated by such service. 38 C.F.R. § 3.304(b). \r\n\r\nIn August 2007, a VA psychology treatment note indicated that the Veteran reported injuring his right knee at age 14 while wrestling. He stated that he had a tear in the anterior cruciate ligament (ACL). The Board finds these statements to be both competent and credible. Therefore, a new examination to determine whether the Veteran's current bilateral knee conditions are related to service, whether there is clear and unmistakable evidence that the right knee conditions preexisted service, and whether any preexisting right knee disability was aggravated by service. See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012) (\"before the presumption of soundness is for application, there must be evidence that a disease or injury that was not noted upon entry to service manifested or was incurred in service\").\r\n\r\nAccordingly, the case is REMANDED for the following action:\r\n\r\n1. Obtain the Veteran's updated VA and private treatment records related to his bilateral knee conditions.\r\n\r\n2. Schedule the Veteran for a VA examination to determine the nature and etiology of his bilateral knee conditions. The claims file, including a copy of this Remand, must be made available to, and be reviewed by, the VA examiner. \r\n\r\nThe VA examiner should provide the following opinions:\r\n\r\n(a) Whether any right or left knee condition is at least as likely as not (50 percent probability or greater) related to or caused by his service, to include the effect of in-service basic training involving jumping with back packs and crawling on his knees.\r\n\r\n(b) Whether any right or left knee condition is at least as likely as not (50 percent probability or greater) related to or caused by any treatment for his service-connected Hodgkin's disease.\r\n\r\n(c) Whether (i) a right knee disability clearly and unmistakably preexisted service and, if so, (ii) whether such preexisting disorder clearly and unmistakably was not aggravated by service.\r\n\r\nThe term \"at least as likely as not\" does not mean within the realm of possibility, but rather that the evidence both for and against a conclusion is so evenly divided that it is as sound to find in favor of a certain conclusion as it is to find against it.\r\n\r\nThe VA examiner must provide a detailed rationale for all opinions rendered. If the examiner cannot provide the requested information without resort to speculation, it must be so stated with reasons why, and if an additional clinical evaluation is necessary to render the requested information, then that opportunity should be made available.\r\n\r\n3. After completion of the above and compliance with the requested actions has been ensured, readjudicate the issue on appeal on the basis of the additional evidence of record. If the determinations remain adverse to the Veteran, he and his representative should be furnished with a Supplemental Statement of the Case. An appropriate period of time should then be allowed for a response before the record is returned to the Board for further review.\r\n\r\nThe Veteran has the right to submit additional evidence and argument on the matter the Board has remanded. Kutscherousky v. West, 12 Vet. App. 369 (1999).\r\n\r\nThis claim must be afforded expeditious treatment. The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner. See 38 U.S.C.A. §§ 5109B, 7112 (West 2014).\r\n\r\n\r\n______________________________________________\r\nK. PARAKKAL\r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\nDepartment of Veterans Affairs",
+  "metadm": {
+    "citationNr": "1701504",
+    "decisionDate": "2017-01-23T00:00:00",
+    "archiveDate": "2017-02-09T00:00:00",
+    "docketNumber": "11-20 562",
+    "regionalOffice": "Department of Veterans Affairs Regional Office in Denver, Colorado",
+    "judge": "K. PARAKKAL",
+    "fileName": "BVA1701504.txt",
+    "processDate": "2019-01-20T14:42:15.8913386-08:00"
+  }
+}

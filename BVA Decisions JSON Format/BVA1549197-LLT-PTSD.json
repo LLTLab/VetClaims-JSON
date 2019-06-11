@@ -1,0 +1,414 @@
+{
+    "docID": "1549197",
+    "sentences": [
+        {
+            "sentID": "1549197P1S1,",
+            "text": "Citation Nr: 1549197",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P19S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P22S1",
+            "text": "3.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P22S2",
+            "text": "Resolving all benefit of the doubt in the Veteran's favor, the Veteran's acquired psychiatric conditions, to include PTSD and depression, are related to/aggravated by the Veteran's now service-connected back condition.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P27S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P46S1",
+            "text": "Service Connection - Acquired Psychiatric Condition, PTSD",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P47S1",
+            "text": "The Veteran claims, essentially, that his PTSD, or any acquired psychiatric condition, to include major depressive disorder, is due to his back condition, which has been service connected herein.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P47S2",
+            "text": "The Board has construed the claim in accordance with Clemons v. Shinseki, 23 Vet. App. 1 (2009) (observing that when determining the scope of a claim, the Board must consider the claimant's description of the claim; the symptoms the claimant describes; and the information the claimant submits or that the Secretary obtains in support of that claim).",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P47S3",
+            "text": "The Board notes that competent medical evidence of record, which includes a positive nexus opinion from a private psychiatrist, reveals that the Veteran's psychiatric conditions are in fact proximately caused/aggravated by the Veteran's, now, service-connected back condition.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P47S4",
+            "text": "Therefore, the Veteran's claim for service connection must be granted.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P48S1",
+            "text": "A claim for secondary service connection requires medical evidence that connects the asserted secondary disability to the service-connected disability.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P48S2",
+            "text": "See Velez v. West, 11 Vet. App. 148, 158 (1998).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P48S3",
+            "text": "In order to establish entitlement to service connection on this secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a link between the service-connected disability and the current disability.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P48S4",
+            "text": "See Wallin v. West, 11 Vet. App. 509, 512 (1998).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S1",
+            "text": "A disability which is proximately due to or the result of a service-connected disease or injury shall be service connected.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S2",
+            "text": "When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S3",
+            "text": "38 C.F.R. § 3.310(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S4",
+            "text": "Secondary service connection may also be established for a nonservice-connected disability which is aggravated by a service connected disability.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S5",
+            "text": "In such an instance, the Veteran may be compensated for the degree of disability over and above the degree of disability existing prior to the aggravation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P49S6",
+            "text": "38 C.F.R. § 3.310(b); see Allen v. Brown, 7 Vet. App. 439, 448 (1995).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S1",
+            "text": "Here, the Veteran has provided a February 2013 private psychiatric evaluation from a board certified psychologist, Dr. J. C.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S2",
+            "text": "After conducting a thorough interview of the Veteran, as well as reviewing his claims file, and medical history, the examiner noted an Axis I diagnosis of PTSD, as well as an Axis II diagnosis of major depressive disorder, with history of traumatic brain trauma.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S3",
+            "text": "While the examiner noted that the Veteran suffered psychologically traumatic events when he was a child, and was abused, the examiner, significantly, concluded that the Veteran's depression was aggravated by his back condition, which is now service connected.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S4",
+            "text": "To this end, the examiner explicitly noted that the Veteran, essentially, shuts down when his back starts hurting and just does not want to leave his bed.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S5",
+            "text": "The examiner concludes that this not only affects his motivation, but also would prevent him from doing any work.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P50S6",
+            "text": "Therefore, he concludes that his service-connected back condition does in fact aggravate his depression.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P51S1",
+            "text": "The Board finds this medical examination to be highly probative and dispositive of the inquiry at hand.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P51S2",
+            "text": "The conclusion is accurately provided, along with a rationale and full review and analysis of the medical and psychiatric history of the Veteran.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P51S3",
+            "text": "Indeed, the examination report is even completed on a VA psychiatric evaluation form, VA Form 21-0960P-2; and it is the only medical opinion of record.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P52S1",
+            "text": "As noted above, secondary service connection can also be established if the claimed condition was aggravated by a service-connected condition.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P52S2",
+            "text": "Here, the only medical evidence of record shows that the Veteran's depression, and other undistinguishable psychiatric conditions, to include PTSD, was/has been aggravated by his, now, service-connect back condition.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1549197P52S3",
+            "text": "Therefore, the Board finds that service connection for his psychiatric conditions is warranted, and the claim must be granted.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1549197\t\r\nDecision Date: 11/20/15 Archive Date: 11/25/15\r\n\r\nDOCKET NO. 12-04 867A\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Winston-Salem, North Carolina\r\n\r\n\r\nTHE ISSUES\r\n\r\n1. Entitlement to service connection for spondylolisthesis of the L5-S1 with bilateral pars interarticularis defect (back condition). \r\n\r\n2. Entitlement to service connection for acquired psychiatric conditions to include, posttraumatic stress disorder (PTSD) and depression, as secondary to a claimed back condition. \r\n\r\n3. Entitlement to a total disability rating based on individual unemployability (TDIU).\r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tJohn R. Worman, Esquire \r\n\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nZi-Heng Zhu, Associate Counsel\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran served on active duty in the United States Army from May 1972 to June 1972. \r\n\r\nThese matters come before the Board of Veterans' Appeals (Board) on appeal from rating decisions in August 2009 and August 2012 by the Department of Veterans Affairs (VA) Regional Office (RO) in Winston-Salem, North Carolina.\r\n\r\nThe issue of entitlement to a TDIU is addressed in the REMAND portion of the decision below and is REMANDED to the Agency of Original Jurisdiction (AOJ).\r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. The evidence does not demonstrate, clearly and unmistakably, that the Veteran's current back condition clearly and unmistakably pre-existed his military service. \r\n\r\n2. Resolving all benefit-of-the-doubt in favor of the Veteran, the evidence of record is at least in equipoise relating to the Veteran's back condition and his injury during his active military service. \r\n\r\n3. Resolving all benefit of the doubt in the Veteran's favor, the Veteran's acquired psychiatric conditions, to include PTSD and depression, are related to/aggravated by the Veteran's now service-connected back condition. \r\n\r\n\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. The criteria for entitlement to service connection for a back condition have been met. 38 U.S.C.A. §§ 1101, 1110, 1111, 1153, 5107 (West 2014); 38 C.F.R. §§ 3.303, 3.304(b), 3.306, 3.307, 3.309, 3.310 (2015).\r\n\r\n2. The criteria for entitlement to service connection for an acquired psychiatric condition, to include PTSD and depression, as secondary to a service-connected back condition, have been met. 38 U.S.C.A. §§ 1110, 1116, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.306, 3.307(a)(6), 3.309(e).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nService Connection - Back Condition \r\n\r\nThe Veteran asserts that his current diagnosed back condition is due to an injury he incurred while performing maneuvers during boot-camp during his military service. The Board finds that a review of the evidence of record, to include competent private and VA medical opinions, service treatment records (STRs), and lay statements, reveals that the Veteran's condition is etiologically related to the injury he sustained during service. As such, the Veteran's claim for service connection must be granted. \r\n\r\nGenerally, to prevail on a claim of service connection on the merits, there must be competent evidence of (1) current disability; (2) medical, or in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence or other competent evidence of a nexus between the claimed in-service disease or injury and the present disease or injury. See Hickson v. West, 12 Vet. App. 247 (1999); see also Jandreau, 492 F.3d 1372 (Fed. Cir. 2007). \r\n\r\nEvery veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment; or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C.A. § 1111 (West 2014); 38 C.F.R. § 3.304(b). Thus, there is a rebuttable presumption of soundness unless a condition is noted at entry. However, the presumption of soundness applies only when a disease or injury manifests in service which was not noted on entry, and a question arises as to whether it pre-existed service. Gilbert v. Shinseki, 26 Vet. App. 48, 55 (2012). VA's General Counsel has held that to rebut the presumption of sound condition under 38 U.S.C.A. § 1111, VA must show by clear and unmistakable evidence both that the disease or injury existed prior to service and that the disease or injury was not aggravated by service. VAOPGCPREC 3-2003 (July 16, 2003); see also Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004).\r\n\r\nThe Board notes that the Veteran has continuously contended that his current symptomatic back condition was related or aggravated by an incident during service where his squad was instructed to jump into foxholes during a training exercise and another solider, who jumped into the same foxhole, landed on his back. \r\n\r\nAs an initial matter, the Board finds that the evidence does not demonstrate that the Veteran's back condition clearly and unmistakably pre-existed his period of active duty service, and that there is certainly no clear and unmistakable evidence that the any such condition was not aggravated during his service. Preliminarily, the Board notes that the Veteran enlisted in May 1972, entry examinations in his STRs noted no issues or pre-existing problems with his back upon entry. The report of medical history, completed by the Veteran himself also noted no issues with his back.\r\n\r\nIn June 1972, only a few weeks after entering service, the STRs reveal that the Veteran reported to sick-call with lower back pain (denoted as LBP). Further treatment records for that time period noted treatment and testing for his back injury he sustained during training. Later in June 1972, the Veteran's condition was evaluated by the Army Medical Board, where it was determined that the Veteran's back condition rendered him physically unfit for active service, and he was subsequently discharged from service. The Medical Board's decision also noted that the Veteran's condition was believed to have prevented him from physical civilian work prior to service. \r\n\r\nRelated to this claim, the VA afforded the Veteran with two VA Compensation and Pension (C&P) examinations in May 2009 and January 2015. Upon examination of the Veteran and his medical history, both VA examiners initially noted that the Veteran's back condition more likely than not pre-existed his service. However, the Board finds that neither examiner provided an adequate level of affirmation of the Veteran's pre-existing condition to rebut the Veteran's presumption of soundness. In other words, the level of standard to rebut the Veteran's presumption of soundness is clear and unmistakable, a far cry from as least likely as not. Short of that standard of proof and rationale offered by an examiner, such rebuttal under 38 U.S.C.A. § 1111, cannot succeed. \r\n\r\nTo this end, the Board notes that the Veteran has submitted several lay statements from his co-worker/classmates and his sports coach during high school, noting that they witnessed and knew of no evidence that the Veteran suffered from any type of back condition. While the Board understands that both such statements come from lay persons without the appropriate medical background and training to diagnose a back condition, the Board finds that such statements remain probative because of the circumstance of their, then, relationship. In other words, the Board finds that as the Veteran's football teammate during high school, and his coach for football and track and field, both lay persons have a unique perspective in evaluating any restrictions of the Veteran's physical abilities. In the same vein, the Board notes that the Veteran graduated from high school in 1971, only a year before enlisting. Such temporal proximity only increases the validity and weight of the probative value of such statements establishing a sound physical condition prior to entering his active service. \r\n\r\nFinally, the weight of the competent evidence does not demonstrate that the Veteran's back condition was clearly and unmistakably not aggravated during service; or the second prong of rebutting the presumption of soundness. In fact, the January 2015 VA examiner has also opined, that the injury in service did in fact aggravate/exacerbated any back condition the Veteran may or may not have had. As such, the Board finds that the evidence of record does not rise to the level as to rebut the presumption of soundness and an evaluation of service connection, on a direct basis must be made. \r\n\r\nAs noted above, the threshold question for service connection must be the existence of a current disability. To this end, the Board finds that the Veteran has been diagnosed with a back condition, specifically spondylolisthesis of the L5-S1 with bilateral pars interarticularis defect. This diagnosis has been confirmed by VA examiners as well as the Veteran's treating physicians and medical professionals. Therefore, the first element of service connection has been satisfied. \r\nThe second prong of an in-service injury or incurrence is also well documented in the Veteran's STRs. Specifically, notes in the Veteran's STRs indicated the Veteran injured his back and suffered from low back pain during service. The Veteran has also consistently reported that his back was injured when a fellow solider jumped into the same foxhole he was in and landed on his back. Such evidence is ample to satisfy the in-service element for service connection. \r\n\r\nFinally, the third prong to establish service connection, also known as the nexus element, has also been established by the evidence of record. Here, there are both positive and negative medical opinions, regarding the Veteran's current back condition. \r\n\r\nRegarding a nexus, the Board notes that the Veteran has submitted a private medical opinion from his treating medical professional, who attests to the fact that the Veteran's current back condition was aggravated/exacerbated, or otherwise caused, by his injury to his back during service. Specifically, the Veteran's long time chiropractor, F. A., found that the Veteran's current symptomatic condition was caused by a trauma, such as that described during his military service, and that such force exacerbated/caused his current back condition. See Medical Opinion from F. A., D. C., dated July 22, 2008. \r\n\r\nConversely, the VA has also obtained two medical opinions that are seemingly against the above private opinion regarding nexus. The Veteran was afforded two VA C&P examination for this condition in May 2009 and January 2015. In both examination reports, the VA examiner concluded that the Veteran's current condition was simply a continuation of his back condition that pre-existed his active military service. In both instances, the VA examiners specifically cited the Army Medical Board findings of June 1972 that the Veteran was never actually physically fit for active service. Therefore, both VA examiners opined that such back condition could not be solely caused by the Veteran's injury during service. \r\n\r\nThe Veteran was afforded the first of these examinations in May 2009, the examiner, after reviewing the claims file and examining the Veteran's back, concluded that the Veteran's condition pre-existed his military service. However, the Board finds that this examiner's opinion to be inadequate. The VA examiner failed to provide any rationale regarding his conclusion that the Veteran's back condition pre-existed his military service, as he based his nexus conclusion solely on the Army Medical Boards evaluation. That examiner also failed to provide any opinion regarding any aggravating/exacerbating effects the Veteran's in-service injury may have had on his current condition. As such, this opinion is inadequate and carries little probative weight. \r\n\r\nThe Veteran's second VA C&P examination, in January 2015, provides a confusing and nearly contradictory conclusion and rationale. Specifically, the examiner concluded that it was less likely than not that the Veteran's condition was incurred or caused by the claimed in-service injury, explaining that such condition was not caused by an acute injury. However, later in the report, the examiner also noted in another worksheet that the condition was not proximately due to any service-connected disability, and explicitly opined that the Veteran's present back condition \"appears to be due to his back injury of June 1972,\" during his active duty service, as well as post-service back injuries. The Board finds that two opinions to be at best inadequate and nearly contradictory, offering almost a positive nexus opinion in the latter opinion. As such, the Board finds that this opinion, like the VA examination preceding it, to be inadequate and offers little probative value. \r\n\r\nConsequently, the Board finds that the evidence of record is at least in equipoise regarding a nexus between the Veteran's current condition and his injury during his military service. Therefore, in affording the Veteran the benefit-of-the-doubt, the Veteran's claim of service connection for a back condition must be granted. \r\n\r\nService Connection - Acquired Psychiatric Condition, PTSD \r\n\t\r\nThe Veteran claims, essentially, that his PTSD, or any acquired psychiatric condition, to include major depressive disorder, is due to his back condition, which has been service connected herein. The Board has construed the claim in accordance with Clemons v. Shinseki, 23 Vet. App. 1 (2009) (observing that when determining the scope of a claim, the Board must consider the claimant's description of the claim; the symptoms the claimant describes; and the information the claimant submits or that the Secretary obtains in support of that claim). The Board notes that competent medical evidence of record, which includes a positive nexus opinion from a private psychiatrist, reveals that the Veteran's psychiatric conditions are in fact proximately caused/aggravated by the Veteran's, now, service-connected back condition. Therefore, the Veteran's claim for service connection must be granted. \r\n\r\nA claim for secondary service connection requires medical evidence that connects the asserted secondary disability to the service-connected disability. See Velez v. West, 11 Vet. App. 148, 158 (1998). In order to establish entitlement to service connection on this secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) medical evidence establishing a link between the service-connected disability and the current disability. See Wallin v. West, 11 Vet. App. 509, 512 (1998).\r\n\r\nA disability which is proximately due to or the result of a service-connected disease or injury shall be service connected. When service connection is thus established for a secondary condition, the secondary condition shall be considered a part of the original condition. 38 C.F.R. § 3.310(a). Secondary service connection may also be established for a nonservice-connected disability which is aggravated by a service connected disability. In such an instance, the Veteran may be compensated for the degree of disability over and above the degree of disability existing prior to the aggravation. 38 C.F.R. § 3.310(b); see Allen v. Brown, 7 Vet. App. 439, 448 (1995).\r\n\r\nHere, the Veteran has provided a February 2013 private psychiatric evaluation from a board certified psychologist, Dr. J. C. After conducting a thorough interview of the Veteran, as well as reviewing his claims file, and medical history, the examiner noted an Axis I diagnosis of PTSD, as well as an Axis II diagnosis of major depressive disorder, with history of traumatic brain trauma. While the examiner noted that the Veteran suffered psychologically traumatic events when he was a child, and was abused, the examiner, significantly, concluded that the Veteran's depression was aggravated by his back condition, which is now service connected. To this end, the examiner explicitly noted that the Veteran, essentially, shuts down when his back starts hurting and just does not want to leave his bed. The examiner concludes that this not only affects his motivation, but also would prevent him from doing any work. Therefore, he concludes that his service-connected back condition does in fact aggravate his depression. \r\n\r\nThe Board finds this medical examination to be highly probative and dispositive of the inquiry at hand. The conclusion is accurately provided, along with a rationale and full review and analysis of the medical and psychiatric history of the Veteran. Indeed, the examination report is even completed on a VA psychiatric evaluation form, VA Form 21-0960P-2; and it is the only medical opinion of record.\r\n\r\nAs noted above, secondary service connection can also be established if the claimed condition was aggravated by a service-connected condition. Here, the only medical evidence of record shows that the Veteran's depression, and other undistinguishable psychiatric conditions, to include PTSD, was/has been aggravated by his, now, service-connect back condition. Therefore, the Board finds that service connection for his psychiatric conditions is warranted, and the claim must be granted. \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nORDER\r\n\r\nEntitlement to service connection for a back condition is granted. \r\n\r\nEntitlement to service connection for an acquired psychiatric condition, to include PTSD and major depressive disorder, as secondary to service-connected back condition is granted. \r\n\r\n\r\nREMAND\r\n\r\nThe Board finds that additional evidentiary development is necessary before the Board can adjudicate the Veteran's claim for a TDIU. Although the Board sincerely regrets the additional delay, it is necessary to ensure that there is a complete record upon which to decide the Veteran's claims so that he is afforded every possible consideration.\r\n\r\nAs the level of rating for the granted claims of service connection decided herein, is relevant to the Veteran's TDIU request, as they are the only service-connected disabilities awarded to the Veteran, this issue must be considered inextricably intertwined. Therefore, the Veteran's request for a TDIU must be remanded as they are intertwined with the determinations of ratings for his now service-connected conditions. See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (noting that when a determination on one issue could have a significant impact on the outcome of another issue, such issues are considered inextricably intertwined and VA is required to decide those issues together).\r\n\r\nAccordingly, the case is REMANDED for the following action:\r\n\r\n1. When disability ratings and effective dates have been determined for all service-connected disabilities, to include those granted herein, and all development that the RO deems necessary is undertaken, the Veteran's request for a TDIU should be readjudicated. If any benefit sought on appeal remains denied, the Veteran and his representative should be provided with a supplemental statement of the case (SSOC) that contains notice of all relevant actions taken, including a summary of the evidence and applicable law and regulations considered pertinent to the issues. An appropriate period of time should be allowed for response by the Veteran and his representative. Thereafter, the case should be returned to the Board for further appellate consideration, if in order.\r\nThe appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded. Kutscherousky v. West, 12 Vet. App. 369 (1999).\r\n\r\nThis claim must be afforded expeditious treatment. The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner. See 38 U.S.C.A. §§ 5109B, 7112 (West 2014).\r\n\r\n\r\n\r\n\r\n______________________________________________\r\nBRADLEY W. HENNINGS \r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1549197",
+        "decisionDate": "2015-11-20T00:00:00",
+        "archiveDate": "2015-11-25T00:00:00",
+        "docketNumber": "12-04 867A",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Winston-Salem, North Carolina",
+        "judge": "BRADLEY W. HENNINGS",
+        "fileName": "BVA1549197.txt",
+        "processDate": "2019-01-20T14:41:05.4838392-08:00"
+    }
+}

@@ -1,0 +1,2205 @@
+{
+  "docID": "1713743",
+  "sentences": [
+    {
+      "sentID": "1713743P1S1,",
+      "text": "Citation Nr: 1713743",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P25S1",
+      "text": "FINDINGS OF FACT",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P30S1",
+      "text": "5.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P30S2",
+      "text": "There is credible supporting evidence (including in-service behavioral changes), confirming that the Veteran's alleged in-service physical assault occurred.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P31S1",
+      "text": "6.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P31S2",
+      "text": "The most probative evidence of record establishes that the Veteran has a current diagnosis of PTSD with depression and substance abuse due to an in-service physical assault and TBI, in accordance within the applicable VA regulation.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P38S1",
+      "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P51S1",
+      "text": "II.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P51S2",
+      "text": "Service Connection",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P52S1",
+      "text": "Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P52S2",
+      "text": "38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P53S1",
+      "text": "Under 38 C.F.R. § 3.303(a), service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called \"nexus\" requirement.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P53S2",
+      "text": "Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P53S3",
+      "text": "The Federal Circuit Court recently held that diseases that would be considered \"chronic\" in a medical sense, but which are not listed in 38 C.F.R. § 3.309(a) as an enumerated \"chronic disease,\" may still qualify for service connection under the three-element test for disability compensation described in § 3.303(a).",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P53S4",
+      "text": "Walker v. Shinseki, 708 F.3d 1331, 1338-39 (Fed. Cir. 2013).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P54S1",
+      "text": "But under 38 C.F.R. § 3.303(b), where the evidence shows an enumerated \"chronic disease\" in service (or within the presumptive period under § 3.307), or \"continuity of symptoms\" of such a disease after service, the disease shall be presumed to have been incurred in service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P54S2",
+      "text": "Walker, 708 F.3d at 1335-37.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P54S3",
+      "text": "Initially, certain bilateral eye disorders and left face nerve damage the Veteran has been diagnosed with are not an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a); therefore, the presumptive provisions based on \"chronic\" symptoms in service and \"continuous\" symptoms since service at 38§C.F.R. § 3.303(b) do not apply for these disorders.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P54S4",
+      "text": "Walker, 708 F.3d at 1338-39.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P55S1",
+      "text": "However, the Veteran's glaucoma of the eyes is an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a) (other organic disease of the nervous system); therefore, 38 C.F.R. § 3.303(b) does apply to that disorder.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P55S2",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P55S3",
+      "text": "Service connection for an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a) such as glaucoma can also be also be established on a presumptive basis by showing that it manifested itself to a degree of 10 percent or more within one year from the date of separation from service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P55S4",
+      "text": "38 U.S.C.A. §§ 1101, 1112, 1113, 1137; 38 C.F.R. §§ 3.307(a)(3), 3.309(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S1",
+      "text": "That is, under 38 C.F.R. § 3.303(b), with an enumerated \"chronic disease\" such as glaucoma shown in service (or within the presumptive period under § 3.307), subsequent manifestations of the same chronic disease at any later date, however remote, are service-connected, unless clearly attributable to intercurrent causes.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S2",
+      "text": "See also Groves v. Peake, 524 F.3d 1306, 1309 (2008).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S3",
+      "text": "This rule does not mean that any manifestation of joint pain, any abnormality of heart action or heart sounds, any urinary findings of casts, or any cough, in service will permit service connection of arthritis, disease of the heart, nephritis, or pulmonary disease, first shown as a clear cut clinical entity, at some later date.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S4",
+      "text": "For the showing of chronic disease such as glaucoma in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word \"chronic.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S5",
+      "text": "When the disease identity is established (leprosy, tuberculosis, multiple sclerosis, etc.), there is no requirement of evidentiary showing of continuity of symptomatology.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P56S6",
+      "text": "38 C.F.R. § 3.303(b).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S1",
+      "text": "In addition, for chronic diseases listed in 38 C.F.R. § 3.309(a) - such as glaucoma - service connection may be established by showing continuity of symptoms, which requires a claimant to demonstrate (1) that a condition was \"noted\" during service; (2) evidence of post-service continuity of symptoms; and (3) medical or, in certain circumstances, lay evidence of a link between the present disability and the post-service symptoms.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S2",
+      "text": "38 C.F.R. § 3.303(b) (2016); see Walker, 708 F.3d at 1340 (Fed. Cir. 2013) (holding that only those chronic diseases listed in 38 C.F.R. § 3.309 are subject to service connection by continuity of symptoms described in § 3.303(b).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S3",
+      "text": "The correct understanding of the \"condition noted during service\" is that the condition is one that is indicative of but not dispositive of a chronic disease.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S4",
+      "text": "Walker, 708 F.3d at 1339.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S5",
+      "text": "Stated another way, continuity of symptomatology after discharge is required only where the condition noted during service (or in the presumptive period) is not, in fact, shown to be chronic or where the diagnosis of chronicity may be legitimately questioned, i.e., \"when the fact of chronicity in service is not adequately supported.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S6",
+      "text": "38 C.F.R. § 3.303(b).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P57S7",
+      "text": "See also Walker, 708 F.3d at 1339-40.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P58S1",
+      "text": "Under 38 C.F.R. § 3.303(d), disorders diagnosed after discharge may also still be service connected if all the evidence, including pertinent service records, establishes the disorder was incurred in service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P58S2",
+      "text": "See Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S1",
+      "text": "A disability can also be service connected on a secondary basis if it is proximately due to or the result of a service-connected condition.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S2",
+      "text": "38 C.F.R. § 3.310(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S3",
+      "text": "Moreover, secondary service connection may be established, as well, by any increase in severity (i.e., aggravation) of a nonservice-connected condition that is proximately due to or the result of a service-connected condition.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S4",
+      "text": "38 C.F.R. § 3.310(b), effective October 10, 2006.  See 71 Fed. Reg. 52,744-52,747 (September 7, 2006).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S5",
+      "text": "See also Allen v. Brown, 7 Vet. App. 439, 448 (1995); Tobin v. Derwinski, 2 Vet. App. 34, 39 (1991).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S6",
+      "text": "Where a service-connected disability aggravates a nonservice-connected condition, a veteran may be compensated for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P59S7",
+      "text": "Allen, 7 Vet. App. at 448.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P60S1",
+      "text": "In short, in order to establish entitlement to service connection on this secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) probative evidence establishing a nexus (i.e., link) between the service-connected disability and the current disability.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P60S2",
+      "text": "Wallin v. West, 11 Vet. App. 509, 512 (1998).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P61S1",
+      "text": "VA is to give \"due consideration\" to \"all pertinent medical and lay evidence\" in evaluating a claim for disability benefits.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P61S2",
+      "text": "38 U.S.C.A. § 1154(a) (West 2014).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P61S3",
+      "text": "The Federal Circuit has held that medical evidence is not always or categorically required in every instance to establish a medical diagnosis or the required nexus between the claimed disability and the Veteran's military service.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P61S4",
+      "text": "Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S1",
+      "text": "That is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S2",
+      "text": "Davidson, 581 F.3d at 1316.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S3",
+      "text": "See also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S4",
+      "text": "In short, when considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent on the issues of diagnosis and medical causation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S5",
+      "text": "Kahana v. Shinseki, 24 Vet. App. 428, 438 (2011).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S6",
+      "text": "\"The question of whether a particular medical issue is beyond the competence of a layperson-including both claimants and [VA adjudicators] must be determined on a case-by-case basis.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P62S7",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P63S1",
+      "text": "For instance, a layperson is competent to identify such disorders as varicose veins, tinnitus, and flat feet.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P63S2",
+      "text": "38 C.F.R. § 3.159(a)(2); Barr v. Nicholson, 21 Vet. App. 303, 310 (2007); Charles v. Principi, 16 Vet. App. 370, 374 (2002); Falzone v. Brown, 8 Vet. App. 398, 405 (1995).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P63S3",
+      "text": "In contrast, a layperson is not competent to identify medical conditions that require scientific, technical, or other specialized knowledge, such as in identifying bronchial asthma.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P63S4",
+      "text": "38 C.F.R. § 3.159(a)(1); Layno v. Brown, 6 Vet. App. 465, 469 (1994).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P64S1",
+      "text": "Therefore, the Board must assess the competence and credibility of lay statements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P64S2",
+      "text": "Barr, 21 Vet. App. at 308.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P65S1",
+      "text": "The Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P65S2",
+      "text": "King v. Shinseki, 700 F.3d 1339, 1344 (2012).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P66S1",
+      "text": "In determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P66S2",
+      "text": "38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P113S1",
+      "text": "E.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P113S2",
+      "text": "PTSD with Depression and Polysubstance Abuse",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P114S1",
+      "text": "Service connection for PTSD has unique evidentiary requirements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P114S2",
+      "text": "It generally requires:  (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-5); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P114S3",
+      "text": "38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P114S4",
+      "text": "See also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P115S1",
+      "text": "Effective August 4, 2014, VA amended the portion of its Schedule for Rating Disabilities dealing with mental disorders and its adjudication regulations that define the term \"psychosis\" to remove outdated references to the DSM-IV and replace them with references to the recently updated Diagnostic and Statistical Manual (Fifth Edition) (the DSM-5).",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P115S2",
+      "text": "See 79 Fed. Reg. 45,094 (August 4, 2014).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P115S3",
+      "text": "VA adopted as final, without change, this interim final rule and clarified that the provisions of this interim final rule do not apply to claims that have been certified for appeal to the Board or are pending before the Board on or before August 4, 2014.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P115S4",
+      "text": "See Schedule for Rating Disabilities - Mental Disorders and Definition of Psychosis for Certain VA Purposes, 80 Fed. Reg. 14,308 (March 19, 2015).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P116S1",
+      "text": "In the present case, the RO certified the Veteran's PTSD appeal to the Board in March 2015, which is after August 4, 2014.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P116S2",
+      "text": "Thus, the amended 38 C.F.R. § 4.125(a) conforming to the DSM-5 is applicable in the present case.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P116S3",
+      "text": "In any event, the Board will still consider any private or VA examiner's discussion of both the DSM-IV and DSM-5 in adjudicating the current Veteran's PTSD claim, in order to provide the Veteran with every benefit of the doubt.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P117S1",
+      "text": "If VA determines either that the veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P117S2",
+      "text": "Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P117S3",
+      "text": "38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128, 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S1",
+      "text": "With regard to an actual diagnosis of PTSD, lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S2",
+      "text": "Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S3",
+      "text": "The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S4",
+      "text": "See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S5",
+      "text": "In this regard, the Federal Circuit recently held that \"PTSD is not the type of medical condition that lay evidence . . . is competent and sufficient to identify.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S6",
+      "text": "Young v. McDonald, 766 F.3d 1348, 1352-53 (Fed. Cir. 2014).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S7",
+      "text": "Regardless, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P118S8",
+      "text": "See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P119S1",
+      "text": "That is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P119S2",
+      "text": "Davidson, 581 F.3d at 1316.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P119S3",
+      "text": "See also Jandreau, 492 F.3d at 1376-77.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S1",
+      "text": "In this case, the Veteran does not allege that he was in combat.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S2",
+      "text": "Instead, the Veteran contends that he has PTSD attributable to his in-service physical assault by two Korean civilians in June 1963 outside of Camp Casey, Korea.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S3",
+      "text": "During the attack, the Veteran was struck on the left side of his head and face with an unknown object, but described at times as a brick.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S4",
+      "text": "He was knocked unconscious for an unknown period of time, but he does remember waking up in an Army medical facility.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S5",
+      "text": "He has inconsistently reported that the attack occurred while he was on guard duty, or in the alternative, while he was at a nightclub.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S6",
+      "text": "He was transported to MEDEVAC hospital in Camp Casey, and then placed in another Army Hospital in Korea.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S7",
+      "text": "STRs only document a fracture of his left zygoma, something (illegible) with his left eye, and a fracture of his left maxilla.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S8",
+      "text": "He says he engaged in alcohol and drug abuse while in service, subsequent to the assault.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S9",
+      "text": "He also contends that behavioral issues began to arise, such that he was eventually reduced in rank and had a change of assignment.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S10",
+      "text": "Post-service, he became depressed and treated himself by way of drugs and alcohol.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S11",
+      "text": "As a result of this traumatic in-service assault, the Veteran has claimed that he developed PTSD with depression and polysubstance abuse, and at times has been homeless.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P120S12",
+      "text": "See November 2010 stressor statement for PTSD (VA Form 21-0781); August 2012 stressor statement for PTSD based on assault (VA Form 21-0781a); September 2011 VA psychiatry note; June 2012 VA psychological examination; January 2014 VA History and Physical; January 2017 Travel Board hearing testimony; February 2017 VA TBI examination.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P121S1",
+      "text": "The Veteran's PTSD claim is predicated on an allegation of a physical assault while he was in the military.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P121S2",
+      "text": "Because personal trauma is an extremely personal and sensitive issue, many incidents are not officially reported, which creates a proof problem with respect to the occurrence of the claimed stressor.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P121S3",
+      "text": "In such situations, it is not unusual for there to be an absence of service records documenting the events the veteran has alleged.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P121S4",
+      "text": "The victims of such trauma may not necessarily report the full circumstances of the trauma for many years after the trauma.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P121S5",
+      "text": "See VA Live Manual M21-1, III.iv.4.H.4.b. (Change date March 31, 2017).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P122S1",
+      "text": "Therefore, VA cannot use the absence of service record documentation or lack of report of in-service sexual assault or physical assault to military authorities as evidence to conclude that an assault did not occur.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P122S2",
+      "text": "AZ v. Shinseki, 731 F.3d 1303, 1318 (Fed. Cir. 2013).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S1",
+      "text": "Thus, when a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S2",
+      "text": "38 C.F.R. § 3.304(f)(5).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S3",
+      "text": "See also Patton v. West, 12 Vet. App. 272, 277 (1999).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S4",
+      "text": "It is often necessary to seek alternative evidence that may demonstrate the presence of markers.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S5",
+      "text": "The term marker refers to evidentiary signs, events, or circumstances indicating a possibility that the claimed stressor occurred, such as reports, lay statements, or behavioral changes that may be associated with the approximate timeframe of the claimed stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P123S6",
+      "text": "See VA Live Manual M21-1, IV.ii.1.D.5.m. (Change date March 31, 2017).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P124S1",
+      "text": "Examples of such evidence include, but are not limited to: records from law enforcement authorities; rape crisis centers; mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P124S2",
+      "text": " 38 C.F.R. § 3.304(f)(5).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P125S1",
+      "text": "Evidence of behavior changes following the claimed assault is another type of relevant evidence that may be found in these sources.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P125S2",
+      "text": "That is, if STRs and SPRs contain no explicit documentation that personal trauma occurred, and alternative sources of evidence do not provide credible supporting evidence of personal trauma, VA should consider secondary evidence including evidence of behavioral changes around the time of, and after, the incident(s).",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P125S3",
+      "text": "See VA Live Manual M21-1, III.iv.4.H.4.d. (Change date March 16, 2017).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P126S1",
+      "text": "Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P126S2",
+      "text": "38 C.F.R. § 3.304(f)(5).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P127S1",
+      "text": "Furthermore, corroboration of every detail of a claimed stressor, including the veteran's personal participation, is not required; rather, a veteran only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P127S2",
+      "text": "See Pentecost v. Principi, 16 Vet. App. 124, 128 (2002) (quoting Suozzi v. Brown, 10 Vet. App. 307 (1997)).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S1",
+      "text": "The Court has set a relatively low bar for interpreting a claim for PTSD as one involving a personal assault stressor for which the provisions of 38 C.F.R. § 3.304(f)(5) are applicable.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S2",
+      "text": "See, e.g., Bradford v. Nicholson, 20 Vet. App. 200 (2006) (veteran alleged that his sergeant kicked him down a set of stairs).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S3",
+      "text": "VA itself has defined personal trauma very broadly.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S4",
+      "text": "Personal trauma for the purpose of VA disability compensation claims based on PTSD refers broadly to stressor events involving harm perpetrated by a person who is not considered part of an enemy force.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S5",
+      "text": "Examples include assault, battery, robbery, mugging, stalking, and harassment.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S6",
+      "text": "Military sexual trauma is a subset of personal trauma and refers to sexual harassment, sexual assault, or rape that occurs in a military setting.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P128S7",
+      "text": "See VA Live Manual M21-1, IV.ii.1.D.5.a. (Change date March 31, 2017).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S1",
+      "text": "For a PTSD claim based on personal assault, an after-the-fact medical opinion can serve as the credible supporting evidence of the stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S2",
+      "text": "That is, VA examiners can interpret the evidence of record to confirm the occurrence of in-service physical assault, sexual assault, or harassment.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S3",
+      "text": "38 C.F.R. § 3.304(f)(5); Menegassi v. Shinseki, 638 F.3d 1379, 1383 (Fed. Cir. 2011); Bradford v. Nicholson, 20 Vet. App. 200, 207 (2006); Patton v. West, 12 Vet. App. 272, 280 (1999).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S4",
+      "text": "In fact, secondary evidence or behavior change evidence typically needs interpretation by a clinician in personal trauma claims.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S5",
+      "text": "The VA examiner should determine whether credible factual evidence of behavior changes demonstrated by the Veteran is consistent with the expected reaction or adjustment of a person who has been subjected to an assault.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P129S6",
+      "text": "See VA Live Manual M21-1, III.iv.4.H.4.f. (Change date March 16, 2017); IV.ii.1.D.5.r. (Change date March 31, 2017).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P130S1",
+      "text": "Upon review of the evidence of record, the Board concludes that the Veteran is entitled to service connection for PTSD with depression and polysubstance abuse.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P131S1",
+      "text": "STRs dated from 1961 to 1964 are negative for any complaint, treatment, or diagnosis of PTSD or other acquired psychiatric disorder.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P131S2",
+      "text": "In addition, no psychiatric disorder was objectively found at the Veteran's May 1964 separation examination, and the Veteran denied a history of insomnia, depression, excessive worry, or nervous trouble.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P131S3",
+      "text": "In any event, as to PTSD, an in-service diagnosis is not required.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P131S4",
+      "text": "See 38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S1",
+      "text": "SPRs document that the Veteran's military occupational specialty (MOS) was a physical activities specialist.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S2",
+      "text": "He served in Korea from August 1962 to September 1963.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S3",
+      "text": "A June 18, 1963 SPR personnel action - reclassification board, several weeks after his June 7, 1963 TBI occurred, noted that the Veteran had been counseled for the past three months on his completely disinterested attitude towards his military duties.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S4",
+      "text": "The counseling had a completely negative result.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S5",
+      "text": "He was noted to be three months behind in filing and posting of orders and correspondence to the personnel records.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S6",
+      "text": "He was recommended for reduction in rank for inefficiency.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S7",
+      "text": "He had the lowest academic standing of all 65 students.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P132S8",
+      "text": "He was separated from service in April 1964.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S1",
+      "text": "Upon review, there is evidence of record corroborating that the early June 1963 in-service physical assault and TBI occurred.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S2",
+      "text": "38 C.F.R. § 3.304(f)(5); Cohen, 10 Vet. App. at 147; Moreau, 9 Vet. App. at 395.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S3",
+      "text": "Specifically, the RO has already service-connected the Veteran for the underling TBI with various residuals to include a fracture of the left zygoma, a left cheek scar, and tension headaches with loss of balance, dizziness, and fatigue, among other TBI residuals.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S4",
+      "text": "In addition, a February 2017 photo of the Veteran's face clearly shows significant indentation and injury to the left side of face, which is grossly distorted with elevation and depression.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S5",
+      "text": "The undersigned Veterans Law Judge also remarked upon this fact during the Veteran's January 2017 hearing testimony.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S6",
+      "text": "Thus, the Veteran has already been service-connected by VA for the in-service TBI with various residuals.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S7",
+      "text": "The evidence of deterioration in work performance is not fully clear because it appears his work performance problems preceded his in-service TBI by several months.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S8",
+      "text": "In any event, for corroboration in assault cases, what is required is that sufficient circumstantial evidence exists that the alleged assault may have a basis in fact.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S9",
+      "text": "The Board emphasizes that a stressor need not be corroborated in every detail.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S10",
+      "text": "Pentecost, 16 Vet. App. at 128.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S11",
+      "text": "In the present case corroborative evidence of the alleged in-service physical assault in June 1963 is circumstantial in nature, not definitive in nature.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S12",
+      "text": "However, again, the in-service TBI was service-connected by the RO in a recent February 2017 rating decision.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P133S13",
+      "text": "In addition, as discussed below, multiple VA psychiatrists have concluded that the Veteran's in-service assault did occur.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P134S1",
+      "text": "With respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P134S2",
+      "text": "38 U.S.C.A. § 1131; 38 C.F.R. § 3.303; Boyer, 210 F.3d at 1353; Brammer, 3 Vet. App. at 225. ",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P134S3",
+      "text": "In particular, aside from corroboration of an in-service stressor, current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-5) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P134S4",
+      "text": "38 C.F.R. § 3.304(f).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P134S5",
+      "text": "See also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P135S1",
+      "text": "However, again, medical opinions in cases of personal assault for PTSD are exceptions to the general rule - as, for example, announced in Moreau v. Brown, 9 Vet. App. 389, 396 (1996), that an opinion by a medical professional based on a post-service examination cannot be used to establish the occurrence of a stressor.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P135S2",
+      "text": "38 C.F.R. § 3.304(f)(3); Patton v. West, 12 Vet. App. 272, 280 (1999).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P135S3",
+      "text": "For assault stressors, the examiner can interpret the meaning of behavioral changes during service to determine if an assault stressor did occur.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P135S4",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P136S1",
+      "text": "In the present case, VA psychiatric treatment records dated from 2010 to 2016 have rendered a current diagnosis of PTSD.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P136S2",
+      "text": "This is not in dispute.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P137S1",
+      "text": "But more importantly, with regard to a nexus, VA medical opinions of record assessed that a personal assault accompanied by a TBI did occur in June 1963, in addition to concluding that a diagnosis of PTSD due to the credible June 1963 personal assault was proper.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P137S2",
+      "text": "38 C.F.R. § 3.304(f)(5). ",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S1",
+      "text": "In particular, the record reflects several favorable VA medical opinions and treatment records from VA psychiatrists dated from 2010 to 2016.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S2",
+      "text": "The Board has reviewed VA psychiatry notes and VA history and physicals dated in September 2011, January 2014, December 2015, and August 2016 from the same VA psychiatrist who was familiar with the Veteran due to repeated treatment.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S3",
+      "text": "This VA psychiatrist opined that the Veteran had PTSD more likely than not to be the direct result of the attack on him during service in Korea.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S4",
+      "text": "Several of the latter opinions considered the DSM-5.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S5",
+      "text": "This VA psychiatrist repeatedly discussed details of the TBI incident in Korea, and repeatedly discussed the Veteran's PTSD symptoms.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S6",
+      "text": "In a January 2014 opinion, the same VA psychiatrist, when advised by VA of inconsistent descriptions of the in-service TBI by the Veteran, nonetheless opined that she was \"convinced that the injury was done by a brick thrown at him, was done by a Korean and that everything is as I had opined in all my documentation on this patient.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S7",
+      "text": "The VA examiner also described the Veteran as \"highly credible.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S8",
+      "text": "In addition, a different May 2011 VA psychiatrist came to the same favorable conclusion as to PTSD.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S9",
+      "text": "Also, the Veteran underwent positive PTSD screens in August 2010, November 2010, December 2010, September 2011, July 2013, October 2014, and October 2015.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S10",
+      "text": "These PTSD screens revealed positive symptomatology such as nightmares, avoidance, numbness, detachment, and hypervigilance.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S11",
+      "text": "They were also often accompanied by positive depression screens.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S12",
+      "text": "Moreover, in July 2012, a VA nurse practitioner opinion stated that both VA primary care and VA psychiatry suggest that the Veteran's PTSD \"could\" be related to the head trauma he received while in the Army in Korea.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P138S13",
+      "text": "Finally, VA Vet Center counseling records dated from 2014 to 2016 assessed the Veteran with multiple symptoms consistent with the diagnosis of PTSD based on the in-service assault in Korea.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S1",
+      "text": "Pursuant to 38 C.F.R. § 4.125(a), if the diagnosis of a mental disorder does not conform to DSM-IV / DSM-5 or is not supported by the findings on the examination report, the rating agency shall return the report to the examiner to substantiate the diagnosis.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S2",
+      "text": "Mental health professionals are experts and are presumed to know the DSM requirements applicable to their practice and to have taken them into account in providing a PTSD diagnosis.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S3",
+      "text": "As such, the Court has held that a PTSD diagnosis provided by a mental-health professional must be presumed to have been made in accordance with the applicable DSM-IV (or DSM-5) criteria as to both the adequacy of the symptomatology and the sufficiency of the stressor, unless there is evidence to the contrary.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S4",
+      "text": "Cohen v. Brown, 10 Vet. App. 128, 140 (1997).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S5",
+      "text": "The DSM-IV (or DSM-5) cannot be used \"as a basis for rejecting the Veteran's favorable medical evidence as to the sufficiency of a stressor or the adequacy of the Veteran's symptomatology.\"",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S6",
+      "text": "Id.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S7",
+      "text": "As such, in order to make a finding that the Veteran in this case did not have a valid PTSD diagnosis, the Board must clearly articulate its reasons for finding that the PTSD diagnosis was not made in accordance with the DSM-IV or DSM-5 requirements.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P139S8",
+      "text": "If the Board cannot support a conclusion that the diagnosis was not made in accordance with DSM-IV or DSM-5 requirements, it must accept the diagnosis as valid.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P140S1",
+      "text": "In the present case, the Board will therefore accept the above PTSD diagnoses rendered by VA medical professionals as valid and in accordance with the DSM-IV and DSM-5.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P140S2",
+      "text": "In any event, the VA psychiatrists of record described the reasons for their conclusions and also discussed the Veteran's underlying PTSD symptomatology.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P141S1",
+      "text": "Overall, the above VA psychiatry notes and opinions were thorough, supported by explanations, and considered the Veteran's history and relevant longitudinal complaints.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P141S2",
+      "text": "In short, there is probative evidence in support of the PTSD claim.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P141S3",
+      "text": "The Board emphasizes that VA may not order additional development for the sole purpose of obtaining evidence unfavorable to a claimant.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P141S4",
+      "text": "Mariano v. Principi, 17 Vet. App. 305, 312 (2003).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S1",
+      "text": "The Board acknowledges that some unfavorable evidence of record with respect to the Veteran's PTSD exists.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S2",
+      "text": "Specifically, a VA psychological examiner in July 2012 and August 2012 (the same VA examiner), after a mental health examination of the Veteran and a review of the evidence of record, opined that the Veteran did not meet any of the DSM-IV criteria for PTSD.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S3",
+      "text": "However, the underlying premise of this opinion is flawed.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S4",
+      "text": "The VA examiner determined that the in-service June 1963 TBI never took place.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S5",
+      "text": "But subsequently, the RO determined that it did in fact take place based on the findings of a later February 2017 VA TBI examiner.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S6",
+      "text": "At that point, the RO in a February 2017 rating decision service-connected the Veteran for the underlying incident in question, and awarded the Veteran service-connected compensation for various residuals of his in-service TBI from the assault.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S7",
+      "text": "The Court has held on a number of occasions that a medical opinion premised upon an inaccurate factual premise is of no probative value.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S8",
+      "text": "See Sklar v. Brown, 5 Vet. App. 140 (1993); Reonal v. Brown, 5 Vet. App. 458 (1993); Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993); Swann v. Brown, 5 Vet. App. 229, 232 (1993).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P142S9",
+      "text": "Thus, the unfavorable VA psychological examination reports dated in July 2012 and August 2012 are entitled to only limited probative value against the claim.",
+      "rhetRole": [
+        "ReasoningSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P143S1",
+      "text": "Given the law and the medical evidence of record, the Board is compelled to grant the Veteran the benefit of the doubt and allow service connection for PTSD.",
+      "rhetRole": [
+        "FindingSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P143S2",
+      "text": "See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S1",
+      "text": "In addition, the Board has also considered whether the Veteran's PTSD claim raised the issue of whether service connection is warranted for any other acquired psychiatric disorder in addition to PTSD.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S2",
+      "text": "See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (holding that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S3",
+      "text": "In this regard, the record also shows the Veteran has depression, NOS, and polysubstance abuse disorder as secondary to his service-connected PTSD and his service-connected TBI.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S4",
+      "text": "See 38 C.F.R. § 3.310(a).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S5",
+      "text": "Specifically, in August 2010 and May 2011 VA psychiatric notes, it was mentioned that the Veteran began to use alcohol and drugs to deal with his physical TBI pain after he left service.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S6",
+      "text": "The Board has also reviewed VA psychiatry notes and history and physicals dated in September 2011, January 2014, December 2015, and August 2016 from the same VA psychiatrist who was familiar with the Veteran due to repeated treatment.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S7",
+      "text": "Psychiatric testing revealed \"moderate depression.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S8",
+      "text": "This VA psychiatrist opined that the Veteran had a TBI-based pain disorder \"with psychological factors\" and that his drug and alcohol addiction was the result of his in-service TBI.",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P144S9",
+      "text": "In September 2011 the VA psychiatrist remarked that \"chemical dependency was his way of self-medicating for the pain and PTSD.\"",
+      "rhetRole": [
+        "EvidenceSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P145S1",
+      "text": "In any event, the present decision is considered a full grant of the benefits sought by the Veteran for his acquired psychiatric disorder claim to include PTSD.",
+      "rhetRole": [
+        "Sentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P145S2",
+      "text": "In granting service connection for PTSD with depression and polysubstance abuse, the RO should assign a disability rating or ratings that encompass the symptoms of these disorders.",
+      "rhetRole": [
+        "LegalRuleSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    },
+    {
+      "sentID": "1713743P145S3",
+      "text": "See Amberman v. Shinseki, 570 F.3d 1377, 1381 (2009) (two defined diagnoses constitute the same disability for purposes of 38 C.F.R. § 4.14 if they have overlapping symptomatology, but bipolar disorder and PTSD could have different symptoms and it could therefore be improper in some circumstances for VA to treat these separately diagnosed conditions as producing only the same disability).",
+      "rhetRole": [
+        "CitationSentence"
+      ],
+      "ruleCondition": "ADD",
+      "nlpOutput": {}
+    }
+  ],
+  "ruleTree": {
+    "name": "The veteran has a disability that is service-connected.",
+    "truthValue": "",
+    "children": [{
+        "name": "The veteran has a present disability.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    },
+    {
+        "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": ""
+                }
+            },
+            {
+                "name": "The injury or disease did not preexist entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                        "inferenceRelation": "REBUT",
+                        "truthValue": ""
+                    }            
+                }
+            }]        
+            },
+            {
+            "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+            "siblingRelation": "OR",
+            "siblingCount": 2,
+            "inferenceRelation": "OR",
+            "truthValue": "",
+            "children": [
+                {
+                "name": "The injury or disease preexisted entry into service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": ""
+                },
+                {
+                "name": "There was an aggravation during service.",
+                "siblingRelation": "AND",
+                "siblingCount": 2,
+                "inferenceRelation": "AND",
+                "truthValue": "",
+                "children": {
+                    "name": "The presumption of aggravation has been satisfied.",
+                    "inferenceRelation": "IMP",
+                    "truthValue": "",
+                    "children": {
+                            "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                    }
+                }
+            }]        
+            },
+            {
+            "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+            "siblingRelation": "",
+            "siblingCount": 0,
+            "inferenceRelation": "REBUT",
+            "truthValue": ""
+        }]
+    },
+    {
+        "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+        "siblingRelation": "AND",
+        "siblingCount": 3,
+        "inferenceRelation": "AND",
+        "truthValue": "",
+        "children": {
+            "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+            "inferenceRelation": "IMP",
+            "truthValue": ""
+        }
+    }]
+},
+  "text": "Citation Nr: 1713743\t\r\nDecision Date: 04/27/17 Archive Date: 05/05/17\r\n\r\nDOCKET NO. 14-38 540A\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in St. Petersburg, Florida\r\n\r\n\r\nTHE ISSUES\r\n\r\n1. Entitlement to service connection for left face nerve damage, to include as secondary to a service-connected traumatic brain injury (TBI) with a fracture of the left zygoma.\r\n\r\n2. Entitlement to service connection for a bilateral eye disability (claimed as \"blurred vision\"), to include as secondary to a service-connected TBI with a fracture of the left zygoma.\r\n\r\n3. Entitlement to service connection for left eye blindness with loss of visual acuity, to include as secondary to a service-connected TBI with a fracture of the left zygoma.\r\n\r\n4. Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD) with depression and polysubstance abuse, based on an alleged personal assault. \r\n\r\n\r\n\r\nREPRESENTATION\r\n\r\nVeteran represented by:\tThe American Legion\r\n\r\n\r\nWITNESS AT HEARING ON APPEAL\r\n\r\nThe Veteran\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nP.S. Rubin, Counsel\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran had active duty service from May 1961 to April 1964 in the United States Army. \r\n\r\nThis matter comes to the Board of Veterans' Appeals (Board) on appeal from November 2011 and September 2012 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida. \r\n\r\nThis appeal was processed using Virtual VA and the Veterans Benefits Management System (VBMS). Accordingly, any future consideration of this Veteran's case should take into consideration the existence of this electronic record. \r\n\r\nThe Board observes that in the November 2011 rating decision on appeal, the RO also denied the Veteran's claims for service connection for bilateral trench foot and a dental disability. However, a review of the record shows that the Veteran did not submit a Notice of Disagreement (NOD) or Substantive Appeal (e.g., VA Form 9 or equivalent statement) for these particular issues. See 38 U.S.C.A. § 7105(a) (West 2014); 38 C.F.R. §§ 20.200, 20.201, 20.202, 20.300, 20.302 (2016). In fact, in a January 2012 NOD pertaining to the issues currently on appeal, the Veteran explicitly stated that he did not wish to pursue the issues of service connection for bilateral trench foot and a dental disability. Thus, these particular service connection issues are not on appeal before the Board. \r\n\r\nIn January 2017, the Veteran presented testimony at a Travel Board hearing at the RO before the undersigned Veterans Law Judge. A transcript of that hearing is associated with VBMS. \r\n\r\nFinally, the Veteran submitted additional VA treatment records and Vet Center records in January 2017, after certification of his appeal. However, he waived his right to have the RO initially consider this evidence. Therefore, the Board accepts this additional evidence for inclusion in the record and consideration by the Board at this time. See 38 C.F.R. §§ 20.800, 20.1304 (2016). \r\n\r\nThis appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2016). 38 U.S.C.A. § 7107(a)(2) (West 2014).\r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. The Veteran does not have a current left face nerve damage disability, that is separate and distinct from the symptoms of his TBI that have already been service-connected. \r\n\r\n2. The Veteran's current bilateral eye ocular hypertension, glaucoma, and cataracts are not causally or etiologically related to active service, to include any injury or event therein. In addition, these disabilities did not develop post-service as secondary to the Veteran's service-connected TBI. \r\n\r\n3. The Veteran's current bilateral eye refractive error / presbyopia is not a \"disease\" or \"injury\" under the meaning of applicable law and regulation for VA purposes; in addition, his refractive error was not subject to a superimposed disease or injury during service, resulting in any additional disability. \r\n\r\n4. The Veteran has left eye blindness with loss of visual acuity proximately due to or the result of his service-connected TBI with a fracture of the left zygoma. \r\n\r\n5. There is credible supporting evidence (including in-service behavioral changes), confirming that the Veteran's alleged in-service physical assault occurred.\r\n\r\n6. The most probative evidence of record establishes that the Veteran has a current diagnosis of PTSD with depression and substance abuse due to an in-service physical assault and TBI, in accordance within the applicable VA regulation.\r\n\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. A left face nerve damage disability was not incurred in or aggravated during active service, and is not secondary to his service-connected TBI. 38 U.S.C.A. §§ 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310, 4.14 (2016).\r\n\r\n2. A bilateral eye and/or vision disorder, to include ocular hypertension, glaucoma, and cataracts were not incurred in or aggravated by active service, and are not secondary to the Veteran's service-connected TBI. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.307, 3.309, 3.310 (2016). \r\n\r\n3. Bilateral eye refractive error / presbyopia was not incurred in or aggravated by service and was not subject to a superimposed disease or injury in service that resulted in additional disability. 38 U.S.C.A. §§ 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 4.9, 4.127 (2016); VAOPGCPREC 82-90 (July 18, 1990); VAOPGCPREC 67-90 (July 18, 1990).\r\n\r\n4. Resolving all reasonable doubt in his favor, the Veteran left eye blindness with loss of visual acuity is secondary to his service-connected TBI with a fracture of the left zygoma. 38 U.S.C.A. §§ 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.310(a), (d).\r\n\r\n5. Resolving all reasonable doubt in his favor, the Veteran has PTSD with depression and polysubstance abuse that was incurred in active military service. 38 U.S.C.A. §§ 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304(f)(5), 3.310, 4.125(a) (2016).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nI. VA's Duty to Notify and Assist\r\n\r\nThe Veterans Claims Assistance Act of 2000 (VCAA), in part, describes VA's duties to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126 (West 2014); Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, Pub. L. No. 112-154, §§ 504, 505, 126 Stat. 1165, 1191-93; 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2016). \r\n\r\nThe VCAA applies to the instant claims for service connection and secondary service connection for left eye blindness with loss of visual acuity and PTSD with depression and polysubstance abuse. However, the Veteran was provided adequate VCAA notice for these issues in October 2010, November 2010, September 2011, November 2011, and July 2012 letters. \r\n\r\nMoreover, if any defect in VCAA notice or assistance is found, such defect is not prejudicial to the Veteran, given the completely favorable disposition of the left eye blindness and PTSD with depression and polysubstance abuse issues on appeal. Bernard v. Brown, 4 Vet. App. 384, 392-94 (1993). \r\n\r\nWith regard to the left face nerve damage and bilateral eye disability issues being denied in the present decision, VA's duty to notify was satisfied by VCAA letters dated in October 2010, November 2010, September 2011, and November 2011. See 38 U.S.C.A. §§ 5102, 5103, 5103A (West 2014); 38 C.F.R. § 3.159 (2016); see also Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).\r\n\r\nAccordingly, the Veteran has received all required notice in this case for these particular service connection issues on appeal for left face nerve damage and a bilateral eye disability (claimed as \"blurred vision\"), such that there is no prejudicial error in the content or timing of VCAA notice. See also Shinseki v. Sanders, 556 U.S. 396 (2009) (an error in VCAA notice should not be presumed prejudicial and the burden of showing harmful error rests with the party raising the issue, to be determined on a case-by-case basis). There has been no allegation of any error in the VCAA notice provided to the Veteran for these particular issues. \r\n\r\nWith respect to the duty to assist, the RO has obtained the Veteran's service treatment records (STRs), service personnel records (SPRs), VA outpatient treatment records, private medical evidence as authorized by the Veteran, and VA examinations. For his part, the Veteran has submitted personal statements, hearing testimony, argument from his representative, and additional VA and Vet Center evidence. The Veteran has not identified any additional, outstanding evidence that is relevant to his service connection claims being denied herein for left face nerve damage and a bilateral eye disability. \r\n\r\nThe Veteran was also afforded VA examinations and opinions in October 2011 and February 2017 to determine the etiology of his left face nerve damage and bilateral eye disability, to include as secondary to a service-connected TBI. See McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006); see also 38 U.S.C.A. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4). As will be discussed below, these VA examinations were thorough, supported by explanations, based on a review of the claims folder, and supported by clinical evidence of record. These VA examinations also considered the Veteran's reported lay history. As such, there is no basis for any further VA examination or opinion as to the left face nerve damage and bilateral eye disability issues on appeal. \r\n\r\nAccording to a March 2017 letter to the Veteran from the Social Security Administration (SSA), the SSA indicated they paid disability benefits to the Veteran from 1993 to 2004. However, these disability benefits were converted to retirement benefits in November 2004 because of the Veteran's advanced age. In any event, a copy of the September 1994 SSA disability determination submitted by the Veteran concluded that he was disabled due to nonservice-connected lumbar spine, urinary dysfunction, and lower extremity disabilities. The Veteran was considered to be disabled by the SSA post-service since 1992, after the Veteran injured himself hauling furniture, according to a June 2012 VA psychological examination. Complete SSA disability records are not present in the claims folder. \r\n\r\nBut most significantly, it is apparent that these SSA disability benefits were only awarded in the context of his nonservice-connected lumbar spine, urinary dysfunction, and lower extremity disabilities. As there was no reason to suspect the SSA records would change the outcome of the service connection claims being denied in the present case, VA is not obligated to invest further time and resources to obtain them. See Golz v. Shinseki, 590 F.3d 1317, 1323 (2010) (\"It is not the case that the government must obtain records in every case in order to rule out their relevance. Such a decision would be akin to a determination that all medical records must be obtained.\") In essence, efforts to obtain these SSA records are clearly not warranted, as they are not relevant to the claims being denied and would provide no reasonable possibility of substantiating the claims on appeal. 38 U.S.C.A. § 5103A(a)(2). \r\n\r\nMoreover, for both the left face nerve damage and bilateral eye issues on appeal, neither the Veteran nor his representative has advanced any procedural arguments in relation to VA's duties to notify and assist. See Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015) (holding that \"absent extraordinary circumstances . . . we think it is appropriate for the Board and the Veterans Court to address only those procedural arguments specifically raised by the veteran . . .\"). For instance, the Veteran has not alleged any deficiency with his January 2017 Travel Board hearing testimony as to the duties discussed in Bryant v. Shinseki, 23 Vet. App. 488, 496-97 (2010). In this regard, the Federal Circuit recently ruled in Dickens v. McDonald, 814 F.3d 1359 (Fed. Cir. 2016) that a Bryant hearing deficiency was subject to the doctrine of issue exhaustion as laid out in the Scott case, cited to above. Thus, the Board need not discuss any potential Bryant problem because the Veteran has not raised that issue before the Board. \r\n\r\nAccordingly, the Board is satisfied that the RO has provided all assistance required by the VCAA. 38 U.S.C.A. § 5103A (West 2014). Hence, there is no error or issue that precludes the Board from addressing the merits of the service connection issues on appeal for left face nerve damage and a bilateral eye disability.\r\n\r\nII. Service Connection\r\n\r\nService connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a). \r\n\r\nUnder 38 C.F.R. § 3.303(a), service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called \"nexus\" requirement. Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). The Federal Circuit Court recently held that diseases that would be considered \"chronic\" in a medical sense, but which are not listed in 38 C.F.R. § 3.309(a) as an enumerated \"chronic disease,\" may still qualify for service connection under the three-element test for disability compensation described in § 3.303(a). Walker v. Shinseki, 708 F.3d 1331, 1338-39 (Fed. Cir. 2013). \r\n\r\nBut under 38 C.F.R. § 3.303(b), where the evidence shows an enumerated \"chronic disease\" in service (or within the presumptive period under § 3.307), or \"continuity of symptoms\" of such a disease after service, the disease shall be presumed to have been incurred in service. Walker, 708 F.3d at 1335-37. Initially, certain bilateral eye disorders and left face nerve damage the Veteran has been diagnosed with are not an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a); therefore, the presumptive provisions based on \"chronic\" symptoms in service and \"continuous\" symptoms since service at 38°C.F.R. § 3.303(b) do not apply for these disorders. Walker, 708 F.3d at 1338-39. \r\n\r\nHowever, the Veteran's glaucoma of the eyes is an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a) (other organic disease of the nervous system); therefore, 38 C.F.R. § 3.303(b) does apply to that disorder. Id. Service connection for an enumerated \"chronic disease\" listed under 38 C.F.R. § 3.309(a) such as glaucoma can also be also be established on a presumptive basis by showing that it manifested itself to a degree of 10 percent or more within one year from the date of separation from service. 38 U.S.C.A. §§ 1101, 1112, 1113, 1137; 38 C.F.R. §§ 3.307(a)(3), 3.309(a). \r\n\r\nThat is, under 38 C.F.R. § 3.303(b), with an enumerated \"chronic disease\" such as glaucoma shown in service (or within the presumptive period under § 3.307), subsequent manifestations of the same chronic disease at any later date, however remote, are service-connected, unless clearly attributable to intercurrent causes. See also Groves v. Peake, 524 F.3d 1306, 1309 (2008). This rule does not mean that any manifestation of joint pain, any abnormality of heart action or heart sounds, any urinary findings of casts, or any cough, in service will permit service connection of arthritis, disease of the heart, nephritis, or pulmonary disease, first shown as a clear cut clinical entity, at some later date. For the showing of chronic disease such as glaucoma in service there is required a combination of manifestations sufficient to identify the disease entity, and sufficient observation to establish chronicity at the time, as distinguished from merely isolated findings or a diagnosis including the word \"chronic.\" When the disease identity is established (leprosy, tuberculosis, multiple sclerosis, etc.), there is no requirement of evidentiary showing of continuity of symptomatology. 38 C.F.R. § 3.303(b). \r\n\r\nIn addition, for chronic diseases listed in 38 C.F.R. § 3.309(a) - such as glaucoma - service connection may be established by showing continuity of symptoms, which requires a claimant to demonstrate (1) that a condition was \"noted\" during service; (2) evidence of post-service continuity of symptoms; and (3) medical or, in certain circumstances, lay evidence of a link between the present disability and the post-service symptoms. 38 C.F.R. § 3.303(b) (2016); see Walker, 708 F.3d at 1340 (Fed. Cir. 2013) (holding that only those chronic diseases listed in 38 C.F.R. § 3.309 are subject to service connection by continuity of symptoms described in § 3.303(b). The correct understanding of the \"condition noted during service\" is that the condition is one that is indicative of but not dispositive of a chronic disease. Walker, 708 F.3d at 1339. Stated another way, continuity of symptomatology after discharge is required only where the condition noted during service (or in the presumptive period) is not, in fact, shown to be chronic or where the diagnosis of chronicity may be legitimately questioned, i.e., \"when the fact of chronicity in service is not adequately supported.\" 38 C.F.R. § 3.303(b). See also Walker, 708 F.3d at 1339-40. \r\n\r\nUnder 38 C.F.R. § 3.303(d), disorders diagnosed after discharge may also still be service connected if all the evidence, including pertinent service records, establishes the disorder was incurred in service. See Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).\r\n\r\nA disability can also be service connected on a secondary basis if it is proximately due to or the result of a service-connected condition. 38 C.F.R. § 3.310(a). Moreover, secondary service connection may be established, as well, by any increase in severity (i.e., aggravation) of a nonservice-connected condition that is proximately due to or the result of a service-connected condition. 38 C.F.R. § 3.310(b), effective October 10, 2006. See 71 Fed. Reg. 52,744-52,747 (September 7, 2006). See also Allen v. Brown, 7 Vet. App. 439, 448 (1995); Tobin v. Derwinski, 2 Vet. App. 34, 39 (1991). Where a service-connected disability aggravates a nonservice-connected condition, a veteran may be compensated for the degree of disability (but only that degree) over and above the degree of disability existing prior to the aggravation. Allen, 7 Vet. App. at 448. \r\n\r\nIn short, in order to establish entitlement to service connection on this secondary basis, there must be (1) evidence of a current disability; (2) evidence of a service-connected disability; and (3) probative evidence establishing a nexus (i.e., link) between the service-connected disability and the current disability. Wallin v. West, 11 Vet. App. 509, 512 (1998).\r\n\r\nVA is to give \"due consideration\" to \"all pertinent medical and lay evidence\" in evaluating a claim for disability benefits. 38 U.S.C.A. § 1154(a) (West 2014). The Federal Circuit has held that medical evidence is not always or categorically required in every instance to establish a medical diagnosis or the required nexus between the claimed disability and the Veteran's military service. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009). \r\n\r\nThat is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson, 581 F.3d at 1316. See also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007). In short, when considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent on the issues of diagnosis and medical causation. Kahana v. Shinseki, 24 Vet. App. 428, 438 (2011). \"The question of whether a particular medical issue is beyond the competence of a layperson-including both claimants and [VA adjudicators] must be determined on a case-by-case basis. Id.\r\n\r\nFor instance, a layperson is competent to identify such disorders as varicose veins, tinnitus, and flat feet. 38 C.F.R. § 3.159(a)(2); Barr v. Nicholson, 21 Vet. App. 303, 310 (2007); Charles v. Principi, 16 Vet. App. 370, 374 (2002); Falzone v. Brown, 8 Vet. App. 398, 405 (1995). In contrast, a layperson is not competent to identify medical conditions that require scientific, technical, or other specialized knowledge, such as in identifying bronchial asthma. 38 C.F.R. § 3.159(a)(1); Layno v. Brown, 6 Vet. App. 465, 469 (1994). \r\n\r\nTherefore, the Board must assess the competence and credibility of lay statements. Barr, 21 Vet. App. at 308. \r\n\r\nThe Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation. King v. Shinseki, 700 F.3d 1339, 1344 (2012).\r\n\r\nIn determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine. 38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991).\r\n\r\n\tA. Preliminary Discussion of Already Service-Connected TBI Injury\r\n\r\nInitially, in a very recent February 2017 rating decision, the Board sees the Veteran was service-connected for an underlying TBI that occurred in June 1963 during active duty while stationed with the Army in Korea. The precise circumstances of how the TBI occurred are somewhat unclear. The Veteran has reported that in May or June of 1963 near Camp Casey in Korea, he was attacked by two Korean civilians. During the attack, the Veteran was struck on the left side of his head and face with an unknown object, but described at times as a brick. He was knocked unconscious for an unknown period of time, but he does remember waking up in an Army medical facility. He has inconsistently reported that the attack occurred while he was on guard duty, or in the alternative, while he was at a nightclub. He was transported to MEDEVAC hospital in Camp Casey, and then placed in another Army Hospital in Korea. STRs only document a fracture of his left zygoma, something (illegible) with his left eye, and a fracture of his left maxilla. At that time, STRs relate that the Veteran had sustained this injury while playing baseball. However the Veteran has explained that he falsely reported the baseball injury to his commanding officer because he thought he would look bad, after he had been in a civilian village, which was an off-limit place. So he admits he told an incorrect story to his commanding officer about how his TBI was sustained. See November 2010 stressor statement for PTSD (VA Form 21-0781); August 2012 stressor statement for PTSD based on assault (VA Form 21-0781a); September 2011 VA psychiatry note; June 2012 VA psychological examination; January 2014 VA History and Physical; January 2017 Travel Board hearing testimony; February 2017 VA TBI examination. \r\n\r\nIn any event, the RO has already service-connected the Veteran for the underlying TBI with various residuals to include a fracture of the left zygoma, a left cheek scar, and tension headaches with loss of balance, dizziness, and fatigue, among other TBI residuals. In addition, a February 2017 photo of the Veteran's face clearly shows significant indentation and injury to the left side of face, which is grossly distorted with elevation and depression. The undersigned Veterans Law Judge also remarked upon this fact during the Veteran's January 2017 hearing testimony. Thus, the Veteran has already been service-connected by VA for the in-service TBI with various residuals. This fact is not in dispute. \r\n\r\nTherefore, due to the verified and service-connected underlying TBI, the Board has specifically considered the presumptive provisions 38 C.F.R. § 3.310(d). Under 38 C.F.R. § 3.310(d), in a veteran who has a service-connected TBI, the following shall be held to be the proximate result of the service-connected TBI, in the absence of clear evidence to the contrary: (i) Parkinsonism, including Parkinson's disease, following moderate or severe TBI; (ii) Unprovoked seizures following moderate or severe TBI; (iii) Dementias of the following types: presenile dementia of the Alzheimer type, frontotemporal dementia, and dementia with Lewy bodies, if manifest within 15 years following moderate or severe TBI; (iv) Depression if manifest within 3 years of moderate or severe TBI, or within 12 months of mild TBI; or (v) Diseases of hormone deficiency that result from hypothalamo-pituitary changes if manifest within 12 months of moderate or severe TBI. Thus 38 C.F.R. § 3.310(d)(1) entails presumptive service connection for the above disabilities.\r\n\r\nIn the present case, there is no evidence of record showing that the Veteran's current depression was manifested within 3 years of moderate or severe TBI, or within 12 months of mild TBI. 38 C.F.R. § 3.310(d)(1)(iv). In addition, the Veteran's currently diagnosed eye disorders, PTSD, substance abuse disorder, and left face apraxia, are not listed under 38 C.F.R. § 3.310(d)(1) as one of the presumptive conditions associated with a TBI injury. \r\n\r\nHowever, secondary service connection may also be awarded under 38 C.F.R. § 3.310(d)(2) for any condition not meeting the above criteria, under the generally applicable provisions of service connection. This would entail consideration of non-presumptive service connection, established by the evidence of record. Therefore, the Board will consider all of these disorders on a non-presumptive basis as well. \r\n\r\nThe determination of the severity level (mild, moderate, or severe) of the underlying TBI is based on the TBI symptoms at the time of the injury or shortly thereafter. The TBI does not have to meet all the criteria listed under a certain severity level in order to classify the TBI at that severity level. If a TBI meets the criteria in more than one category of severity, then the TBI should be ranked at the highest level in which a criterion is met, except where the qualifying criterion is the same at both levels. 38 C.F.R. § 3.310(d)(3). \r\n\r\nA TBI is mild in severity if there is normal structural imaging, loss of consciousness for up to 30 minutes, alteration of consciousness or mental statement for a moment to up to 24 hours, post-traumatic amnesia for up to a day, and a Glasgow Coma Scale ranging from 13 to 15. A TBI is moderate in severity if there is normal or abnormal structural imaging, loss of consciousness from 30 minutes to less than 24 hours, alteration of consciousness or mental state for more than 24 hours, post-traumatic amnesia from one to 7 days, or Glasgow Coma Scale from 9-12. A TBI is severe if there is normal or abnormal structural imaging, loss of consciousness for more than 24 hours, alteration of consciousness or mental state for more than 24 hours, post-traumatic amnesia for more than 7 days or a Glasgow Coma Scale of 3-8. See 38 C.F.R. § 3.310(d)(3).\r\n\r\nThe resultant disabling effects of a TBI event beyond those that follow immediately from the acute injury to the brain are known as TBI residuals or TBI sequelae. The signs and symptoms of TBI residuals can be organized into the three main categories of physical, cognitive, and behavioral / emotional residuals for evaluation purposes. TBI residuals can resolve in a short period of time, persist chronically or permanently, or may also have a delayed onset. See M21-1, Live Manual, Part III, Subpart iv, Chapter 4, Section G, Topic 2, Block d (change date September 29, 2016).\r\n\r\nWith regard to the in-service TBI, after review of the medical and lay evidence of record (see e.g., October 2011 VA TBI examination), it appears the Veteran's in-service June 1963 TBI injury was \"moderate\" to \"severe\" due to loss of consciousness for around 24 hours or alteration of consciousness or mental state for more than 24 hours. See 38 C.F.R. § 3.310(d)(3). \r\n\r\nThe Board will now turn to consideration of service connection and secondary service connection for the specfic disabilities on appeal. \r\n\r\n\tB. Left Face Nerve Damage\r\n\r\nThe Veteran contends that he has nerve damage or neurological damage to the left side of his face as a residual of his already service-connected TBI. He says he developed nerve damage related to his in-service facial trauma in 1963. Post-service, he says he did not have health insurance, so he simply lived with the pain until 2010. The Veteran currently reports numbness in the left cheek. See August 2010 formal claim for TBI; January 2014 DRO conference; January 2017 hearing testimony at pages 7-8; February 2017 VA skin / scar examination report. \r\n\r\nUpon review of the evidence of record, the Board concludes that the Veteran is not entitled to service connection or secondary service connection for left face nerve damage. \r\n\r\nImportantly, the Veteran is already service-connected for a broad array of residuals of his in-service TBI. Specifically, he has been assigned a 70 percent rating for residuals of a TBI under 38 C.F.R. § 4.124a, Diagnostic Code 8045. Also, he has been assigned a 30 percent rating for residuals of fracture of the left zygoma, with residual left cheek scar, under 38 C.F.R. § 4.118, Diagnostic Code 7800 (scars of the head, face, or neck). In addition, he has been assigned a 10 percent rating for a painful left cheek scar under 38 C.F.R. § 4.118, Diagnostic Code 7804. Finally, he has been assigned a 0 percent rating for tension headaches with loss of balance, dizziness, and fatigue, under 38 C.F.R. § 4.124a, Diagnostic Code 8100. \r\n\r\nAccording to the February 2017 rating decision, the 70 percent rating for the Veteran's TBI already considered neurological residuals of his TBI. This was based on the findings of a February 2017 VA TBI examiner. Specifically, a level of severity of \"2\" has been assigned for the Veteran's motor activity (with intact motor and sensory system) facet based on motor activity mildly decreased or with moderate slowing due to \"apraxia.\" Apraxia is defined as the loss of ability to carry out familiar, purposeful movements in the absence of paralysis or other motor sensory impairment. See DORLAND'S ILLUSTRATED MEDICAL DICTIONARY 120 (30TH Ed. 2003). \r\n\r\nThe evaluation of the same disability or the same manifestations of disability under multiple diagnoses is to be avoided. 38 C.F.R. § 4.14. A claimant may not be compensated twice for the same symptomatology as \"such a result would overcompensate the claimant for the actual impairment of his earning capacity.\" Brady v. Brown, 4 Vet. App. 203, 206 (1993). This would result in pyramiding, contrary to the provisions of 38 C.F.R. § 4.14. See also Amberman v. Shinseki, 570 F.3d 1377, 1381 (Fed. Cir. 2009) (\"two defined diagnoses constitute the same disability for purposes of section 4.14 if they have overlapping symptomatology\"). \r\n\r\nHowever, when a veteran has separate and distinct manifestations attributable to the same injury, he should be compensated under different diagnostic codes with different ratings. Esteban v. Brown, 6 Vet. App. 259, 262 (1994). See also Fanning v. Brown, 4 Vet. App. 225 (1993). The critical inquiry in making such a determination is whether any of the disabling symptomatology is duplicative or overlapping. The Veteran is entitled to a combined rating only where the symptomatology is distinct and separate. Id. \r\n\r\nThe existence of a current disability is the cornerstone of a claim for VA disability compensation. 38 U.S.C.A. § 1131; Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). Congress specifically limits entitlement for service-connected disease or injury to cases where such incidents have resulted in a disability. In the absence of proof of a present, separate disability from nerve damage to the left side of his face, there can be no valid claim for direct service connection. 38 U.S.C.A. § 1110; see Degmetich v. Brown, 104 F. 3d 1328, 1332 (1997) (holding that interpretation of sections 1110 and 1131 of the statute as requiring the existence of a present disability for VA compensation purposes cannot be considered arbitrary). \r\n\r\nIn order for a Veteran to qualify for basic entitlement to compensation under 38 U.S.C.A. § 1110 or § 1131, the Veteran must prove existence of a disability, and one that has resulted from a disease or injury that occurred in the line of duty. See Sanchez-Benitez v. Principi, 259 F.3d 1356, 1361 (2001). The mere fact of a veteran reporting subjective symptoms, whether pain or otherwise, does not necessarily warrant a finding that he has met the current disability due to disease or injury requirement. Rather, an underlying disease or injury is required, with current impairment of some sort. \r\n\r\nOn this issue, there is no probative evidence of any current, distinct neurological symptomatology from the Veteran's service-connected TBI that would permit a separate rating for any facial nerve disorder, other than what he already has. Accordingly, as evaluation of the same disability or the same manifestations of disability under multiple diagnoses (i.e., pyramiding) is to be avoided, service connection or secondary service connection for separate nerve damage to the face is not warranted. Simply stated, the Veteran is already service connected by the RO for whatever neurological symptoms to the face he has, as a residual of his TBI. See 38 C.F.R. § 4.14. \r\n\r\nOn this issue, the Board acknowledges that the Veteran reported numbness of the face to the February 2017 VA TBI examiner. But this is the only time the Veteran reported this specific symptom in the record, including in VA and private treatment records. Moreover, in contrast, the medical evidence of record outweighs the Veteran's subjective complaint. No medical professional of record has assessed additional neurological impairment to the face as a residual of the Veteran's TBI, aside from the motor activity mildly decreased or with moderate slowing due to \"apraxia.\" For example, at an August 2010 VA History and Physical, the Veteran's neurological examination was normal. An October 2011 VA eye examination assessed no optic nerve pallor in both eyes from the in-service trauma. A January 2013 VA eye note showed no retinal nerve fiber thinning. The ocular nerve examination was normal. Finally, the February 2017 VA TBI examiner found no evidence of cranial nerve dysfunction. In addition, the same VA TBI examiner did not identify any specific sensory dysfunction impairment due to the TBI and did not check the sensory dysfunction impairment box for any residuals. The VA TBI examiner also did not find it necessary to order a separate cranial or peripheral nerve questionnaire. In summary, no clinical evidence of record reveals any distinct neurological symptomatology to the face other than the Veteran's already service-connected apraxia. FILE\r\n\r\nOnce again, the existence of a current disability is the cornerstone of a claim for VA disability compensation. 38 U.S.C.A. §§ 1110, 1131; see Degmetich v. Brown, 104 F.3d 1328 (1997). Absent probative or reliable evidence of any current, distinct neurological symptomatology to the face other than the Veteran's already service-connected apraxia, service connection cannot be granted in the present case. Boyer, 210 F.3d at 1353; Brammer, 3 Vet. App. at 225.\r\n\r\nAccordingly, the preponderance of the evidence is against the Veteran's service connection claim for left face nerve damage. 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990). \r\n\r\n C. Bilateral Eye Disability\r\n\r\nThe Veteran contends that he has \"blurred vision\" in both eyes that began in service, or developed over time secondary to his service-connected TBI. The Veteran says he did not receive any medical treatment for the blurred vision until VA treatment in 2010. Glasses did not help him clear up the blurriness either. See August 2010 formal claim for TBI; December 2010 Veteran's statement; September 2010 VA eye consult. \r\n\r\nAt the outset, the Board emphasizes that in the present decision it is service-connecting the Veteran for left eye blindness with loss of visual acuity as secondary to the service-connected TBI with a fracture of the left zygoma. The analysis of this secondary service connection grant will be discussed in further detail below. However, what is at issue in this section of the decision is whether service connection or secondary service connection is warranted for a separate bilateral eye blurred vision or other bilateral eye disability, as distinct from left eye blindness. \r\n\r\nIn this vein, VA must fully and sympathetically develop a veteran's claim to its optimum, and that requires VA to determine all potential claims raised by the evidence, applying all relevant laws and regulations. Moody v. Principi, 360 F.3d 1306, 1310 (Fed. Cir. 2004); Szemraj v. Principi, 357 F.3d 1370, 1371 (Fed. Cir. 2004). The Court has held that a claimant's identification of the benefit sought does not require technical precision. See Ingram v. Nicholson, 21 Vet. App. 232, 256-57 (2007). The Court has further held that a claimant may satisfy this requirement by referring to a body part or system that is disabled or by describing symptoms of the disability. Brokowski v. Shinseki, 23 Vet. App. 79, 86-87 (2009); see also Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (stating that, when determining the scope of a claim, the Board must consider the claimant's description of the claim; the symptoms the claimant describes; and the information the claimant submits or that the Secretary obtains in support of that claim). Thus, the Board in the present decision has considered whether service connection is warranted for all of the Veteran's eye diagnoses identified in the record. \r\n\r\nUpon review of the evidence of record, the Board concludes that the Veteran is not entitled to service connection or secondary service connection for a bilateral eye disability to include \"blurred vision\" in both eyes.\r\n\r\nThe existence of a current disability is the cornerstone of a claim for VA disability compensation. 38 U.S.C.A. § 1131; see Degmetich v. Brown, 104 F. 3d 1328, 1332 (1997) (holding that interpretation of sections 1110 and 1131 of the statute as requiring the existence of a present disability for VA compensation purposes cannot be considered arbitrary). In the present case, there is sufficient evidence that the Veteran meets the threshold criterion for service connection of a current bilateral eye disability. Boyer, 210 F.3d at 1353; Brammer, 3 Vet. App. at 225. Here, VA eye clinic notes and examinations dated from 2010 to 2016 reveal various diagnoses of ocular hypertension, glaucoma, cataracts, and refractive error / presbyopia. The Veteran also has been prescribed various prescriptions to treat these eye disorders. Thus, the evidence clearly reveals current bilateral eye disabilities for the Veteran as assessed by VA eye physicians. Thus, the first element of service connection is met. \r\n\r\nHowever, the remaining two elements of service connection are not met for these particular eye disorders. STRs dated from 1961 to 1964 are negative for any complaints, treatment, or diagnosis of ocular hypertension, glaucoma, cataracts, or other vision abnormalities. His uncorrected visual acuity was recorded as 20/20 in both eyes at separation in May 1964. No eye disability was objectively observed at separation. He also denied any eye problems at separation. There is no evidence of an enumerated \"chronic\" disease such as glaucoma shown during service or within one year of service. See 38 C.F.R. § 3.309(a); Walker, 708 F.3d at 1339. \r\n\r\nPost-service, the Veteran did not receive any treatment for his eyes until 2010 according to the Veteran, aside from getting glasses. Post-service, with regard to a nexus, there is probative medical evidence of record that clearly weighs against a relationship between the Veteran's present bilateral eye disabilities listed above and his period of military service. Holton, 557 F.3d at 1366. See also 38 C.F.R. § 3.303(a), (d). Specifically, after an examination and review of the claims folder, an October 2011 VA eye examiner opined that the Veteran's bilateral cataracts are not caused by his left side head and face trauma. The rationale was that \"traumatic\" cataracts would have a stellate appearance, but in contrast the Veteran has nuclear and cortical cataracts which are usually caused by aging. In formulating this opinion, the VA eye examiner cited his review of medical literature, medical records, and his clinical experience. The VA eye examiner also opined that the Veteran's glaucoma suspect was less likely as not (less than 50/50 probability) caused by the in-service left side head and face trauma. In formulating this opinion, the VA eye examiner cited his review of medical literature, medical records, and his clinical experience. This VA eye examiner did not diagnose the Veteran with ocular hypertension. Overall, this VA eye examination and opinion was thorough, supported by an explanation, based on a review of the claims folder, and supported by the probative evidence of record. Importantly, the Veteran has not submitted any contrary medical nexus opinion of record with regard to his bilateral eye blurred vision. Furthermore, an October 2013 VA eye note indicated that Veteran's failure to take his medications and keep his appointments was causing his blurred vision, and that his blurred vision does not appear to be due to any injury or nerve damage. \r\n\r\nThe Board acknowledges that blurred vision is listed in a VA Live Manual table as one of the potential physical residuals or sequelae of a TBI. TBI residuals can resolve in a short period of time, persist chronically or permanently, or may also have a delayed onset. See M21-1, Live Manual, Part III, Subpart iv, Chapter 4, Section G, Topic 2, Block d (change date September 29, 2016). However, the VA Live Manual also states that VA should not automatically concede that a new sign, symptom or diagnosis is a residual of a TBI simply because it is listed in the table or evaluation criteria. See Id. at Block j. \r\n\r\nIn any event, service connection for residuals of a TBI can be either on a direct or secondary basis. In this regard, secondary service connection may be awarded under 38 C.F.R. § 3.310(d)(2) for any condition under the generally applicable provisions of service connection. See also M21-1, Live Manual, Part III, Subpart iv, Chapter 4, Section G, Topic 3, Blocks a to i (change date May 9, 2016). The October 2011 VA eye examination provides strong evidence against any secondary relationship for blurred vision to the Veteran's service-connected TBI. \r\n\r\nWith regard to the Veteran's lay assertions, the Veteran is indeed competent to report purported symptoms of bilateral eye blurriness during and after service. See 38 C.F.R. § 3.159(a)(2); Barr, 21 Vet. App. at 307-09. But the Veteran's lay assertions in the present case are outweighed by the clinical findings of the October 2011 VA eye examiner, who determined that the Veteran's current bilateral eye disabilities did not originate during service or as the result of the Veteran's TBI. The Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation. King v. Shinseki, 700 F.3d 1339, 1344 (2012). In this case, the VA eye examiner reviewed and considered the evidence of record, including the Veteran's statements, and provided a medical opinion with a supporting rationale relying on medical training, knowledge, and expertise.\r\n\r\nAccordingly, the preponderance of the evidence is against the Veteran's service connection claim and secondary service connection claim of bilateral eye blurriness from ocular hypertension, glaucoma, or cataracts. 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990). \r\n\r\nThe Board now turns to the Veteran's diagnosis of refractive error (RE) in the record. In this regard, the Veteran has been diagnosed with refractive error and presbyopia in both eyes in post-service VA treatment records. See June 2013 October 2013, October 2014, and April 2015 VA eye notes and VA eye examinations. \r\n\r\nDefects are defined as \"structural or inherent abnormalities or conditions which are more or less stationary in nature.\" VAOPGCPREC 82-90 (July 18, 1990); VAOPGCPREC 67-90 (July 18, 1990). Congenital or developmental \"defects,\" such as refractive error, automatically rebut the presumption of soundness and are therefore considered to have preexisted service. 38 U.S.C.A. §§ 1111; 38 C.F.R. §§ 3.303(c), 4.9. In this regard, the courts have held that the presumption of soundness does not apply to congenital defects, such as refractive error. Terry v. Principi, 340 F.3d 1378, 1383-84 (Fed. Cir. 2003); Winn v. Brown, 8 Vet. App. 510, 516 (1996) (holding that a non-disease or non-injury entity such as a congenital defect is \"not the type of disease- or injury-related defect to which the presumption of soundness can apply\"). \r\n\r\nIn addition, service connection is generally precluded by VA regulation for congenital or developmental \"defects\" such as refractive error because they are not \"diseases\" or \"injuries\" within the meaning of applicable legislation. 38 C.F.R. §§ 3.303(c), 4.9, 4.127; Palczewski v. Nicholson, 21 Vet. App. 174, 179 (2007). However, a congenital defect such as refractive error can still be subject to superimposed disease or injury during active service. VAOPGCPREC 82-90. If such superimposed disease or injury does occur, service connection may be warranted for the resulting disability. Id. \r\n\r\nIn contrast, VA's Office of General Counsel has distinguished between congenital or developmental defects, such as refractive error, for which service connection is precluded by regulation, and congenital or hereditary diseases, for which service connection may be granted, if initially manifested in or aggravated by service. See VAOPGCPREC 82-90, VAOPGCPREC 67-90. The General Counsel draws on medical authorities and case law from other federal jurisdictions and concludes that a defect differs from a disease in that a defect is \"more or less stationary in nature\", while a disease is \"capable of improving or deteriorating.\" See VAOPGCPREC 82-90 at para. 2.\r\n\r\nThe VA Live Manual further instructs that defects of form or structure of the eye that are of congenital or developmental origin may not be considered as disabilities or service-connected on the basis of incurrence or aggravation beyond natural progress during service. Rather, actual pathology, other than refractive error, is required to support impairment of visual acuity. The fact that a Veteran was supplied with glasses for correcting refractive error is not, in itself, considered indicative of aggravation by service that would warrant compensation. See M21-1, Part III, Subpart iv, Chapter 4, Section B, Topic 1, Blocks b, c, and e (May 7, 2015). The Veteran's presbyopia, as diagnosed by the VA eye examiners in the present case, is considered to be a form of refractive error. See Id. at Block d. In adults, refractive errors are generally stationary or change slowly until the stage of presbyopia. See Id. at Block e. Thus, as mentioned, service connection for refractive error in most circumstances is precluded by VA regulation and by the opinions of VA's Office of General Counsel and by VA's Live Manual. \r\n\r\nHowever, a congenital defect, such as refractive error, can still be subject to superimposed disease or injury during active service. VAOPGCPREC 82-90. If such superimposed disease or injury does occur, service connection may be warranted for the resulting disability. Id. In the present case, although the Veteran sustained a TBI during service, no probative evidence of record establishes that his refractive error resulted in additional disability from the TBI. Absent any probative evidence that his current refractive error is due to in-service trauma or was subject to a superimposed disease or injury during service resulting in additional disability, the refractive error is not a disability for purposes of VA disability compensation as it is congenital in nature. 38 C.F.R. § 3.303(c). See, e.g., Browder v. Derwinski, 1 Vet. App. 204 (1991) (pertaining to refractive error). Thus, service connection for refractive error and presbyopia is denied. \r\n\r\nAccordingly, the preponderance of the evidence is against service connection for bilateral eye refractive error / presbyopia. See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).\r\n\r\n D. Left Eye Blindness with Loss of Visual Acuity\r\n\r\nHowever, with regard to secondary service connection, there is some probative medical and lay evidence of record that demonstrates that the Veteran's current left eye blindness with loss of visual acuity is proximately due to or the result of his service-connected TBI with a fracture of the left zygoma. 38 C.F.R. § 3.310(a), (d)(2); Velez v. West, 11 Vet. App. 148, 158 (1998). Initially, it is noted the Veteran's in-service June 1963 TBI injury was \"moderate\" to \"severe\" due to loss of consciousness for around 24 hours or alteration of consciousness or mental state for more than 24 hours. See 38 C.F.R. § 3.310(d)(3). As to evidence of a secondary nexus to service-connected TBI with a fracture of the left zygoma, a June 7, 1963 STR documenting a fracture of the left zygoma also mentions something about the left eye, but the writing explaining the notation is illegible. However, November 2010, January 2011, May 2011, and August 2011 VA eye notes opined there was visual loss of the left eye of +2' due to trauma from the 1963 service-connected TBI. Current visual acuity in the left eye was 20/400, while in the right eye it was much better at 20/30+. These VA eye notes and examinations provide strong evidence in support of the left eye claim. In addition, VA eye notes dated in October 2013 and August 2014 reflected that visual acuity in the left eye was reduced, but the etiology was unclear. A VA eye note dated in April 2015 observed that the Veteran's left eye acuity was reduced, but again the etiology was unclear. VA optometrists added that although the Veteran's left eye cataract was consistent with reduced vision, the loss of visual acuity still appears to VA medical professionals to be worse than expected with a cataract alone. \r\n\r\nAccordingly, secondary service connection for left eye blindness with loss of visual acuity is warranted. 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102. The Board emphasizes that it is granting secondary service connection left eye blindness with loss of visual acuity on the basis that it is the direct result of a service-connected TBI disability, as opposed to aggravation. \r\n\r\n\tE. PTSD with Depression and Polysubstance Abuse\r\n\r\nService connection for PTSD has unique evidentiary requirements. It generally requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-5); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). \r\n\r\nEffective August 4, 2014, VA amended the portion of its Schedule for Rating Disabilities dealing with mental disorders and its adjudication regulations that define the term \"psychosis\" to remove outdated references to the DSM-IV and replace them with references to the recently updated Diagnostic and Statistical Manual (Fifth Edition) (the DSM-5). See 79 Fed. Reg. 45,094 (August 4, 2014). VA adopted as final, without change, this interim final rule and clarified that the provisions of this interim final rule do not apply to claims that have been certified for appeal to the Board or are pending before the Board on or before August 4, 2014. See Schedule for Rating Disabilities - Mental Disorders and Definition of Psychosis for Certain VA Purposes, 80 Fed. Reg. 14,308 (March 19, 2015). \r\n\r\nIn the present case, the RO certified the Veteran's PTSD appeal to the Board in March 2015, which is after August 4, 2014. Thus, the amended 38 C.F.R. § 4.125(a) conforming to the DSM-5 is applicable in the present case. In any event, the Board will still consider any private or VA examiner's discussion of both the DSM-IV and DSM-5 in adjudicating the current Veteran's PTSD claim, in order to provide the Veteran with every benefit of the doubt. \r\n\r\nIf VA determines either that the veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor. Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements. 38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128, 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996). \r\n\r\nWith regard to an actual diagnosis of PTSD, lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009). The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology. See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007). In this regard, the Federal Circuit recently held that \"PTSD is not the type of medical condition that lay evidence . . . is competent and sufficient to identify.\" Young v. McDonald, 766 F.3d 1348, 1352-53 (Fed. Cir. 2014). Regardless, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service. See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms). \r\n\r\nThat is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson, 581 F.3d at 1316. See also Jandreau, 492 F.3d at 1376-77. \r\n\r\nIn this case, the Veteran does not allege that he was in combat. Instead, the Veteran contends that he has PTSD attributable to his in-service physical assault by two Korean civilians in June 1963 outside of Camp Casey, Korea. During the attack, the Veteran was struck on the left side of his head and face with an unknown object, but described at times as a brick. He was knocked unconscious for an unknown period of time, but he does remember waking up in an Army medical facility. He has inconsistently reported that the attack occurred while he was on guard duty, or in the alternative, while he was at a nightclub. He was transported to MEDEVAC hospital in Camp Casey, and then placed in another Army Hospital in Korea. STRs only document a fracture of his left zygoma, something (illegible) with his left eye, and a fracture of his left maxilla. He says he engaged in alcohol and drug abuse while in service, subsequent to the assault. He also contends that behavioral issues began to arise, such that he was eventually reduced in rank and had a change of assignment. Post-service, he became depressed and treated himself by way of drugs and alcohol. As a result of this traumatic in-service assault, the Veteran has claimed that he developed PTSD with depression and polysubstance abuse, and at times has been homeless. See November 2010 stressor statement for PTSD (VA Form 21-0781); August 2012 stressor statement for PTSD based on assault (VA Form 21-0781a); September 2011 VA psychiatry note; June 2012 VA psychological examination; January 2014 VA History and Physical; January 2017 Travel Board hearing testimony; February 2017 VA TBI examination. \r\n\r\nThe Veteran's PTSD claim is predicated on an allegation of a physical assault while he was in the military. Because personal trauma is an extremely personal and sensitive issue, many incidents are not officially reported, which creates a proof problem with respect to the occurrence of the claimed stressor. In such situations, it is not unusual for there to be an absence of service records documenting the events the veteran has alleged. The victims of such trauma may not necessarily report the full circumstances of the trauma for many years after the trauma. See VA Live Manual M21-1, III.iv.4.H.4.b. (Change date March 31, 2017). \r\n\r\nTherefore, VA cannot use the absence of service record documentation or lack of report of in-service sexual assault or physical assault to military authorities as evidence to conclude that an assault did not occur. AZ v. Shinseki, 731 F.3d 1303, 1318 (Fed. Cir. 2013).\r\n\r\nThus, when a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident. 38 C.F.R. § 3.304(f)(5). See also Patton v. West, 12 Vet. App. 272, 277 (1999). It is often necessary to seek alternative evidence that may demonstrate the presence of markers. The term marker refers to evidentiary signs, events, or circumstances indicating a possibility that the claimed stressor occurred, such as reports, lay statements, or behavioral changes that may be associated with the approximate timeframe of the claimed stressor. See VA Live Manual M21-1, IV.ii.1.D.5.m. (Change date March 31, 2017). \r\n\r\nExamples of such evidence include, but are not limited to: records from law enforcement authorities; rape crisis centers; mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy. 38 C.F.R. § 3.304(f)(5). \r\n\r\nEvidence of behavior changes following the claimed assault is another type of relevant evidence that may be found in these sources. That is, if STRs and SPRs contain no explicit documentation that personal trauma occurred, and alternative sources of evidence do not provide credible supporting evidence of personal trauma, VA should consider secondary evidence including evidence of behavioral changes around the time of, and after, the incident(s). See VA Live Manual M21-1, III.iv.4.H.4.d. (Change date March 16, 2017). \r\n\r\nExamples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes. 38 C.F.R. § 3.304(f)(5). \r\n\r\nFurthermore, corroboration of every detail of a claimed stressor, including the veteran's personal participation, is not required; rather, a veteran only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure. See Pentecost v. Principi, 16 Vet. App. 124, 128 (2002) (quoting Suozzi v. Brown, 10 Vet. App. 307 (1997)). \r\n\r\nThe Court has set a relatively low bar for interpreting a claim for PTSD as one involving a personal assault stressor for which the provisions of 38 C.F.R. § 3.304(f)(5) are applicable. See, e.g., Bradford v. Nicholson, 20 Vet. App. 200 (2006) (veteran alleged that his sergeant kicked him down a set of stairs). VA itself has defined personal trauma very broadly. Personal trauma for the purpose of VA disability compensation claims based on PTSD refers broadly to stressor events involving harm perpetrated by a person who is not considered part of an enemy force. Examples include assault, battery, robbery, mugging, stalking, and harassment. Military sexual trauma is a subset of personal trauma and refers to sexual harassment, sexual assault, or rape that occurs in a military setting. See VA Live Manual M21-1, IV.ii.1.D.5.a. (Change date March 31, 2017). \r\n\r\nFor a PTSD claim based on personal assault, an after-the-fact medical opinion can serve as the credible supporting evidence of the stressor. That is, VA examiners can interpret the evidence of record to confirm the occurrence of in-service physical assault, sexual assault, or harassment. 38 C.F.R. § 3.304(f)(5); Menegassi v. Shinseki, 638 F.3d 1379, 1383 (Fed. Cir. 2011); Bradford v. Nicholson, 20 Vet. App. 200, 207 (2006); Patton v. West, 12 Vet. App. 272, 280 (1999). In fact, secondary evidence or behavior change evidence typically needs interpretation by a clinician in personal trauma claims. The VA examiner should determine whether credible factual evidence of behavior changes demonstrated by the Veteran is consistent with the expected reaction or adjustment of a person who has been subjected to an assault. See VA Live Manual M21-1, III.iv.4.H.4.f. (Change date March 16, 2017); IV.ii.1.D.5.r. (Change date March 31, 2017). \r\n\r\nUpon review of the evidence of record, the Board concludes that the Veteran is entitled to service connection for PTSD with depression and polysubstance abuse.\r\n\r\nSTRs dated from 1961 to 1964 are negative for any complaint, treatment, or diagnosis of PTSD or other acquired psychiatric disorder. In addition, no psychiatric disorder was objectively found at the Veteran's May 1964 separation examination, and the Veteran denied a history of insomnia, depression, excessive worry, or nervous trouble. In any event, as to PTSD, an in-service diagnosis is not required. See 38 C.F.R. § 3.304(f). \r\n\r\nSPRs document that the Veteran's military occupational specialty (MOS) was a physical activities specialist. He served in Korea from August 1962 to September 1963. A June 18, 1963 SPR personnel action - reclassification board, several weeks after his June 7, 1963 TBI occurred, noted that the Veteran had been counseled for the past three months on his completely disinterested attitude towards his military duties. The counseling had a completely negative result. He was noted to be three months behind in filing and posting of orders and correspondence to the personnel records. He was recommended for reduction in rank for inefficiency. He had the lowest academic standing of all 65 students. He was separated from service in April 1964. \r\n\r\nUpon review, there is evidence of record corroborating that the early June 1963 in-service physical assault and TBI occurred. 38 C.F.R. § 3.304(f)(5); Cohen, 10 Vet. App. at 147; Moreau, 9 Vet. App. at 395. Specifically, the RO has already service-connected the Veteran for the underling TBI with various residuals to include a fracture of the left zygoma, a left cheek scar, and tension headaches with loss of balance, dizziness, and fatigue, among other TBI residuals. In addition, a February 2017 photo of the Veteran's face clearly shows significant indentation and injury to the left side of face, which is grossly distorted with elevation and depression. The undersigned Veterans Law Judge also remarked upon this fact during the Veteran's January 2017 hearing testimony. Thus, the Veteran has already been service-connected by VA for the in-service TBI with various residuals. The evidence of deterioration in work performance is not fully clear because it appears his work performance problems preceded his in-service TBI by several months. In any event, for corroboration in assault cases, what is required is that sufficient circumstantial evidence exists that the alleged assault may have a basis in fact. The Board emphasizes that a stressor need not be corroborated in every detail. Pentecost, 16 Vet. App. at 128. In the present case corroborative evidence of the alleged in-service physical assault in June 1963 is circumstantial in nature, not definitive in nature. However, again, the in-service TBI was service-connected by the RO in a recent February 2017 rating decision. In addition, as discussed below, multiple VA psychiatrists have concluded that the Veteran's in-service assault did occur. \r\n\r\nWith respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability. 38 U.S.C.A. § 1131; 38 C.F.R. § 3.303; Boyer, 210 F.3d at 1353; Brammer, 3 Vet. App. at 225. In particular, aside from corroboration of an in-service stressor, current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-5) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). \r\n\r\nHowever, again, medical opinions in cases of personal assault for PTSD are exceptions to the general rule - as, for example, announced in Moreau v. Brown, 9 Vet. App. 389, 396 (1996), that an opinion by a medical professional based on a post-service examination cannot be used to establish the occurrence of a stressor. 38 C.F.R. § 3.304(f)(3); Patton v. West, 12 Vet. App. 272, 280 (1999). For assault stressors, the examiner can interpret the meaning of behavioral changes during service to determine if an assault stressor did occur. Id. \r\n\r\nIn the present case, VA psychiatric treatment records dated from 2010 to 2016 have rendered a current diagnosis of PTSD. This is not in dispute. \r\n\r\nBut more importantly, with regard to a nexus, VA medical opinions of record assessed that a personal assault accompanied by a TBI did occur in June 1963, in addition to concluding that a diagnosis of PTSD due to the credible June 1963 personal assault was proper. 38 C.F.R. § 3.304(f)(5). \r\n\r\nIn particular, the record reflects several favorable VA medical opinions and treatment records from VA psychiatrists dated from 2010 to 2016. The Board has reviewed VA psychiatry notes and VA history and physicals dated in September 2011, January 2014, December 2015, and August 2016 from the same VA psychiatrist who was familiar with the Veteran due to repeated treatment. This VA psychiatrist opined that the Veteran had PTSD more likely than not to be the direct result of the attack on him during service in Korea. Several of the latter opinions considered the DSM-5. This VA psychiatrist repeatedly discussed details of the TBI incident in Korea, and repeatedly discussed the Veteran's PTSD symptoms. In a January 2014 opinion, the same VA psychiatrist, when advised by VA of inconsistent descriptions of the in-service TBI by the Veteran, nonetheless opined that she was \"convinced that the injury was done by a brick thrown at him, was done by a Korean and that everything is as I had opined in all my documentation on this patient.\" The VA examiner also described the Veteran as \"highly credible.\" In addition, a different May 2011 VA psychiatrist came to the same favorable conclusion as to PTSD. Also, the Veteran underwent positive PTSD screens in August 2010, November 2010, December 2010, September 2011, July 2013, October 2014, and October 2015. These PTSD screens revealed positive symptomatology such as nightmares, avoidance, numbness, detachment, and hypervigilance. They were also often accompanied by positive depression screens. Moreover, in July 2012, a VA nurse practitioner opinion stated that both VA primary care and VA psychiatry suggest that the Veteran's PTSD \"could\" be related to the head trauma he received while in the Army in Korea. Finally, VA Vet Center counseling records dated from 2014 to 2016 assessed the Veteran with multiple symptoms consistent with the diagnosis of PTSD based on the in-service assault in Korea. \r\n\r\nPursuant to 38 C.F.R. § 4.125(a), if the diagnosis of a mental disorder does not conform to DSM-IV / DSM-5 or is not supported by the findings on the examination report, the rating agency shall return the report to the examiner to substantiate the diagnosis. Mental health professionals are experts and are presumed to know the DSM requirements applicable to their practice and to have taken them into account in providing a PTSD diagnosis. As such, the Court has held that a PTSD diagnosis provided by a mental-health professional must be presumed to have been made in accordance with the applicable DSM-IV (or DSM-5) criteria as to both the adequacy of the symptomatology and the sufficiency of the stressor, unless there is evidence to the contrary. Cohen v. Brown, 10 Vet. App. 128, 140 (1997). The DSM-IV (or DSM-5) cannot be used \"as a basis for rejecting the Veteran's favorable medical evidence as to the sufficiency of a stressor or the adequacy of the Veteran's symptomatology.\" Id. As such, in order to make a finding that the Veteran in this case did not have a valid PTSD diagnosis, the Board must clearly articulate its reasons for finding that the PTSD diagnosis was not made in accordance with the DSM-IV or DSM-5 requirements. If the Board cannot support a conclusion that the diagnosis was not made in accordance with DSM-IV or DSM-5 requirements, it must accept the diagnosis as valid. \r\n\r\nIn the present case, the Board will therefore accept the above PTSD diagnoses rendered by VA medical professionals as valid and in accordance with the DSM-IV and DSM-5. In any event, the VA psychiatrists of record described the reasons for their conclusions and also discussed the Veteran's underlying PTSD symptomatology. \r\n\r\nOverall, the above VA psychiatry notes and opinions were thorough, supported by explanations, and considered the Veteran's history and relevant longitudinal complaints. In short, there is probative evidence in support of the PTSD claim. The Board emphasizes that VA may not order additional development for the sole purpose of obtaining evidence unfavorable to a claimant. Mariano v. Principi, 17 Vet. App. 305, 312 (2003). \r\n\r\nThe Board acknowledges that some unfavorable evidence of record with respect to the Veteran's PTSD exists. Specifically, a VA psychological examiner in July 2012 and August 2012 (the same VA examiner), after a mental health examination of the Veteran and a review of the evidence of record, opined that the Veteran did not meet any of the DSM-IV criteria for PTSD. However, the underlying premise of this opinion is flawed. The VA examiner determined that the in-service June 1963 TBI never took place. But subsequently, the RO determined that it did in fact take place based on the findings of a later February 2017 VA TBI examiner. At that point, the RO in a February 2017 rating decision service-connected the Veteran for the underlying incident in question, and awarded the Veteran service-connected compensation for various residuals of his in-service TBI from the assault. The Court has held on a number of occasions that a medical opinion premised upon an inaccurate factual premise is of no probative value. See Sklar v. Brown, 5 Vet. App. 140 (1993); Reonal v. Brown, 5 Vet. App. 458 (1993); Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993); Swann v. Brown, 5 Vet. App. 229, 232 (1993). Thus, the unfavorable VA psychological examination reports dated in July 2012 and August 2012 are entitled to only limited probative value against the claim. \r\n\r\nGiven the law and the medical evidence of record, the Board is compelled to grant the Veteran the benefit of the doubt and allow service connection for PTSD. See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102. \r\n\r\nIn addition, the Board has also considered whether the Veteran's PTSD claim raised the issue of whether service connection is warranted for any other acquired psychiatric disorder in addition to PTSD. See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (holding that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record). In this regard, the record also shows the Veteran has depression, NOS, and polysubstance abuse disorder as secondary to his service-connected PTSD and his service-connected TBI. See 38 C.F.R. § 3.310(a). Specifically, in August 2010 and May 2011 VA psychiatric notes, it was mentioned that the Veteran began to use alcohol and drugs to deal with his physical TBI pain after he left service. The Board has also reviewed VA psychiatry notes and history and physicals dated in September 2011, January 2014, December 2015, and August 2016 from the same VA psychiatrist who was familiar with the Veteran due to repeated treatment. Psychiatric testing revealed \"moderate depression.\" This VA psychiatrist opined that the Veteran had a TBI-based pain disorder \"with psychological factors\" and that his drug and alcohol addiction was the result of his in-service TBI. In September 2011 the VA psychiatrist remarked that \"chemical dependency was his way of self-medicating for the pain and PTSD.\"\r\n\r\nIn any event, the present decision is considered a full grant of the benefits sought by the Veteran for his acquired psychiatric disorder claim to include PTSD. In granting service connection for PTSD with depression and polysubstance abuse, the RO should assign a disability rating or ratings that encompass the symptoms of these disorders. See Amberman v. Shinseki, 570 F.3d 1377, 1381 (2009) (two defined diagnoses constitute the same disability for purposes of 38 C.F.R. § 4.14 if they have overlapping symptomatology, but bipolar disorder and PTSD could have different symptoms and it could therefore be improper in some circumstances for VA to treat these separately diagnosed conditions as producing only the same disability). \r\n\r\nORDER\r\n\r\nService connection for left face nerve damage, to include as secondary to a service-connected TBI with a fracture of the left zygoma, is denied.\r\n\r\nService connection for a bilateral eye disability (claimed as \"blurred vision\"), to include as secondary to a service-connected TBI with a fracture of the left zygoma, is denied. \r\n\r\nSubject to the provisions governing the award of monetary benefits, service connection for left eye blindness with loss of visual acuity as secondary to a service-connected TBI with a fracture of the left zygoma, is granted. \r\n\r\nSubject to the provisions governing the award of monetary benefits, service connection for PTSD with depression and polysubstance abuse is granted. \r\n\r\n\r\n\r\n\r\n____________________________________________\r\nDAVID L. WIGHT\r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+  "metadm": {
+    "citationNr": "1713743",
+    "decisionDate": "2017-04-27T00:00:00",
+    "archiveDate": "2017-05-05T00:00:00",
+    "docketNumber": "14-38 540A",
+    "regionalOffice": "Department of Veterans Affairs Regional Office in St. Petersburg, Florida",
+    "judge": "DAVID L. WIGHT",
+    "fileName": "BVA1713743.txt",
+    "processDate": "2019-01-20T14:42:41.0942788-08:00"
+  }
+}

@@ -1,0 +1,891 @@
+{
+    "docID": "1302554",
+    "sentences": [
+        {
+            "sentID": "1302554P1S1",
+            "text": "Citation Nr: 1302554",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P16S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P20S1",
+            "text": "4. The Veteran did not have a psychiatric disorder in service that was unrelated to the use of drugs.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P21S1",
+            "text": "5. The preponderance of the evidence shows that the Veteran does not have a psychiatric disorder that is related to his military service or was aggravated during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P24S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSION",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P110S1",
+            "text": "Analysis",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S1",
+            "text": "After reviewing all of the evidence of record, the Board finds that the evidence shows that the Veteran does not have a psychiatric disorder that was caused or aggravated by his service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S2",
+            "text": "In regard to direct service connection, although the Veteran has been diagnosed with depression or major depressive disorder subsequent to service, his most current examination shows that the Veteran either does not have depression or that any current depression is unrelated to the Veteran's military service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S3",
+            "text": "While the Veteran claimed that he was depressed and suicidal in service, the Veteran was admitted for inpatient treatment for substance induced psychosis in 1978 and no mention of any depression or suicidal thinking was made at that time or any other time in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S4",
+            "text": "Thus, his memories are contradicted by the more reliable contemporaneous evidence.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S5",
+            "text": "Moreover, no diagnosis of depression was made until 1985, six years after the Veteran's service, and at that time there was also no indication that the Veteran's service had anything to do with his depression.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P111S6",
+            "text": "Thus, even if the Veteran does have depression, this occurred after service and the evidence shows it was not caused by service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S1",
+            "text": "The Board has considered the Veteran's lay statements.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S2",
+            "text": "In addition, although the statement from J.P.S. indicates that he was aware of the sexual trauma from the karate instructor at the time the Veteran started his active duty, the Veteran has said that he did not tell anyone of this until 1991 or, in the case of his family, until later.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S3",
+            "text": "Further, even though the Veteran enlisted in the USMCR in August 1975, it is his contention that he realized he must leave active duty upon reporting for training in January 1976 to deal with his situation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S4",
+            "text": "The statement of J.P.S. tends to support this view of events by the Veteran.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S5",
+            "text": "However, it strains credulity to accept this information as the Veteran had months before service to change his mind about going on active duty.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S6",
+            "text": "Further, he reported that he had no psychiatric problems at the time of his enlistment physical.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P112S7",
+            "text": "He also received a meritorious promotion upon completion of basic training, a fact that is in stark contrast with his assertions of not being able to function and wanting to commit suicide during basic training.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S1",
+            "text": "No other supporting lay statement has knowledge of the Veteran's actual service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S2",
+            "text": "The statement from G.S. relates to what he knew of the Veteran prior to service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S3",
+            "text": "The same is true of the statement from P.D.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S4",
+            "text": "It is clear that both individuals thought highly of the Veteran and that they had positive relationships.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S5",
+            "text": "Neither individual could, or did, address the Veteran's status in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S6",
+            "text": "Further, they also are not aware of all of the facts in this matter and their challenges to determinations made or evidence contained in the record have no credibility.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S7",
+            "text": "The Veteran himself has provided the statements, in regard to his sexual activities, drug use and religious practices to his care providers on multiple occasions, particularly in regard to his pre-service drug abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S8",
+            "text": "As stated several times, his mother has confirmed the Veteran's pre-service drug use.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P113S9",
+            "text": "She has also related that she had difficulty in coping with the Veteran and his behavior.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P114S1",
+            "text": "The Veteran claims that he also has PTSD that is related to his service.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P114S2",
+            "text": "The May 2008 letter from the VA physician does not support the Veteran's claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P114S3",
+            "text": "He noted the Veteran was treated in the clinic for PTSD related to the pre-service sexual trauma.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P114S4",
+            "text": "The physician noted that, as a routine, a check of a veteran's DD 214 is done to review for stressors.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P114S5",
+            "text": "He did not relate any military stressors for this Veteran and his DD 214 would not indicate any as the Veteran was not in combat and has not alleged such service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S1",
+            "text": "The Veteran was examined three times.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S2",
+            "text": "On two of those occasions, the Veteran was found to have PTSD that was related to child abuse and not anything that occurred in the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S3",
+            "text": "The Veteran's treatment records also show a PTSD diagnosis that is related to the pre-service sexual abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S4",
+            "text": "However, sexual abuse in the military could not be corroborated.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S5",
+            "text": "The only military stressor that was corroborated was the fact that a Marine who was injured prior to when the Veteran arrived at his duty station later died while hospitalized.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P115S6",
+            "text": "However, there is no evidence linking any diagnosis of PTSD or any other mental disorder to this event.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P116S1",
+            "text": "On the third examination in May 2011, the Veteran was specifically evaluated for PTSD and was not found to even have this disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P116S2",
+            "text": "This conclusion is highly probative insofar as it was made based on a review of the entire claims folder, including documentation of the Veteran's extensive substance abuse and treatment history and after consideration of the opinions of the earlier two VA examiners, who acknowledged that it was hard to diagnose the Veteran because his answers were often vague or off topic.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P117S1",
+            "text": "The third examiner determined that the Veteran did not have any psychiatric diagnosis and that no psychiatric symptoms were aggravated specifically by the Veteran's military service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P117S2",
+            "text": "While the two VA examiners who previously examined the Veteran opined that there may have been some minor aggravation of the Veteran's symptoms due to his military service, neither of them explained the mechanism through which this aggravation supposedly occurred or that there was evidence of PTSD in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P117S3",
+            "text": "Notably, there is no credible evidence that any of the in-service events complained of by the Veteran, aside from the death of the recruit, actually occurred.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P117S4",
+            "text": "While one recruit who was unknown to the Veteran and injured prior to the Veteran arriving at his duty station died while hospitalized, there is no evidence that an additional four of the Veteran's friends died in service as he claimed.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P117S5",
+            "text": "There is no credible evidence that the Veteran was physically or sexually assaulted in service; he did not advance these contentions until his appeal was well underway and he never provided any specifics about the supposed assaults, other than to say that he was once invited to another soldier's home, to which he apparently did not go.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P118S1",
+            "text": "Moreover, while the Veteran contended that he reported childhood sexual abuse to his commander and was not allowed to go home to cope with it, documentation such as treatment records and even the written statement from the Veteran's mother indicate that the Veteran was unaware of the sexual abuse until long after his military service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P118S2",
+            "text": "Also, his outstanding performance, as documented in his personnel records, as well as the letter of recommendation by his company commander and the dining facility officer do not support a conclusion that the Veteran's performance waned upon his graduation from basic training and receipt of a meritorious promotion.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P119S1",
+            "text": "The three VA examination reports do not support a conclusion that a psychiatric disorder, other than the drug induced one from 1978, was present in service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P119S2",
+            "text": "The STRs are clearly negative for such evidence.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P119S3",
+            "text": "The Veteran denied having any type of a psychiatric disorder, or history thereof, on his enlistment in the Navy in June 1981.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P119S4",
+            "text": "The post-service treatment records do not provide supporting evidence to conclude that a psychiatric condition existed in service that was unrelated to the Veteran's drug abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S1",
+            "text": "The evidence of record does not support a finding that the Veteran had a psychiatric condition in service other than the two drug-related diagnoses from 1978.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S2",
+            "text": "It is clear from the 1978 discharge summary that the Veteran received extensive therapy and treatment over a two month period.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S3",
+            "text": "The diagnoses were not determined without what appears to be a thorough understanding of the Veteran's psychiatric status, at the time of treatment and prior to the period of hospitalization.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S4",
+            "text": "The history of drug abuse cited in the summary is supported by numerous admissions by the Veteran in his treatment by private and VA sources after service as well as by statements from his mother.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S5",
+            "text": "There is no contrary competent medical evidence to show otherwise.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S6",
+            "text": "Service connection cannot be granted for disability due to intentional drug abuse.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P120S7",
+            "text": "See 38 C.F.R. § 3.301(d).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P121S1",
+            "text": "As noted above, the Board was directed to address the issue of aggravation of a preexisting disability through consideration of the presumption of soundness.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P121S2",
+            "text": "Here, the evidence shows the Veteran did not report any psychiatric problems on his medical history in August 1975 and no psychiatric issues were identified at the time of the physical examination.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S1",
+            "text": "However, also as noted above, the Court has specifically held that, even in cases where the evidence later shows that there was a preexisting disability that was not identified on entry to service, the presumption of soundness does not necessarily apply.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S2",
+            "text": "More to the point, absent the showing of the manifestation or incurrence of a disease or injury in service, there is no disability to consider for possible aggravation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S3",
+            "text": "See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S4",
+            "text": "The Court in Gilbert held that before the presumption of soundness is for application, there must be evidence that a disease or injury - that was not noted upon entrance into service - manifested in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S5",
+            "text": "Otherwise stated, absent such manifestation, the presumption of soundness is not for application.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S6",
+            "text": "That is the case here.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S7",
+            "text": "No disability for which compensation may be paid (i.e, a disability which was not a drug induced psychiatric disorder) was manifest in service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P122S8",
+            "text": "Thus, the presumption of soundness is not for application.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P123S1",
+            "text": "It is clear from the evidence of record that the Veteran has been diagnosed with PTSD that is based on his sexual trauma prior to service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P123S2",
+            "text": "Although the Veteran has given a history of several incidents, his primary incident involves the karate instructor and this has been the basis for the diagnosis by various providers and examiners.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P123S3",
+            "text": "The stressor is unrelated to service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S1",
+            "text": "The Veteran's PTSD could not have been aggravated by his military service insofar as this implies that PTSD was present prior to, and during, the Veteran's service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S2",
+            "text": "However, no psychiatric disorder other than organic brain syndrome due to drug abuse, which resolved, was present during service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S3",
+            "text": "The Board is of the opinion that the contemporaneous treatment records during service have the greatest probative value as to the Veteran's mental status at that time.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S4",
+            "text": "This is particularly true when weighed against lay statements such as those given by the Veteran or in various written statements from persons who knew him during and after service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S5",
+            "text": "PTSD also was not present when the Veteran was treated as an outpatient or when he was hospitalized in the 1980s.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S6",
+            "text": "This diagnosis did not appear until more than 20 years after the Veteran's service; therefore, it could not have been aggravated by service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P124S7",
+            "text": "Even more importantly, after a comprehensive review of all of the Veteran's treatment records and the prior medical opinions, the examiner who provided the May 2011 report of examination determined that the Veteran did not have PTSD or any other psychiatric disorder which could have been aggravated by service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S1",
+            "text": "In summary, the preponderance of the evidence shows that the Veteran does not have a psychiatric disorder that is related to his military service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S2",
+            "text": "Accordingly, the Board concludes that a psychiatric disorder was not incurred in or aggravated by service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S3",
+            "text": "The Board acknowledges that VA is statutorily required to resolve the benefit of the doubt in favor of the Veteran when there is an approximate balance of positive and negative evidence regarding the merits of an outstanding issue.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S4",
+            "text": "That doctrine is inapplicable in the instant case because the preponderance of the evidence is against the Veteran's claim.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S5",
+            "text": "See Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990); 38 U.S.C.A. § 5107(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1302554P125S6",
+            "text": "Accordingly, the appeal is denied.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1302554\t\nDecision Date: 01/23/13 Archive Date: 01/31/13\n\nDOCKET NO. 04-20 614\t)\tDATE\n\t)\n\t)\n\nOn appeal from the\nDepartment of Veterans Affairs Regional Office in \nNorth Little Rock, Arkansas\n\n\nTHE ISSUE\n\nEntitlement to service connection for an acquired psychiatric disorder, including posttraumatic stress disorder (PTSD).\n\n\n\nREPRESENTATION\n\nAppellant represented by:\tDisabled American Veterans\n\n\n\nATTORNEY FOR THE BOARD\n\nMichael Holincheck, Counsel\n\n\n\n\nINTRODUCTION\n\nThe Veteran served on active duty from January 1976 to January 1979 and from June 24, 1981, to July 30, 1981.\n\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2003 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in North Little Rock, Arkansas. The Board previously adjudicated the Veteran's claim in December 2011. The Veteran's claim for service connection for an acquired psychiatric disorder, including PTSD, was denied. \n\nThe Veteran appealed the Board's decision to the United States Court of Appeals for Veterans Claims (Court). The Veteran's attorney and VA's General Counsel filed a Joint Motion requesting that the Court vacate the Board's decision. The Joint Motion also requested that the Court remand the case to the Board for further development and re-adjudication in accordance with the directives of the August 2012 Joint Motion. \n\nThe Court granted the Joint Motion to vacate and remand the Board decision in September 2012 and returned the case to the Board at that time.\n\nThe Board wrote to the Veteran in October 2012. He was advised that the case was returned to the Board by the Court. He was further advised that he had 90 days to submit additional evidence or argument in support of his claim. The Veteran responded that he did not have anything further to submit in November 2012. His representative submitted additional argument that was received in December 2012.\n\n\nFINDINGS OF FACT\n\n1. The Veteran served on active duty in the U. S. Marine Corps from January 1976 to January 1979. He had additional active service in the U. S. Navy from June 24, 1981, to July 30, 1981.\n\n2. The Veteran denied having any type of psychiatric disorder in his official medical history prior to both periods of active duty.\n\n3. The Veteran's service treatment records (STRs) reflect that he received a diagnosis of a psychiatric condition in service as a result of his period of hospitalization in 1978. The diagnoses were organic brain syndrome, psychotic, secondary to drug abuse, manifested by delusions, auditory and visual hallucinations, autism, loosened associations, paranoid ideations, ideas of reference and grandiosity. He was also diagnosed with drug abuse manifested by the abuse of marijuana and phencyclidine. \n\n4. The Veteran did not have a psychiatric disorder in service that was unrelated to the use of drugs. \n\n5. The preponderance of the evidence shows that the Veteran does not have a psychiatric disorder that is related to his military service or was aggravated during service. \n\n\nCONCLUSION OF LAW\n\nA psychiatric disorder, to include PTSD, was not incurred in or aggravated by service. 38 U.S.C.A. §§ 1111, 1131, 1132, 1153 (West 2002); 38 C.F.R. §§ 3.303, 3.304, 3.306 (2012).\n\n\nREASONS AND BASES FOR FINDINGS AND CONCLUSION\n\nDuty to Notify and Assist\n\nThe Veterans Claims and Assistance Act of 2000 (VCAA) describes VA's duties to notify and assist claimants with substantiating their claims for VA benefits. \n38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2002 & Supp 2012); 38 C.F.R. § 3.102, 3.156(a), 3.159 (2012).\n\nUpon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant of any information, and any medical or lay evidence, that is necessary to substantiate his or her claim. 38 U.S.C.A. § 5103(a), 38 C.F.R § 3.159(b); Quartuccio v. Principi, 16 Vet. App. 183, 186-187 (2002). In accordance with 38 C.F.R. § 3.159(b)(1), proper VCAA notice must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide. \n\n(The Board notes that 38 C.F.R. § 3.159 was revised, effective May 30, 2008. See 73 Fed. Reg. 23353-56 (Apr. 30, 2008). The amendments apply to applications for benefits pending before VA on, or filed after, May 30, 2008. The amendments, among other things, removed the notice provision requiring VA to request the claimant to provide any evidence in the claimant's possession that pertains to the claim. See 38 C.F.R. § 3.159(b)(1).)\n\nVCAA notice should be provided to a claimant before the initial unfavorable decision on a claim by the agency of original jurisdiction (AOJ). Pelegrini v. Principi, 18 Vet. App. 112, 115 (2004). However, the VCAA notice requirements may be satisfied notwithstanding errors in the timing or content of the notice if such errors are not prejudicial to the claimant. Id at 121. Further, a defect in the timing of the notice may be cured by sending proper notice prior to a re-adjudication of the claim. Mayfield v. Nicholson, 444 F.3d 1328, 1333-1334 (Fed. Cir. 2006). \n\nThe VA General Counsel issued a precedential opinion interpreting Pelegrini as requiring the Board to ensure that proper notice is provided unless it makes findings regarding the completeness of the record or other facts that would permit the conclusion that the notice error was harmless. See VAOGCPREC 7-2004.\n\nThe VCAA notice requirements apply to all five elements of a service connection claim. These are: (1) veteran status; (2) existence of a disability; (3) a connection between a veteran's service and the disability; (4) degree of disability; and (5) effective date of the disability. Dingess v. Nicholson, 19 Vet. App. 473 (2006).\n\nThe Veteran's claim was received March 2002. He was sent a letter in May 2002. The letter explained that VA would make reasonable efforts to help him obtain evidence in support of his claim. It also explained what the evidence needed to show in order to establish service connection for a claimed disability. The Veteran was sent another letter in January 2004 which again provided this information, as well as provided the Veteran with a personal assault questionnaire and gave examples of the types of evidence that could be used to substantiate a claim of personal assault. \n\nThe Veteran received additional notice, upon remanding of his case, in March 2007. In addition to notice as to how to substantiate his claim, the Veteran received notice of how VA assigns ratings and establishes effective dates. The Veteran's case was again remanded in 2009. He was provided with further notice on how to substantiate his claim in November 2009. The Veteran's claim was thereafter re-adjudicated, most recently in a supplemental statement of the case (SSOC) that was dated in June 2011. In light of the above, the Board finds that all notice requirements have been met. \n\nVA also must make reasonable efforts to assist the claimant in obtaining evidence necessary to substantiate the claim for the benefit sought, unless no reasonable possibility exists that such assistance would aid in substantiating the claim. 38 U.S.C.A. § 5103A; 38 C.F.R. § 3.159. In connection with the current appeal, VA has obtained evidence including STRs for both periods of service, service personnel records, extensive VA treatment records, private medical records, written statements that were submitted by the Veteran, and written lay statements from family members and friends of the Veteran. The Veteran was also afforded multiple VA examinations in conjunction with his claim for service connection for PTSD.\n\nThe most recent VA examination and addendum, conducted in May 2011, was fully adequate for rating purposes. Additionally, the May 2011 examination and addendum fully complied with the instructions that were set forth in the October 2009 Board remand. The Board finds that the examination was adequate to allow proper adjudication of the issue on appeal. The examiner conducted a complete examination, recorded all findings considered relevant under the applicable law and regulations, and offered well supported opinions based on consideration of the full history of the disability. Attempts at stressor verification were also made as required by the October 2009 Board remand. See Stegall v. West, 11 Vet. App. 268, 271 (1998); see also Dyment v. West 13 Vet. App. 141, aff'd sub nom Dyment v. Principi, 287 F.3d 1377, 147 (2002) (remand not required under Stegall where Board's remand instructions were substantially complied with). Accordingly, no further development of evidence is required. \n\nService Connection\n\nThe Veteran contends that he has a psychiatric disorder, including PTSD and/or depression, as a result of his military service or that pre-existed his military service and was aggravated by such.\n\nThe law provides that service connection may be granted for disability resulting from disease or injury incurred in or aggravated by service. 38 U.S.C.A. § 1131 (West 2002); 38 C.F.R. §§ 3.303, 3.304 (2012). Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).\n\nIn the alternative, the chronicity provisions of 38 C.F.R. § 3.303(b) are applicable where evidence, regardless of its date, shows that a veteran had a chronic condition in service, or during an applicable presumptive period, and still has such condition. Such evidence must be medical unless it relates to a condition as to which under case law of the Court or the United States Court of Appeals for the Federal Circuit (Federal Circuit), lay observation is competent. \n\nContinuity of symptomatology may be established if a claimant can demonstrate (1) that a condition was \"noted\" during service; (2) evidence of post-service continuity of the same symptomatology; and (3) medical or, in certain circumstances, lay evidence of a nexus between the present disability and the post-service symptomatology. Savage v. Gober, 10 Vet. App. 488 (1997).\n\nGenerally, service connection requires (1) medical evidence of a current disability, (2) medical evidence, or in certain circumstances lay testimony, of in-service incurrence or aggravation of an injury or disease, and (3) medical evidence of a nexus between the current disability and the in-service disease or injury. See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004); see also Hickson v. West, 12 Vet. App. 247, 253 (1999); accord Caluza v. Brown, 7 Vet. App. 498 (1995). \n\nService connection for PTSD requires medical evidence establishing a diagnosis of the condition, a link, established by medical evidence, between current symptomatology and the claimed in-service stressor, and credible supporting evidence that the claimed in-service stressor occurred. See 38 C.F.R. § 3.304(f) (2012); see also Cohen v. Brown, 10 Vet. App. 128, 138 (1997). \n\nThe applicable regulation also provides additional instruction in regard to claims involving service connection for PTSD due to personal assault. See 38 C.F.R. § 3.304(f)(5) (2012). \n\nThe Board notes that 38 C.F.R. § 3.304(f) was amended in July 2010 to amend the regulation in regard to the evidentiary standard for establishing the required in-service stressor for claims involving a veteran's fear of hostile military or terrorist activity. See 75 Fed. Reg. 39,843-39,852 (July 13, 2010). A correction was published to establish the effective date of the amendment as of July 13, 2010. See 75 Fed. Reg. 41,092 (July 15, 2010). The change in regulation did add a new subsection 38 C.F.R. § 3.304(3) and required the renumbering of the existing subsections. Thus, the applicable subsection relating to personal assault was renumbered as 38 C.F.R. § 3.304(f)(5).\n\nIn cases that do not involve personal assault claims, the Court has held that credible supporting evidence of the actual occurrence of an in-service stressor cannot consist solely of after-the-fact medical nexus evidence. See Moreau v. Brown, 9 Vet. App. 389, 396 (1996); but see Patton v. West, 12 vet. App. 272, 280 (1999) (Moreau not applicable in cases of alleged personal assault). In Cohen, the Court also held that the sufficiency of a stressor was now a clinical determination for an examining mental health professional. Id. at 140, 141. The Court further said that the occurrence of the stressor was still a factual matter to be determined by the evidence. Id. at 145-147.\n\nIf a PTSD claim is based on an in-service personal assault, evidence from sources other than the veteran's service records may corroborate an account of a stressor incident. Further a medical opinion may be submitted for use in determining whether the occurrence of a stressor is corroborated. See Menegassi v. Shinseki, 638 F.3d 1379, 1382 (Fed. Cir. 2011). The Federal Circuit also said that any such medical opinion was still to be weighed by VA along with the other evidence provided. Id. at 1382 n.1.; see also 67 Fed. Reg. 10,330 (Mar. 7, 2002) (VA is not required to accept a doctor's diagnosis of PTSD due to a personal assault as proof that the stressor occurred or that the PTSD is service connected.) \n\nAs noted, the regulations pertaining to claims for service connection for PTSD were amended in July 2010. The new subsection specifically focuses on those cases where the stressor claimed by the veteran is related to the veteran's fear of hostile military or terrorist activity. That is not the basis for this Veteran's claim. Nor does he ever allege participation in combat or status as a prisoner of war. The facts of this case clearly establish that the Veteran's alleged service stressors involve noncombat events that occurred in service and his sexual trauma that occurred prior to service. Therefore, the only applicable provisions in this case are found at 38 C.F.R. § 3.304(f) and (f)(5).\n\nAs noted in the Introduction, the Veteran's case was previously before the Board in December 2011. At that time the Board denied service connection for a psychiatric disorder, to include PTSD. The Veteran appealed to the Court. The Joint Motion contended that the evidence of record supported a conclusion that the Veteran had suffered sexual trauma prior to service and that he had PTSD as a result of this trauma. It was further contended that this preexisting PTSD was not identified on the Veteran's enlistment and that the presumption of soundness was not addressed in the prior Board decision even though that issue had been reasonably raised and merited discussion. The question of whether the Veteran's preexisting PTSD was aggravated as a result of the Veteran's service was to be addressed by the Board. The Court granted the Joint Motion for the Board for re-adjudication and consideration of the presumption of soundness.\n\nAccordingly, in addition to the above-mentioned requirements for service connection, it should also be noted that claimants are presumed to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities. 38 U.S.C.A. §§ 1111, 1132 (West 2002); 38 C.F.R. § 3.304(b). Only such conditions as are recorded in entrance examination reports are to be considered as \"noted,\" and a history of pre-service existence of conditions recorded at the time of examination does not constitute a \"notation\" of such conditions. Crowe v. Brown, 7 Vet. App. 238, 245 (1994); see also Vanerson v. West, 12 Vet. App. 254, 259 (1999) (history of pre-service existence of conditions recorded at the time of examination will be considered together with all other material evidence in determinations as to inception (citing 38 C.F.R. § 3.304(b)).\n\nIn order to rebut the presumption of soundness, VA must show by clear and unmistakable evidence both that the disease or injury existed prior to service and that the disease or injury was not aggravated by service. A veteran is not required to show that the disease or injury increased in severity during service before VA's duty under the second prong of this rebuttal standard attaches. See Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); see also VAOPGCPREC 3-2003. In rebutting the presumption of soundness, records made prior to, during or subsequent to service, concerning the inception of the disease/disorder may be considered. See Harris v. West, 203 F.3d 1347, 1350 (Fed. Cir. 2000). \n\nA preexisting disease will be considered to have been aggravated by active service where there is an increase in disability during service, unless there is a specific finding that the increase in disability is due to the natural progression of the disease. 38 U.S.C.A. § 1153 (West 2002); 38 C.F.R. § 3.306 (2012). See Wagner; see also Cotant v. Principi, 17 Vet. App. 116, 123-30 (2003).\n\nFinally, the Court has also addressed when the presumption is not applicable even with a preexisting disease or injury. Specifically, the Court has held \". . .before the presumption of soundness is for application, there must be evidence that a disease or injury that was not noted upon entry to service manifested or was incurred in service.\" See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012). \n\nBackground\n\nThe Veteran's STRs include his entrance physical examination dated in August 1975. The Veteran checked no for having any history of depression or excessive worry on his Report of Medical History. In other words, he failed to state any history of prior sexual trauma. The Veteran reported for his basic training at the end of January 1976. The STRs do not reflect multiple visits to sickbay during his period of basic training. The Veteran was seen on several occasions for complaints that were clearly related to identifiable physical issues. In particular, he had trouble breathing due to a deformed nose. \n\nThe Veteran graduated from basic training April 1976. His STRs are negative for any complaints relating to any type of psychiatric or performance issues until he was hospitalized at the National Naval Medical Center in Bethesda, Maryland, from September to November 1978. The discharge summary for that period of hospitalization noted that the Veteran was admitted with a diagnosis of drug induced psychosis. The Veteran had been brought to the medical center from his base due to his incoherency. The Veteran underwent individual, group and milieu therapy while hospitalized. The summary said the Veteran related a history of drug abuse since junior high school. This included marijuana, amphetamines and phencyclidine (PCP). The summary also noted that the Veteran's military record, to this point, had been outstanding. It is further stated in the summary that the Veteran, although he did not want to, felt he would return to drug use following his discharge. \n\nThe diagnoses were organic brain syndrome, psychotic, secondary to drug abuse, manifested by delusions, auditory and visual hallucinations, autism, loosened associations, paranoid ideations, ideas of reference and grandiosity. He was also diagnosed with drug abuse manifested by the abuse of marijuana and phencyclidine. \n\nThe Veteran's personnel records show that he enlisted in the U. S. Marine Corps Reserves (USMCR) for 6 years under a delayed enlistment program in August 1975. Evidence in the Veteran's records show that he departed for basic training, and active duty, in January 1976. Of note, J.P.S. was appointed as leader of the group from the Veteran's area to basic training. J.P.S. later submitted a statement in support of the Veteran regarding their basic training. The statement will be discussed in more detail below. \n\nThe personnel records do not reflect any problems, especially during basic training. Upon completion of basic training in April 1976, the Veteran received a meritorious promotion to E-2. He later received a meritorious promotion to E-3 in December 1976. The Veteran's performance and conduct marks reflect good to outstanding performance throughout his entire period of active duty. Although the Veteran had the episode of drug use, as reflected in the hospital summary, he still received an Honorable Discharge and was placed in the inactive reserve to complete his 6-year military obligation in 1981.\n\nThe Veteran submitted a claim for entitlement to service connection for a right foot disability in January 1979. He did not raise any other issue at that time. He was granted service connection for an avulsion fracture of the right talus in April 1979.\n\nAdditional personnel records show that the Veteran enlisted in the Navy in June 1981. He underwent a physical examination and provided a medical history in June 1981. He again stated that he had no history of depression or excessive worry. His physical examination was negative for any psychiatric complaints or conditions. In a personal history provided with his enlistment, the Veteran noted an occasion in 1979 and 1980 where he was arrested for driving infractions. In 1979 he failed a sobriety test but said he completed a court program and had a reduced charge. In 1980, he was found to be intoxicated. He said he spent 10 days in jail as he did not have the cash to pay the fine.\n\nThe records associated with the Veteran's brief service in the Navy are of poor quality on microfiche as well as with the reproduced copies. However, they do show he was discharged in July 1981 with a General Discharge, Under Honorable Conditions. The reason for the discharge was fraudulent enlistment.\n\nThe Veteran's USMCR records show he was discharged from the inactive reserve in August 1981.\n\nA review of the claims folder reflects that the Veteran sought and received VA education benefits during the period from 1979 through 1984.\n\nThe Veteran submitted a claim for service connection for an unspecified nervous condition in May 1985.\n\nThe Veteran was hospitalized at the VA medical center (VAMC) in Biloxi, Mississippi, in April 1985, approximately 6 years after his service. This was the Veteran's first hospitalization at a VA facility. His chief complaint was feeling out of control and wanting to hurt someone or walk in front of a truck. At the time of discharge, his diagnoses were alcohol and mixed substance abuse, including PCP, cocaine, marijuana, amphetamines, and hallucinogens; dysthymic disorder; and rule out borderline personality disorder. The Veteran dated the onset of his problems back to his teenage years when he began feeling angry, frustrated, and started using alcohol and drugs. The Veteran also related that he was involved in Satanism. He was assessed as competent for VA purposes and employable at his discharge. \n\nThe Veteran's claim for service connection was denied in August 1985. The determination was that the evidence did not show that the Veteran had a psychiatric disability that was incurred in or aggravated by service. \n\nAccording to an August 1985 letter from the Acadiana Mental Health Center (AMHC), a private mental health treatment facility, the Veteran sought treatment after service in February 1981 on an outpatient basis presenting with symptoms of wanting a more satisfactory role identification, pleasing his parents, visual hallucinations, and feeling he was possessed by demons. The letter further related that the Veteran was seen again in June 1985. According to the author, a social worker, the Veteran was diagnosed with schizophrenia at that time. His presenting complaints were hostile and violent behavior, pacing, feeling depressed, constant anxiety, loss of appetite, not feeling motivated, and having a low level of functioning. The Veteran reported prior psychiatric treatment in service and his recent admission to the VAMC.\n\nThe Veteran submitted a claim for service connection for PTSD and depression in December 1995. \n\nRecords from Lafayette Drug and Alcohol Abuse Center reflect treatment for the Veteran from July 1991 to May 1994. At the time of his initial treatment, the Veteran reported that his drug use began at age 14. He reported previous mental health treatment in service in 1978 and at the VAMC in 1985. He also reported prior substance abuse treatment at the same two sources and others. He listed prior legal charges of driving while intoxicated in 1979, 1981, and 1988 and possession of marijuana in 1975 and 1983. The intake noted the Veteran had received treatment from VA in Alexandria, Louisiana, and Puerto Rico. The entry said the Veteran was able to manipulate his environment around him to produce fewer consequences than his behavior would indicate outcome. A more detailed drug use history indicated alcohol use began at 14 but he then used barbiturates, amphetamines, cocaine, crack, marijuana and hallucinogens between 15 and 18. A past history of depression was reported and the Veteran was noted to feel sad and remorseful\n\nThe Veteran was admitted to the detoxification unit of a hospital in September 1995 as a result of chemical dependency. He was treated again at AMHC following his discharge from the hospital in September 1995. The records noted a history of sexual trauma when the Veteran was 16. He denied that he told anyone about the incident until recently. He was readmitted to the hospital for depression, trouble concentrating, being angry, and having suicidal thoughts. During that admission, the Veteran was diagnosed with recurrent major depression, alcohol abuse, and an unspecified personality disorder. \n\nThe Veteran's claim for service connection was denied in June 1996.\n\nIn a written statement dated in February 1999, the Veteran claimed that he was hospitalized for depression and psychiatric problems in service. However, as previously noted service treatment records show only one inpatient psychiatric hospitalization for drug induced psychosis. He also said he attempted to enlist in the Navy to become a Navy SEAL but was discharged due to psychiatric problems. \n\nIn February 1999, the Veteran was again admitted to the hospital. He was diagnosed with depressive disorder not otherwise specified (NOS), psychotic disorder NOS, polysubstance abuse by history, and personality disorder NOS. During this hospital admission the Veteran reported that he was sexually molested at age 7 by his cousin and at age 16 by a policeman. He reported that as a result of these occurrences he was depressed intermittently for many years. He gave a long history of drug and alcohol abuse. He reported multiple prior inpatient hospitalizations. The Veteran was assessed as being unemployable with a guarded prognosis due to the chronicity of mental illness, a history of medication noncompliance, poor coping skills, and a history of substance abuse plus a period of previous suicidal attempts. \n\nThe Veteran submitted his current claim for service connection in March 2002. He was provided a copy of his claims folder, as per his request, in May 2002.\n\nVA treatment records from December 1999 to June 2002 were associated with the claims folder. Entries in 1999 reflect diagnoses of major depressive disorder, adjustment disorder with mixed emotional features, tobacco dependence, polysubstance abuse, and personality disorder NOS. The Veteran was enrolled in a drug and alcohol treatment program. The Veteran contended that he was first diagnosed with depression in 1991. He felt that this resulted from a prior condition that was made worse in some unspecified way by the military. He reported being physically abused by a babysitter at 3 years old, that a cousin attempted to molest him at age 7, and that he was sexually abused by a karate instructor when he was 16. He reported that when he was 17 a group of unknown individuals tried to murder him. He also stated that he belonged to a satanic group on two occasions and believed he was psychotic at such times. He reported that he realized he was abused as a child in 1995 after reading some books. In an entry from January 2002, he attributed his past drug and alcohol abuse to this trauma. \n\nAn entry from February 2002 said the Veteran met the criteria for a diagnosis of PTSD due to childhood sexual abuse and sexual abuse in the military. The records do not disclose evidence of what sexual abuse occurred during the Veteran's military service. A note from March 1, 2002, said the Veteran had been denied access to a TR program after being screened. The Veteran was described as a manipulator. The entry noted the Veteran presented the issue as his just recently discovered sexual abuse; however, it was noted that this issue had been worked on by the Veteran in the remote past. The entry noted that the Veteran appeared to be looking for a long-term housing situation. The entry concluded that the staff was uncomfortable with the Veteran's satanic worship dealings.\n\nAdditional VA records were obtained that related to treatment provided from 1985 to 1999. In particular, there were additional treatment entries associated with the Veteran's period of hospitalization in 1985. Several specific evaluations were conducted during the period of hospitalization. A social work assessment from May 1985 noted that the Veteran reported that he studied and practiced Satanism and occult since he was 13. He said he started smoking pot when he was 15. The Veteran also said he was intoxicated almost nightly during his senior year and used a variety of drugs and even raided the family's medicine cabinet. He blamed his family for not stopping him or helping him. The Veteran reported he went to Catholic schools until about age 13 and went to public schools. It was about this time he learned that he was adopted. The Veteran further related that he became interested in astrology, horoscopes and purchased books on witchcraft, occult and Satanism. He said he built altars in his room and burned candles at night. He said that his parents were upset at first but later did not seem to mind. The social worker said the Veteran reported having his first homosexual experience with a karate instructor when he was 15. He did not tell his parents. \n\nAlso included in the records is a history/report by a VA physician done in April 1985. This history is referenced in the discharge summary and the summary refers the reader to the history for a good review. The physician, Dr. D., said the Veteran related the onset of his illness to his early teenage years when he began feeling angry, frustrated, and started using alcohol, and subsequently drugs. The Veteran learned he was adopted at about 13 but felt this had no impact on his life. He said he used drugs rather heavily in high school, became involved in Satanism and practice witchcraft at his home. He expressed anger at his parents for letting him do this. The Veteran spoke of his joining the Marines and described himself as the \"ideal Marine\" for three years. The Veteran related that he continued to have heavy alcohol use. He used PCP toward the end of his enlistment and was admitted to a hospital. \n\nDr. D. provided diagnoses of history of alcohol and drug abuse, including PCP, coca, marijuana, amphetamines and hallucinogens, dysthymic disorder and rule out borderline personality. He said the Veteran felt that his drug abuse was secondary to his basic psychiatric disorder and not vice versa. \n\nA psychological evaluation, done in conjunction with the hospitalization, noted that the Veteran reported a rather disturbed lifestyle that dated back to his childhood and adolescence. He said he was involved in quite a bit of delinquent behavior that included vandalism, theft, alcohol and drug abuse and drug sales. He said his adoptive parents were unable to control him. He said he began to use alcohol at age 13 and marijuana at 15. The Veteran reported joining the service. The report said the Veteran related that he was involved in homosexual encounters and drug abuse and was frequently in conflict with his superiors due to his \"failure to submit\" while in service. The Veteran gave a history of drug use in service of marijuana, alcohol, amphetamines, intravenous (IV), Preludin, psilocybin and other hallucinogens. The Veteran said that he joined a coven of witches after service. He also said he was a practicing Satanist until he was 26. The Veteran underwent psychological testing at that time. No Axis I diagnosis was provided. The examiner did provide a diagnosis of Borderline Personality Disorder\n\nRecords from VAMC Alexandria for the period from July 1991 to November 2000 were added to the claims folder. Most of the records are dated from 1998 to 2000. An entry from August 1998 noted that the physician had spoken with the Veteran's mother. She said the Veteran had been in trouble since he was little, she did not know how to cope with him. She also said that he began using drugs when he was 13 or 14 and that he had completed numerous drug programs but always ended up using drugs again. She was interviewed again during another period of hospitalization in August 1999. She described the Veteran as a problem child. She repeated that he began to use drugs at 13 or 14. \n\nThe Veteran had a psychological evaluation in September 1999. The Veteran described being sexually abused by his karate instructor when he was 16. He said he began to withdraw, feel depressed and become inactive in school. He did not tell his parents. He related that the abuser was killed in a car accident several months later so he never told anyone about the abuse until 1991. The Veteran said he began to use drugs and alcohol after he was abused. The Veteran was diagnosed with major depressive disorder, recurrent, with psychotic features, polysubstance dependence and schizoid personality disorder. \n\nThe Veteran submitted a letter from J.P.S., previously identified in the discussion of the Veteran's personnel records, in May 2003. J.P.S. indicated that he knew the Veteran since high school and in the Marines. He related how they enlisted in the USMCR in August 1975 and spent a lot of time together before they had to go to basic training. He said the Veteran told him of the sexual abuse and later about when he was child.\n\nAt the time they were in the Marines, the Veteran reported to his superiors that he had been physically assaulted prior to service. The friend reported that the Veteran began to show signs of depression in recruit training. At one point the Veteran was sent to a motivational platoon which was very difficult. Supposedly, this was after he reported being assaulted prior to service to his superiors and wanting to get out of service to deal with the emotional problems caused by this. They attended the funeral of a Marine who was killed. The acquaintance claimed the Veteran was put on suicide watch for a time while in training, although this is not documented anywhere in his military records. The Veteran's friend felt that the failure of the Veteran's commanders to discharge him at his request or provide him with psychiatric treatment worsened the Veteran's preexisting mental health problems. The Veteran's friend made no mention of the Veteran's drug and alcohol use prior to service. He also provided no information in regard to the Veteran's approximately three years of service after basic training. \n\nThe Veteran submitted letter from another friend, G.S., who said he wanted to clarify some matters of record as to who the Veteran was and what he did prior to service. G.S. specifically noted the discharge summary in service. He disputed the statements that the Veteran was a Satanist in junior or senior high school. He also said he could attest that the Veteran did not use PCP. He further disputed that the Veteran was a homosexual as related in the report from the VA hospital records. He said someone got carried away and engaged in character assassination. \n\nHe related how he and the Veteran were in the same scout troop from elementary to senior high. They also ran cross country together during freshman and sophomore years. He admitted to moving away after sophomore year. He said it was completely impossible for the severe drug abuse and satanic practices mentioned to coexist with the events he witnessed and experienced with the Veteran. He said if there was a problem with the Veteran, it was not due to those things. The friend made no comment on the Veteran being sexually abused, at any age, or that the Veteran attributed any post-service problems to the claimed abuse. Finally, he offered no evidence as to the Veteran's military service and whether or not the Veteran had a psychiatric disorder at that time.\n\nThe Veteran submitted additional lay statements and other evidence in support of his claim in March 2005. On item was a letter from his company commander for his unit when he was stationed in Okinawa. The letter was one of high praise for the Veteran's capabilities and performance of duties. A second letter was from the dining facility officer at the Marine Corps base in Quantico. The Veteran was assigned to work mess duty in 1978. The letter noted the Veteran's positive attitude and commendable work during the time. Another letter, dated in October 2004, was from a Sexual Abuse Response Center, affiliated with the hospital he received detoxification treatment from in September 1995. The letter noted that the Veteran related an incident of sexual abuse at 16 and received treatment from the social worker.\n\nIn an undated letter from his roommate, the Veteran was described as depressed and having terrible nightmares and problems concentrating. In undated letter from another roommate, the Veteran was described as depressed and having night terrors. Neither individual expressed any knowledge of the Veteran's military service or events before, during, or after service.\n\nThe Veteran also submitted an undated letter from his mother. The Veteran's mother related that the Veteran blocked memories of sexual abuse until he was 38 years old. As an adult he told his mother about this abuse and about physical abuse by a babysitter when he was in preschool. She reported that prior to service the Veteran had been assaulted and his car was stolen. Later in high school it was obvious something \"cataclysmic\" had happened. She reported that the Veteran was a good student and denied that he used drugs prior to service except possibly some experimentation with marijuana. The Veteran had many psychiatric problems after service. The Veteran's mother believed that this was because the Veteran's childhood sexual abuse was not identified or treated in the military. The Veteran's mother did not believe that the Veteran had a severe drug problem in service because he did not have other severe disciplinary problems. She related that the Veteran was depressed when he returned from the Marines.\n\nThe Veteran was afforded a VA examination in June 2007. While the Veteran reported that he was in treatment for PTSD, the examiner noted that \"it was very difficult to document post traumatic stress disorder symptomatology.\" For instance, while he reported nightmares he was unable to describe them. He reported that he had intrusive thoughts because he faced death 55 times, some in the civilian world and some in the military. He said that when he was five or six a cousin tried to get him to disrobe. When he was 16 a karate instructor got him drunk and undressed, but after that the Veteran said he had to leave. He claimed he dropped out of school due to this incident but later went back and finished school. He reported that since the incident he was ashamed and depressed but did not know that he was depressed. The Veteran reported that he got in fights before and during his military service. He reported that he became suicidal during training but he was not allowed to go home. He claimed that another soldier died while he was in the motivational platoon which made him bitterer than ever. He continued to be depressed during his military career until he was diagnosed with depression in 1985. \n\nThe examiner noted that the Veteran was cooperative but somewhat vague during the interview. He reported that the Veteran was convinced that he had PTSD but was unable or unwilling to document specific incidents or effects of that. He did display considerable anxiety as well as some dysphoria. Speech was within normal limits as to rate and rhythm. His mood was anxious and depressed. Thought processes and associations were logical and tight. No loosening of association of confusion was noted. Memory was grossly intact. The Veteran was fully oriented. No delusional material was noted although the Veteran claimed to experience paranoia. His insight was somewhat limited and his judgment was adequate. \n\nThe examiner diagnosed PTSD. However, he explained that establishing a diagnosis in this case was extremely difficult. Notes in the claims folder reflected that the Veteran was diagnosed with PTSD for five years, citing childhood and military sexual abuse. However, the Veteran did not mention sexual abuse in the military; rather he reported that he was not allowed to be discharged from the military when he became aware of his childhood sexual abuse. While the examiner could not rule out the possibility that there were military stressors, he did not find sufficient evidence to establish a nexus between any stressor that occurred during the Veteran's service and PTSD symptoms. The examiner said it was also difficult to establish PTSD related to the Veteran's reports of childhood sexual abuse because the Veteran did not report nightmares or intrusive thoughts related to that. However, giving the Veteran the benefit of the doubt he believed that the Veteran did have PTSD related to that incident. He also felt that the Veteran was \"affected\" by his time in the military. It was possible that he had some depression which was aggravated by his experiences in the military. However, it was very difficult to document that. The examiner also believed the Veteran might meet the criteria for a diagnosis of a personality disorder, most likely of the borderline type.\n\nThe Veteran submitted several PTSD stressor questionnaires in June 2008. In the first one, he claimed that \"all kinds of stressors\" occurred in boot camp. He said that five people died during his enlistment. This included a Cpl. Green. In the second questionnaire he wrote that he reported his childhood sexual abuse to his commanders as well as suicidal feelings, but he was not given treatment but rather assigned to a motivational platoon. In the third questionnaire he related that a Sgt. Brubaker disappeared during a typhoon and his body was not recovered. In the fourth questionnaire he related that he was threatened by a fellow platoon member because he would not use drugs. In another questionnaire he claimed that he was \"re-victimized\" in service after his childhood sexual abuse but he provided no information about how he was allegedly re-victimized. He also claimed that he was denied help for his psychiatric problems in service and that he was hospitalized for the wrong reason. In another questionnaire he reiterated that five people died while he was in service and that he was not permitted to go home after he reported childhood assaults to his commander. \n\nIn March 2009, the Veteran reported that he experienced two deaths of servicemembers in the military and he attended one of their funerals. He was also physically assaulted on multiple occasions, but gave no details of these incidents. He claimed he was re-victimized sexually three times but gave no details of these occurrences and admitted they could not be proved. \n\nThe Veteran also provided an e-mail statement from another friend, P.D., that was dated in June 2004. P.D. said he was recently contacted by the Veteran and asked to provide a reference as to his knowledge of the Veteran's early years. He said he had known the Veteran since the 7th grade. He described them as engaging in many activities that were quite ordinary and in keeping with boys their age. He said they were both raised in Catholic homes and attended church on Sundays. He said the Veteran told him that the military alleged he was a \"devil worshipping heathen\" during those years. P.D. said he did not know where they would get that idea. He said the thought was laughable\n\nP.D. also said the Veteran participated in cross country and track. He said that the Veteran told him that the military also thought the Veteran had homosexual tendencies. He strongly disputed that idea. P.D. related an incident of where he was approached by the same karate instructor at about the same age as the Veteran. The instructor lured P.D. to his house under the guise of receiving medical treatment from the instructor's nurse wife. The wife was not at home and the instructor proposed to do the same treatment which involved rubbing a thigh muscle. P.D. felt that the instructor was capable of forcing his intentions but his wife came home and he was able to get out of the house. He said he was terrified of the instructor after this experience. He told the Veteran about it. He said that years later the Veteran told him that the warning was too late as the instructor had molested the Veteran. He said the Veteran told him that the military took the story and put in his medical records that the Veteran had homosexual tendencies. \n\nP.D. went on to say that something happened to the Veteran after his military service. He said he thought he was homeless for a time and living out of a church. He said something seriously wrong happened in the Veteran's life after he knew him. \n\nThe Veteran also submitted a letter from a VA physician, dated in May 2008. The physician noted that when patients are diagnosed with PTSD it was his practice to provide a letter that denoted their clinical course, a review of their DD 214 for evidence of documented stressors and whether they continue to be followed in the clinic. In regard to the Veteran he said the Veteran was referred to the clinic from the mental health clinic based on a history of trauma. He was noted to have symptoms of PTSD and had worked to sustain abstinence from substance abuse. He said he initially saw the Veteran in May 2002 and that diagnoses of PTSD and depressive disorder were given at that time. He said the Veteran participated in a residential PTSD program and continued treatment in the clinic. He said the Veteran was a straightforward historian that did not over endorse symptoms and continued to be significantly symptomatic with PTSD symptoms. He noted that the Veteran was applying for service connection for PTSD and that status would further his goal of vocational rehabilitation.\n\nThe Veteran submitted a letter from a roommate in January 2010 to the effect that the Veteran was very depressed and had night terrors.\n\nVA treatment records from 2006 to the February 2010 show that the Veteran was diagnosed with PTSD and THC dependence. \n\nResearch into the Veteran's claimed stressors yielded confirmation that a Marine recruit died as a result of being beaten by pugil sticks while the Veteran was at the Marine Corps Recruit Depot. Significantly, the Marine's injuries occurred in December 1975, before the Veteran arrived at the base, and the death occurred in March 1976 while the injured recruit was hospitalized. The Veteran could not have actually witnessed this incident. It was noted that there was no way to determine whether the Veteran attended the funeral. No other injuries or deaths allegedly witnessed by the Veteran were confirmed. The Veteran never gave enough specifics for his claims of physical and sexual abuse in the military to attempt to be confirmed, but his service personnel records did not show any evidence of behavioral changes consistent with such abuse such as sudden changes in performance. He did report to his psychiatrist being threatened on the day that he was admitted to the hospital for drug induced psychosis, but there is no evidence that the Veteran suffered any ill effects from being threatened and this has never been linked to any type of psychiatric disorder by a mental health professional. \n\nThe Veteran was reexamined in September 2010. However, the examiner did not review the claims folder. At that time, the Veteran reported suicidal ideation but no present intent. He reported being stationed in California and Okinawa. He was a \"covert radio operator.\" The examiner said the Veteran was difficult to interview and jumped from topic to topic in an almost hypomanic state at times. At one point he said he took over the position and bed of another soldier (Marine) who had been lost. The Veteran stated that this was very traumatic for him. The Veteran reported that he had significant physical and sexual abuse throughout his life beginning at age three. The Veteran reported that he suffered physical, sexual, and emotional abuse as a child. The Veteran reported that he was re-victimized in the military. He reported that a homosexual service member invited him to his home which re-victimized him. The Veteran also reported that in boot camp he told his commander that he needed to leave but he was sent to a motivational platoon that was eventually shut down because somebody died. He reported that he told commanders in training that he was suicidal but they did not get him help. \n\nThe Veteran reported nightmares but it was very difficult to pin the Veteran down on specifics of these dreams as he kept jumping to a different topic when these questions were asked. He reported that sometimes he was depressed and stayed in bed all day but he could not say how often this occurred.\n\nIt was noted that the Veteran was casually groomed. He was cooperative, however he was extremely difficult to interview as he jumped from topic to topic and often did not answer questions fully. His eye contact was fair to intense at times. His speech was somewhat pressured at times. His mood was anxious at times and almost euphoric at times. Affect was generally appropriate to content. The Veteran's thought processes and associations were generally logical and tight but there were times when the Veteran would become a little tangential. There was no gross confusion noted. The Veteran was fully oriented. Delusions were questionable as the Veteran tended to speak in secrecy and covert terms much of the time. His insight and judgment were poor.\n\nThe examiner diagnosed PTSD. The examiner related the Veteran's PTSD to his significant childhood abuse. She opined that it was at least as likely as not that the Veteran's military service further aggravated this preexisting condition to some degree, a small degree probably. Other psychiatric disorders which were likely present included major depressive disorder, borderline personality disorder, and substance abuse in early remission. As noted above, however, this opinion was given without the benefit of the review of the claims folder, and therefore was not fully informed. \n\nThe Veteran was reexamined by VA in May 2011. At that time, the examiner did review the claims folder in connection with the examination. The Veteran reported that his major problem was his inability to support himself. He reported that this was because he got stressed working with other people. He also reported having nightmares, diminished appetite, and diminished energy in the morning. The nightmares involved sexual abuse, or somebody trying to kill the Veteran, or the Veteran trying to kill someone else. He reported that he had been almost killed 65 times. He explained that he worked as a bodyguard for an escort service. He reported that it takes him an hour or two to return to sleep after waking up from a nightmare and that he gets four to six hours of sleep per night. He began having some nightmares in high school. He reported that he thought about the choices he made in his life such as joining the military. He dwells on the fact that he does not have accomplishments commensurate with others in his age group. He reported thinking a lot about being forced through the service. He also reported that he was re-victimized three times in the military. He said that the same things occurred as in his childhood sexual abuse. \n\nThe Veteran's mood was depressed and his affect was generally appropriate to content. Thought processes and associations were logical and tight. No loosening of associations was noted, nor was any confusion. Memory was grossly intact. The Veteran was oriented in all spheres. He did not report hallucinations. No delusional material was noted. The Veteran's insight was somewhat limited. Judgment was adequate. The Veteran reported suicidal ideation but denied intent and denied homicidal ideation. \n\nThe examiner determined that the Veteran did not have PTSD. He noted that the Veteran had a long history of physical and sexual abuse as a child. When he was assessed in 1999 the Veteran did not mention anything relating to his military experiences as he claimed in the current examination. There was insufficient evidence to warrant a diagnosis of PTSD related to the Veteran's military experiences. The examiner also said he did not see any exacerbation of symptoms that was specifically linked to experiences that the Veteran had in the military. He believed that the Veteran likely met the criteria for a substance abuse diagnosis. There could be a personality disorder, but the examiner did not evaluate the Veteran specifically for that. He also said there might be some depression, but the examiner did not find any evidence of any other mental health issue related to the Veteran's military experiences.\n\nIn a May 2011 addendum the examiner clarified that the Veteran did not have any psychiatric diagnosis. While there was the possibility of some depression, there was no evidence that this was related to the Veteran's military experiences. However, the Veteran was not diagnosed with depression.\n\nAnalysis\n\nAfter reviewing all of the evidence of record, the Board finds that the evidence shows that the Veteran does not have a psychiatric disorder that was caused or aggravated by his service. In regard to direct service connection, although the Veteran has been diagnosed with depression or major depressive disorder subsequent to service, his most current examination shows that the Veteran either does not have depression or that any current depression is unrelated to the Veteran's military service. While the Veteran claimed that he was depressed and suicidal in service, the Veteran was admitted for inpatient treatment for substance induced psychosis in 1978 and no mention of any depression or suicidal thinking was made at that time or any other time in service. Thus, his memories are contradicted by the more reliable contemporaneous evidence. Moreover, no diagnosis of depression was made until 1985, six years after the Veteran's service, and at that time there was also no indication that the Veteran's service had anything to do with his depression. Thus, even if the Veteran does have depression, this occurred after service and the evidence shows it was not caused by service.\n\nThe Board has considered the Veteran's lay statements. In addition, although the statement from J.P.S. indicates that he was aware of the sexual trauma from the karate instructor at the time the Veteran started his active duty, the Veteran has said that he did not tell anyone of this until 1991 or, in the case of his family, until later. Further, even though the Veteran enlisted in the USMCR in August 1975, it is his contention that he realized he must leave active duty upon reporting for training in January 1976 to deal with his situation. The statement of J.P.S. tends to support this view of events by the Veteran. However, it strains credulity to accept this information as the Veteran had months before service to change his mind about going on active duty. Further, he reported that he had no psychiatric problems at the time of his enlistment physical. He also received a meritorious promotion upon completion of basic training, a fact that is in stark contrast with his assertions of not being able to function and wanting to commit suicide during basic training. \n\nNo other supporting lay statement has knowledge of the Veteran's actual service. The statement from G.S. relates to what he knew of the Veteran prior to service. The same is true of the statement from P.D. It is clear that both individuals thought highly of the Veteran and that they had positive relationships. Neither individual could, or did, address the Veteran's status in service. Further, they also are not aware of all of the facts in this matter and their challenges to determinations made or evidence contained in the record have no credibility. The Veteran himself has provided the statements, in regard to his sexual activities, drug use and religious practices to his care providers on multiple occasions, particularly in regard to his pre-service drug abuse. As stated several times, his mother has confirmed the Veteran's pre-service drug use. She has also related that she had difficulty in coping with the Veteran and his behavior.\n\nThe Veteran claims that he also has PTSD that is related to his service. The May 2008 letter from the VA physician does not support the Veteran's claim. He noted the Veteran was treated in the clinic for PTSD related to the pre-service sexual trauma. The physician noted that, as a routine, a check of a veteran's DD 214 is done to review for stressors. He did not relate any military stressors for this Veteran and his DD 214 would not indicate any as the Veteran was not in combat and has not alleged such service.\n\nThe Veteran was examined three times. On two of those occasions, the Veteran was found to have PTSD that was related to child abuse and not anything that occurred in the military. The Veteran's treatment records also show a PTSD diagnosis that is related to the pre-service sexual abuse. However, sexual abuse in the military could not be corroborated. The only military stressor that was corroborated was the fact that a Marine who was injured prior to when the Veteran arrived at his duty station later died while hospitalized. However, there is no evidence linking any diagnosis of PTSD or any other mental disorder to this event. \n\nOn the third examination in May 2011, the Veteran was specifically evaluated for PTSD and was not found to even have this disorder. This conclusion is highly probative insofar as it was made based on a review of the entire claims folder, including documentation of the Veteran's extensive substance abuse and treatment history and after consideration of the opinions of the earlier two VA examiners, who acknowledged that it was hard to diagnose the Veteran because his answers were often vague or off topic. \n\nThe third examiner determined that the Veteran did not have any psychiatric diagnosis and that no psychiatric symptoms were aggravated specifically by the Veteran's military service. While the two VA examiners who previously examined the Veteran opined that there may have been some minor aggravation of the Veteran's symptoms due to his military service, neither of them explained the mechanism through which this aggravation supposedly occurred or that there was evidence of PTSD in service. Notably, there is no credible evidence that any of the in-service events complained of by the Veteran, aside from the death of the recruit, actually occurred. While one recruit who was unknown to the Veteran and injured prior to the Veteran arriving at his duty station died while hospitalized, there is no evidence that an additional four of the Veteran's friends died in service as he claimed. There is no credible evidence that the Veteran was physically or sexually assaulted in service; he did not advance these contentions until his appeal was well underway and he never provided any specifics about the supposed assaults, other than to say that he was once invited to another soldier's home, to which he apparently did not go. \n\nMoreover, while the Veteran contended that he reported childhood sexual abuse to his commander and was not allowed to go home to cope with it, documentation such as treatment records and even the written statement from the Veteran's mother indicate that the Veteran was unaware of the sexual abuse until long after his military service. Also, his outstanding performance, as documented in his personnel records, as well as the letter of recommendation by his company commander and the dining facility officer do not support a conclusion that the Veteran's performance waned upon his graduation from basic training and receipt of a meritorious promotion.\n\nThe three VA examination reports do not support a conclusion that a psychiatric disorder, other than the drug induced one from 1978, was present in service. The STRs are clearly negative for such evidence. The Veteran denied having any type of a psychiatric disorder, or history thereof, on his enlistment in the Navy in June 1981. The post-service treatment records do not provide supporting evidence to conclude that a psychiatric condition existed in service that was unrelated to the Veteran's drug abuse.\n\nThe evidence of record does not support a finding that the Veteran had a psychiatric condition in service other than the two drug-related diagnoses from 1978. It is clear from the 1978 discharge summary that the Veteran received extensive therapy and treatment over a two month period. The diagnoses were not determined without what appears to be a thorough understanding of the Veteran's psychiatric status, at the time of treatment and prior to the period of hospitalization. The history of drug abuse cited in the summary is supported by numerous admissions by the Veteran in his treatment by private and VA sources after service as well as by statements from his mother. There is no contrary competent medical evidence to show otherwise. Service connection cannot be granted for disability due to intentional drug abuse. See 38 C.F.R. § 3.301(d). \n\nAs noted above, the Board was directed to address the issue of aggravation of a preexisting disability through consideration of the presumption of soundness. Here, the evidence shows the Veteran did not report any psychiatric problems on his medical history in August 1975 and no psychiatric issues were identified at the time of the physical examination. \n\nHowever, also as noted above, the Court has specifically held that, even in cases where the evidence later shows that there was a preexisting disability that was not identified on entry to service, the presumption of soundness does not necessarily apply. More to the point, absent the showing of the manifestation or incurrence of a disease or injury in service, there is no disability to consider for possible aggravation. See Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2012). The Court in Gilbert held that before the presumption of soundness is for application, there must be evidence that a disease or injury - that was not noted upon entrance into service - manifested in service. Otherwise stated, absent such manifestation, the presumption of soundness is not for application. That is the case here. No disability for which compensation may be paid (i.e, a disability which was not a drug induced psychiatric disorder) was manifest in service. Thus, the presumption of soundness is not for application. \n\nIt is clear from the evidence of record that the Veteran has been diagnosed with PTSD that is based on his sexual trauma prior to service. Although the Veteran has given a history of several incidents, his primary incident involves the karate instructor and this has been the basis for the diagnosis by various providers and examiners. The stressor is unrelated to service. \n\nThe Veteran's PTSD could not have been aggravated by his military service insofar as this implies that PTSD was present prior to, and during, the Veteran's service. However, no psychiatric disorder other than organic brain syndrome due to drug abuse, which resolved, was present during service. The Board is of the opinion that the contemporaneous treatment records during service have the greatest probative value as to the Veteran's mental status at that time. This is particularly true when weighed against lay statements such as those given by the Veteran or in various written statements from persons who knew him during and after service. PTSD also was not present when the Veteran was treated as an outpatient or when he was hospitalized in the 1980s. This diagnosis did not appear until more than 20 years after the Veteran's service; therefore, it could not have been aggravated by service. Even more importantly, after a comprehensive review of all of the Veteran's treatment records and the prior medical opinions, the examiner who provided the May 2011 report of examination determined that the Veteran did not have PTSD or any other psychiatric disorder which could have been aggravated by service. \n\nIn summary, the preponderance of the evidence shows that the Veteran does not have a psychiatric disorder that is related to his military service. Accordingly, the Board concludes that a psychiatric disorder was not incurred in or aggravated by service. The Board acknowledges that VA is statutorily required to resolve the benefit of the doubt in favor of the Veteran when there is an approximate balance of positive and negative evidence regarding the merits of an outstanding issue. That doctrine is inapplicable in the instant case because the preponderance of the evidence is against the Veteran's claim. See Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990); 38 U.S.C.A. § 5107(b). Accordingly, the appeal is denied.\n\n\nORDER\n\nService connection for a psychiatric disorder, to include PTSD, is denied. \n\n\n\n____________________________________________\nMICHAEL MARTIN \nVeterans Law Judge, Board of Veterans' Appeals\n\n\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1302554",
+        "decisionDate": "2013-01-23T00:00:00",
+        "archiveDate": "2013-01-31T00:00:00",
+        "docketNumber": "04-20 614",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in",
+        "judge": "MICHAEL MARTIN",
+        "fileName": "BVA1302554.txt",
+        "processDate": "2018-12-10T09:07:56.0980621-08:00"
+    }
+}

@@ -1,0 +1,855 @@
+{
+    "docID": "1334312",
+    "sentences": [
+        {
+            "sentID": "1334312P1S1",
+            "text": "Citation Nr: 1334312",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P19S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P27S1",
+            "text": "8. There was no in-service PTSD stressor and no psychiatric disorder or symptoms of a psychiatric disorder occurred during active service.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P39S2",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P93S1",
+            "text": "II.D. Psychiatric Disability Claim",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P94S1",
+            "text": "There are particular requirements for establishing service connection for PTSD.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P94S2",
+            "text": "Establishing service connection for PTSD requires (1) a current medical diagnosis of PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a causal nexus between current symptomatology and the specific claimed in-service stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P94S3",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P94S4",
+            "text": "The diagnosis of PTSD must comply with the criteria set forth in the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, of the American Psychiatric Association (DSM- IV).",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P94S5",
+            "text": "Id., see also 38 C.F.R. § 4.125(a) (2013).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S1",
+            "text": "The evidence required to establish the occurrence of an in-service stressor depends upon the nature of the stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S2",
+            "text": "Special provisions allow that the occurrence of a claimed in-service stressor can be shown by certain kinds of credible supporting evidence where the claimed stressor involved personal assault, fear of enemy or terrorist activity, combat, service as a prisoner of war (POW), or diagnosis of PTSD during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S3",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S4",
+            "text": "None of the stressors reported by the Veteran fit into these categories.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S5",
+            "text": "In cases such as this, credible supporting evidence of the occurrence of the stressor must be provided by someone other than the Veteran and cannot be provided solely by after the fact medical nexus evidence.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P95S6",
+            "text": "See generally Cohen v. Brown, 10 Vet. App. 128, 145 (1997).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P96S1",
+            "text": "The Board has considered all psychiatric conditions for which the Veteran has been diagnosed in determining whether service connection is warranted in this case.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S1",
+            "text": "In July 2010, the Veteran filed a claim of entitlement to service connection for PTSD.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S2",
+            "text": "In September 2010, he reported four incidents that he contends caused his PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S3",
+            "text": "First, that in 1987, in Okinawa, he was involved in a helicopter crash that injured other service personnel.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S4",
+            "text": "He reported that he was in the helicopter and involved in a rescue mission of POWs / hostages.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S5",
+            "text": "He also reported that in 1985, in Bridgeport, California, he was banged up pretty bad while repelling from a helicopter when the helicopter above him crashed.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S6",
+            "text": "He reported that in 1983, while at Camp Pendleton, California, another serviceman was standing near the Veteran and blew his finger off of his right hand with a blasting cap.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P97S7",
+            "text": "Finally, he reported that he was in a violent motor vehicle accident involving him rolling his car over two times and a resulting fire.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P98S1",
+            "text": "At the time of his claim he submitted a July 2010 report of a psychological evaluation signed by a private psychologist.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P98S2",
+            "text": "The psychologist recorded the Veteran's reports of his military service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P98S3",
+            "text": "He reported to her that he enlisted in the Marine Corps in 1977, completed boot camp and cook school, was later stationed in Okinawa for approximately thirty-two months, attended Marine security guard school in Quantico but was kicked out as a result of conflict, was later transferred to a Naval Air Facility in Sicily for two years, had a five month break in service, and then served three years at Camp LeJeune and three more years in a truck company in Orlando, Florida.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P99S1",
+            "text": "The psychologist documented the Veteran's report that during military service he rolled a car resulting in a whiplash injury to his neck and bruising and swelling of his right knee and leg.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P99S2",
+            "text": "Also documented in her report was the Veteran's report that he had broken a finger of his left hand while playing softball, that he got banged up when he fell from a cliff during rock assault climbing, and that he twisted his ankle on a forced march, suffered heat stroke, was stabbed in his right arm during military service in the Marine Corps reserves, and that he self treated the wound.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P99S3",
+            "text": "He reported alcohol related problems three years prior to the evaluation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P100S1",
+            "text": "He also reported that his military occupational specialty was that of a cook.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S1",
+            "text": "As to trauma exposure, the Veteran reported that he was injured in a car accident in 1978 or 1979 that resulted in right leg and cervical spine injuries, and he thought he was dead when the accident occurred.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S2",
+            "text": "He also reported that during his service in 1983 at Camp Pendleton a Marine standing next to him blew off several fingers with a blasting cap.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S3",
+            "text": "He reported that in 1985 he was repelling from a helicopter into a landing zone and the helicopter crashed and he was banged up as a result.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S4",
+            "text": "He reported that he was involved in a helicopter crash off the coast of Okinawa, and identified this as likely occurring in 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S5",
+            "text": "He reported other criminal legal matters arising out of events in the year 2000 and alcohol related problems three years prior to the evaluation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P101S6",
+            "text": "He also reported that his military occupational specialty was that of a cook.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P102S1",
+            "text": "The examiner provided Axis I diagnoses of PTSD, mood disorder not otherwise specified, and alcohol abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P102S2",
+            "text": "Although she did not specifically state that the diagnosed disorders were related to his military service, she referred to his military service when discussing the criteria for diagnosing PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P103S1",
+            "text": "Documented in the August 2010 chiropractor report is that the Veteran has symptoms of PTSD and, in the chiropractor's opinion, the Veteran has PTSD and that this is an incurable permanent condition.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S1",
+            "text": "The preponderance of evidence is against a finding that any of the reported in-service stressors occurred.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S2",
+            "text": "In this regard, the most probative evidence of record shows that the Veteran's reports of in-service events are not credible.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S3",
+            "text": "There are two DD Form 214s of record, one for period of active service from July 1980 to July 1984 and one for the period from January 1985 to January 1988.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S4",
+            "text": "For the period from July 1980 to July 1984, he had one year, one month, and twenty-seven days of foreign service and his awards for that period include a sea service deployment ribbon.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S5",
+            "text": "For the period from January 1985 to January 1988, he had four days of sea service and no foreign service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S6",
+            "text": "This is evidence against a finding that he ever served in Okinawa during the period that he reports such service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S7",
+            "text": "This is inconsistent with his reports noted above.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P104S8",
+            "text": "His reports are therefore afforded little probative weight.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P105S1",
+            "text": "Lay evidence can be sufficient to prove service connection, but due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P105S2",
+            "text": "38 U.S.C.A. § 1154(a) (West 2002).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P105S3",
+            "text": "All evidence shows that the Veteran's MOS was that of a cook and there are numerous fitness reports from 1985, 1987, and 1988 that refer to his duties as a cook.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P105S4",
+            "text": "Injuries involving repelling from helicopters and in helicopter training to rescue POWs and hostages is inconsistent with the Veteran's documented service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P105S5",
+            "text": "This inconsistency tends to show that his reports of those in-service stressors are not credible, further reducing the probative weight afforded his statements.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P106S1",
+            "text": "The July 2010 psychological evaluation report and the August 2010 chiropractor report are based entirely on the Veteran's report of his service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P106S2",
+            "text": "The most probative evidence shows that his reports of his service are not credible and therefore the July 2010 psychological evaluation report and the August 2010 chiropractor report are afforded only the most minimal of probative weight.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P106S3",
+            "text": "His service treatment records include numerous normal clinical psychiatric evaluations documented in reports of medical examination over the course of his military service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P106S4",
+            "text": "There is no mention of a psychiatric condition or symptoms of a psychiatric condition until many years after his separation from active service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P106S5",
+            "text": "The Board therefore concludes that the preponderance of evidence shows that the in-service element of service connection is not met with regard to any psychiatric disability claim, including whether service connection is warranted for a mood disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P107S1",
+            "text": "As to the PTSD issue specifically, the Veteran's own reports, which is the only evidence favorable to his claim of entitlement to service connection for a psychiatric disability, are not sufficient to satisfy the requirement of credible supporting evidence of the occurrence of any reported in-service stressor.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P107S2",
+            "text": "The Board is aware that he reported that he was stabbed in the leg during Reserve duty.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P107S3",
+            "text": "However, nowhere is that listed as a stressor related to PTSD or as an event related to any other diagnosed psychiatric disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P107S4",
+            "text": "Hence, the special provisions for claims involving in-service personal assault stressors do not apply in this case.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P108S1",
+            "text": "It is further noted there are additional reasons why service connection is not warranted for the diagnosed alcohol abuse and personality disorder.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P108S2",
+            "text": "Applicable law and regulation provide that compensation shall not be paid if disability was the result of a veteran's own willful misconduct or abuse of alcohol or drugs.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P108S3",
+            "text": "38 U.S.C.A. §§ 105, 1110 (West 2002); 38 C.F.R. §§ 3.1(n), 3.301(c) (2013).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P108S4",
+            "text": "Effective for claims filed after October 31, 1990, Section 8052 of the Omnibus Budget Reconciliation Act of 1990, Pub. L. No. 101-508, § 8052, 104 Stat. 1388, prohibits payment of compensation for a disability that is a result of a Veteran's own alcohol or drug abuse and amended 38 U.S.C.A § 105(a) to provide that an injury or disease incurred during active service will not be deemed to have been incurred in the line of duty if the injury or disease was a result of the Veteran's own willful misconduct, including abuse of alcohol or drugs.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P108S5",
+            "text": "See 38 U.S.C.A. § 105; 38 C.F.R. §§ 3.1(n), 3.301.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S1",
+            "text": "The Federal Circuit has held that 38 U.S.C.A. § 105 and § 1110 preclude compensation for primary alcohol abuse disabilities and secondary disabilities that result from primary alcohol abuse.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S2",
+            "text": "Allen v. Principi, 237 F.3d 1368, 1376 (Fed. Cir. 2001).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S3",
+            "text": "The decision explains that \"primary alcohol abuse\" means an alcohol abuse disability arising during service from voluntary and willful drinking to excess.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S4",
+            "text": "Id.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S5",
+            "text": "However, the Federal Circuit has held that service connection is warranted when drug or alcohol abuse results secondarily from a service-connected disability, but compensation should only result \"where there is clear medical evidence establishing that the drug or alcohol abuse disability is indeed caused by the veteran's primary service-connected disability.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S6",
+            "text": "Id. at 1371, 1381.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S7",
+            "text": "In the instant case, the Veteran has no service-connected disability.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P109S8",
+            "text": "The law therefore prohibits service connection for alcohol abuse under the facts of the instant case.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P110S1",
+            "text": "Congenital or developmental defects, refractive error of the eye, personality disorders and mental deficiency are not diseases or injuries within the meaning of applicable legislation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P110S2",
+            "text": "38 C.F.R. § 3.303(c).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P110S3",
+            "text": "As the Veteran's personality disorder is not a disease or injury within the meaning of applicable legislation, service connection is not warranted for disability due to his personality disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P111S1",
+            "text": "For these reasons, the Board must deny the appeal as to entitlement to service connection for a psychiatric disorder, to include a mood disorder, PTSD, and alcohol abuse.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P111S2",
+            "text": "There is no reasonable doubt to be resolved as to this issue.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1334312P111S3",
+            "text": "See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1334312\t\nDecision Date: 10/29/13 Archive Date: 11/06/13\n\nDOCKET NO. 13-00 341A\t)\tDATE\n\t)\n\t)\n\nOn appeal from the\nDepartment of Veterans Affairs Regional Office in St. Petersburg, Florida\n\n\nTHE ISSUES\n\n1. Entitlement to service connection for residuals of a left fifth finger injury. \n\n2. Entitlement to service connection for hearing loss. \n\n3. Entitlement to service connection for a thoracolumbar spine disability. \n\n4. Entitlement to service connection for a cervical spine disability. \n\n5. Entitlement to service connection for a right ankle disability. \n\n6. Entitlement to service connection for a left shoulder disability. \n\n7. Entitlement to service connection for bilateral knee disabilities. \n\n8. Entitlement to service connection for an acquired psychiatric disability, to include posttraumatic stress disorder (PTSD), a mood disorder, and alcohol abuse. \n\n9. Entitlement to service connection for a stomach/ esophagus disability. \n\n\nATTORNEY FOR THE BOARD\n\nJames G. Reinhart, Counsel\n\n\nINTRODUCTION\n\nThe Veteran served on active duty from February 1978 to July 1984 and from January 1985 to January 1988. \n\nThis matter comes to the Board of Veterans' Appeals (Board) on appeal from a May 2011 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida. \n\n\nFINDINGS OF FACT\n\n1. The Veteran did not have a disease, injury, or manifestation of a disease, injury, or residuals of an injury of his left fifth finger during his active service and arthritis of the left fifth finger did not manifest to a compensable degree within one year of separation from active service. \n\n2. The Veteran did not have an injury or disease related to his hearing during active service, a sensorineural hearing loss disability did not manifest within one year of separation from active service, and he does not have a current hearing loss disability for VA purposes. \n\n3. There was no injury or disease of the Veteran's thoracolumbar spine during active service and arthritis of the Veteran's thoracolumbar spine did not manifest to a compensable degree within one year of separation from active service. \n\n\n\n4. There was no injury or disease of the Veteran's cervical spine during active service and arthritis of the Veteran's cervical spine did not manifest to a compensable degree within one year of separation from active service\n\n5. There was no injury or disease of the Veteran's left shoulder during active service and arthritis of the Veteran's left shoulder did not manifest to a compensable degree within one year of separation from active service\n\n6. There was no injury or disease of the Veteran's right ankle during active service and arthritis of the Veteran's right ankle did not manifest to a compensable degree within one year of separation from active service\n\n7. There was no injury or disease of either of the Veteran's knees during active service and there was no manifestation of arthritis to a compensable degree of either of the Veteran's knees within one year of separation from active service\n\n8. There was no in-service PTSD stressor and no psychiatric disorder or symptoms of a psychiatric disorder occurred during active service. \n\n9. The Veteran had no chronic disease or injury of his esophagus or stomach during active service. \n\n\nCONCLUSIONS OF LAW\n\n1. The criteria for service connection for residuals of a left fifth finger injury have not been met. 38 U.S.C.A. 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013).\n\n2. The criteria for service connection for a hearing loss disability have not been met. 38 U.S.C.A. §§ 1131, 1154(a), 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303, 3.385 (2013). \n\n\n\n3. The criteria for service connection for a thoracolumbar spine disability have not been met. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013). \n\n4. The criteria for service connection for a cervical spine disability have not been met. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013). \n\n5. The criteria for service connection for a right ankle disability have not been met. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013). \n\n6. The criteria for service connection for a left shoulder disability have not been met. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013). \n\n7. The criteria for service connection for bilateral knee disabilities have not been met. 38 U.S.C.A. §§ 1101, 1112, 1113, 1131, 1137, 1154(a), 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309 (2013). \n\n8. The criteria for service connection for an acquired psychiatric disability, to include PTSD, a mood disorder, and alcohol abuse, have not been met. 38 U.S.C.A. §§ 1131, 1154(a), 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303, 3.304(f) (2013). \n\n9. The criteria for service connection for a stomach and/or esophagus disability have not been met. 38 U.S.C.A. §§ 1131, 1154(a), 5107 (West 2002); 38 C.F.R. §§ 3.102, 3.303 (2013). \n\n\n\n\n\t\t\t\t\t\t\t\t[Continued on Next Page]\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\n\nI. Duties to Notify and Assist\n\nAs provided for by the Veterans Claims Assistance Act of 2000 (VCAA), VA has a duty to notify and assist claimants in substantiating claims for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2013). \n\nUpon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and his or her representative, if any, of any information, and any medical or lay evidence, that is necessary to substantiate the claim. 38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b); Quartuccio v. Principi, 16 Vet. App. 183 (2002). Proper notice from VA must inform the claimant of any information and evidence not of record (1) that is necessary to substantiate the claim; (2) that VA will seek to provide; and (3) that the claimant is expected to provide. 38 C.F.R. § 3.159(b)(1). This notice must be provided prior to an initial unfavorable decision on a claim by the RO. Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Pelegrini v. Principi, 18 Vet. App. 112 (2004). For service-connection claims, this notice must address the downstream elements of disability rating and effective date. Dingess v. Nicholson, 19 Vet. App. 473 (2006).\n\nHere, the VCAA duty to notify was satisfied by way of letters sent to the Veteran in August 2010, October 2010, February 2010, and April 2010. \n\nVA has a duty to assist a claimant in the development of a claim. This duty includes assisting the claimant in the procurement of service and other pertinent treatment records and providing an examination when necessary. 38 U.S.C.A. § 5103A; 38 C.F.R. § 3.159. \n\nIn determining whether the duty to assist requires that a VA medical examination be provided or medical opinion obtained with respect to a veteran's claim for benefits, there are four factors for consideration. These four factors are: (1) whether there is competent evidence of a current disability or persistent or recurrent symptoms of a disability; (2) whether there is evidence establishing that an event, injury, or disease occurred in service, or evidence establishing certain diseases manifesting during an applicable presumption period; (3) whether there is an indication that the disability or symptoms may be associated with service or with another service-connected disability; and (4) whether there otherwise is sufficient competent medical evidence of record to make a decision on the claim. 38 U.S.C. § 5103A(d); 38 C.F.R. § 3.159(c)(4); McLendon v. Nicholson, 20 Vet. App. 79 (2006). \n\nThe Board finds that all necessary development has been accomplished, and therefore appellate review may proceed without prejudice to the Veteran. See Bernard v. Brown, 4 Vet. App. 384 (1993). The RO has obtained the Veteran's service and VA treatment records. The RO ensured that the Veteran was scheduled for medical examinations with regard to his claims of entitlement to service connection for disabilities of his left fifth finger, his gastrointestinal system, and his hearing. He reported for the examinations of his finger and gastrointestinal system but did not report for the audiology examination scheduled in August 2010. In the rating decision on appeal, the RO informed him that his failure to report prevented the RO from considering evidence that would have been obtained had he reported for that August 2010 audiology examination. The Veteran has not provided any explanation for his failure to report. Hence VA has met its duty to assist the Veteran in providing an opportunity for an examination with regard to his claim of entitlement to service connection for hearing loss. The Board will therefore proceed with adjudicating the hearing loss claim based on the evidence of record in accordance with 38 C.F.R. § 3.655 (b) (When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record). \n\nAs to the other two examinations that he attended, the Board finds that the examinations and opinions are adequate. In this regard, the examiners noted the Veteran's reports of his service and described his disabilities in sufficient detail. The September 2010 opinion is adequate as further explained in the Service Connection section of this decision. Although the report of the March 2011 examination of his left fifth finger includes a nexus opinion, the opinion was based on inaccurate facts. Here, the Board determines that the in-service element of service connection - an in-service injury, disease or relevant event - is not met as to the left fifth finger disability claim. Hence, any defect in an opinion as to a nexus between his service and any current left fifth finger disability does not matter in this case. The question of whether he had any manifestation of a left finger disability during service is not one subject to expert medical evidence in this case but rather is wholly answerable from an inspection of the service treatment records as to whether where was any manifestation of a left fifth finger disability and a determination of the credibility of the Veteran's statements, made since 2010, referencing his left fifth finger and service. \n\nThe evidence does not establish an in-service event, injury, or disease relevant to the claimed psychiatric disability; or a disorder of any part of his spine, his right ankle, left shoulder, or either knee. In other words, there is no indication that any of these claimed disabilities, if extant, are related to service. VA therefore has no duty to provide an examination or obtain a medical opinion with regard to any of the other claimed disabilities. McLendon, Supra; see also 38 C.F.R. § 3.159(c)(4) (2013); Wells v. Principi, 327 F. 3d 1381 (Fed. Cir. 2002).\n\nFor these reasons, the Board finds that VA has no further duty to assist the Veteran in providing a medical examination or obtaining an expert medical opinion as to any issue now before the Board. \n\nNeither the Veteran nor his representative has identified, and the record does not otherwise indicate, any additional existing evidence that is necessary for a fair adjudication of the claim that has not been obtained. Hence, no further notice or assistance to the Veteran is required to fulfill VA's duty to assist under the VCAA. Smith v. Gober, 14 Vet. App. 227 (2000), aff'd 281 F.3d 1384 (Fed. Cir. 2002); Dela Cruz v. Principi, 15 Vet. App. 143 (2001); see also Quartuccio v. Principi, 16 Vet. App. 183 (2002).\n\nII. Service Connection\n\nService connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service. See 38 U.S.C.A. § 1131 (West 2002); 38 C.F.R. § 3.303(a) (2013). \"To establish a right to compensation for a present disability, a Veteran must show: \"(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service\"-the so-called \"nexus\" requirement.\" Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004). \n\nThere is a rebuttable presumption of service connection for certain chronic diseases, including sensorineural hearing loss (an organic disease of the nervous system) and arthritis, if the disease manifested to a compensable degree within one year of separation from active service. 38 U.S.C.A. § 1101, 1112, 1113 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.307, 3.309(a) (2013). \n\nAll of the issues before the Board turn on a weighing of the service treatment records, including the Veteran's statements found in reports of medical history, against his statements made since he filed his claims, whether those recent statements were made directly to VA or through a medical professional. At the outset the Board explains the basis for its reliance on the absence of report of the claimed disabilities in those records as evidence that the injuries and events that the Veteran has more recently reported as occurring during service, did not occur during service. Guidance as to this reliance on such evidence is found in Buczynski v. Shinseki, 24 Vet. App. 221 (2011), in the concurring opinion of Kahana v. Shinseki, 24 Vet. App. 428 (2010), and AZ v. Shinseki, ---F.3d ----, Nos. 2012-7146, 2012-7048, 2013 WL 5420978, (Fed. Cir. September 30, 2013). \n\nIn Kahana, the concurring Judge explained that, if two preliminary findings can be legitimately made, it is permissible for the Board to draw an inference from silence in a record that the claimed fact did not occur. The concurring Judge explained as follows:\n\nIn order to rely on this inference, the Board must make two findings. First, the Board must find that the SMRs appear to be complete, at least in relevant part. If the SMRs are not complete in relevant part, then silence in the SMRs is merely the absence of evidence and not substantive negative evidence. See McLendon, 20 Vet. App. at 85. If the SMRs are complete in relevant part, then the Board must find that injury, disease, or related symptoms would ordinarily have been recorded had they occurred. \n\nKahana v. Shinseki, 24 Vet. App. 428, 440 (2010) (J. Lance concurring). \n\nIn Buczynski, the U.S. Court of Appeals for Veterans Claims (Court) addressed the fact that a medical examiner had not stated that Mr. Buczynksi's skin condition was repugnant; where repugnancy was a criterion for a higher level of disability compensation. The Court stated that \"[i]n this case, there does not appear to be any medical reason why a doctor would be expected to comment on the repugnance of a condition. Therefore, this is not a situation where the silence in regard to a condition can be taken as proof that a doctor did not observe the symptom.\" Buczynski v. Shinseki, 24 Vet. App. 221, 224 (2011). The Court went on to explain that it was error in that case to treat the absence of evidence as negative evidence \"because this is not a situation where silence in the records tends to disprove the fact. See Fed. R. Evid. 803(7), supra.\" Id. \n\nThat it is valid to determine from the absence in a record of the recoding of the event, that the event did not occur, where it is reasonable that the event would have been recorded had it occurred, is supported by a recent case of the U.S. Court of Appeals for the Federal Circuit (Federal Circuit). In that case, the Federal Circuit stated that \"[f]ollowing this general approach, lower federal courts applying common law evidentiary principles have generally held that \"[t]he absence of a record of an event which would ordinarily be recorded gives rise to a legitimate negative inference that the event did not occur.\" AZ v. Shinseki, ---F.3d ----, Nos. 2012-7146, 2012-7048, 2013 WL 5420978, (Fed. Cir. September 30, 2013). (quoting United States v. Robinson, 544 F.2d 110, 114 (2d Cir.1976). \n\nSignificantly, the Federal Circuit cited Buczynski for the proposition outlined above, and to support its conclusion that this general rule applies to claims of entitlement to VA disability compensation benefits, stating as follows:\n\nThere is no reason why the well-established commonlaw principle concerning the inadmissibility of unreliable record evidence should not be followed here. Indeed, the Veterans Court has held in similar circumstances that where a condition would not normally have been recorded, \"the Board may not consider the absence of [administrative record] evidence as substantive negative evidence\" of that condition. See Buczynski v. Shinseki, 24 Vet. App. 221, 224 (2011).\n\nThe Board has considered an earlier holding of the Federal Circuit that it is error to find that a claimant's statements are not credible merely because they are not corroborated by contemporaneous medical evidence. See Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006). In the instant decision, the Board does not make such a finding; rather it weighs the service treatment records against the Veteran's statements to determine that the reported in-service events did not occur. This is permissible. Buchanan, 451 F.3d at 1336 (\"the lack of contemporaneous medical records may be a fact that the Board can consider and weigh against a veteran's lay evidence\"). To the extent that the Board finds the Veteran not credible, it does so based on the inconsistency of the Veteran's reports found in the service treatment records when compared to his statements made in the context of his current claims. \n\nII.A. Left Fifth Finger Disability Claim\n\nIn a July 2010 report of psychological evaluation, a private psychologist recorded the Veteran's report that he broke a finger of his left hand playing softball. This report was provided in the context of his military service. He repeated this report to a private chiropractor, as documented in an August 2010 report of consultation and examination. \n\nIn March 2011, VA afforded the Veteran an examination of his left fifth finger. The Veteran reported that he fractured his left fifth finger while playing softball during service in 1977. The examiner provided an impression that there was a suggestion of old trauma involving the PIP joint with no arthritis at that level but with very mild arthritis at the DIP joint. The examiner provided an opinion that it is at least as likely as not that the Veteran's current complaints of intermittent pain, deformity, and decreased mobility of the left fifth finger are due to the in-service injury. \n\nThe service treatment records do not document a left fifth finger injury during the Veteran's active service or make any mention of symptoms involving his left finger. A July 1977 report of medical examination, conducted for the purpose of enlistment into active service, documents a normal clinical evaluation of his upper extremities. There is no mention of his left fifth finger in this report. \n\nEvery veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C.A. § 1111 (West 2002). Only such conditions as are recorded in examination reports are to be considered as noted. 38 C.F.R. § 3.304(b) (2013). \n\nA July 1977 report of medical history, not the July 1977 report of medical examination, included mention of a preservice fracture of the left fifth finger. There was no defect, infirmity, or disorder of the left fifth finger noted on an examination report at the time of the examination, acceptance, and enrollment. The Veteran is therefore presumed sound with regard to any and all conditions, including any disorder of his left fifth finger. \n\nThe Board need not, however, apply the presumption of soundness in this case. Here, the preponderance of evidence shows that the Veteran had no in-service manifestation of a left fifth finger injury or disease. The Court has explained as follows: \n\nThe application of the presumption of soundness applies only when a disease or injury not noted upon entry to service manifests in service, and a question arises as to whether it preexisted service. See Holton and Dye, both supra. Under those circumstances, the presumption of soundness shields the veteran from a finding that the disease or injury preexisted (and therefore was not incurred in) service by requiring the Secretary to prove by clear and unmistakable evidence that a disease or injury manifesting in service both preexisted service and was not aggravated by service.\n\nGilbert v. Shinseki, 26 Vet. App. 48, 55 (2012). \n\nIn Gilbert, the Court determined that the Board erred by applying the presumption of soundness without addressing or finding whether Mr. Gilbert's claimed disability manifested in service. Id. The Court explained that \"absent the predicate finding that a pre-service disease or injury manifested or was incurred in service, the presumption of soundness is not for application.\" Id. at 54.\n\nThere are no reports of manifestation or incurrence of a left fifth finger injury or disease during the Veteran's active service. His service treatment records document that he sought treatment for an inflamed right middle finger in January 1981 and sought treatment for an infection of the first left finger in February 1983. The Board finds those records to be the most probative evidence as to whether the Veteran had a manifestation of a left fifth finger injury or disease during service. \n\nThese records appear complete and include reports of other physical complaints. There are reports for treatment in the late 1970s, the time frame that the Veteran reports that he fractured his left fifth finger playing softball. There are the reports specifically for treatment of other fingers. It follows that if the Veteran had any manifestation of a left fifth finger disorder during service, it would have been documented in the service treatment records. Therefore, the Board finds that the service treatment records are complete and that an injury, disease, or related symptoms involving his left fifth finger would ordinarily have been recorded in those records had it occurred. Additionally, reports of medical examination dated in January, July, and November 1984, in November 1987, and in March 1989, document normal clinical evaluations of the Veteran's upper extremities and make no mention of his left fifth finger. \n\nThe Board also finds that the Veteran's recent reports of an in-service injury of his left fifth finger are not credible. This is because his statements made in the context of his current claim and appeal are inconsistent with those made during service. In this regard, he reported in reports of medical history in May 1980, July 1984, November 1984, and March 1989 that he either had never had any broken bones or that any previous broken bones consisted of a remote fracture of the left fifth finger, consistent with his entrance report of medical history in 1977. In the instances where he did acknowledge a previous broken bone, it was noted that he had no sequelae or that the injury occurred at age fifteen. As between his reports made contemporaneous to service, where there is no reasonable motivation for providing inaccurate information, and his reports made in the context of seeking monetary benefits from VA, the Board finds the reports made during service to be more probative. The inconsistency in the present reports compared to the in-service reports is the basis for the Board's finding that his present reports are not credible. \n\nThere is no evidence that arthritis of the left first finger manifested within one year of the Veteran's separation from active service. The earliest evidence of arthritis is found in the March 2011 VA examination report. The presumptive provisions for chronic diseases are therefore not for application. \n\nBecause the preponderance of evidence is against a finding that the in-service element of service connection is met for residuals of a left fifth finger injury, the appeal as to this issue must be denied. There is no reasonable doubt to be resolved as to this issue. See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990). \n\nII.B. Hearing Loss Disability Claim\n\nA hearing loss disability is defined for VA compensation purposes with regard to audiologic testing involving puretone frequency thresholds and speech discrimination criteria. 38 C.F.R. § 3.385 (2013). For purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies of 500, 1,000, 2,000, 3,000, or 4,000 Hertz (Hz) is 40 decibels (dB) or greater; or when the auditory thresholds for at least three of the frequencies of 500, 1,000, 2,000, 3,000, or 4,000 Hz are 26 dB or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent. Id. \n\nThere are no reports of hearing difficulties in the service treatment records. There are numerous puretone audiometric test results associated with the service treatment records, the most recent of which is included in a November 1987 report of medical examination conducted for the purpose of release from active duty. None of these show a hearing loss disability for VA purposes. There are also numerous reports of medical history, the most recent during active service from November 1984, and after active service, from March 1989, in which the Veteran consistently denied hearing loss. In his VA Form 21-526, application for VA disability compensation, the Veteran reported that his hearing loss began in 1992. The only mention of hearing loss in VA treatment records is a note from January 2010 documenting that the Veteran stated that he had hearing loss. \n\nThe Board emphasizes that the Veteran did not report for the audiology examination scheduled in August 2010, without any explanation for his failure to report. The failure to report has prevented VA from considering evidence that would have been obtained had he reported for that August 2010 audiology examination. Therefore, VA has properly proceeded with adjudicating the hearing loss claim based on the evidence of record in accordance with 38 C.F.R. § 3.655 (b) (When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record). \n\nThere is no evidence of a hearing loss disability within one year of the Veteran's separation from active service. The presumptive provisions for chronic diseases are therefore not for application. \n\nIndeed, there is no evidence that the Veteran has ever had a hearing loss disability as defined by VA regulation. Therefore, the Board finds that the evidence is not at least in equipoise as to whether the first element of service connection is met and his appeal as to this issue must be denied. Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992) (stating that \"[i]n the absence of proof of a present disability there can be no valid claim\"); McLain v. Nicholson, 21 Vet. App. 319 (2007) (holding that the requirement of a current disability is satisfied when a claimant has a disability at the time a claim for VA disability compensation is filed or during the pendency of that claim, even if no disability is present when the claim is adjudicated.); Romanowsky v. Shinseki, 26Vet. App. 289 (2013) (holding \"that when the record contains a recent diagnosis of disability prior to a veteran filing a claim for benefits based on that disability, the report of diagnosis is relevant evidence that the Board must address in determining whether a current disability existed at the time the claim was filed or during its pendency\"). There is no reasonable doubt to be resolved as to this issue. See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).\n\n\nII.C. Orthopedic Disabilities Claims\n\nIn his March 2010 VA Form 21-526, the Veteran reported that he has disabilities of both knees with onset in 1987, disability of his right ankle with onset in 1986, and disability of his lower back with disability in 1981. In an August 2010 report of consultation and examination, a private chiropractor stated that the Veteran sustained injuries of his neck, mid back, low back, and knees in December 1978 or January 1979 in a motor vehicle accident and that the Veteran was diagnosed by military medical with a whiplash injury. The chiropractor also stated that the Veteran sustained injury of his lumbar spine and both knees in that accident and fractured his right ankle while playing softball on active duty in 1979, and that he injured his shoulder playing football aboard ship in 1987, tearing the tendons in his shoulder and that at that time he was found to have a sprain/strain of the left shoulder. The chiropractor stated that the Veteran has current disabilities related to these injuries. A July 2010 report of psychological evaluation includes the Veteran's reports of various injuries, including injuries sustained in what he reported as rolling a car, falling from a cliff, and a helicopter accident.\n\nService treatment records make no mention of a motor vehicle accident, any falls, or helicopter accident, or complaints or treatment involving his knees, ankles, shoulder, or any part of his spine or back. Service treatment records contain numerous complaints of other conditions. Of note is that in December 1978 he complained of a rash. There are February 1979 reports of a dressing change and cleaning of an anatomical area but no mention of the areas affected. A December 1979 entry documents that he complained of pain of the lower extremities and was told to ice the areas for twenty minutes. He reported infected or inflamed fingers, as already noted. He reported nausea and vomiting in 1987. Reports of medical examination in February 1984, July 1984, November 1984, November 1987 and March 1989 all included normal clinical evaluations of his spine and upper and lower extremities. . \n\nThe Board finds the most probative evidence of record as to whether his claimed orthopedic disabilities were incurred during service to be the service treatment records. These records appear complete and include reports of other physical complaints. It follows that if the Veteran did fracture his ankle, or injure his shoulder, or suffer injuries of his knees and spine in a motor vehicle accident, that such injuries would have been recorded in the service treatment records. These records therefore tend to show that the Veteran did not sustain any injuries of his shoulder, knees, ankle, or any part of his spine, during his active service. As between the Veteran's reports of injuries sustained during service and the service treatment records, the Board finds the service treatment records are more probative than his reports because those records were created at the time of his service and thus unaffected by the passage of time. \n\nThe Board finds that the Veteran's recent reports of these in-service injuries are not credible and affords them little weight. Reports of medical history from May 1980, July and November 1984, and March 1989 are also of record. In all of these forms the Veteran checked options indicating that he had never had swollen or painful joints, trick or locked knee, recurrent back pain, bone, joint, or other deformity or painful or trick shoulder or elbow. In all of these forms he indicated that he had not had any illness or injury other than what was otherwise endorsed. In an enlistment report of medical history in 1977 and again in 1984 reports of medical history, he indicated that he had previously had a broken bone. A comment on these forms documents that he had a remote fracture of his left fifth finger. In this regard, the report from the chiropractor shows that the Veteran reported to the chiropractor that he had received treatment for his injuries during service. \n\nIt follows that if he had the injuries that he has since reported, and reported those injuries as he has also since reported, those injuries would have been reflected on his reports of medical history. A factor in the Board's weighing of his current reports of injuries during service is the inconsistency between the Veteran's reports made in the context of seeking VA benefits and the numerous reports that he made in the reports of medical history during service. His reports of shoulder, ankle, knee, and spine injuries during service are inconsistent with his endorsements during service that he had never had any problems with these joints. As between his reports now and those made during service, the Board finds the in-service reports more probative as those reports were made contemporaneous to his service and his current reports are made in the context of seeking monetary benefits. His statements that he received treatment are inconsistent with the lack of reports of such treatment, another fact that tends to show that his current reports are not credible. As his current reports are not credible they are afforded only the most minimal of probative weight. \n\nThe chiropractor's report and the psychologist's report are also afforded only the most minimal of probative weight on the question of whether the Veteran had any injury or the onset of any disorder of his knees, any part of his spine, his right ankle or his left shoulder during service. These practitioners necessarily based there reports of the in-service injuries solely on the Veteran's reports of those injuries because there is no other evidence of the reported injuries. See LeShore v. Brown, 8 Vet. App. 406, 409 (1995) (holding that \"a bare transcription of a lay history is not transformed into 'competent medical evidence' merely because the transcriber happens to be a medical professional\"). More to the point, as to the in-service occurrence of any of the reported injuries, the chiropractor and the psychologist are not acting in the role of medical experts but rather in the role of fact witnesses and as neither were present during the Veteran's service, and neither have offered a medical explanation for why any alleged injury occurred during service, as opposed to sometime after service; therefore, those reports of what happened during the Veteran's service are not competent evidence. See Layno v. Brown, 6 Vet. App. 465, 469 (1994) (\"[I]n order for any testimony to be probative of any fact, the witness must be competent to testify as to the facts under consideration\"). Neither the chiropractor nor the psychologist have offered anything in the way of enhancement of the Veteran's reports of the injuries occurring during service. \n\nFor these reasons, the Board finds that as to any relevant in-service injuries or events, the service treatment records outweigh the Veteran's reports whether made by him directly to VA or repeated in reports from a medical professional. There is no evidence of arthritis of any of these joints manifesting within one year of separation from active service. Therefore, the provisions for presumptive service connection are not for application. \n\nAs the preponderance of evidence is therefore against a finding that the Veteran suffered any injury or disease of his knees, any part of his spine, his left shoulder or his right ankle, his appeal as to these issues must be denied. There is no reasonable doubt to be resolved as to these issues. See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).\n\nII.D. Psychiatric Disability Claim\n\nThere are particular requirements for establishing service connection for PTSD. Establishing service connection for PTSD requires (1) a current medical diagnosis of PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a causal nexus between current symptomatology and the specific claimed in-service stressor. 38 C.F.R. § 3.304(f). The diagnosis of PTSD must comply with the criteria set forth in the Diagnostic and Statistical Manual of Mental Disorders, 4th edition, of the American Psychiatric Association (DSM- IV). Id., see also 38 C.F.R. § 4.125(a) (2013).\n\nThe evidence required to establish the occurrence of an in-service stressor depends upon the nature of the stressor. Special provisions allow that the occurrence of a claimed in-service stressor can be shown by certain kinds of credible supporting evidence where the claimed stressor involved personal assault, fear of enemy or terrorist activity, combat, service as a prisoner of war (POW), or diagnosis of PTSD during service. 38 C.F.R. § 3.304(f). None of the stressors reported by the Veteran fit into these categories. In cases such as this, credible supporting evidence of the occurrence of the stressor must be provided by someone other than the Veteran and cannot be provided solely by after the fact medical nexus evidence. See generally Cohen v. Brown, 10 Vet. App. 128, 145 (1997).\n\nThe Board has considered all psychiatric conditions for which the Veteran has been diagnosed in determining whether service connection is warranted in this case. \n\nIn July 2010, the Veteran filed a claim of entitlement to service connection for PTSD. In September 2010, he reported four incidents that he contends caused his PTSD. First, that in 1987, in Okinawa, he was involved in a helicopter crash that injured other service personnel. He reported that he was in the helicopter and involved in a rescue mission of POWs / hostages. He also reported that in 1985, in Bridgeport, California, he was banged up pretty bad while repelling from a helicopter when the helicopter above him crashed. He reported that in 1983, while at Camp Pendleton, California, another serviceman was standing near the Veteran and blew his finger off of his right hand with a blasting cap. Finally, he reported that he was in a violent motor vehicle accident involving him rolling his car over two times and a resulting fire. \n\nAt the time of his claim he submitted a July 2010 report of a psychological evaluation signed by a private psychologist. The psychologist recorded the Veteran's reports of his military service. He reported to her that he enlisted in the Marine Corps in 1977, completed boot camp and cook school, was later stationed in Okinawa for approximately thirty-two months, attended Marine security guard school in Quantico but was kicked out as a result of conflict, was later transferred to a Naval Air Facility in Sicily for two years, had a five month break in service, and then served three years at Camp LeJeune and three more years in a truck company in Orlando, Florida. \n\nThe psychologist documented the Veteran's report that during military service he rolled a car resulting in a whiplash injury to his neck and bruising and swelling of his right knee and leg. Also documented in her report was the Veteran's report that he had broken a finger of his left hand while playing softball, that he got banged up when he fell from a cliff during rock assault climbing, and that he twisted his ankle on a forced march, suffered heat stroke, was stabbed in his right arm during military service in the Marine Corps reserves, and that he self treated the wound. He reported alcohol related problems three years prior to the evaluation. \n\nHe also reported that his military occupational specialty was that of a cook. \n\nAs to trauma exposure, the Veteran reported that he was injured in a car accident in 1978 or 1979 that resulted in right leg and cervical spine injuries, and he thought he was dead when the accident occurred. He also reported that during his service in 1983 at Camp Pendleton a Marine standing next to him blew off several fingers with a blasting cap. He reported that in 1985 he was repelling from a helicopter into a landing zone and the helicopter crashed and he was banged up as a result. He reported that he was involved in a helicopter crash off the coast of Okinawa, and identified this as likely occurring in 1987. He reported other criminal legal matters arising out of events in the year 2000 and alcohol related problems three years prior to the evaluation. He also reported that his military occupational specialty was that of a cook. \n\nThe examiner provided Axis I diagnoses of PTSD, mood disorder not otherwise specified, and alcohol abuse. Although she did not specifically state that the diagnosed disorders were related to his military service, she referred to his military service when discussing the criteria for diagnosing PTSD. \n\nDocumented in the August 2010 chiropractor report is that the Veteran has symptoms of PTSD and, in the chiropractor's opinion, the Veteran has PTSD and that this is an incurable permanent condition. \n\nThe preponderance of evidence is against a finding that any of the reported in-service stressors occurred. In this regard, the most probative evidence of record shows that the Veteran's reports of in-service events are not credible. There are two DD Form 214s of record, one for period of active service from July 1980 to July 1984 and one for the period from January 1985 to January 1988. For the period from July 1980 to July 1984, he had one year, one month, and twenty-seven days of foreign service and his awards for that period include a sea service deployment ribbon. For the period from January 1985 to January 1988, he had four days of sea service and no foreign service. This is evidence against a finding that he ever served in Okinawa during the period that he reports such service. This is inconsistent with his reports noted above. His reports are therefore afforded little probative weight.\n\nLay evidence can be sufficient to prove service connection, but due consideration shall be given to the places, types, and circumstances of such veteran's service as shown by such veteran's service record, the official history of each organization in which such veteran served, such veteran's medical records, and all pertinent medical and lay evidence. 38 U.S.C.A. § 1154(a) (West 2002). All evidence shows that the Veteran's MOS was that of a cook and there are numerous fitness reports from 1985, 1987, and 1988 that refer to his duties as a cook. Injuries involving repelling from helicopters and in helicopter training to rescue POWs and hostages is inconsistent with the Veteran's documented service. This inconsistency tends to show that his reports of those in-service stressors are not credible, further reducing the probative weight afforded his statements. \n\nThe July 2010 psychological evaluation report and the August 2010 chiropractor report are based entirely on the Veteran's report of his service. The most probative evidence shows that his reports of his service are not credible and therefore the July 2010 psychological evaluation report and the August 2010 chiropractor report are afforded only the most minimal of probative weight. His service treatment records include numerous normal clinical psychiatric evaluations documented in reports of medical examination over the course of his military service. There is no mention of a psychiatric condition or symptoms of a psychiatric condition until many years after his separation from active service. The Board therefore concludes that the preponderance of evidence shows that the in-service element of service connection is not met with regard to any psychiatric disability claim, including whether service connection is warranted for a mood disorder. \n\nAs to the PTSD issue specifically, the Veteran's own reports, which is the only evidence favorable to his claim of entitlement to service connection for a psychiatric disability, are not sufficient to satisfy the requirement of credible supporting evidence of the occurrence of any reported in-service stressor. The Board is aware that he reported that he was stabbed in the leg during Reserve duty. However, nowhere is that listed as a stressor related to PTSD or as an event related to any other diagnosed psychiatric disorder. Hence, the special provisions for claims involving in-service personal assault stressors do not apply in this case. \n\nIt is further noted there are additional reasons why service connection is not warranted for the diagnosed alcohol abuse and personality disorder. Applicable law and regulation provide that compensation shall not be paid if disability was the result of a veteran's own willful misconduct or abuse of alcohol or drugs. 38 U.S.C.A. §§ 105, 1110 (West 2002); 38 C.F.R. §§ 3.1(n), 3.301(c) (2013). Effective for claims filed after October 31, 1990, Section 8052 of the Omnibus Budget Reconciliation Act of 1990, Pub. L. No. 101-508, § 8052, 104 Stat. 1388, prohibits payment of compensation for a disability that is a result of a Veteran's own alcohol or drug abuse and amended 38 U.S.C.A § 105(a) to provide that an injury or disease incurred during active service will not be deemed to have been incurred in the line of duty if the injury or disease was a result of the Veteran's own willful misconduct, including abuse of alcohol or drugs. See 38 U.S.C.A. § 105; 38 C.F.R. §§ 3.1(n), 3.301. \n\nThe Federal Circuit has held that 38 U.S.C.A. § 105 and § 1110 preclude compensation for primary alcohol abuse disabilities and secondary disabilities that result from primary alcohol abuse. Allen v. Principi, 237 F.3d 1368, 1376 (Fed. Cir. 2001). The decision explains that \"primary alcohol abuse\" means an alcohol abuse disability arising during service from voluntary and willful drinking to excess. Id. However, the Federal Circuit has held that service connection is warranted when drug or alcohol abuse results secondarily from a service-connected disability, but compensation should only result \"where there is clear medical evidence establishing that the drug or alcohol abuse disability is indeed caused by the veteran's primary service-connected disability.\" Id. at 1371, 1381. In the instant case, the Veteran has no service-connected disability. The law therefore prohibits service connection for alcohol abuse under the facts of the instant case. \n\nCongenital or developmental defects, refractive error of the eye, personality disorders and mental deficiency are not diseases or injuries within the meaning of applicable legislation. 38 C.F.R. § 3.303(c). As the Veteran's personality disorder is not a disease or injury within the meaning of applicable legislation, service connection is not warranted for disability due to his personality disorder. \n\nFor these reasons, the Board must deny the appeal as to entitlement to service connection for a psychiatric disorder, to include a mood disorder, PTSD, and alcohol abuse. There is no reasonable doubt to be resolved as to this issue. See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).\n\nII.E. Stomach/Esophagus Disability Claim\n\nIn his February 2010 VA Form 21-526, the Veteran did not indicate a date of onset for the claimed stomach / esophagus disability. Documented in the July 2010 psychological evaluation report is the Veteran's report that he was diagnosed with Barrett's Esophagus approximately 10 years prior to July 2010, which puts the date of diagnosis in the year 2000. The August 2010 private chiropractor report documents the Veteran's report that he was diagnosed with Barrett's Esophagus and with a hiatel hernia in 1983 or 1984 while stationed at Camp Pendleton. Following receipt of the Veteran's VA Form 21-526 in February 2010, the RO requested a VA examination with regard to his claim of entitlement to service connection for a stomach / esophagus disorder. \n\nIn August 2010, the VA examiner provided a diagnosis of \"normal abdominal (sic) exam.\" He listed \"gastritis\" as the problem associated with the diagnosis. The claims file was not provided to the examiner at the time of the examination but the examiner listed the Veteran's report that the date of onset of Barrett's Esophagus was in 1986 and that at that time he had heartburn and underwent an endoscopy and that the Veteran reported to the examiner that he had been told that he has Barrett's Esophagus. The examiner also documented the Veteran's report that he had gastritis with onset in 1984, reported that he had stomach distress when he was assigned to Camp Pendleton, was given and oral solution and eventually a tablet, left and then reentered service, and was seen again and put on another tablet. \n\nAfter the RO provided the examiner with the claims file, the examiner provided an opinion in September 2010, stating that \"after reviewing the C-File I cannot resolve this issue without resorting to mere speculation. The rationale is that I cannot find documentation of this condition in the service.\" The opinion is clearly a response to whether the claimed disabilities are related to service. The Board finds that his opinion and examination are adequate. Although the examiner stated that he could not offer an opinion (as to a nexus between the claimed disabilities and service) without resort to mere speculation, he provided a rationale for that statement, and the statement, together with the rational, is itself an adequate expert medical opinion. See Jones v. Shinseki, 23 Vet. App. 382, 390 (2010) (explaining that an inconclusive opinion is legitimate where no medical expert could \"assess the likelihood that a condition was due to an in-service event or disease, because information that could only have been collected in service, or soon thereafter, is missing\"). \n\nHere, the service treatment records, which the Board finds are complete, were reviewed by the examiner. Those records provide a significantly different history than what the Veteran has reported. In July 1978, the Veteran complained of nausea and vomiting for one day and was diagnosed with gastritis. In June 1983 he complained of diarrhea, nausea, and vomiting since earlier that day and was diagnosed with gastroenteritis. In October 1987, he complained of gas and five episodes of vomiting since that morning and was diagnosed with viral syndrome. None of the treatment involved an endoscopy and there is no report of hiatel hernia or Barrett's Esophagus. Significantly, reports of medical examination from July, and November 1984, November 1987, and March 1989, document normal clinical evaluations of his abdomen and viscera and in associated reports of medical history in July and November 1984 and in March 1989, the Veteran checked options indicating that he had never had frequent indigestion or stomach, liver, or intestinal problems. \n\nThese service treatment records are evidence that the Veteran did not have any chronic condition of his esophagus or stomach during service. Rather, they show three isolated incidents of short term gastrointestinal symptoms that, given he did not seek follow-up treatment and given his endorsements in the reports of medical history, resolved completely well before his separation from active service. Additionally, the Veteran's statements made during the course of his claim and appeal show that his accounts of service are not credible. In his February 2010 claim, he indicated no beginning date for his claimed stomach and esophagus problems, although he did indicate onset dates for other claimed disabilities. Then, he provided significantly different dates of onset to the psychologist and the chiropractor and provided those significantly different dates within only a one month span - between July 2010 and August 2010. This is evidence that the Veteran is not credible as to the events of his active service. His reports, whether directly to VA or through a medical professional, are therefore afforded only the most minimum of probative weight. \n\nThe Board finds that the examiner's report that an opinion cannot be provided without resort to mere speculation is the most probative evidence of record with regard to whether any current esophagus or stomach disability had onset during or is due to the Veteran's active service. This report is more probative than the report from the chiropractor because the chiropractor's report was based on what the Board has determined to be an inaccurate factual background. \n\nAs expert medical evidence cannot resolve the issue of whether any current disability of the Veteran's esophagus and/or stomach is related to his active service, the Board must base its decision on the other probative evidence of record. The long period of time since the Veteran's separation from active service and his current claim and the seeking of treatment for a stomach or esophagus disorder, his own reports during service of no indigestion or stomach problems, and the normal clinical evaluations in 1984 and 1989 are more probative than any other evidence in this regard and are evidence against his claim. For these reasons, his appeal as to this issue must be denied. There is no reasonable doubt to be resolved as to this issue. There is no reasonable doubt to be resolved as to this issue. See 38 U.S.C.A. § 5107(b) (West 2002); 38 C.F.R. § 3.102 (2013); Gilbert v. Derwinski, 1 Vet. App. 49 (1990).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t[Continued on Next Page]\nORDER\n\nEntitlement to service connection for residuals of a left fifth finger injury is denied. \n\nEntitlement to service connection for hearing loss is denied. \n\nEntitlement to service connection for a thoracolumbar spine disability is denied. \n\nEntitlement to service connection for a cervical spine disability is denied. \n\nEntitlement to service connection for a right ankle disability is denied. \n\nEntitlement to service connection for a left shoulder disability is denied. \n\nEntitlement to service connection for a bilateral knee disability is denied. \n\nEntitlement to service connection for an acquired psychiatric disability, to include posttraumatic stress disorder (PTSD), a mood disorder, and alcohol abuse is denied \n\nEntitlement to service connection for a stomach/ esophagus disability is denied. \n\n\n\n____________________________________________\nJONATHAN B. KRAMER\nVeterans Law Judge, Board of Veterans' Appeals\n\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1334312",
+        "decisionDate": "2013-10-29T00:00:00",
+        "archiveDate": "2013-11-06T00:00:00",
+        "docketNumber": "13-00 341A",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in St. Petersburg, Florida",
+        "judge": "JONATHAN B. KRAMER",
+        "fileName": "BVA1334312.txt",
+        "processDate": "2018-12-11T09:23:51.7184278-08:00"
+    }
+}

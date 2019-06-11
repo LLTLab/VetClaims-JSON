@@ -1,0 +1,999 @@
+{
+    "docID": "1400029",
+    "sentences": [
+        {
+            "sentID": "1400029P1S1",
+            "text": "Citation Nr: 1400029",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P29S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P34S1",
+            "text": "5. The Veteran's lay account of exposure to enemy mortar and gunfire attacks in Vietnam are credible and consistent with the places, types, and circumstances of the Veteran's service to include his military occupational specialty (MOS), unit, and assignment and duties, without clear and convincing evidence to the contrary.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P35S1",
+            "text": "6. The most probative evidence establishes that the Veteran does not have a current diagnosis of PTSD in accordance within the applicable VA regulation.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P46S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P115S1",
+            "text": "Analysis - Service Connection for PTSD",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S1",
+            "text": "In this case, the Veteran has contended that he has PTSD attributable to several combat and noncombat-related stressors in Vietnam.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S2",
+            "text": "Specifically, he has asserted that he experienced enemy attacks with gunfire close to his base immediately upon arriving in Vietnam with subsequent, occasional mortar attacks on the base.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S3",
+            "text": "He has also claimed that, while he was riding in transportation convoys to deliver supplies, his unit sustained enemy mortar, artillery, and gunfire attacks on several occasions.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S4",
+            "text": "(It is noted however that the Veteran contradicted this story at the September 2011 VA examination when reporting that he was not shot at while travelling in a convoy).",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S5",
+            "text": "He has further maintained that one of his \"close friends\" was killed by military security while entering the gates of his base in an apparent accident, but he has noted that he did not witness the event.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S6",
+            "text": "He has not provided the name of the deceased soldier.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S7",
+            "text": "In addition, the Veteran has alleged that he had PTSD-related symptoms since service, especially anxiety.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P116S8",
+            "text": "See July 2013 hearing testimony at pages 23-32; VA psychological examinations dated in December 1991, November 2010, and September 2011; September 2010 stressor statements.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P117S1",
+            "text": "Upon review of the evidence of record, the Board finds that the Veteran is not entitled to service connection for PTSD.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S1",
+            "text": "Initially, the Veteran's service personnel records and Report of Separation from the Armed Forces (DD Form 214) do not reflect receipt of medals, badges, or decorations that specifically denote combat with the enemy.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S2",
+            "text": "His service personnel records and DD Form 214 do document that he received medals and awards, such as the Vietnam Service Medal, Vietnam Campaign Medal, and the National Defense Service Medal among others, but there is no award that establishes that he engaged in combat.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S3",
+            "text": "Moreover, his military occupational specialty (MOS) was an armorer/unit supplier, which is not indicative of combat.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S4",
+            "text": "He has also never stated that he actually engaged in combat with the enemy.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S5",
+            "text": "Thus, the combat provisions are not for application.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S6",
+            "text": "38 C.F.R. § 3.304(f)(2).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P118S7",
+            "text": "See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d) (pertaining to combat Veterans).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S1",
+            "text": "Nevertheless, under the July 13, 2010, liberalizing amendments to the PTSD regulation, the Veteran's lay testimony alone may establish the occurrence of claimed in-service stressors that are the result of \"fear of hostile military or terrorist activity\" in certain instances.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S2",
+            "text": "38 C.F.R. § 3.304(f)(3).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S3",
+            "text": "In this regard, the September 2011 VA psychological examiner indicated that the Veteran's alleged stressors of enemy mortar, artillery, and gunfire attacks while travelling in supply convoys and while assigned to his base are related to the \"fear of hostile military or terrorist activity.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S4",
+            "text": "In addition, the Board finds that the Veteran's descriptions of the claimed enemy attack stressors are consistent with the places, types, and circumstances of the Veteran's service in the U.S. Army in Vietnam at that time.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S5",
+            "text": "38 U.S.C.A. § 1154(a); 38 C.F.R. § 3.303(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S6",
+            "text": "The Veteran's DD Form 214 and service personnel records confirm that he served in Vietnam from September 1970 to May 1971 with the 597th Transportation Company in the U.S. Army.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S7",
+            "text": "His MOS as an armorer/unit supplier is also supportive of his assertions that he travelled in supply convoys in Vietnam on occasion, with the possibility of being subject to enemy attack on occasion.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S8",
+            "text": "There is no clear and convincing evidence to the contrary that he was not involved in these incidents.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S9",
+            "text": "Thus, under the amended PTSD regulation, the Veteran's lay testimony and statements alone establish the occurrence of the claimed in-service stressors of enemy mortar, artillery, and gunfire attacks while travelling in supply convoys and while assigned to his base.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P119S10",
+            "text": "See 38 C.F.R. § 3.304(f)(3).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P120S1",
+            "text": "The Veteran's service treatment records do not reveal complaints, treatment, or diagnosis of PTSD or any other acquired psychiatric disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P120S2",
+            "text": "However, as to PTSD, an in-service diagnosis is not required.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P120S3",
+            "text": "See 38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P120S4",
+            "text": "Post-service, the Veteran did report symptoms of nervousness and anxiety in August 1971, which was several months after his discharge from service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P120S5",
+            "text": "However, VA psychological testing was normal at that time and did not reveal any mental health disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S1",
+            "text": "With respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S2",
+            "text": "38 U.S.C.A. § 1110; 38 C.F.R. § 3.303; Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S3",
+            "text": "In particular, aside from verification of an in-service stressor, current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S4",
+            "text": "38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S5",
+            "text": "Under the amended PTSD regulation, effective July 13, 2010, a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, must confirm that the claimed stressor is adequate to support a diagnosis of PTSD and that a Veteran's symptoms are related to the claimed stressor, in order to warrant service connection for PTSD.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P121S6",
+            "text": "38 C.F.R. § 3.304(f)(3) (2013).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P122S1",
+            "text": "With regard to a diagnosis of PTSD based on his in-service stressors from Vietnam, the record reflects several favorable and unfavorable medical opinions of record.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P122S2",
+            "text": "However, upon review, in the present case, the Board finds the most probative medical evidence weighs against a finding that the Veteran has a PTSD diagnosis in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV).",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P123S1",
+            "text": "The Board must determine, as a question of fact, both the weight and credibility of the evidence.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P123S2",
+            "text": "Equal weight is not accorded to each piece of evidence contained in a record; every item does not have the same probative value.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P123S3",
+            "text": "The Board must account for the evidence which it finds to be persuasive or unpersuasive, analyze the credibility and probative value of all material evidence submitted by and on behalf of a claimant, and provide the reasons for its rejection of any such evidence.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P123S4",
+            "text": "See Struck v. Brown, 9 Vet. App. 145, 152 (1996); Caluza v. Brown, 7 Vet. App. 498, 506 (1995); Gabrielson v. Brown, 7 Vet. App. 36, 40 (1994); Abernathy v. Principi, 3 Vet. App. 461, 465 (1992); Simon v. Derwinski, 2 Vet. App. 621, 622 (1992); Hatlestad v. Derwinski, 1 Vet. App. 164, 169 (1991).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P124S1",
+            "text": "In evaluating the probative value of competent medical evidence, the Court has stated, in pertinent part:",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P125S1",
+            "text": "The probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P125S2",
+            "text": ". . . As is true with any piece of evidence, the credibility and weight to be attached to these opinions [are] within the province of the adjudicators; . . .",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P126S1",
+            "text": "Guerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P126S2",
+            "text": "It is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons or bases.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P126S3",
+            "text": "See Owens v. Brown, 7 Vet. App. 429, 433 (1995).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S1",
+            "text": "With regard to the positive evidence, in 2010 and 2011, a private psychologist, Dr. A.G., PhD., diagnosed the Veteran with PTSD due to his Vietnam experiences.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S2",
+            "text": "Dr. A.G. believed the Veteran met the DSM-IV criteria for PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S3",
+            "text": "She added that his particular post-service line of work as a firefighter makes it more likely for him to experience PTSD symptoms or exacerbation of earlier trauma.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S4",
+            "text": "She noted symptoms, such as hypervigilance, reduced sleeping, nightmares, and anxiety.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S5",
+            "text": "She indicated that the Veteran was no longer able to work as a firefighter due to his PTSD symptoms.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P127S6",
+            "text": "The conclusion of Dr. A.G. provides some evidence in support of the PTSD claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P128S1",
+            "text": "On the other hand, a December 1991 VA psychological examiner diagnosed with Veteran with generalized anxiety disorder, but would not confirm a diagnosis for PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P128S2",
+            "text": "However, in rendering this opinion, the VA examiner did not have access to the Veteran's claims folder or any of the treatment records immediately after discharge reflecting the Veteran's complaints of nervousness.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P128S3",
+            "text": "Thus, this VA opinion is entitled to limited probative value.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S1",
+            "text": "A November 2010 VA psychological examiner also provided a very detailed discussion of the Veteran's history of psychiatric treatment since discharge from service in 1971.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S2",
+            "text": "The VA examiner discussed the Veteran's in-service stressors thoroughly; however, the VA examiner opined that the Veteran's symptoms did not meet the DSM-IV criteria for PTSD or any other mental disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S3",
+            "text": "The VA examiner indicated that the overall level of stress exposure based on frequency and severity of incident exposure was \"low.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S4",
+            "text": "The examiner added that the Veteran was \"vague\" as to whether he was horrified at the time of the stressors.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S5",
+            "text": "Notably, the examiner remarked that the Veteran did not meet the DSM-IV criteria for PTSD of reporting symptoms of re-experiencing, avoidance, and arousal.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P129S6",
+            "text": "This examination provides strong evidence against the existence of a current PTSD diagnosis attributable to in-service stressors from Vietnam.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P130S1",
+            "text": "Additionally, a November 2010 VA mental health assessment from a nurse practitioner indicated that a diagnosis of PTSD had to be ruled out, but added that, based on his reported symptoms, he had a diagnosis of generalized anxiety disorder and dysthymia and did not meet the criteria for PTSD at that time.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P130S2",
+            "text": "It was noted that the Veteran warranted further evaluation in the future due to his traumatic stressors as a firefighter and in Vietnam.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P130S3",
+            "text": "None of the other VA mental health records dated in 2010 diagnosed PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P130S4",
+            "text": "In fact, at a December 2010 VA mental health assessment, the Veteran \"was unable to identify a specific stressor that may account for his 'nervousness' following time in Vietnam.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S1",
+            "text": "Moreover, a September 2011 VA psychological examiner found that the Veteran's symptoms did not meet the diagnostic criteria for PTSD under the DSM-IV or any other mental disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S2",
+            "text": "After discussing the Veteran's stressors, the VA examiner concluded that the Veteran's stressors were not sufficiently traumatic and were not adequate to support a diagnosis of PTSD for this particular Veteran.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S3",
+            "text": "Notably, the VA examiner indicated that the Veteran also answered in the negative regarding every single criterion for PTSD when specifically queried by the examiner about each and every symptom.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S4",
+            "text": "The examination revealed that he did not meet the DSM-IV criterion A through E for PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S5",
+            "text": "In particular, the Veteran did not persistently reexperience his traumatic events from Vietnam; there was no persistent avoidance of stimuli associated with the trauma or numbing of general responsiveness; there were no persistent symptoms of increased arousal; and the Veteran did not meet the full criteria for PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S6",
+            "text": "The Veteran also did not endorse a single symptom of clinical depression.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S7",
+            "text": "This examination also provides strong evidence against the existence of a current PTSD diagnosis attributable to in-service stressors from Vietnam.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S8",
+            "text": "Upon review, in the present case, the Board finds the most probative medical evidence weighs against a finding that the Veteran has a PTSD diagnosis in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV).",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S9",
+            "text": "Overall, the November 2010 and September 2011 VA psychological examinations in particular were thorough, supported by an explanation, and considered the Veteran's history and relevant longitudinal complaints.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S10",
+            "text": "The VA opinions and treatment records outweigh the private treatment of record on the issue of whether the Veteran has a PTSD diagnosis in accordance with DSM-IV.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P131S11",
+            "text": "After an extensive interview and testing, the VA examiners provided greater detail in assessing whether the Veteran met each of the DSM-IV criteria (A through E) for PTSD than the private psychologist, Dr. A.G.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S1",
+            "text": "With regard to lay evidence, the Board notes that lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S2",
+            "text": "Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S3",
+            "text": "The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S4",
+            "text": "See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S5",
+            "text": "In this vein, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S6",
+            "text": "See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S7",
+            "text": "That notwithstanding, in the instant case, the Board has found the Veteran's lay statements are less persuasive than the post-service medical evidence finding that the Veteran does not meet the DSM-IV criteria for PTSD.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S8",
+            "text": "The Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S9",
+            "text": "King v. Shinseki, 700 F.3d 1339, 1344 (2012).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P132S10",
+            "text": "Moreover, although the Veteran is competent to describe his psychiatric symptoms, by regulation, PTSD is a condition that can only be diagnosed by a medical professional, according to 38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P133S1",
+            "text": "Although the Veteran is entitled to the benefit of the doubt where the evidence is in approximate balance, the benefit of the doubt doctrine is inapplicable where, as here, the preponderance of the evidence is service connection for PTSD.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1400029P133S1",
+            "text": "38 U.S.C.A. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1400029\t\nDecision Date: 01/02/14 Archive Date: 01/16/14\n\nDOCKET NO. 10-16 586\t)\tDATE\n\t)\n\t)\n\nOn appeal from the\nDepartment of Veterans Affairs Regional Office in Waco, Texas\n\n\nTHE ISSUES\n\n1. Whether new and material evidence has been received to reopen a claim for service connection for an acquired psychiatric disorder other than posttraumatic stress disorder (PTSD). \n\n2. Entitlement to service connection for PTSD.\n\n3. Whether new and material evidence has been received to reopen a claim for service connection for bilateral pes planus.\n\n4. Entitlement to service connection for bilateral pes planus.\n\n5. Entitlement to service connection for hyperlipidemia. \n\n6. Entitlement to an initial compensable disability rating for erectile dysfunction. \n\n7. Entitlement to an initial disability rating greater than 30 percent for coronary artery disease. \n8. Entitlement to a higher level of special monthly compensation on account of loss of use of a creative organ. \n\n(The following issues are addressed in a separate Board decision: (1) entitlement to an annual VA clothing allowance for the year 2012, and (2) entitlement to an annual VA clothing allowance for the year 2013.\n\n\nREPRESENTATION\n\nAppellant represented by:\tDisabled American Veterans\n\n\nWITNESS AT HEARINGS ON APPEAL\n\nThe Veteran\n\n\nATTORNEY FOR THE BOARD\n\nPaul S. Rubin, Counsel\n\n\nINTRODUCTION\n\nThe Veteran had active duty service in the United States Army from June 1969 to May 1971 and in the United States Air Force from January 1991 to March 1991. He also served in the Texas Army National Guard in the 1970s and in the Texas Air National Guard in the 1980s. \n\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from July 2009, November 2009, July 2010, and August 2012 rating decisions issued by the Department of Veterans Affairs (VA) Regional Office (RO), in Waco, Texas. \n\n\nIn November 2009, the Veteran testified at a hearing before a Decision Review Officer (DRO hearing). In July 2013, the Veteran presented testimony at a Central Office hearing in Washington, DC, before the undersigned Veterans Law Judge. Transcripts of both hearings are associated with the claims folder and the Veteran's Virtual VA file. \n\nOn the day of the July 2013 Central Office hearing, the Veteran submitted additional medical evidence, which had not yet been considered by the RO. However, he also provided a waiver of RO's initial consideration of such evidence. As such, the Board accepts it for inclusion in the record and consideration at this time. See 38 C.F.R. §§ 20.800, 20.1304(a) (2013).\n\nA review of the Virtual VA paperless claims processing system reveals a transcript of the July 2013 Central Office hearing testimony that has been reviewed by the Board, as well as additional VA treatment records that were reviewed by the RO in the recent January 2013 supplemental statement of the case (SSOC). \n\nThe Board has recharacterized the acquired psychiatric disorder/PTSD claim on appeal by bifurcating it into two separate issues, specifically: (1) whether new and material evidence has been submitted to reopen service connection for an acquired psychiatric disorder other than PTSD, and (2) service connection for PTSD only. The Board concludes that bifurcating the acquired psychiatric disorder/PTSD claim into two separate issues for independent adjudication is the most proper way of handling the Veteran's appeal. See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (the scope of a disability claim includes any disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record); see also Locklear v. Shinseki, 24 Vet. App. 311 (2011) (bifurcation of a claim generally is within VA's discretion); Tyrues v. Shinseki, 23 Vet. App. 166, 178-79 (2009), aff'd, 631 F.3d 1380 (Fed. Cir. 2011) (VA is free to dismember a claim and adjudicate it in separate pieces). \n\nIn this regard, in earlier October 1971 and February 1992 rating decisions, the RO already denied the Veteran service connection for a \"nervous condition.\" The RO notified the Veteran of these decisions and apprised him of his procedural and appellate rights, but he did not initiate an appeal of these decisions. There was also no evidence received within one year of the issuance of either decision. Therefore, the October 1971 and February 1992 rating decisions are final. 38 U.S.C.A. § 7105 (West 2002); 38 C.F.R. §§ 3.156(b), 3.160(d), 20.200, 20.201, 20.302, 20.1103 (2013). Notably, however, the RO did not adjudicate the issue of service connection for PTSD in either the October 1971 or February 1992 rating decisions. The Board emphasizes PTSD has unique evidentiary and regulatory requirements. See 38 C.F.R. § 3.304(f) (2013). \n\nSubsequently, in July 2010, the Veteran filed a claim for service connection for PTSD. The Federal Circuit Court has held that claims that are based on distinctly and properly diagnosed diseases or injuries must be considered separate and distinct claims for new and material evidence purposes. See Boggs v. Peake, 520 F.3d 1330 (Fed. Cir. 2008). See also Ephraim v. Brown, 82 F.3d 399, 402 (Fed. Cir. 1996) ((a newly diagnosed psychiatric disorder (e.g., PTSD), even if medically related to a previously diagnosed disorder (such as depressive neurosis), is not the same for jurisdictional purposes when it has not previously been considered). Therefore, the Board has determined that a new and material evidence analysis is proper for the acquired psychiatric disorder (\"nervous condition\" issue), as it was previously adjudicated by the RO; whereas a de novo service connection analysis is proper for the PTSD issue on appeal. See also Velez v. Shinseki, 23 Vet. App. 199, 204 (2009) (when determining whether a new and material evidence analysis is required, the focus VA's analysis must be on whether the evidence presented truly amounts to a new claim \"based upon distinctly diagnosed diseases or injuries,\" or whether it is evidence tending to substantiate an element of the previously adjudicated matter. Velez v. Shinseki, 23 Vet. App. 199, 204 (2009). Here, PTSD was not previously adjudicated in any way by the RO; thus, it constitutes a new and distinct claim. \n\nThe Board will reopen the new and material evidence issue for bilateral pes planus and adjudicate the issues of entitlement to service connection for bilateral pes planus, hyperlipidemia, and PTSD, as well as the increased rating issue for erectile dysfunction and the special monthly compensation issue. However, the issues of new and material evidence for an acquired psychiatric disorder (other than PTSD) and an increased rating for coronary artery disease will be addressed in the REMAND portion of the decision below and are REMANDED to the RO via the Appeals Management Center (AMC), in Washington, DC.\n\n\nFINDINGS OF FACT\n\n1. At the July 2013 hearing, prior to the promulgation of a decision in the appeal, the Veteran and his representative indicated that they wanted to withdraw the appeal for the issue of service connection for hyperlipidemia. \n\n2. In a final October 2002 rating decision, the RO denied service connection for bilateral pes planus. The Veteran was notified of the October 2002 rating decision and of his appellate rights, but he did not appeal that determination. There was also no evidence received within one year of that determination. \n\n3. The evidence received since the October 2002 rating decision, by itself, or in conjunction with previously considered evidence, relates to an unestablished fact necessary to substantiate the claim and raises a reasonable possibility of substantiating the claim for service connection for bilateral pes planus.\n\n4. The Veteran does not have a current bilateral pes planus disorder that manifested in service, that preexisted and was then aggravated by service, or that is related to his service.\n\n5. The Veteran's lay account of exposure to enemy mortar and gunfire attacks in Vietnam are credible and consistent with the places, types, and circumstances of the Veteran's service to include his military occupational specialty (MOS), unit, and assignment and duties, without clear and convincing evidence to the contrary. \n\n6. The most probative evidence establishes that the Veteran does not have a current diagnosis of PTSD in accordance within the applicable VA regulation.\n\n7. The Veteran's service-connected erectile dysfunction disability is productive of significant testicular atrophy for both testicles and loss of erectile power. \n\n8. The RO has already awarded the Veteran a special monthly compensation award at the \"k\" level for loss of use of a creative organ.\n\n\nCONCLUSIONS OF LAW\n\n1. The criteria for withdrawal of an appeal by the Veteran and his representative have been met for the issue of entitlement to service connection for hyperlipidemia. 38 U.S.C.A. § 7105 (West 2002); 38 C.F.R. § 20.204 (2013). \n\n2. The October 2002 rating decision, which denied service connection for bilateral pes planus, is final. 38 U.S.C.A. § 7105 (West 2002); 38 C.F.R. §§ 3.156, 3.160(d), 20.200, 20.201, 20.302, 20.1103 (2013).\n\n3. The evidence received subsequent to the October 2002 rating decision is new and material, and the issue of service connection for a bilateral pes planus is reopened. 38 U.S.C.A. § 5108 (West 2002); 38 C.F.R. § 3.156 (2013).\n\n4. Bilateral pes planus was not incurred in or aggravated by active service. 38 U.S.C.A. §§ 1110, 1111, 1153, 5103, 5103A, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.306 (2013).\n\n5. PTSD was not incurred in active service. 38 U.S.C.A. §§ 1110, 1154, 5103, 5103A, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 4.125 (2013).\n\n6. The criteria have been met for an initial 20 percent rating, but no greater, for the Veteran's service-connected erectile dysfunction with testicular atrophy. 38 U.S.C.A. §§ 1155, 5103, 5103A, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.159, 4.1-4.7, 4.10, 4.20, 4.21, 4.27, 4.31, 4.115b, Diagnostics Codes 7599-7522, 7599-7523 (2013).\n\n7. A higher level of special monthly compensation on account of loss of use of a creative organ is not warranted. 38 U.S.C.A. §§ 1114, 5107 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.350 (2013).\n\n\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\n\nVA's Duty to Notify and Assist\n\nAs provided for by the Veterans Claims Assistance Act of 2000 (VCAA), VA has a duty to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.102, 3.156(a), 3.159 and 3.326(a) (2013). \n\nFor the issue of entitlement to a higher level of special monthly compensation on account of loss of use of a creative organ, the provisions of the VCAA have no effect on an appeal where the law, and not the underlying facts or development of the facts, is dispositive of the matter. Manning v. Principi, 16 Vet. App. 534, 542-543 (2002). See also Smith v. Gober, 14 Vet. App. 227, 230 (2000), aff'd, 281 F.3d 1384 (Fed. Cir. 2002), cert. denied, 537 U.S. 821 (2002); Dela Cruz v. Principi, 15 Vet. App. 143 (2001); VAOGCPREC 5-2004 (June 23, 2004). As will be discussed below, the Veteran's special monthly compensation claim is being denied as a matter of law because only one award at the \"k\" rate can be awarded and there is no higher amount available. Therefore, the Board finds that no further action is necessary under the statutory and regulatory duties to notify and assist, as the underlying law is dispositive for the special monthly compensation issue on appeal. \n\nFor the remaining issues of new and material evidence for bilateral pes planus, service connection for bilateral pes planus and PTSD and increased rating for erectile dysfunction, review of the claims folder reveals compliance with the VCAA. The duty to notify was accomplished by way of VCAA letters sent from the RO to the Veteran in July 2009, November 2009, August 2010, March 2011, July 2011, August 2011, and December 2011. These letters satisfied the notification requirements of the VCAA consistent with 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) by: (1) informing him about the information and evidence not of record that was necessary to substantiate his new and material evidence, service connection, and higher initial rating claims; (2) informing him about the information and evidence the VA would seek to provide; and (3) informing him about the information and evidence he was expected to provide. See also Pelegrini v. Principi, 18 Vet. App. 112 (2004) (Pelegrini II); Quartuccio v. Principi, 16 Vet. App. 183, 187 (2002). \n\nIn addition, the July 2009, November 2009, August 2010, March 2011, and August 2011 VCAA letters advised the Veteran of the elements of a disability rating and an effective date. Dingess v. Nicholson, 19 Vet. App. 473, 486 (2006); aff'd sub nom. Hartman v. Nicholson, 483 F.3d 1311 (2007). \n\nFurthermore, as to the new and material evidence issue for bilateral pes planus, the July 2009 and March 2011 VCAA notice letters were compliant with the Court's decision in Kent v. Nicholson, 20 Vet. App. 1 (2006). In this regard, both VCAA letters (1) notified the Veteran of the evidence and information necessary to reopen the bilateral pes planus disorder claim (i.e., described what is meant by new and material evidence under the newer standard); (2) sufficiently explained the bases of the prior denial (i.e., the deficiencies in the evidence when the claim was previously considered in October 2002); and (3) provided general VCAA notice for the underlying claim. In any event, if any defect in VCAA notice or assistance is found, such defect is not prejudicial to the Veteran, given the completely favorable disposition of the new and material evidence issue on appeal. See 38 C.F.R. § 20.1102; Bernard v. Brown, 4 Vet. App. 384, 392-94 (1993). \n\nMoreover, the increased rating issue for erectile dysfunction arises from disagreement with the initial evaluation following the grant of service connection for erectile dysfunction in a July 2009 rating decision. Both the U.S. Court of Appeals for Veterans Claims (Court) and the Federal Circuit Court of Appeals (Federal Circuit Court) have held that, once service connection is granted, additional VCAA notice is not required, and any defect in the notice is not prejudicial. Goodwin v. Peake, 22 Vet. App. 128, 137 (2008); Hartman v. Nicholson, 483 F.3d 1311 (Fed. Cir. 2007); Dunlap v. Nicholson, 21 Vet. App. 112 (2007). See also VAOPGCPREC 8-2003 (December 22, 2003). \n\nThus, the Veteran has received all required notice in this case for these particular issues, such that there is no error in the content of VCAA notice. See also Shinseki v. Sanders, 556 U.S. 396 (2009) (an error in VCAA notice should not be presumed prejudicial and the burden of showing harmful error rests with the party raising the issue, to be determined on a case-by-case basis). \n\nMoreover, with regard to the timing of VCAA notice, the Court and Federal Circuit Court have held that VCAA notice should be provided to a claimant before the initial unfavorable decision on a claim. Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006) (Mayfield II); Pelegrini II, 18 Vet. App. at 120. In the present case, the RO issued all required VCAA notice for each issue prior to the July 2009, November 2009, July 2010, and August 2012 rating decisions on appeal. Thus, there is no timing error. \n\nWith respect to the duty to assist, the RO has secured the Veteran's service treatment records, service personnel records, Texas National Guard records, VA treatment records, VA examinations, and private medical evidence as authorized by the Veteran. For his part, the Veteran has submitted personal statements, hearing testimony, argument from his representative, lay statements from his spouse and others, and additional private medical evidence. \n\nAs discussed below, the Board is separately remanding the issue of an increased rating for a cardiovascular disability for separate local government records (possible City of Dallas annual firefighter evaluations). See July 2013 hearing testimony at pages 13-14. Regardless, there is no evidence or assertion such records are relevant to any other claim at issue other than the cardiovascular disorder. Although VA is required to make reasonable efforts to obtain private medical records or local government records, these private records must be relevant to the claims at issue. 38 U.S.C.A. § 5103A(b); 38 C.F.R. § 3.159(c)(1). \n\nThe Veteran was also afforded VA examinations in November 2010, August 2011, September 2011, and March 2012, and the examiners provided medical opinions addressing whether any current PTSD or pes planus disorders are related to either period of his active duty service. See McLendon v. Nicholson, 20 Vet. App. 79, 81 (2006); see also 38 U.S.C.A. § 5103A(d)(2); 38 C.F.R. § 3.159(c)(4). These examinations and opinions were thorough, supported by explanations, based on a review of the claims folder, and supported by clinical evidence of record. They also considered the Veteran's lay assertions. Thus, there is no indication that the VA examinations were inaccurate or inadequate. \n\nThe Veteran was also afforded VA examinations in July 2009, June 2010, and November 2012 in connection with his claim for an increased evaluation for his service-connected erectile dysfunction. The Board finds that these VA examinations are adequate, as they were predicated on a review of the Veteran's medical history as well as on examinations and fully address the rating criteria that are relevant to rating his service-connected erectile dysfunction and associated manifestations, to include testicular atrophy. Moreover, there is no objective evidence indicating that there has been a material change in the severity of the Veteran's service-connected erectile dysfunction with testicular atrophy since he was last examined in November 2012. 38 C.F.R. § 3.327(a). Indeed, there is no allegation or evidence revealing any worsening of the disability and associated manifestations since that time. In any event, the duty to assist does not require that a claim be remanded solely because of the passage of time since an otherwise adequate VA examination was conducted. VAOPGCPREC 11-95. Moreover, the Board is granting the maximum 20 percent rating available for erectile dysfunction with testicular atrophy under Diagnostic Code 7523, based on a determination that it is a more appropriate evaluation for his level of disability. Thus, there is adequate medical evidence of record to make a determination for the increased rating issue for erectile dysfunction in this case. \n\nWith regard to the July 2013 Central Office hearing and the November 2009 DRO hearing, in Bryant v. Shinseki, 23 Vet. App. 488, 496-97 (2010), the Court held that the Veterans Law Judge or DRO who chairs a hearing fulfill two duties to comply with 38 C.F.R. § 3.103(c)(2). These duties consist of (1) fully explaining the issues pertinent to the claim(s) on appeal; and (2) suggesting the submission of evidence that may have been overlooked. See also 38 C.F.R. § 3.103(c)(2); Procopio v. Shinseki, 26 Vet. App. 76 (2012). \n\nAt both hearings, but in particular the July 2013 Central Office hearing, the Veterans Law Judge, DRO, the Veteran, and the representative outlined the issues of entitlement to service connection for bilateral pes planus and PTSD, to an increased rating for erectile dysfunction, and to a higher level of special l monthly compensation based on loss of use of a creative organ. They engaged in a discussion as to substantiation of those claims. The basic elements for service connection and an increased rating were identified. See July 2013 hearing testimony at pages 2-3. The Veteran specified that he had been evaluated for a penile deformity (testicular atrophy) at a July 2009 VA examination. This information has been considered in granting the higher 20 percent rating for erectile dysfunction in this case. See testimony at page 7. The Veteran's specific psychiatric symptomatology was discussed in detail by the parties at the July 2013 hearing for the PTSD issue, including his alleged in-service stressors for PTSD purposes. Potential favorable outstanding medical evidence was discussed, including private medical evidence linking his PTSD with his in-service stressors, which is actually of record. See testimony at page 32. The Veteran's assertion that a preexisting pes planus disorder was aggravated by his periods of service was discussed in some detail. Finally, the Veterans Law Judge and representative for the Veteran explained to him in detail why, by law, there is no higher level of special monthly compensation available to him for loss or loss of use of a creative organ. See testimony at pages 35-37. The actions of the Veterans Law Judge and DRO supplement the VCAA and comply with any related duties owed during a hearing. Overall, the hearings were legally sufficient, in particular the July 2013 Central Office hearing, and there has been no allegation to the contrary. Moreover, the Veteran and his representative have not requested another hearing. \n\nThe Board concludes the Veteran was provided the opportunity to meaningfully participate in the adjudication of his claims and did in fact participate. Washington v. Nicolson, 21 Vet. App. 191 (2007). For these reasons, the Board concludes that VA has fulfilled the duty to assist the Veteran in this case. Hence, there is no error or issue that precludes the Board from addressing the merits of the above issues on appeal.\n\nWith regard to the new and material evidence for an acquired psychiatric disorder (other than PTSD) and increased rating for coronary artery disease issues on appeal, the Board finds that further evidentiary development is needed and will be discussed herein below. Therefore, an analysis regarding compliance with the VCAA for these issues is not required at this time. \n\n\nDismissal of Service Connection for Hyperlipidemia Issue\n\nThe Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed. 38 U.S.C.A. § 7105 (West 2002). An appeal may be withdrawn as to any or all issues involved in the appeal at any time before the Board promulgates a decision. 38 C.F.R. § 20.204 (2013). Withdrawal of an appeal may be made on the record at a hearing. 38 C.F.R. § 20.204(b)(1). Withdrawal may be made by the appellant or by his or her authorized representative. 38 C.F.R. § 20.204. Withdrawal of an appeal will be deemed a withdrawal of the Notice of Disagreement and, if filed, the Substantive Appeal, as to all issues to which the withdrawal applies. 38 C.F.R. § 20.204(c). \n\nIn the present case, at the July 2013 hearing, prior to the promulgation of a decision in the appeal, the Veteran and his representative indicated that the appeal was being withdrawn as to the issue of service connection for hyperlipidemia. See hearing testimony at pages 3-4. Hence, with regard to the issue of service connection for hyperlipidemia, there remain no allegations of errors of fact or law for appellate consideration for this particular issue. Accordingly, the Board does not have jurisdiction to review that part of the appeal, and it is dismissed.\n\n\n\nNew and Material Evidence Analysis - Bilateral Pes Planus \n\nIn an October 2002 rating decision, the RO denied the Veteran service connection for bilateral pes planus. The RO notified the Veteran of this decision and apprised him of his procedural and appellate rights, but he did not initiate an appeal of this decision. There was also no evidence received within one year of the issuance of the October 2002 decision. Therefore, the October 2002 rating decision is final. 38 U.S.C.A. § 7105 (West 2002); 38 C.F.R. §§ 3.156(b), 3.160(d), 20.200, 20.201, 20.302, 20.1103 (2013).\n\nIn the final October 2002 rating decision, the RO denied service connection for bilateral pes planus because, even though the Veteran had a current diagnosis of bilateral pes planus (flat feet), the record did not reveal any evidence of in-service treatment for such a disorder, and there was no probative evidence that his pes planus problems were incurred in service. \n\nThe Veteran filed his petition to reopen service connection for bilateral pes planus in August 2009. Therefore, the amended regulation for new and material evidence applies. See 66 Fed. Reg. at 45,620 (applying the revised version of 38 C.F.R. § 3.156 to petitions to reopen filed on or after August 29, 2001). \n\nThe RO did not reopen the new and material evidence petition. Regardless of the RO's actions, the Board has jurisdictional responsibility to determine whether a claim previously denied by the RO is properly reopened. See Jackson v. Principi, 265 F.3d 1366 (Fed. Cir. 2001) (citing 38 U.S.C.A. §§ 5108, 7105(c)). See also Barnett v. Brown, 83 F. 3d 1380 (Fed. Cir. 1996) and VAOPGCPREC 05-92 (March 4, 1992). Accordingly, the Board must initially determine whether there is new and material evidence to reopen the bilateral pes planus claim before proceeding to adjudicate the underlying merits. If the Board finds that no new and material evidence has been offered, that is where the analysis must end. \n\nA claimant may reopen a finally adjudicated claim by submitting new and material evidence. Under the revised standards, new evidence means existing evidence not previously submitted to agency decision makers. Material evidence means existing evidence that, by itself or when considered with previous evidence of record, relates to an unestablished fact necessary to substantiate the claim. New and material evidence can be neither cumulative nor redundant of the evidence of record at the time of the last prior final denial of the claim sought to be reopened and must raise a reasonable possibility of substantiating the claim. 38 C.F.R. § 3.156(a) (2013). \n\nIn determining whether evidence is new and material, the credibility of the evidence in question is presumed. Justus v. Principi, 3 Vet. App. 510, 513 (1992). But see Duran v. Brown, 7 Vet. App. 216 (1994) (\"Justus does not require the Secretary [of VA] to consider the patently incredible to be credible\"). \n\nIn Shade v. Shinseki, 24 Vet. App. 110, 118-19 (2010), the Court held that new evidence would raise a reasonable possibility of substantiating the claim if when considered with the old evidence it would at least trigger the Secretary's duty to assist by providing a medical opinion. There is a low threshold for determining whether evidence raises a reasonable possibility of substantiating a claim, for purposes of reopening the claim. Id. at 117.\n\nHere, the Board finds that new and material evidence within the meaning of 38 C.F.R. § 3.156(a) has been received since the final October 2002 RO rating decision. Specifically, the Veteran has stated and testified that his pes planus disorder was hereditary and preexisted his induction into military service in June 1969. He has indicated that a private doctor noticed flat feet and high arches prior to his first period of service in 1969 and claimed that military physicians inducted him into service in 1969 by way of the draft with knowledge that he had flat feet. He has asserted that he signed a medical waiver to permit him to serve regardless of the condition. The Veteran has contended that his preexisting flat feet were aggravated or permanently worsened by marching and training from 1969 to 1971 and in early 1991. He has claimed that he was allowed to wear special tennis shoes instead of combat boots due to his flat feet during his active service in 1991. He has also asserted that he developed a hammertoe deformity and plantar calcaneal spur on his left foot from his pes planus over time. See July 2013 hearing testimony at pages 15-22; December 2009 and January 2013 NOD; December 2012 VA Form 9; November 2009, March 2010, October 2010, and February 2013 Veteran's statements; August 2009 claim to reopen. \n\nPrior to the final October 2002 rating decision, the Veteran had not presented any lay allegations regarding aggravation of a pes planus disorder that preexisted his first period of service. Thus, after the final October 2002 rating decision, he has presented lay evidence of aggravation of an alleged preexisting disorder. For purposes of reopening a claim, the credibility of newly submitted evidence is generally presumed. See Justus v. Principi, 3 Vet. App. 510, 513 (1992). Thus, the Board finds that his additional lay statements and lay testimony constitute new and material evidence to reopen the bilateral pes planus claim. In short, this lay evidence, if presumed credible, relates to an unestablished fact necessary to substantiate his bilateral pes planus claim and raises a reasonable possibility of substantiating his claim. Accordingly, the Board finds that new and material evidence has been presented to reopen the Veteran's previously denied bilateral pes planus disorder claim. 38 U.S.C.A. § 5108 (West 2002); 38 C.F.R. § 3.156 (2013).\n\n\nGoverning Laws and Regulations for Service Connection\n\nVeterans are entitled to compensation from VA if they develop a disability \"resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a preexisting injury suffered or disease contracted in line of duty.\" 38 U.S.C.A. § 1110 (wartime service), 1131 (peacetime service); 38 C.F.R. §§ 3.303, 3.306. \n\nIn the absence of proof of a current disability, there can be no valid claim. Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992).\n\t\nUnder 38 C.F.R. § 3.303(a), service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called \"nexus\" requirement. Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). The Federal Circuit Court recently held that diseases that would be considered \"chronic\" in a medical sense, but which are not listed in 38 C.F.R. § 3.309(a) as an enumerated \"chronic disease,\" may still qualify for service connection under the three-element test for disability compensation described in § 3.303(a). Walker v. Shinseki, 708 F.3d 1331, 1338-39 (Fed. Cir. 2013).\n\nUnder 38 C.F.R. § 3.303(d), disorders diagnosed after discharge may still be service-connected if all the evidence, including pertinent service records, establishes the disorder was incurred in service. See Combee v. Brown, 34 F.3d 1039, 1043 (Fed. Cir. 1994).\n\nCompetent medical evidence means evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions. Competent medical evidence may also mean statements conveying sound medical principles found in medical treatises. It also includes statements contained in authoritative writings, such as medical and scientific articles and research reports or analyses. 38 C.F.R. § 3.159(a)(1). Competent lay evidence means any evidence not requiring that the proponent have specialized education, training, or experience. Lay evidence is competent if it is provided by a person who has knowledge of the facts or circumstances and conveys matters that can be observed and described by a lay person. 38 C.F.R. § 3.159(a)(2). In essence, lay testimony is competent when it regards the readily observable features or symptoms of injury or illness and \"may provide sufficient support for a claim of service connection.\" Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336-37; Layno v. Brown, 6 Vet. App. 465, 469 (1994). \n\nThe Federal Circuit has held that medical evidence is not always or categorically required in every instance to establish the required nexus or linkage between the claimed disability and the Veteran's military service. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009). That is, lay evidence can also be competent and sufficient evidence of a diagnosis or to establish etiology if (1) the layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson, 581 F.3d at 1316. See also Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007). \n\nIn short, when considering whether lay evidence is competent the Board must determine, on a case by case basis, whether the Veteran's particular disability is the type of disability for which lay evidence may be competent on the issues of diagnosis and medical causation. Kahana v. Shinseki, 24 Vet. App. 428, 438 (2011). For instance, a layperson is competent to identify such disorders as varicose veins, tinnitus, and flat feet. Barr v. Nicholson, 21 Vet. App. 303, 310 (2007); Charles v. Principi, 16 Vet. App. 370, 374 (2002); Falzone v. Brown, 8 Vet. App. 398, 405 (1995). In contrast, a layperson is not competent to identify medical conditions that require scientific, technical, or other specialized knowledge, such as in identifying bronchial asthma. Layno v. Brown, 6 Vet. App. 465, 469 (1994). \n\nIf the disability is of the type for which lay evidence is competent, the Board must weigh the probative value of that evidence against other evidence of record in making its determination regarding the existence of service connection. See Buchanan v. Nicholson, 451 F.3d 1331, 1334-37 (Fed. Cir. 2006).\n\nOnce evidence is determined to be competent, the Board must determine whether the evidence also is also credible. The former, the Court has held, is a legal concept, which is useful in determining whether testimony may be heard and considered by the trier of fact, while the latter is a factual determination going to the probative value of the evidence to be made after the evidence has been admitted. Rucker v. Brown, 10 Vet. App. 67, 74 (1997). See also Layno, supra. \n\nThe Board must also determine, as a question of fact, both the weight and credibility of the evidence. Equal weight is not accorded to each piece of evidence contained in a record; every item does not have the same probative value. The Board must account for the evidence that it finds to be persuasive or unpersuasive, analyze the credibility and probative value of all material evidence submitted by and on behalf of a claimant, and provide the reasons for its rejection of any such evidence. See Struck v. Brown, 9 Vet. App. 145, 152 (1996); Caluza v. Brown, 7 Vet. App. 498, 506 (1995); Gabrielson v. Brown, 7 Vet. App. 36, 40 (1994); Abernathy v. Principi, 3 Vet. App. 461, 465 (1992); Simon v. Derwinski, 2 Vet. App. 621, 622 (1992); Hatlestad v. Derwinski, 1 Vet. App. 164, 169 (1991). The Veteran's credibility affects the weight to be given to her testimony and lay statements, and it is the Board's responsibility to determine the appropriate weight. See Washington v. Nicholson, 19 Vet. App. 362, 368 (2005). \n\nCredibility can be generally evaluated by considering interest, bias, or inconsistent statements, the demeanor of the witness, facial plausibility of the testimony, and the consistency of the witness testimony.\" Caluza v. Brown, 7 Vet. App. 498, 510-511 (1995), aff'd per curiam, 78 F.3d 604 (Fed. Cir. 1996). Personal interest may affect the credibility of the evidence. Cartright v. Derwinski, 2 Vet. App. 24, 25 (1991). The Board must analyze the credibility and probative value of the evidence, account for the evidence it finds persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant. Caluza, 7 Vet. App. at 506 (citing State v. Asbury, 415 S.E.2d 891, 895 (W. Va. 1992). \t\n\nIn determining whether service connection is warranted, the Board shall consider the benefit-of-the-doubt doctrine. 38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991). \n\n\nAnalysis - Service Connection for Bilateral Pes Planus\n\nHaving reopened the bilateral pes planus claim on the basis of new and material evidence, the Board must next determine whether the Veteran would be unduly prejudiced by the Board immediately proceeding with the readjudication of this claim on its underlying merits. See Hickson v. Shinseki, 23 Vet. App. 394, 399-400 (2010) (noting that where the Board reopens a claim, but the RO did not, the claim must be remanded for RO consideration unless there is a waiver from the appellant or no prejudice would result from the readjudication of the claim); Bernard v. Brown, 4 Vet. App. 384, 393-94 (1993) (noting that the Board must consider whether a Veteran is prejudiced by a lack of RO consideration of the merits of a claim). \n\nThe Board finds that adjudication of the reopened bilateral pes planus claim on a de novo basis is appropriate at this juncture. A review of the November 2009 rating decision and November 2012 SOC on appeal reveals that the RO de facto considered the merits of the underlying service connection issue. Specifically, although addressing new and material evidence, the RO found that there was no evidence that pes planus existed upon induction in 1969, was incurred in service, or was aggravated by service. The Veteran was also provided with the laws and regulations applicable to service connection, as well as VCAA notice applicable to the service connection issue. In addition, he was afforded a VA examination, and an opinion was obtained addressing the etiology of his bilateral pes planus, even though the claim had not been reopened by the RO. Moreover, at the hearing, the Veteran discussed the merits of the service connection claim (whether his bilateral pes planus existed prior during service or was worsened by service). Thus, the Veteran has evidenced his actual knowledge of the requirements for establishing his underlying entitlement to service connection for bilateral pes planus in the present case. Accordingly, the Board's proceeding with the service connection issue, without a remand to the RO, will not prejudice the Veteran.\n\nThe Veteran has stated and testified that his pes planus disorder was hereditary and preexisted his induction into military service in June 1969. He has claimed that a private doctor noticed flat feet and high arches prior to his first period of service in 1969 and that military physicians inducted him into service in 1969 by way of the draft with knowledge that he had flat feet. He has asserted that he signed a medical waiver in 1969 to permit him to serve regardless of the condition. The Veteran has claimed his preexisting flat feet was aggravated or permanently worsened by marching and training from 1969 to 1971 and in early 1991. He has stated that he was allowed to wear special tennis shoes instead of combat boots due to his flat feet in 1991. He has also claimed that he developed a hammertoe deformity and plantar calcaneal spur on his left foot from his pes planus over time. See July 2013 hearing testimony at pages 15-22; December 2009 and January 2013 NOD; December 2012 VA Form 9; November 2009, March 2010, October 2010, and February 2013 Veteran's statements; August 2009 claim to reopen. \n\nUpon review of the evidence of record, the Board concludes that the Veteran is not entitled to service connection for bilateral pes planus. \n\nThe existence of a current disability is the cornerstone of a claim for VA disability compensation. 38 U.S.C.A. §§ 1110, 1131; see Degmetich v. Brown, 104 F. 3d 1328, 1332 (1997) (holding that interpretation of sections 1110 and 1131 of the statute as requiring the existence of a present disability for VA compensation purposes cannot be considered arbitrary). In the present case, there is sufficient evidence that the Veteran meets the threshold criterion for service connection of a current bilateral pes planus disability. Boyer, 210 F.3d at 1353; Brammer, 3 Vet. App. at 225. Specifically, an August 2011 VA foot examiner diagnosed him with bilateral pes planus, and VA treatment records dated in the 2000s also recorded that diagnosis. In an April 2002 private prescription note, Dr. N.B., D.O. (initials used to protect identity) diagnosed him with flat feet. Thus, the Veteran clearly has a current bilateral flat foot disorder, and the remaining question is whether the disorder preexisted and was aggravated by service or is otherwise related thereto.\n\nThe Veteran has contended that his bilateral pes planus preexisted his first period of service in 1969 and was subsequently aggravated by his periods of service due to marching and training. However, service treatment records during active duty dated from June 1969 to May 1971 and from January 1991 to March 1991 are negative for any complaints, treatment, or diagnosis of pes planus or other foot disorder. In addition, Texas National Guard records dated in the 1970s and 1980s also fail to reveal any complaints, treatment, or diagnosis of pes planus. In fact, service treatment record examinations dated in June 1969 (upon enlistment) and May 1971 (upon separation), as well as National Guard examinations dated in May 1980, April 1984, and January 1989, reveal a normal clinical evaluation for the feet. Moreover, in Reports of Medical History dated in June 1969 (upon enlistment), May 1980, April 1984, and January 1989, the Veteran specifically denied any history of foot trouble. These medicals records were generated with a view towards ascertaining the Veteran's then-state of physical fitness, and thus, they are akin to statements of diagnosis and treatment and are of increased probative value. Rucker v. Brown, 10 Vet. App. 67, 73 (1997). They contradict the Veteran's latter lay assertions regarding the existence of in-service pes planus symptoms during active duty and during National Guard service. \n\nA National Guard medical note dated in February 1987 recommendation that the Veteran should wear white socks on his feet, but there was no mention of pes planus. Furthermore, later post-service treatment records in the 1990s document skin conditions to the feet, such as athlete's foot and tinea pedis, yet there was no mention of flat feet or ples planus. \n\nService treatment records and National Guard records are also negative for any complaints, treatment, or diagnosis of the Veteran's latter post-service diagnoses of a hammertoe deformity (2008) and plantar calcaneal spur (2003) on his left foot. There is no probative evidence that these disorders have any relationship to an in-service event or injury. \n\nMoreover, the Court recently held that, before a presumption of soundness analysis is for application, there must be evidence that a disease or injury - that was not noted upon entrance into service - manifested or was incurred in service. Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2013). In this present case, the more credible and probative evidence does not show that pes planus manifested or was incurred in either period of active service. As discussed above, the service records affirmatively show that the Veteran did not have pes planus, to include his own denial in medical history reports. Consequently, a presumption of soundness analysis is not for application here. \n\nIn any event, the presumption of soundness would not be rebutted by clear and unmistakable evidence, even if it were applied. In this regard, the Board finds that there is insufficient evidence establishing that pes planus clearly and unmistakably existed prior to service. The only evidence suggesting that there may have been a preexisting disorder is the Veteran's own reported assertions after he filed his disability claim in the 2000s, which does not amount to clear and unmistakable evidence, particularly in light of the physical examination findings at that time. Neither service treatment records nor service personnel records support the Veteran's assertion that he signed a medical waiver of his pes planus upon induction in June 1969. No service records confirm that pes planus forced him to wear tennis shoes during his second period of active duty from January 1991 to March 1991. In light of the absence of pes planus in these records and the reported history denials by the Veteran, his assertion that a private doctor noticed flat feet and high arches prior to his first period of service in 1969 is not particularly persuasive. Indeed, there was affirmative evidence showing otherwise. Thus, it cannot be said that there is clear and unmistakable evidence showing that the Veteran had a preexisting bilateral pes planus disorder. 38 U.S.C.A. §§ 1111, 1153 (West 2002 & Supp. 2013); 38 C.F.R. §§ 3.304, 3.306 (2013). Accordingly, the presumption of soundness is not rebutted. \n\nTherefore, the Board's analysis must turn to the issue of whether the Veteran's current pes planus was incurred during his active service. See Wagner v. Principi, 370 F.3d 1089, 1094- 1096 (Fed. Cir. 2004) (indicating that, in cases where the presumption of soundness cannot be rebutted, the effect is that claims for service connection based on aggravation are converted into claims for service connection based on service incurrence). VAOPGCPREC 3-2003 (July 16, 2003). As discussed above in detail, the more credible and probative evidence does not show that he incurred bilateral pes planus in service.\n\nPost-service, in May 1987, private treatment records document that the Veteran fractured his right ankle and foot after playing basketball at his civilian job as a firefighter. This injury was not related in any way to his military service. Private follow-up X-rays dated in 1987, 1989, and 1991 of the right foot did not record pes planus. There is also no mention in these records of aggravation of any foot condition during his second period of active duty from January 1991 to March 1991. \n\nIn addition, with regard to a nexus, the Board finds that the evidence of record weighs against a finding that the Veteran's current bilateral pes planus disorder is related to his military service. Holton, 557 F.3d at 1366. See also 38 C.F.R. § 3.303(a), (d). Significantly, in a March 2012 VA opinion, a VA examiner reviewed and discussed the evidence of record and opined that it was less likely than not that the current pes planus was incurred in or caused by his military service. The VA examiner remarked that the Veteran's own lay reports of medical conditions on active duty indicate he checked no problems with his feet. Overall, this March 2012 VA medical examination and opinion was thorough, supported by an explanation, based on a review of the claims folder, and supported by the Veteran's in-service medical records and his own reported history during service. \nThere is no contrary medical opinion of record. \n\nWith regard to lay evidence, the Board acknowledges that the Veteran is competent to report purported symptoms and treatment for a pes planus disorder. See 38 C.F.R. § 3.159(a)(2). In fact, the Court has specifically held that pes planus is the type of condition that lends itself to observation by a lay witness. Falzone v. Brown, 8 Vet. App. 398, 405 (1995). In addition, based on recent case law, the Veteran, in certain circumstances, can be competent to testify to the fact that the foot symptoms he says he experienced in service or immediately thereafter are reflective of the same condition with which he is currently diagnosed. Davidson, 581 F.3d at 1316. However, the Veteran's lay assertions in the present case are outweighed by the clinical findings of the March 2012 VA examiner, who determined that the Veteran's pes planus was not related to his active duty service. The Veteran's lay assertions are also outweighed by his own reported history and the clinical findings contained in his service treatment records and National Guard records. The Board has discussed in detail above why it found the Veteran's lay statements as to in-service incurrence or aggravation unpersuasive. The Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation. King v. Shinseki, 700 F.3d 1339, 1344 (2012).\n\nAlthough the Veteran is entitled to the benefit of the doubt where the evidence is in approximate balance, the benefit of the doubt doctrine is inapplicable where, as here, the preponderance of the evidence is against the claim for service connection for bilateral pes planus. 38 U.S.C.A. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990). Accordingly, the Board concludes that service connection for bilateral pes planus is not warranted.\n\n\nGoverning Laws and Regulations for PTSD\n\nThe establishment of service connection for PTSD has unique evidentiary requirements. It generally requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV); (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). \n\nIf it is established through military citation or other supportive evidence that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 38 C.F.R. § 3.304(f)(2). See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d); Gaines v. West, 11 Vet. App. 353 (1998) (Board must make a specific finding as to whether the veteran engaged in combat). To gain the benefit of a relaxed standard for proof of service incurrence of an injury or disease, 38 U.S.C.A. § 1154(b) requires that the veteran have actually participated in combat with the enemy. See VAOPGCPREC 12-99. \n\nIf VA determines either that the veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor. Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements. 38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128, 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996). \n\nHowever, corroboration of every detail of a claimed stressor, including the veteran's personal participation, is not required; rather, a veteran only needs to offer independent evidence of a stressful event that is sufficient to imply his or her personal exposure. See Pentecost v. Principi, 16 Vet. App. 124, 128 (2002) (quoting Suozzi v. Brown, 10 Vet. App. 307 (1997)). In other words, the veteran's presence with the unit at the time such attacks occurred corroborates his statement that he experienced such attacks personally. Suozzi v. Brown, 10 Vet. App. 307, 311 (1997). \n\nThe final requirement of 38 C.F.R. § 3.304(f) is medical evidence of a nexus between the claimed in-service stressor and the current disability. However, such after-the-fact medical nexus evidence generally cannot also be the sole evidence of the occurrence of the claimed stressor. Moreau, 9 Vet. App. at 396.\n\nEffective July 13, 2010, if a stressor claimed by a veteran is related to that veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of PTSD and that a veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of that veteran's service, a veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 38 C.F.R. § 3.304(f)(3) (2013).\n\n\"[F]ear of hostile military or terrorist activity\" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror. See id. \n\nA veteran must have experienced, witnessed, or have been confronted by an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of that veteran or others, and that veteran's response to the event or circumstance must have involved a psychological or psycho-physiological state of fear, helplessness, or horror. The occurrence of an actual event or circumstance is necessary. In making this determination, VA must duly consider the places, types, and circumstances of a veteran's service as shown by the service record, the official history of each organization in which such a veteran served, a veteran's medical records, and all pertinent medical and lay evidence. The new rule is limited to cases in which the claimed stressor is related to a veteran's fear of hostile military or terrorist activity. See 75 Fed. Reg. 39843 (Jul. 13, 2010).\n\nIn determining whether service connection for PTSD is warranted, the Board shall consider the benefit-of-the-doubt doctrine. 38 U.S.C.A. 5107(b); 38 C.F.R. § 3.102; Alemany v. Brown, 9 Vet. App. 518 (1996); Gilbert v. Derwinski, 1 Vet. App. 49 (1991). \n\n\nAnalysis - Service Connection for PTSD\n\nIn this case, the Veteran has contended that he has PTSD attributable to several combat and noncombat-related stressors in Vietnam. Specifically, he has asserted that he experienced enemy attacks with gunfire close to his base immediately upon arriving in Vietnam with subsequent, occasional mortar attacks on the base. He has also claimed that, while he was riding in transportation convoys to deliver supplies, his unit sustained enemy mortar, artillery, and gunfire attacks on several occasions. (It is noted however that the Veteran contradicted this story at the September 2011 VA examination when reporting that he was not shot at while travelling in a convoy). He has further maintained that one of his \"close friends\" was killed by military security while entering the gates of his base in an apparent accident, but he has noted that he did not witness the event. He has not provided the name of the deceased soldier. In addition, the Veteran has alleged that he had PTSD-related symptoms since service, especially anxiety. See July 2013 hearing testimony at pages 23-32; VA psychological examinations dated in December 1991, November 2010, and September 2011; September 2010 stressor statements. \n\nUpon review of the evidence of record, the Board finds that the Veteran is not entitled to service connection for PTSD. \n\nInitially, the Veteran's service personnel records and Report of Separation from the Armed Forces (DD Form 214) do not reflect receipt of medals, badges, or decorations that specifically denote combat with the enemy. His service personnel records and DD Form 214 do document that he received medals and awards, such as the Vietnam Service Medal, Vietnam Campaign Medal, and the National Defense Service Medal among others, but there is no award that establishes that he engaged in combat. Moreover, his military occupational specialty (MOS) was an armorer/unit supplier, which is not indicative of combat. He has also never stated that he actually engaged in combat with the enemy. Thus, the combat provisions are not for application. 38 C.F.R. § 3.304(f)(2). See also 38 U.S.C.A. § 1154(b) and 38 C.F.R. § 3.304(d) (pertaining to combat Veterans). \n\nNevertheless, under the July 13, 2010, liberalizing amendments to the PTSD regulation, the Veteran's lay testimony alone may establish the occurrence of claimed in-service stressors that are the result of \"fear of hostile military or terrorist activity\" in certain instances. 38 C.F.R. § 3.304(f)(3). In this regard, the September 2011 VA psychological examiner indicated that the Veteran's alleged stressors of enemy mortar, artillery, and gunfire attacks while travelling in supply convoys and while assigned to his base are related to the \"fear of hostile military or terrorist activity.\" In addition, the Board finds that the Veteran's descriptions of the claimed enemy attack stressors are consistent with the places, types, and circumstances of the Veteran's service in the U.S. Army in Vietnam at that time. 38 U.S.C.A. § 1154(a); 38 C.F.R. § 3.303(a). The Veteran's DD Form 214 and service personnel records confirm that he served in Vietnam from September 1970 to May 1971 with the 597th Transportation Company in the U.S. Army. His MOS as an armorer/unit supplier is also supportive of his assertions that he travelled in supply convoys in Vietnam on occasion, with the possibility of being subject to enemy attack on occasion. There is no clear and convincing evidence to the contrary that he was not involved in these incidents. Thus, under the amended PTSD regulation, the Veteran's lay testimony and statements alone establish the occurrence of the claimed in-service stressors of enemy mortar, artillery, and gunfire attacks while travelling in supply convoys and while assigned to his base. See 38 C.F.R. § 3.304(f)(3). \n\nThe Veteran's service treatment records do not reveal complaints, treatment, or diagnosis of PTSD or any other acquired psychiatric disorder. However, as to PTSD, an in-service diagnosis is not required. See 38 C.F.R. § 3.304(f). Post-service, the Veteran did report symptoms of nervousness and anxiety in August 1971, which was several months after his discharge from service. However, VA psychological testing was normal at that time and did not reveal any mental health disorder. \n\nWith respect to the criteria of a current diagnosis of PTSD, the threshold consideration for any service connection claim is the existence of a current disability. 38 U.S.C.A. § 1110; 38 C.F.R. § 3.303; Boyer v. West, 210 F.3d 1351, 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223, 225 (1992). \nIn particular, aside from verification of an in-service stressor, current medical evidence diagnosing PTSD in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV) is required, as well as competent evidence of a nexus between current PTSD symptomatology and his verified in-service stressor. 38 C.F.R. § 3.304(f). See also Cohen v. Brown, 10 Vet. App. 128 (1997). Under the amended PTSD regulation, effective July 13, 2010, a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, must confirm that the claimed stressor is adequate to support a diagnosis of PTSD and that a Veteran's symptoms are related to the claimed stressor, in order to warrant service connection for PTSD. 38 C.F.R. § 3.304(f)(3) (2013).\n\nWith regard to a diagnosis of PTSD based on his in-service stressors from Vietnam, the record reflects several favorable and unfavorable medical opinions of record. However, upon review, in the present case, the Board finds the most probative medical evidence weighs against a finding that the Veteran has a PTSD diagnosis in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV). \n\nThe Board must determine, as a question of fact, both the weight and credibility of the evidence. Equal weight is not accorded to each piece of evidence contained in a record; every item does not have the same probative value. The Board must account for the evidence which it finds to be persuasive or unpersuasive, analyze the credibility and probative value of all material evidence submitted by and on behalf of a claimant, and provide the reasons for its rejection of any such evidence. See Struck v. Brown, 9 Vet. App. 145, 152 (1996); Caluza v. Brown, 7 Vet. App. 498, 506 (1995); Gabrielson v. Brown, 7 Vet. App. 36, 40 (1994); Abernathy v. Principi, 3 Vet. App. 461, 465 (1992); Simon v. Derwinski, 2 Vet. App. 621, 622 (1992); Hatlestad v. Derwinski, 1 Vet. App. 164, 169 (1991). \n\nIn evaluating the probative value of competent medical evidence, the Court has stated, in pertinent part:\n\nThe probative value of medical opinion evidence is based on the medical expert's personal examination of the patient, the physician's knowledge and skill in analyzing the data, and the medical conclusion that the physician reaches. . . . As is true with any piece of evidence, the credibility and weight to be attached to these opinions [are] within the province of the adjudicators; . . .\n\nGuerrieri v. Brown, 4 Vet. App. 467, 470-71 (1993). It is not error for the Board to favor the opinion of one competent medical expert over that of another when the Board gives an adequate statement of reasons or bases. See Owens v. Brown, 7 Vet. App. 429, 433 (1995).\n\nWith regard to the positive evidence, in 2010 and 2011, a private psychologist, Dr. A.G., PhD., diagnosed the Veteran with PTSD due to his Vietnam experiences. Dr. A.G. believed the Veteran met the DSM-IV criteria for PTSD. She added that his particular post-service line of work as a firefighter makes it more likely for him to experience PTSD symptoms or exacerbation of earlier trauma. She noted symptoms, such as hypervigilance, reduced sleeping, nightmares, and anxiety. She indicated that the Veteran was no longer able to work as a firefighter due to his PTSD symptoms. The conclusion of Dr. A.G. provides some evidence in support of the PTSD claim. \n\nOn the other hand, a December 1991 VA psychological examiner diagnosed with Veteran with generalized anxiety disorder, but would not confirm a diagnosis for PTSD. However, in rendering this opinion, the VA examiner did not have access to the Veteran's claims folder or any of the treatment records immediately after discharge reflecting the Veteran's complaints of nervousness. Thus, this VA opinion is entitled to limited probative value. \n\nA November 2010 VA psychological examiner also provided a very detailed discussion of the Veteran's history of psychiatric treatment since discharge from service in 1971. The VA examiner discussed the Veteran's in-service stressors thoroughly; however, the VA examiner opined that the Veteran's symptoms did not meet the DSM-IV criteria for PTSD or any other mental disorder. The VA examiner indicated that the overall level of stress exposure based on frequency and severity of incident exposure was \"low.\" The examiner added that the Veteran was \"vague\" as to whether he was horrified at the time of the stressors. Notably, the examiner remarked that the Veteran did not meet the DSM-IV criteria for PTSD of reporting symptoms of re-experiencing, avoidance, and arousal. This examination provides strong evidence against the existence of a current PTSD diagnosis attributable to in-service stressors from Vietnam. \n\nAdditionally, a November 2010 VA mental health assessment from a nurse practitioner indicated that a diagnosis of PTSD had to be ruled out, but added that, based on his reported symptoms, he had a diagnosis of generalized anxiety disorder and dysthymia and did not meet the criteria for PTSD at that time. It was noted that the Veteran warranted further evaluation in the future due to his traumatic stressors as a firefighter and in Vietnam. None of the other VA mental health records dated in 2010 diagnosed PTSD. In fact, at a December 2010 VA mental health assessment, the Veteran \"was unable to identify a specific stressor that may account for his 'nervousness' following time in Vietnam.\" \n\nMoreover, a September 2011 VA psychological examiner found that the Veteran's symptoms did not meet the diagnostic criteria for PTSD under the DSM-IV or any other mental disorder. After discussing the Veteran's stressors, the VA examiner concluded that the Veteran's stressors were not sufficiently traumatic and were not adequate to support a diagnosis of PTSD for this particular Veteran. Notably, the VA examiner indicated that the Veteran also answered in the negative regarding every single criterion for PTSD when specifically queried by the examiner about each and every symptom. The examination revealed that he did not meet the DSM-IV criterion A through E for PTSD. In particular, the Veteran did not persistently reexperience his traumatic events from Vietnam; there was no persistent avoidance of stimuli associated with the trauma or numbing of general responsiveness; there were no persistent symptoms of increased arousal; and the Veteran did not meet the full criteria for PTSD. The Veteran also did not endorse a single symptom of clinical depression. This examination also provides strong evidence against the existence of a current PTSD diagnosis attributable to in-service stressors from Vietnam. \n \nUpon review, in the present case, the Board finds the most probative medical evidence weighs against a finding that the Veteran has a PTSD diagnosis in accordance with 38 C.F.R. § 4.125(a) (i.e., DSM-IV). Overall, the November 2010 and September 2011 VA psychological examinations in particular were thorough, supported by an explanation, and considered the Veteran's history and relevant longitudinal complaints. The VA opinions and treatment records outweigh the private treatment of record on the issue of whether the Veteran has a PTSD diagnosis in accordance with DSM-IV. After an extensive interview and testing, the VA examiners provided greater detail in assessing whether the Veteran met each of the DSM-IV criteria (A through E) for PTSD than the private psychologist, Dr. A.G. \n\nWith regard to lay evidence, the Board notes that lay persons are not categorically incompetent to speak on matters of medical diagnosis or etiology. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009). The Board must consider the type of condition specifically claimed and whether it is readily amenable to lay diagnosis or probative comment on etiology. See Woehlaert v. Nicholson, 21 Vet. App. 456, 462 (2007). In this vein, the Board acknowledges the Veteran is competent to report psychiatric symptoms both during and after service. See 38 C.F.R. § 3.159(a)(2); Jandreau, 492 F.3d at 1377 (discussing that Veteran is competent to report a contemporaneous medical diagnosis); Buchanan v. Nicholson, 451 F.3d 1331, 1337 (Fed. Cir. 2006) (discussing general competency of a Veteran to report psychiatric symptoms). That notwithstanding, in the instant case, the Board has found the Veteran's lay statements are less persuasive than the post-service medical evidence finding that the Veteran does not meet the DSM-IV criteria for PTSD. The Federal Circuit has held that the Board can favor competent medical evidence over lay statements offered by the Veteran, as long as the Board neither deems lay evidence categorically incompetent nor improperly requires a medical opinion as the sole way to prove causation. King v. Shinseki, 700 F.3d 1339, 1344 (2012). Moreover, although the Veteran is competent to describe his psychiatric symptoms, by regulation, PTSD is a condition that can only be diagnosed by a medical professional, according to 38 C.F.R. § 3.304(f). \n\nAlthough the Veteran is entitled to the benefit of the doubt where the evidence is in approximate balance, the benefit of the doubt doctrine is inapplicable where, as here, the preponderance of the evidence is service connection for PTSD. 38 U.S.C.A. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).\n\n\nGoverning Laws and Regulations for Increased Ratings\n\nDisability ratings are determined by applying the criteria set forth in VA's Schedule for Rating Disabilities (Rating Schedule), which is based on the average impairment of earning capacity. Individual disabilities are assigned separate diagnostic codes. 38 U.S.C.A. § 1155 (West 2002); 38 C.F.R. § 4.1 (2013). The basis of disability evaluations is the ability of the body as a whole, or of the psyche, or of a system or organ of the body to function under the ordinary conditions of daily life including employment. 38 C.F.R. § 4.10.\n\nIf there is a question as to which evaluation to apply to the Veteran's disability, the higher evaluation will be assigned if the disability picture more nearly approximates the criteria for that rating. Otherwise, the lower rating will be assigned. 38 C.F.R. § 4.7. When reasonable doubt arises as to the degree of disability, such doubt will be resolved in the Veteran's favor. 38 C.F.R. § 4.3. \n\nPertinent regulations do not require that all cases show all findings specified by the Rating Schedule, but that findings sufficiently characteristic to identify the disease and the resulting disability and coordination of rating with impairment of function. 38 C.F.R. § 4.21. Therefore, the Board has considered the potential application of various other provisions of the regulations governing VA benefits, whether or not they were raised by the Veteran, as well as the entire history of his disability in reaching its decision. Schafrath v. Derwinski, 1 Vet. App. 589, 595 (1991). VA regulation indicates that the Veteran's entire history is reviewed when assigning a disability evaluation per 38 C.F.R. § 4.1. \n\nCompetent medical evidence means evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions. Competent medical evidence may also mean statements conveying sound medical principles found in medical treatises. It also includes statements contained in authoritative writings, such as medical and scientific articles and research reports or analyses. 38 C.F.R. § 3.159(a)(1). Competent lay evidence means any evidence not requiring that the proponent have specialized education, training, or experience. Lay evidence is competent if it is provided by a person who has knowledge of the facts or circumstances and conveys matters that can be observed and described by a lay person. 38 C.F.R. § 3.159(a)(2). In essence, lay testimony is competent when it regards the readily observable features or symptoms of injury or illness. Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007); Buchanan v. Nicholson, 451 F.3d 1331, 1336-37; Layno v. Brown, 6 Vet. App. 465, 469 (1994). \n\n\n\n\n\nAnalysis - Increased Rating for Erectile Dysfunction\n\nThe Veteran has appealed the July 2009 rating decision that granted service connection for erectile dysfunction. This could result in \"staged ratings\" based upon the facts found during the period in question. See Hart v. Mansfield, 21 Vet. App. 505, 509-510 (2007); Fenderson v. West, 12 Vet. App. 119, 126 (1999). That is to say, the Board must consider whether there have been times since the effective date of his award when his erectile dysfunction disability has been more severe than at others. Id. \n\nThe Veteran's erectile dysfunction, associated with his service-connected prostate cancer, has been assigned a noncompensable (0 percent rating) by analogy pursuant to 38 C.F.R. § 4.115b, Diagnostic Code 7599-7522 (penis, deformity, with loss of erectile power). This zero percent rating has remained in effect since July 6, 2009. In every instance where the schedule does not provide a zero percent evaluation for a diagnostic code, a zero percent evaluation shall be assigned when the requirements for a compensable evaluation are not met. See 38 C.F.R. § 4.31.\n\nWhen an unlisted condition is encountered, it will be permissible to rate under a closely related disease or injury in which not only the functions affected, but the anatomical localization and symptomatology are closely analogous. 38 C.F.R. § 4.20. According to the policy in the Rating Schedule, when a disability is not specifically listed, the Diagnostic Code will be \"built up,\" meaning that the first 2 digits will be selected from that part of the schedule most closely identifying the part of the body involved, and the last 2 digits will be \"99.\" 38 C.F.R. § 4.27. For example, Diagnostic Code 7599 is used to identify unlisted genitourinary disabilities.\n \nUnder Diagnostic Code 7522, in order for the Veteran to receive a higher 20 percent rating for erectile dysfunction, physical deformity of the penis with loss of erectile power is required. 38 C.F.R. § 4.115b. A footnote to Diagnostic Code 7522 also indicates the disability is to be reviewed for entitlement to special monthly compensation for loss of use of a creative organ under 38 C.F.R. § 3.350(a). \n\nThe VA Adjudication Procedure Manual confirms that two requirements must be met before a 20 percent evaluation can be assigned for deformity of the penis with loss of erectile power under Diagnostic Code 7522 - (1) the deformity must be evident, and (2) the deformity must be accompanied by loss of erectile power. Simply stated, the condition is not compensable in the absence of penile deformity. See M21-1MR, Part III, Subpart iv, Chapter 4, Section I, Topic 34, Block a (August 3, 2009). \n\nUpon review of the evidence, the Veteran does not meet the criteria for a 20 percent rating under Diagnostic Code 7599-7522. 38 C.F.R. § 4.7. VA genitourinary examinations dated in July 2009, June 2010, and November 2012 reveal a diagnosis of erectile dysfunction due to his service-connected prostate cancer. The Veteran clearly has loss of erectile power. See also November 2009 statement from spouse. This fact is not in dispute. Moreover, due to his coronary artery disease, he cannot take Viagra or Levitra to help correct his erectile dysfunction. \n\nRegardless, in the present case, the evidence of record does not reveal any physical deformity of the Veteran's penis. See Melson v. Derwinski, 1 Vet. App. 334 (1991) (use of the conjunctive \"and\" in a statutory provision meant that all of the conditions listed in the provision must be met); compare Johnson v. Brown, 7 Vet. App. 95 (1994) (only one disjunctive \"or\" requirement must be met in order for an increased rating to be assigned). That is, the requirement under Diagnostic Code 7522 of deformity of the penis \"with\" loss of erectile power clearly means that both factors are required. In this regard, the July 2009 and June 2010 VA genitourinary examiners both observed a \"normal\" penis, and no deformity was mentioned. The November 2012 VA genitourinary examiner remarked that the Veteran would not allow an examination, but the Veteran still reported normal anatomy with no penis deformity or abnormality. Accordingly, there is no lay or medical support for a compensable disability rating for the Veteran's erectile dysfunction residuals under Diagnostic Code 7522.\n\nNevertheless, the Board has also considered whether an increased evaluation would be in order under other relevant diagnostic codes. The assignment of a particular diagnostic code is \"completely dependent on the facts of a particular case.\" Butts v. Brown, 5 Vet. App. 532, 538 (1993). One diagnostic code may be more appropriate than another based on such factors as an individual's relevant medical history, the current diagnosis, and demonstrated symptomatology. See Pernorio v. Derwinski, 2 Vet. App. 625, 629 (1992). Thus, the Board has considered the propriety of assigning a higher, or separate, rating under another diagnostic code. See Tedeschi v. Brown, 7 Vet. App. 411, 414 (1995).\n\nUnder Diagnostic Code 7523 (complete atrophy of the testes), a noncompensable disability rating is assigned when there is complete atrophy of one testis. The maximum 20 percent disability rating is assigned when there is complete atrophy of both testes. 38 C.F.R. § 4.115b. A footnote to Diagnostic Code 7523 also indicates the disability is to be reviewed for entitlement to special monthly compensation for loss of use of a creative organ under 38 C.F.R. § 3.350(a). \n\nIn considering the evidence of record under the laws and regulations as set forth above, the Board concludes that an initial 20 percent evaluation for erectile dysfunction with testicular atrophy is warranted under Diagnostic Code 7599-7523. 38 C.F.R. § 4.7. Specifically, the Veteran has credibly alleged that both his testes have shrunk and that he consistently noticed inconsistency of the firmness of both testicles based on self-examination, subsequent to his prostate cancer treatment. See Veteran's August 2009 and November 2009 personal statements. In addition, the July 2009 VA genitourinary examiner described both testicles as atrophic and small. The June 2010 VA genitourinary examiner observed that both testicles are atrophic bilaterally and 50 percent smaller than normal. The Board finds that this probative lay and medical evidence of record supports a higher 20 percent evaluation for erectile dysfunction with testicular atrophy. Diagnostic Code 7523 is the most appropriate code to rate this disorder, considering the Veteran's symptoms, because this is the only diagnostic code that addresses testicular atrophy. \n\nAccordingly, an initial 20 percent rating, but no greater, for erectile dysfunction with testicular atrophy is granted. 38 C.F.R. § 4.3. There is no basis to \"stage\" the Veteran's 20 percent rating for this disability, as his symptoms have remained consistent throughout the entire appeal period. Fenderson, 12 Vet. App. at 126. \n\n\nSpecial Monthly Compensation - Analysis\n\nThe special monthly compensation issue was inferred from the award of service connection for erectile dysfunction. That is, footnotes to 38 C.F.R. § 4.115b, Diagnostic Codes 7522 and 7523 instruct that service-connected erectile dysfunction is to be reviewed for entitlement to special monthly compensation for loss of use of a creative organ under 38 C.F.R. § 3.350(a). As such, in a July 2009 rating decision, the RO already awarded the Veteran special monthly compensation under 38 U.S.C.A. § 1114(k) and 38 C.F.R. § 3.350(a) for loss of use of a creative organ. \n \nVA law provides that entitlement to special monthly compensation is warranted if a veteran, as the result of service-connected disability, has suffered the anatomical loss or loss of use of one or more creative organs. 38 U.S.C.A. § 1114(k) (West 2002); 38 C.F.R. § 3.350(a) (2013). \n\nLoss of a creative organ will be shown by acquired absence of one or both testicles (other than undescended testicles) or ovaries or other creative organ. Loss of use of one testicle will be established when examination by a board finds that: (a) The diameters of the affected testicle are reduced to one-third of the corresponding diameters of the paired normal testicle, or (b) The diameters of the affected testicle are reduced to one-half or less of the corresponding normal testicle and there is alteration of consistency so that the affected testicle is considerably harder or softer than the corresponding normal testicle; or (c) If neither of the conditions (a) or (b) is met, when a biopsy, recommended by a board including a genitourologist and accepted by the veteran, establishes the absence of spermatozoa. When loss or loss of use of a creative organ resulted from wounds or other trauma sustained in service, or resulted from operations in service for the relief of other conditions, the creative organ becoming incidentally involved, the benefit may be granted. 38 C.F.R. § 3.350(a)(1)(i-ii).\n\nIn addition, the VA Adjudication Procedure Manual also specifies an award for special monthly compensation based on loss of use of a creative organ in a male Veteran if loss of erectile power is shown, without the need for penile deformity. The loss of erectile power must be secondary to a service-connected disease process, such as diabetes or multiple sclerosis. See M21-1MR, Part IV, Subpart ii, Chapter 2, Section H, Topic 39, Blocks b, c (August 3, 2009). \n\nSpecial monthly compensation grants an additional level of compensation to Veterans above the basic levels of compensation (0 percent -100 percent) for various types of losses or levels of impairment solely due to service-connected disabilities. However, the law provides that only one \"k\" award can be granted for loss or loss of use of a creative organ or organs. That is, VA law does not provide for any higher level of special monthly compensation based on loss or loss of use of a creative organ or organs. See 38 U.S.C.A. §§ 1114(k) - (s) (West 2002 & Supp. 2013); 38 C.F.R. § 3.350(a) - (i) (2013). At the July 2013 hearing, the Veterans Law Judge and representative for the Veteran explained to him in detail why, by law, there is no higher level of special monthly compensation available to him for loss or loss of use of a creative organ. See hearing testimony at pages 35-37. \n\nThe Board has no authority to grant claims on an equitable basis and must follow the applicable provisions of law. See 38 U.S.C.A. § 7104; Taylor v. West, 11 Vet. App. 436, 440-41 (1998); Harvey v. Brown, 6 Vet. App. 416, 425 (1994). In such a case, where the law is dispositive, the higher level of special monthly compensation claim must be denied due to a lack of legal merit. Sabonis v. Brown, 6 Vet. App. 426, 430 (1994). \n\n\nExtraschedular Consideration\n\nThere is no evidence of exceptional or unusual circumstances to warrant referring the case for extra-schedular consideration, for the Veteran's service-connected erectile dysfunction with testicular atrophy disability. 38 C.F.R. § 3.321(b)(1). The Board finds that the Veteran's erectile dysfunction with testicular atrophy symptomatology is fully addressed by the rating criteria under which the disability is rated. See Diagnostic Code 7523 and 38 C.F.R. § 3.350(a). Because the rating criteria for this disability reasonably describe the claimant's disability level and symptomatology, the Veteran's disability picture is contemplated by the Rating Schedule, such that the assigned 20 percent schedular evaluation and special monthly compensation award are, therefore, adequate, and no referral is required. Thun v. Peake, 22 Vet. App. 111, 115-116 (2008); VAOPGCPREC 6-96. The evidence does not show anything unique or unusual about the Veteran's erectile dysfunction with testicular atrophy that would render the schedular criteria inadequate. There are no additional symptoms of his erectile dysfunction with testicular atrophy disability that are not addressed by the Rating Schedule. Any work impairment is also contemplated by the schedular rating criteria for erectile dysfunction with testicular atrophy. See 38 U.S.C.A. § 1155; 38 C.F.R. § 4.1. A 20 percent rating with the additional award of special monthly compensation is adequate to compensate the Veteran for loss of working time as the result of his erectile dysfunction with testicular atrophy disability. \n\nIn any event, the Board also finds no probative evidence that his erectile dysfunction with testicular atrophy disability markedly interferes with his ability to work, meaning above and beyond that contemplated by his 20 percent schedular rating and award of special monthly compensation. As noted above, the degrees of disability specified in the Rating Schedule are considered adequate to compensate for considerable loss of working time from exacerbations or illnesses proportionate to the severity of the several grades of disability. 38 C.F.R. § 4.1; VAOPGCPREC 6-96. See also, Bagwell v. Brown, 9 Vet. App. 337, 338 (1996); Shipwash v. Brown, 8 Vet. App. 218, 227 (1995). The Veteran retired from his job as a firefighter after 34 years in 2011. However, the evidence of record fails to demonstrate \"marked\" interference with employment from the erectile dysfunction with testicular atrophy disability on appeal. 38 C.F.R. § 3.321(b)(1). The July 2009, June 2010, and November 2012 VA genitourinary examiners did not assess any occupational impairment due to the service-connected erectile dysfunction with testicular atrophy disability. \n\nFinally, there is no evidence of any other exceptional or unusual circumstances, such as frequent hospitalizations due to the Veteran's service-connected erectile dysfunction with testicular atrophy, to suggest he is not adequately compensated for his disability by the regular Rating Schedule. 38 C.F.R. § 3.321(b)(1); VAOPGCPREC 6-96. He has not had inpatient treatment due to erectile dysfunction. \n\nBased on the foregoing, the Board finds that the requirements for an extraschedular evaluation for the Veteran's service-connected erectile dysfunction with testicular atrophy disability under the provisions of 38 C.F.R. § 3.321(b)(1) have not been met. Bagwell v. Brown, 9 Vet. App. 337 (1996); Shipwash v. Brown, 8 Vet. App. 218 (1995); Thun v. Peake, 22 Vet. App. 111 (2008).\n\nORDER\n\nNew and material evidence having been submitted, the claim of entitlement to service connection for bilateral pes planus is reopened, and to this extent only, the appeal is granted.\n\nService connection for bilateral pes planus is denied. \n\nService connection for PTSD is denied. \n\nThe appeal for the issue of service connection for hyperlipidemia is dismissed.\n\nAn initial 20 percent evaluation for erectile dysfunction with testicular atrophy is granted, subject to the laws and regulations governing the payment of VA compensation.\n\nA higher level of special monthly compensation on account of loss of use of a creative organ is denied. \n\n\nREMAND\n\nThe Board finds that additional development is required for the issues of new and material evidence for an acquired psychiatric disorder (other than PTSD) and an increased rating for coronary artery disease.\n\nFirst, for the new and material evidence issue, the law provides that VA shall make reasonable efforts to notify a claimant of the evidence necessary to substantiate a claim and requires the VA to assist a claimant in obtaining that evidence. 38 U.S.C.A. §§ 5103, 5103A (West 2002); 38 C.F.R. § 3.159. In this case, it does not appear that the Veteran has been provided adequate VCAA notice for the issue of new and material evidence to reopen service connection for an acquired psychiatric disorder. \n\nIn Kent v. Nicholson, 20 Vet. App. 1, 10-11 (2006), the Court held that the VCAA notice requirements in regard to new and material evidence claims require VA to send a specific notice letter to the claimant that: (1) notifies the claimant of the evidence and information necessary to reopen the acquired psychiatric disorder claim (i.e., described what is meant by new and material evidence under the newer standard); (2) sufficiently explained the bases of the prior denial (i.e., the deficiencies in the evidence when the claim was previously considered in October 1971 and February 1992); and (3) provided general VCAA notice for the underlying service connection claim. \n\nIn this regard, the VCAA notice letters of record failed to address new and material evidence for an acquired psychiatric disorder, to include all three elements of Kent. In this respect, the Board emphasizes that a petition to reopen based on new and material evidence has unique evidentiary and legal requirements. Therefore, a remand is necessary to ensure that the Veteran is provided a proper VCAA notice letter compliant with Kent for the new and material evidence issue for an acquired psychiatric disorder. The RO must then readjudicate the new and material acquired psychiatric disorder issue on the basis of new and material evidence. See again 38 U.S.C.A. § 5108 (West 2002); 38 C.F.R. § 3.156(a). \n\nSecond, the Veteran testified at the July 2013 hearing that, as a condition of his employment as a firefighter, he underwent City of Dallas medical examinations and stress tests on an annual basis for his coronary artery disease. See hearing testimony at pages 13-14. There is a May 2006 City of Dallas report of record; however, the claims file does not include any other records from the City of Dallas. VA is required to make reasonable efforts to obtain all relevant records, including private records and local government records like these, which the Veteran adequately identifies and authorizes VA to obtain. 38 U.S.C.A. § 5103A(b); 38 C.F.R. § 3.159(c)(1). VA regulation clarifies that reasonable efforts will generally consist of an initial request for the records and, if the records are not received, at least one follow-up request. 38 C.F.R. § 3.159(c)(1). However, a claimant is required to cooperate fully with VA's efforts and, provide adequate information to authorize the release of existing records in an acceptable form. 38 C.F.R. § 3.159(c)(1). Therefore, the RO/AMC shoulder contact the Veteran and request that he complete and return the necessary authorization (VA Form 21-4142) for VA to obtain any of these City of Dallas local government annual examinations pertaining to his coronary artery disease or ask that he submit them himself if in his possession. \n\nThird, after completion of the above development, if the RO/AMC finds that new and material evidence exists to reopen the acquired psychiatric disorder issue, the Veteran should be scheduled for a VA examination with an appropriate clinician to determine the nature and etiology of any current acquired psychiatric disorder other than PTSD. See 38 C.F.R. § 3.159(c)(4)(C)(iii); Paralyzed Veterans of America, et al. v. Secretary of Veterans Affairs, 345 F.3d 1334, 1342-43 (Fed. Cir. 2003). See also Shade v. Shinseki, 24 Vet. App. 110, 118-19 (2010) (receipt of new and material evidence triggers full VA duty to assist obligations including obtaining VA examination or medical opinion).\n\n\nAccordingly, the case is REMANDED for the following action:\n\n1. The RO/AMC should send the Veteran a notice letter in connection with the issue of whether new and material evidence has been submitted to reopen a claim for service connection for an acquired psychiatric disorder other than PTSD. \n\nThe letter should (1) inform him of the information and evidence that is necessary to substantiate the claim; (2) inform him about the information and evidence that VA will seek to provide; and, (3) inform him about the information and evidence he is expected to provide. He should also be provided with the definition of new and material evidence as well as informed as to what evidence would be necessary to substantiate the element or elements required to establish service connection that were found insufficient in the previous denial of his claim.\n\n2. The RO/AMC should contact the Veteran and request that he complete and return the necessary authorization (VA Form 21-4142) for VA to obtain City of Dallas local government annual examinations pertaining to his coronary artery disease. He should be asked to provide the full names of the provider who treated him, the specific dates of treatment, and any address or telephone information. The Veteran is also asked to provide the records himself if he has them in his possession. \n\nIf the Veteran provides a completed release form (VA Form 21-4142) authorizing VA to obtain these records, then the RO/AMC should attempt to obtain them and document such efforts in the claims folder. If no records are available, it should be noted in the claims folder. \n\n3. The RO/AMC should review the claims file and ensure that all of the foregoing development actions have been conducted and completed in full. \n\n4. After completing these actions, the RO/AMC should conduct any other development as may be indicated by a response received as a consequence of the actions taken in the preceding paragraphs. \n\nIf the RO/AMC finds that new and material evidence exists to reopen the acquired psychiatric disorder issue, the Veteran should be scheduled for a VA examination with an appropriate clinician to obtain a medical opinion to determine the nature and etiology of any current acquired psychiatric disorder other than PTSD. \n\n5. When the development requested has been completed, the case should be reviewed by the RO/AMC on the basis of additional evidence. The RO/AMC should readjudicate the remaining issues on appeal. \n\nIf the benefits sought are not granted, the Veteran and his representative should be furnished a Supplemental Statement of the Case and be afforded a reasonable opportunity to respond before the record is returned to the Board for further review. This SSOC should set forth all applicable laws and regulations, including 38 C.F.R. § 3.156.\n\nThe Veteran has the right to submit additional evidence and argument on the matter or matters the Board has remanded. Kutscherousky v. West, 12 Vet. App. 369 (1999).\n\nThese claims must be afforded expeditious treatment. The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner. See 38 U.S.C.A. §§ 5109B, 7112 (West Supp. 2013).\n\n\n\n______________________________________________\nJ.W. ZISSIMOS\nVeterans Law Judge, Board of Veterans' Appeals\n\n\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1400029",
+        "decisionDate": "2014-01-02T00:00:00",
+        "archiveDate": "2014-01-16T00:00:00",
+        "docketNumber": "10-16 586",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Waco, Texas",
+        "judge": "J.W. ZISSIMOS",
+        "fileName": "BVA1400029.txt",
+        "processDate": "2018-12-11T09:24:02.712191-08:00"
+    }
+}

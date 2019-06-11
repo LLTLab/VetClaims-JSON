@@ -1,0 +1,594 @@
+{
+    "docID": "1716934",
+    "sentences": [
+        {
+            "sentID": "1716934P1S1,",
+            "text": "Citation Nr: 1716934",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P32S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P33S1",
+            "text": "1.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P33S2",
+            "text": "The Veteran did not engage in combat with the enemy, his claimed stressor event is not related to hostile or terrorist activity and is not verified, and he does not currently have a diagnosis of PTSD in accordance with DSM-IV that is related to a verified stressor event.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P38S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P43S1",
+            "text": "Service Connection",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P45S1",
+            "text": "Service connection means that the facts establish that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P45S2",
+            "text": "38 U.S.C.A. § 1131; 38 C.F.R. § 3.303(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P45S3",
+            "text": "Generally, to prevail on the issue of service connection there must be evidence of a current disability, in-service incurrence or aggravation of a disease or injury; and a causal relationship between the present disability and the disease or injury incurred or aggravated during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P45S4",
+            "text": "See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P46S1",
+            "text": "PTSD",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P47S1",
+            "text": "The service treatment records are absent complaints, findings, or diagnoses of any psychiatric condition during service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P47S2",
+            "text": "On Reports of Medical History completed by the Veteran in June 1984, August 1985, and June 1989 he denied ever having depression, excessive worry, and nervous trouble of any sort.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P47S3",
+            "text": "In August 1986, the Veteran indicated that he did not know if he had depression or excessive worry and initially began to place an \"x\" in the box associated with not knowing if he had nervous trouble of any sort, but he scratched it out.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P47S4",
+            "text": "On clinical examinations in June 1984, August 1985, and June 1989, the Veteran's psychiatric health was evaluated as normal.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P47S5",
+            "text": "Thus, there is no medical evidence that shows that the Veteran suffered from any psychiatric disorders during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P48S1",
+            "text": "To establish entitlement to service connection for there must be medical evidence diagnosing PTSD; a link, established by medical evidence, between current symptoms of PTSD and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P48S2",
+            "text": "38 C.F.R. § 3.304 (f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P48S3",
+            "text": "A diagnosis of PTSD must be established in accordance with 38 C.F.R. § 4.125(a), which simply mandates that, for VA purposes, all mental disorder diagnoses must conform to the criteria of the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders, Fifth edition, (DSM-V).",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P48S4",
+            "text": "See 79 Fed. Reg. 45099 (August 4, 2014).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S1",
+            "text": "Initially, the Board notes that the Veteran does not contend, and the evidence does not demonstrate, that his PTSD stressors are related to combat or to fear of hostile military or terrorist activity.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S2",
+            "text": "Thus the provisions of 38 U.S.C.A. § 1154 (b) (2014) and 38 C.F.R. § 3.304 (f)(2), (3) (2016) do not apply.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S3",
+            "text": "Instead, in December 2013, the Veteran reported on his Statement in Support of Claim for Service Connection for PTSD that while he was stationed at Camp Foster in Okinawa, Japan, an individual became really upset when the Veteran became eligible for a promotion to sergeant.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S4",
+            "text": "At a bar, the individual and two of his friends hit the Veteran in the head and face over and over again.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S5",
+            "text": "The Veteran stated that the commanding officer gave NJP (nonjudicial punishment).",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S6",
+            "text": "At his February 2017 hearing, the Veteran testified that he was in Okinawa downtown and that when he got back to base, some guys jumped him and beat him up.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P49S7",
+            "text": "He also testified that he saw some guy get shot by the Filipino marines.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P50S1",
+            "text": "In this case, the Board finds that there is no credible supporting evidence that the claimed in-service stressors occurred.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P50S2",
+            "text": "The Veteran has not submitted any information or evidence to corroborate his contentions that either event occurred in service; nor has he provided sufficient detail to allow for proper research or verification.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P50S3",
+            "text": "No pertinent medical treatment is shown to be provided during service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S1",
+            "text": "The Board finds that the RO made reasonable efforts to obtain information to enable it to verify the claimed stressor events.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S2",
+            "text": "The RO obtained service personnel records and provided a VA Form 21-0781, Statement in Support of Claim for PTSD, and VA Form 21-0781a, Statement in Support of Claim for PTSD Secondary to Personal Assault.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S3",
+            "text": "The Veteran was advised that VA needed specific details.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S4",
+            "text": "The Veteran provided information concerning the stressor event in which he was assaulted while stationed at Camp Foster in Okinawa, Japan, by three individuals at a bar; and that the commanding officer gave NJP.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S5",
+            "text": "The Veteran indicated that the incident happened in 1985 but noted that he had an aneurysm and lost his memory.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S6",
+            "text": "In this case, however, the contemporary evidence of record is inconsistent with the Veteran's statement of a head injury during his active duty service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P51S7",
+            "text": "On Reports of Medical History completed by the Veteran in June 1984, August 1985, August 1986 and June 1989, he denied ever having a head injury.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P52S1",
+            "text": "In short, the Veteran's claimed stressor of being attacked and hit in the head over and over is not credible.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P52S2",
+            "text": "Far from being verified, this stressor has, in fact, been contradicted by the objective evidence of record.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P53S1",
+            "text": "In addition, there is no current diagnosis of PTSD of record.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P53S2",
+            "text": "In September 2006, May 2009, July 2011, screens for PTSD were negative; screen for PTSD in June 2013 was positive.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P53S3",
+            "text": "In addition, two PTSD screens administered on the same day in May 2009, resulted in one administered by a psychiatrist being negative and one administered by a nurse being positive.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P53S4",
+            "text": "A September 2009, Axis I diagnosis included \"r/o PTSD.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P54S1",
+            "text": "Although some treatment records reference a diagnosis of PTSD, none of the PTSD diagnoses are made in conformance with the DSM-IV or V criteria, and as noted above, the single Axis I diagnosis including PTSD is recorded as \"r[ule] o[ut] PTSD.\"",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P54S2",
+            "text": "Subsequent Axis I diagnoses included mood disorder due to medical condition and major depressive disorder in addition to alcohol abuse, cannabis abuse, and tobacco use disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P54S3",
+            "text": "Thus, the Board finds that the reference to \"r/o PTSD\" and the noted \"cva with PTSD\" in the VA treatment records cannot be interpreted as a finding that PTSD is a current disability, or that it has been present at any specific time pertinent to the appeal.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P55S1",
+            "text": "In summary, the Board finds that the most competent, credible, and probative evidence of record does not show that the Veteran currently or at any point during the appeal period has received a valid diagnosis of PTSD.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P55S2",
+            "text": "The Board further finds that the Veteran's claimed stressor of being hit in the head over and over is not credible and neither stressor has been verified.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P56S1",
+            "text": "The weight of the competent evidence shows that the Veteran does not have a current diagnosis of PTSD, and there is no independent evidence corroborating the Veteran's statement as to the occurrence of his claimed stressors.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P56S2",
+            "text": "As such, the evidence of record does not establish a DSM-V diagnosis of PTSD based upon a verified stressor event.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P57S1",
+            "text": "Thus, for the foregoing reasons, the claim for service connection for PTSD must be denied.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1716934P57S2",
+            "text": "In reaching this conclusion, the Board has considered the applicability of the benefit-of-the-doubt doctrine; however, as the preponderance of the evidence is against the Veteran's claim, that doctrine is not applicable.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1716934\t\r\nDecision Date: 05/18/17 Archive Date: 06/05/17\r\n\r\nDOCKET NO. 09-39 131\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Waco, Texas\r\n\r\n\r\nTHE ISSUES\r\n\r\n1. Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD), depression, and anxiety.\r\n\r\n2. Entitlement to service connection for bilateral pes planus.\r\n\r\n3. Entitlement to service connection for a lumbar spine disability.\r\n\r\n4. Entitlement to service connection for brain aneurysm and stroke.\r\n\r\n5. Entitlement to service connection for left eye impaired vision.\r\n\r\n6. Entitlement to service connection for a bilateral hip disability.\r\n\r\n7. Entitlement to service connection for bilateral hearing loss.\r\n\r\n8. Entitlement to service connection for tinnitus.\r\n\r\n9. Entitlement to an initial evaluation in excess of 10 percent prior to March 24, 2010, and in excess of 20 percent since March 24, 2010, for right knee degenerative joint disease.\r\n\r\n10. Entitlement to an initial evaluation in excess of 10 percent prior to March 24, 2010, and in excess of 20 percent since March 24, 2010, for left knee degenerative joint disease.\r\n\r\n11. Entitlement to a total disability evaluation based on individual unemployability due to service-connected disabilities (TDIU).\r\n\r\n12. Entitlement to special monthly compensation (SMC) based on aid and attendance (A&A) or housebound (HB) status.\r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tDisabled American Veterans\r\n\r\n\r\nWITNESSES AT HEARING ON APPEAL\r\n\r\nAppellant and spouse\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nP. Olson, Counsel\r\n\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran had active duty for training from October 1975 to March 1976 active duty in the Marine Corps from June 1977 to September 1989.\r\n\r\nThe issues come before the Board of Veterans' Appeals (Board) on appeal from rating decisions of the Appeals Management Center in Washington, DC, and by the Department of Veterans Affairs (VA) Regional Office (RO) in Waco, Texas. The Waco RO otherwise has jurisdiction of the claims folder.\r\n\r\nIn February 2017, the Veteran testified at a videoconference hearing. A transcript of that hearing is of record.\r\n\r\nThe claims file is now entirely in VA's secure electronic processing systems, Virtual VA and Veterans Benefits Management System (VBMS).\r\n\r\nThis appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2016). 38 U.S.C.A. § 7107(a)(2) (West 2014).\r\n\r\nThe issues of entitlement to service connection for an acquired psychiatric disorder other than PTSD, a lumbar spine disability, brain aneurysm and stroke, left eye impaired vision, a bilateral hip disability, bilateral hearing loss, tinnitus; entitlement to initial higher ratings for right and left knee degenerative joint disease; entitlement to a TDIU, and entitlement to SMC based on A&A or HB status are addressed in the REMAND portion of the decision below and are REMANDED to the Agency of Original Jurisdiction (AOJ).\r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. The Veteran did not engage in combat with the enemy, his claimed stressor event is not related to hostile or terrorist activity and is not verified, and he does not currently have a diagnosis of PTSD in accordance with DSM-IV that is related to a verified stressor event.\r\n\r\n2. The Veteran evidenced pes planus prior to active duty for training and it was not made worse by active duty training or service. There was some treatment of foot complaints in service that appear to have resolved. Later examinations revealed normal feet.\r\n\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. The Veteran does not have PTSD that was incurred in or aggravated by active service. 38 U.S.C.A. §§ 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.303, 3.304 (2016).\r\n\r\n2. The Veteran does not have pes planus was not incurred in or aggravated by active duty service. 38 U.S.C.A. §§ 1131, 1153, 5103, 5103A, 5107; 38 C.F.R. §§ 3.303, 3.306 (2016).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nPreliminary Matter\r\n\r\nAs provided for by the Veterans Claims Assistance Act of 2000 (VCAA), the United States Department of Veterans Affairs (VA) has a duty to notify and assist claimants in substantiating a claim for VA benefits. 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2014); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2015). \r\n\r\nThe requirements of 38 U.S.C.A. §§ 5103 and 5103A have been met as to the issues decided herein. There is no issue as to providing an appropriate application form or completeness of the application. VA notified the Veteran in May 2008 and November 2013 of the information and evidence needed to substantiate and complete a claim, to include notice of what part of that evidence is to be provided by the claimant, what part VA will attempt to obtain, and how disability ratings and effective dates are determined. VA fulfilled its duty to assist the Veteran in obtaining identified and available evidence needed to substantiate a claim. There is no evidence that additional records have yet to be requested.\r\n\r\nThe Veteran was not provided with a VA examination and opinion to assess the current nature and etiology of his claimed PTSD and pes planus; however, VA need not conduct an examination with respect to these claims as information and evidence of record contains sufficient competent medical evidence to decide the claim. See 38 C.F.R. § 3.159 (c)(4). Under McLendon v. Nicholson, 20 Vet. App. 79 (2006), in disability compensation (service connection) claims, VA must provide a medical examination when there is (1) competent evidence of a current disability or persistent or recurrent symptoms of a disability, and (2) evidence establishing that an event, injury, or disease occurred in service or establishing certain diseases manifesting during an applicable presumptive period for which the claimant qualifies, and (3) an indication that the disability or persistent or recurrent symptoms of a disability may be associated with the Veteran's service or with another service-connected disability, but (4) insufficient competent medical evidence on file for the VA to make a decision on the claim. In this case, the standards of McLendon are not met in this case as there is no current diagnosis of either PTSD or pes planus. As such, remand for a VA examination is not necessary.\r\n\r\nService Connection\r\n\r\nThe Veteran seeks service connection for PTSD and pes planus. \r\n\r\nService connection means that the facts establish that a particular injury or disease resulting in disability was incurred in the line of duty in the active military service or, if pre-existing such service, was aggravated during service. 38 U.S.C.A. § 1131; 38 C.F.R. § 3.303(a). Generally, to prevail on the issue of service connection there must be evidence of a current disability, in-service incurrence or aggravation of a disease or injury; and a causal relationship between the present disability and the disease or injury incurred or aggravated during service. See Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004). \r\n\r\nPTSD\r\n\r\nThe service treatment records are absent complaints, findings, or diagnoses of any psychiatric condition during service. On Reports of Medical History completed by the Veteran in June 1984, August 1985, and June 1989 he denied ever having depression, excessive worry, and nervous trouble of any sort. In August 1986, the Veteran indicated that he did not know if he had depression or excessive worry and initially began to place an \"x\" in the box associated with not knowing if he had nervous trouble of any sort, but he scratched it out. On clinical examinations in June 1984, August 1985, and June 1989, the Veteran's psychiatric health was evaluated as normal. Thus, there is no medical evidence that shows that the Veteran suffered from any psychiatric disorders during service. \r\n\r\nTo establish entitlement to service connection for there must be medical evidence diagnosing PTSD; a link, established by medical evidence, between current symptoms of PTSD and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304 (f). A diagnosis of PTSD must be established in accordance with 38 C.F.R. § 4.125(a), which simply mandates that, for VA purposes, all mental disorder diagnoses must conform to the criteria of the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders, Fifth edition, (DSM-V). See 79 Fed. Reg. 45099 (August 4, 2014). \r\n\r\nInitially, the Board notes that the Veteran does not contend, and the evidence does not demonstrate, that his PTSD stressors are related to combat or to fear of hostile military or terrorist activity. Thus the provisions of 38 U.S.C.A. § 1154 (b) (2014) and 38 C.F.R. § 3.304 (f)(2), (3) (2016) do not apply. Instead, in December 2013, the Veteran reported on his Statement in Support of Claim for Service Connection for PTSD that while he was stationed at Camp Foster in Okinawa, Japan, an individual became really upset when the Veteran became eligible for a promotion to sergeant. At a bar, the individual and two of his friends hit the Veteran in the head and face over and over again. The Veteran stated that the commanding officer gave NJP (nonjudicial punishment). At his February 2017 hearing, the Veteran testified that he was in Okinawa downtown and that when he got back to base, some guys jumped him and beat him up. He also testified that he saw some guy get shot by the Filipino marines. \r\n\r\nIn this case, the Board finds that there is no credible supporting evidence that the claimed in-service stressors occurred. The Veteran has not submitted any information or evidence to corroborate his contentions that either event occurred in service; nor has he provided sufficient detail to allow for proper research or verification. No pertinent medical treatment is shown to be provided during service.\r\n\r\nThe Board finds that the RO made reasonable efforts to obtain information to enable it to verify the claimed stressor events. The RO obtained service personnel records and provided a VA Form 21-0781, Statement in Support of Claim for PTSD, and VA Form 21-0781a, Statement in Support of Claim for PTSD Secondary to Personal Assault. The Veteran was advised that VA needed specific details. The Veteran provided information concerning the stressor event in which he was assaulted while stationed at Camp Foster in Okinawa, Japan, by three individuals at a bar; and that the commanding officer gave NJP. The Veteran indicated that the incident happened in 1985 but noted that he had an aneurysm and lost his memory. In this case, however, the contemporary evidence of record is inconsistent with the Veteran's statement of a head injury during his active duty service. On Reports of Medical History completed by the Veteran in June 1984, August 1985, August 1986 and June 1989, he denied ever having a head injury. \r\n\r\nIn short, the Veteran's claimed stressor of being attacked and hit in the head over and over is not credible. Far from being verified, this stressor has, in fact, been contradicted by the objective evidence of record. \r\n\r\nIn addition, there is no current diagnosis of PTSD of record. In September 2006, May 2009, July 2011, screens for PTSD were negative; screen for PTSD in June 2013 was positive. In addition, two PTSD screens administered on the same day in May 2009, resulted in one administered by a psychiatrist being negative and one administered by a nurse being positive. A September 2009, Axis I diagnosis included \"r/o PTSD.\" \r\n\r\nAlthough some treatment records reference a diagnosis of PTSD, none of the PTSD diagnoses are made in conformance with the DSM-IV or V criteria, and as noted above, the single Axis I diagnosis including PTSD is recorded as \"r[ule] o[ut] PTSD.\" Subsequent Axis I diagnoses included mood disorder due to medical condition and major depressive disorder in addition to alcohol abuse, cannabis abuse, and tobacco use disorder. Thus, the Board finds that the reference to \"r/o PTSD\" and the noted \"cva with PTSD\" in the VA treatment records cannot be interpreted as a finding that PTSD is a current disability, or that it has been present at any specific time pertinent to the appeal. \r\n\r\nIn summary, the Board finds that the most competent, credible, and probative evidence of record does not show that the Veteran currently or at any point during the appeal period has received a valid diagnosis of PTSD. The Board further finds that the Veteran's claimed stressor of being hit in the head over and over is not credible and neither stressor has been verified. \r\n\r\nThe weight of the competent evidence shows that the Veteran does not have a current diagnosis of PTSD, and there is no independent evidence corroborating the Veteran's statement as to the occurrence of his claimed stressors. As such, the evidence of record does not establish a DSM-V diagnosis of PTSD based upon a verified stressor event. \r\n\r\nThus, for the foregoing reasons, the claim for service connection for PTSD must be denied. In reaching this conclusion, the Board has considered the applicability of the benefit-of-the-doubt doctrine; however, as the preponderance of the evidence is against the Veteran's claim, that doctrine is not applicable.\r\n\r\nPes Planus\r\n\r\nOn his Report of Medical Examination in September 1975 for the purpose of enlistment, the Veteran's feet were noted to be abnormal and he was diagnosed as having \"pes planus 2°, asymptomatic.\" On the Report of Medical History completed by the Veteran in conjunction with his entrance physical, he denied ever having foot trouble. \r\n\r\nEvery veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C.A. § 1111 (West 2014). The Board notes that the presumption of soundness applies only when a disease or injury not noted upon entry to service manifests in service, and a question arises as to whether it preexisted service. Gilbert v. Shinseki, 26 Vet. App. 48, 55 (2012). In this case, as pes planus was noted on his entrance examination, the presumption of soundness does not apply. \r\n\r\nAs the pes planus was noted upon entry into duty, and hence active service, the question becomes whether the disability was aggravated beyond natural progression during service. 38 U.S.C.A. § 1153. Where a preexisting disease or injury is noted on the entrance examination, 38 U.S.C.A. § 1153 provides that \"[a] preexisting injury or disease will be considered to have been aggravated by active military, naval, or air service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.\" 38 U.S.C.A. § 1153; 38 C.F.R. § 3.306(a). For veterans who served during a period of war or after December 31, 1946, clear and unmistakable evidence is required to rebut the presumption of aggravation where the pre-service disability underwent an increase in severity during service. Clear and unmistakable evidence includes medical facts and principles which may be considered to determine whether the increase is due to the natural progress of the disability at issue. 38 C.F.R. § 3.306 (b). Temporary or intermittent flare-ups of symptoms of a preexisting condition, alone, do not constitute sufficient evidence for a noncombat veteran to show increased disability for the purposes of determinations of service connection based on aggravation under 38 U.S.C.A. § 1153 unless the underlying condition worsened. Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service. 38 C.F.R. § 3.306 (b).\r\n\r\nIn January 1978, the Veteran presented with complaint of pain in bottom of feet to both calves for three days and bottom of feet for one week. He denied any trauma, and the provider noted that he had been in repeatedly for the same problem. Assessment was muscle strains. In March 1978, the Veteran presented with complaint of painful feet with edema and cramping for approximately 1 1/2 years. The Veteran stated that the symptoms were severe enough to interfere with his performance of military duty and that past treatment with over-the-counter arches gave no relief. Examination revealed grade II pes planus with adequate but painful subtalar joint and midtarsal joint range of motion. The Veteran also noted pain with palpation of plantar aponeurosis, and mild triceps equinous. Diagnosis was pes planus syndrome. He was placed on light duty and issued arch supports. The provider noted, \"if no results, possible Med[ical] Board.\" In July 1980, the Veteran presented with complaint of pain right side of foot with pain radiating to arch. The Veteran was provided exercises to increase strength in arch area. An undated treatment record, barely legible, indicates assessment of mild inflammation of Achilles tendon. \r\n\r\nOn Report of Medical History completed by the Veteran in June 1984, he noted foot trouble; in response, the examiner noted soft tissue strain both knees and ankles after joining Marine Corps during boot camp which resolved after boot camp. On Reports of Medical History completed by the Veteran in August 1985, August 1986, and June 1989, he denied ever having foot trouble. On clinical examinations in June 1984, August 1985, August 1986, and June 1989, the Veteran's feet were evaluated as normal. \r\n\r\nThe Board finds that the record lacks competent evidence that demonstrates that the Veteran's bilateral pes planus underwent a permanent worsening during his active duty service. \r\n\r\nIn addition, there is no current diagnosis of pes planus of record. Private treatment records and VA treatment records indicate that the Veteran was seen numerous times for diabetic foot care. At no time during any of these appointments was the Veteran diagnosed as having pes planus. \r\n\r\nThe weight of the competent evidence shows that the Veteran does not have a current diagnosis of pes planus. Thus, for the foregoing reasons, the claim for service connection for pes planus must be denied. In reaching this conclusion, the Board has considered the applicability of the benefit-of-the-doubt doctrine; however, as the preponderance of the evidence is against the Veteran's claim, that doctrine is not applicable.\r\n\r\n\r\nORDER\r\n\r\nEntitlement to service connection for PTSD is denied.\r\n\r\nEntitlement to service connection for bilateral pes planus is denied.\r\n\r\n\r\nREMAND\r\n\r\nAs noted above, the issues of entitlement to service connection for an acquired psychiatric disorder other than PTSD, a lumbar spine disability, brain aneurysm and stroke, left eye impaired vision, a bilateral hip disability, bilateral hearing loss, tinnitus; entitlement to initial higher ratings for right and left knee degenerative joint disease; entitlement to a TDIU; and entitlement to SMC based on A&A or HB status are being remanded to the AOJ.\r\n\r\nThe Veteran testified in February 2017 that his service-connected knees caused his legs to give way and he fell and hit his head on cement which caused the aneurysm and the stroke which also resulted in left eye visual impairment. The Veteran's spouse testified, \"at the moment that he fell, his both hips were broken.\" \r\n\r\nThe record includes medical records from Sierra Medical Center from July 5, 2003; however, the information from the hospital reveals that the Veteran was seen initially at the Sierra Medical Center emergency department for chest pain, nausea, vomiting, and headache and later diagnosed with closed head injury and later with subarachnoid hemorrhage on the left due to an aneurysm, status post craniotomy and clipping of the aneurysm on July 18, 2003. \r\n\r\nIt is clear from the record that on July 5, 2003, the Veteran hit his head, was brought to the emergency room, was found to have subarachnoid hemorrhage, and underwent craniotomy. There is a question of whether the aneurysm ruptured before the Veteran fell or whether the fall caused the ruptured aneurysm. \r\n\r\nThe emergency department records do not appear to be in the file; as such, an attempt to obtain them should be made. \r\n\r\nThe Veteran has also identified outstanding medical records for the issues on appeal. He testified in February 2017 that he was currently being treated by a private physician, Dr. Jackson, for his knees and hips. The Veteran also testified that the prior year, Dr. Viesca had injected him 30 times in his back. The Veteran further testified that eight months prior to the hearing, he saw a private physician for his hearing and for his eyes.\r\n\r\nAs such, prior to adjudication, an attempt to obtain all outstanding medical evidence should be made.\r\n\r\nIn addition, the record indicates that the Veteran has left upper lid ptosis due to CVA as well as depression and anxiety due to stroke. As such these issues are inextricably intertwined with the issue of entitlement to service connection for brain aneurysm/stroke. Further, entitlement to a TDIU and SMC are inextricably intertwined with the claims being remanded, as the outcome may impact the TDIU and SMC claims. See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) (issues are \"inextricably intertwined\" when a decision on one issue would have a \"significant impact\" on a Veteran's claim for the second issue). \r\n\r\nAccordingly, the case is REMANDED for the following action:\r\n\r\n(Please note, this appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c). Expedited handling is requested.)\r\n\r\n1. The Veteran should be requested to indicate if he has received any VA or non-VA medical treatment for his psychiatric disorders, lumbar spine disability, brain aneurysm and stroke, left eye impaired vision, a bilateral hip disability, bilateral hearing loss, tinnitus, and right and left degenerative joint disease that is not evidenced by the current record. If so, the Veteran should be provided with the necessary authorizations for the release of any treatment records not currently on file, to include the private medical records of Dr. Jackson since February 2008 and Dr. Viesca since July 2010, and the Emergency Department at Sierra Medical Center on July 5, 2003. These records should then be obtained and associated with the claims folder. The Veteran should be advised that he may also submit any evidence or further argument relative to the claim at issue.\r\n\r\n2. The case should be reviewed on the basis of the additional evidence. If the benefit sought is not granted in full, the Veteran and his representative should be furnished a Supplemental Statement of the Case and be afforded a reasonable opportunity to respond before the record is returned to the Board for further review.\r\n\r\nThe appellant has the right to submit additional evidence and argument on the matter or matters the Board has remanded. Kutscherousky v. West, 12 Vet. App. 369 (1999).\r\n\r\nThis claim must be afforded expeditious treatment. The law requires that all claims that are remanded by the Board of Veterans' Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner. See 38 U.S.C.A. §§ 5109B, 7112 (West 2014).\r\n\r\n\r\n______________________________________________\r\nMICHAEL D. LYON \r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1716934",
+        "decisionDate": "2017-05-18T00:00:00",
+        "archiveDate": "2017-06-05T00:00:00",
+        "docketNumber": "09-39 131",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Waco, Texas",
+        "judge": "MICHAEL D. LYON",
+        "fileName": "BVA1716934.txt",
+        "processDate": "2019-01-20T14:43:03.8117907-08:00"
+    }
+}

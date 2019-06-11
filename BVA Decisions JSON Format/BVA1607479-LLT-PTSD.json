@@ -1,0 +1,1926 @@
+{
+    "docID": "1607479",
+    "sentences": [
+        {
+            "sentID": "1607479P1S1,",
+            "text": "Citation Nr: 1607479",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P19S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P20S1",
+            "text": "1.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P20S2",
+            "text": "In giving the Veteran the benefit of the doubt, his unspecified bipolar disorder and unspecified anxiety disorder had their onset during service and have continued ever since.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P21S1",
+            "text": "2.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P21S2",
+            "text": "The Veteran does not have a diagnosis of PTSD linked to any corroborated inservice stressor.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P25S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P36S1",
+            "text": "Legal Analysis",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S1",
+            "text": "Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, or air service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S2",
+            "text": "38 U.S.C.A. §§ 1110, 1131.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S3",
+            "text": "That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S4",
+            "text": "If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S5",
+            "text": "38 C.F.R. § 3.303(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S6",
+            "text": "Service connection may also be granted for any injury or disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S7",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S8",
+            "text": "Other specifically enumerated disorders, including arthritis, will be presumed to have been incurred in service if manifested to a compensable degree within the first year following separation from active duty.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P37S9",
+            "text": "38 U.S.C.A. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P38S1",
+            "text": "In Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013), the Federal Circuit held that the theory of continuity of symptomatology can be used only in cases involving those conditions explicitly recognized as chronic in 38 C.F.R. § 3.309(a).",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P38S2",
+            "text": "Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P38S3",
+            "text": "As discussed more thoroughly below, the Veteran is not diagnosed with a psychosis, which is recognized as a chronic disability in 38 C.F.R. § 3.309(a).",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S1",
+            "text": "In relevant part, 38 U.S.C.A. § 1154(a) requires that VA give 'due consideration' to 'all pertinent medical and lay evidence' in evaluating a claim for disability benefits.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S2",
+            "text": "In order to establish direct service connection for a disorder, there must be (1) competent evidence of the current existence of the disability for which service connection is being claimed; (2) competent evidence of a disease contracted, an injury suffered, or an event witnessed or experienced in active service; and (3) competent evidence of a nexus or connection between the disease, injury, or event in service and the current disability.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S3",
+            "text": "Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. Sept. 14, 2009); cf. Gutierrez  v. Principi, 19 Vet. App. 1, 5 (2004) (citing Hickson v. West, 12 Vet. App. 247, 253 (1999)).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S4",
+            "text": "In many cases, medical evidence is required to meet the requirement that the evidence be \"competent.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S5",
+            "text": "However, when a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination \"medical in nature\" and is capable of lay observation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P39S6",
+            "text": "Barr v. Nicholson, 21 Vet. App. 303, 309 (2007).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P40S1",
+            "text": "Entitlement to service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P40S2",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P41S1",
+            "text": "If the evidence establishes that a veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P41S2",
+            "text": "38 C.F.R. § 3.304(f)(2).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P42S1",
+            "text": "Where the claimed stressor is not related to combat, a veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P42S2",
+            "text": "See Moreau v. Brown, 9 Vet. App. 389, 395 (1996); Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P42S3",
+            "text": "In such cases, the record must contain service records or other corroborative evidence which substantiates or verifies the veteran's testimony or statements as to the occurrence of the claimed stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P42S4",
+            "text": "See West (Carlton) v. Brown, 7 Vet. App. 70, 76 (1994); Zarycki v. Brown, 6 Vet. App. 91, 98 (1993).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S1",
+            "text": "Generally, a medical opinion diagnosing PTSD does not suffice to verify the occurrence of a claimed in-service stressor.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S2",
+            "text": "See Moreau v. Brown, 9 Vet. App. 389, 395-396 (1996); Cohen v. Brown, 10 Vet. App. 128, 142 (1997).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S3",
+            "text": "However, in the context of a PTSD claim based on personal assault, the United States Court of Appeals for the Federal Circuit (Federal Circuit) distinguished the holding in Moreau v. Brown, 9 Vet. App. 389 (1996), and held \"medical opinion evidence may be submitted for use in determining whether the occurrence of a stressor is corroborated.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S4",
+            "text": "Menegassi v. Shinseki, 638 F.3d 1379, 1382 (Fed. Cir. 2011); see also Bradford v. Nicholson, 20 Vet. App. 200, 207 (2006); Patton v. West, 12 Vet. App. 272, 280 (1999).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S5",
+            "text": "Thus, courts have made plain that, a claim for service connection for PTSD based on in-service personal assault, favorable medical evidence diagnosing PTSD based on the Veteran's account of in-service assault must be weighed against all other evidence of record when determining whether the claimed in-service personal assault has been corroborated.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P43S6",
+            "text": "See Menegassi, 638 F.3d at 1382 n.1.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P44S1",
+            "text": "Additionally, if a PTSD claim is based on in-service personal assault, evidence from sources other than a veteran's service records may corroborate the claimant's account of the stressor incident.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P44S2",
+            "text": "Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P44S3",
+            "text": "Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P44S4",
+            "text": "Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P45S1",
+            "text": "VA will not deny a PTSD claim that is based on in-service personal assault without first advising the claimant that evidence from sources other than the veteran's service records or evidence of behavior changes may constitute credible supporting evidence of the stressor and allowing him or her the opportunity to furnish this type of evidence or advise VA of potential sources of such evidence.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P45S2",
+            "text": "VA may submit any evidence that it receives to an appropriate medical or mental health professional for an opinion as to whether it indicates that a personal assault occurred.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P45S3",
+            "text": "38 C.F.R. § 3.304(f)(3).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S1",
+            "text": "In rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S2",
+            "text": "See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S3",
+            "text": "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S4",
+            "text": "38 U.S.C.A. § 5107(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S5",
+            "text": "When a reasonable doubt arises regarding service origin, such doubt will be resolved in the favor of the claimant.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S6",
+            "text": "Reasonable doubt is doubt which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S7",
+            "text": "38 C.F.R. § 3.102.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S8",
+            "text": "The question is whether the evidence supports the claim or is in relative equipoise, with the claimant prevailing in either event, or whether a fair preponderance of the evidence is against the claim, in which event the claim must be denied.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P46S9",
+            "text": "See Gilbert, 1 Vet. App. at 54.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P47S1",
+            "text": "The Veteran contends that his psychiatric disability began after he was assaulted by a German police officer while stationed in Germany.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P47S2",
+            "text": "He also contends that he suffers from PTSD as a result of a live fire training exercise in which ammunition exploded close to him.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S1",
+            "text": "The Veteran's July 1961 entrance and May 1964 discharge examination reports note normal psychiatric examination.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S2",
+            "text": "In the May 1964 Report of Medical History he denied nervous trouble of any sort, depression or excessive worry, or frequent or terrifying nightmares.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S3",
+            "text": "An April 1, 1964 service treatment record notes that the Veteran was somewhat nervous.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S4",
+            "text": "It was also noted that he was seen by neuropsychiatric the week prior and that the Veteran was doing somewhat better but was still nervous.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S5",
+            "text": "An April 6, 1964 service treatment record notes that psychiatric consult from March 1964 suicidal ideation and restlessness, and that the Veteran still seemed anxious.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S6",
+            "text": "An April 15, 1964  service treatment record notes an impression of anxiety reaction.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P48S7",
+            "text": "An April 1964 service treatment record reflects that the Veteran had \"anxiety reaction.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P49S1",
+            "text": "A United States Army Europe car registration certificate indicated that the Veteran registered a 1962 Ford Taurus in August 1963.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P50S1",
+            "text": "An October 1978 private treatment summary indicates that the Veteran had been in treatment since 1975 for nervousness as a result of marital discord, and he was reportedly seen every month or two since that time.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P50S2",
+            "text": "His condition was treated with various prescription medications.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P50S3",
+            "text": "The Veteran reportedly functioned \"fairly well\" until August 1978, when his wife left him.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P50S4",
+            "text": "His last treatment was reported to have occurred a week after this event and his condition was \"very poor.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P51S1",
+            "text": "The Veteran's employment records reflect several absenteeism counseling sessions beginning in July 1975.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P51S2",
+            "text": "A November 1978 physician's certificate indicates that the Veteran had been absent from work due to \"feeling depressed and unable to cope with his daily responsibilities.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P52S1",
+            "text": "An April 1979 physician's certificate indicates that he had been diagnosed with anxiety neurosis rule-out passive-aggressive personality, and stated that he \"appear[ed] to be suffering from [a] depraved childhood and continued inadequate personal adjustments since.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P52S2",
+            "text": "Alcoholism was noted in a June 1986 physician's certificate, while improved chemical dependency, depression and anxiety were noted in a February 1991 physician's certificate.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P53S1",
+            "text": "A July 1991 note from a private physician indicates that the Veteran was anxious about possible termination of employment due to conflicts with his supervisor, and noted that he was a \"very angry individual who suffers from anxiety, depression, and has a history of chemical abuse.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P53S2",
+            "text": "An undated letter written by the Veteran described his difficulties working with his supervisor and attributed his anxiety and depression to the \"intolerable stress\" that this circumstance caused.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P54S1",
+            "text": "Diagnoses of a major depressive episode with mild psychotic features, as well as a history of substance abuse and avoidant personality disorder with passive, aggressive traits, were made in a January 1991 private hospitalization discharge summary.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P54S2",
+            "text": "A February 1991 private treatment record reflected the Veteran's reports of horrendous childhood abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P55S1",
+            "text": "A May 1991 private treatment summary indicates that the Veteran had been hospitalized in 1990 for chemical dependency.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P55S2",
+            "text": "The psychiatrist noted that the Veteran's conditions have resulted in deeply ingrained maladaptive patterns of behavior associated with persistent disturbance of mood and affect, pathological dependence, passivity and aggressivity with intense and unstable interpersonal relationships and impulsive and potentially damaging behavior.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P56S1",
+            "text": "SSA records revealed that the Veteran was approved for benefits in April 1992 with a primary diagnosis of panic disorder with agoraphobia and a secondary diagnosis of major depression.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P56S2",
+            "text": "His disability was determined to have begun in October 1990.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P57S1",
+            "text": "An August 1998 clinical psychological disability evaluation revealed the Veteran's history of alcohol and childhood abuse, as well as his history of social isolation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P57S2",
+            "text": "Issues relating his service, including the purported assault in Germany, were not noted in the examination report.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P57S3",
+            "text": "Following a mental status evaluation, the Veteran was diagnosed with agoraphobia with panic, dysthymic disorder, chronic PTSD and alcohol addiction.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P57S4",
+            "text": "This PTSD diagnosis was attributed to his history of childhood abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P58S1",
+            "text": "The August 2004 VA psychiatric examination reflects the Veteran's accounts of being extracted from a motor vehicle and beaten by German police officer following an automobile collision while he stationed in Germany.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P58S2",
+            "text": "He also recounted being exposed to live fire exercises during his training, during which he found himself too close to explosives and had ammunition exploding very close to him.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P58S3",
+            "text": "During his examination, the Veteran was unable to describe the frequency, severity or duration of his symptoms, and he could not describe \"actual longitudinal symptomatology that would support the allegations of PTSD manifestation.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P58S4",
+            "text": "The psychiatrist noted that a similar situation was encountered when he attempted to obtain information regarding his panic disorder with agoraphobia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P59S1",
+            "text": "The Veteran reported experiencing one or two panic attacks every two weeks, and indicated that he experienced one or two instances per week during which he did not want to leave his house and be around other people.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P59S2",
+            "text": "He reported driving an automobile without any difficulties, and having problems going into an enclosed area where there are small spaces.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P59S3",
+            "text": "Following the examination and a review of the Veteran's claims folder, the psychiatrist diagnosed him as suffering from mixed bipolar disorder and alcohol abuse in an alleged remission since 1995.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P59S4",
+            "text": "Allegations of panic disorder, agoraphobia and PTSD were \"unsupportable.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P60S1",
+            "text": "An August 2004 private treatment summary indicates that the Veteran had been in treatment since December 1991 and noted that he had a long history of alcohol abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P60S2",
+            "text": "The Veteran had reported a history of panic attacks since approximately 1984.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P60S3",
+            "text": "He had reportedly been hospitalized in May 1994 due to his bipolar disorder, depressed type.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P60S4",
+            "text": "The psychiatrist diagnosed the Veteran as suffering from panic disorder with agoraphobia, dysthymic disorder and a history of alcohol abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P61S1",
+            "text": "An August 2004 statement from the Veteran indicates that ever since service he had a nervous stomach.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P62S1",
+            "text": "Diagnoses of mild bipolar disorder, panic disorder with agoraphobia, and claustrophobia were made in a May 2006 VA mental health consultation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P63S1",
+            "text": "In a statement dated in May 2006, the Veteran's former wife indicated that he had been suffering from \"problems dealing with\" an incident involving a German police officer and had told her that that incident scarred him emotionally.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P63S2",
+            "text": "She stated that he was averse to disciplining his grandchildren, that he was mentally confused, and described his behavior as aggressive yet avoiding confrontation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P63S3",
+            "text": "He was suspicious of everyone and believed that someone is \"out to get him.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P63S4",
+            "text": "Her observations were noted to have been over the past \"25 years.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S1",
+            "text": "A July 2014 VA examination report reflects that the Veteran has current diagnoses of unspecified bipolar disorder and unspecified anxiety disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S2",
+            "text": "The report examiner noted that a February 1991 medical record reflects that the Veteran's father would beat him and his mother, and that the Veteran tried to stab his father once.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S3",
+            "text": "It was noted that the Veteran enlisted in the Army and that he reported being beaten by German police.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S4",
+            "text": "It was also noted that the Veteran was in an alcohol detoxification program in 1987 and 1991.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S5",
+            "text": "He was psychiatrically hospitalized twice in the past, having been diagnosed with anxiety with panic and agoraphobia, and bipolar disorder.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S6",
+            "text": "The Veteran reported that he started receiving medication for his nerves in the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P64S7",
+            "text": "It was further noted that the Veteran reported having been sexually molested when he was a young child.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P65S1",
+            "text": "On review of the record, the July 2014 VA examiner opined that the Veteran's mental health issues stem from a history of the sexual, physical and emotional abuse as a child.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P65S2",
+            "text": "The examiner found that the symptoms reported did not meet the criteria for a diagnosis of PTSD, but if he did it would likely be mostly due to his childhood experiences.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P65S3",
+            "text": "Reference was made to a November 1990 record, which indicated that the Veteran had problems in school with anxiety and depression and tension, and that the Veteran described his childhood as confused.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P65S4",
+            "text": "The examiner stated, \"[A]gain, this supports the hypothesis that his problems began before the military.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S1",
+            "text": "The examiner noted the Veteran's report that his experience with the German police and with a proving grounds explosion led to him having palpitations and showing signs of panic.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S2",
+            "text": "Consideration was also given to the Veteran's history of mental health treatment in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S3",
+            "text": "The examiner observed that the Veteran was unable to explain why he would have been suicidal in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S4",
+            "text": "The examiner remarked that it seems likely that this was the influence of his childhood experiences.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S5",
+            "text": "The examiner indicated that if the Veteran's reports of his experiences in service actually happened (but noted that there is no evidence to confirm this), then \"it would be easy to see that they could have exacerbated his symptoms.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S6",
+            "text": "The examiner opined that the claimed condition was at least as likely as not incurred in or was caused by the claimed in-service injury, event, or illness.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S7",
+            "text": "The examiner reasoned that the Veteran's treatment for his symptoms reportedly began in service and have been continuous since then.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S8",
+            "text": "Therefore, the examiner opined that they are most likely one in the same as those disorders treated in the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P66S9",
+            "text": "The examiner also noted that the symptoms began prior to service, and \"[t]here is no evidence to support the disorder being 'clearly and unmistakably' aggravated beyond their natural progression.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S1",
+            "text": "An October 2014 VA medical opinion addendum report indicates that both psychiatric disabilities are the result of childhood abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S2",
+            "text": "The examiner noted that there is documentation in the record (dated in December 1991 and August 1998)  which reflect the history of abuse and of working on the issues for many years.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S3",
+            "text": "The examiner stated that this is taken as medical evidence that his mood and anxiety disorders existed prior to service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S4",
+            "text": "The examiner opined that there is no evidence that they were aggravated beyond natural progression during service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S5",
+            "text": "The examiner indicated that both disorders are related to the anxiety treated in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P67S6",
+            "text": "However, it is less likely than not that either was caused or aggravated by anything that occurred during service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P68S1",
+            "text": "38 U.S.C.A. § 1111 sets forth governing principles relating to the presumption of a Veteran's soundness of condition upon entry to service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P68S2",
+            "text": "It provides that \"every veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P68S3",
+            "text": "38 U.S.C.A. § 1111.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P69S1",
+            "text": "The implementing regulation, 38 C.F.R. § 3.304(b), similarly provides that a veteran will be considered to have been in sound condition when examined, accepted and enrolled for service, except as to defects, infirmities, or disorders noted at entrance into service, or where clear and unmistakable (obvious or manifest) evidence demonstrates that an injury or disease existed prior thereto and was not aggravated by such service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P69S2",
+            "text": "Only such conditions as are recorded in examination reports are to be considered as noted.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P69S3",
+            "text": "38 C.F.R. § 3.304(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P69S4",
+            "text": "A history of preservice existence of a disease or injury recorded at the time of examination does not constitute a notation of such a malady, but instead, must be considered with all other material evidence in determinations as to inception.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P69S5",
+            "text": "38 C.F.R. § 3.304(b)(1).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P70S1",
+            "text": "A veteran thus enjoys an initial presumption of sound condition upon service entry if the enlistment records do not reflect that a veteran has a disease or injury that subsequently becomes manifest during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P70S2",
+            "text": "Wagner v. Principi, 370 F.3d 1089, 1096 (2004) (noting that \"[w]hen no preexisting condition is noted upon entry to service, the veteran is presumed to have been sound upon entry,\" but that \"if a preexisting disorder is noted upon entry to service, the veteran cannot bring a claim for service connection for that disorder\").",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S1",
+            "text": "Such an initial presumption, however, is not absolute and may be rebutted.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S2",
+            "text": "Wagner, 370 F.3d at 1096-1097.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S3",
+            "text": "Section 1111 permits VA to overcome the presumption of soundness upon a two-prong showing by clear and unmistakable evidence of both a preexisting condition and a lack of inservice aggravation to overcome the presumption of soundness for service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S4",
+            "text": "Id.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S5",
+            "text": "If the government fails to demonstrate either prong, the rebuttal fails and the soundness presumption remains.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S6",
+            "text": "Id.  (recognizing that the government's failure to rebut the soundness presumption means that the veteran's claim is one for direct service connection); see also Kinnaman v. Principi, 4 Vet. App. 20, 27 (1993).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S7",
+            "text": "The government's \"burden of proof is a formidable one,\"  Id., and it \"means that an item cannot be misinterpreted and misunderstood, i.e., it is undebatable.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P71S8",
+            "text": "Vanerson v. West, 12 Vet. App. 254, 258 (1999); accord Cotant v. Principi, 17 Vet. App. 116, 123-30 (2003) (noting that \"[t]he clear-and-unmistakable-evidence standard is an 'onerous' one\").",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P72S1",
+            "text": "A preexisting injury or disease will be considered to have been aggravated by active military, naval, or air service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P72S2",
+            "text": "38 U.S.C.A. § 1153; 38 C.F.R. § 3.306(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P72S3",
+            "text": "Independent medical evidence is needed to support a finding that the preexisting disorder increased in severity in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P72S4",
+            "text": "See Paulson v. Brown, 7 Vet. App. 466, 470-471 (1995); Crowe v. Brown, 7 Vet. App. 238, 246 (1994).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P73S1",
+            "text": "Clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation where the preservice disability underwent an increase in severity during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P73S2",
+            "text": "38 C.F.R. § 3.306(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P73S3",
+            "text": "Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P73S4",
+            "text": "38 C.F.R. § 3.306(b)(1); Hunt v. Derwinski, 1 Vet. App. 292, 297 (1991).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S1",
+            "text": "In this case, no psychiatric disability was noted at service entry.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S2",
+            "text": "As such, the Veteran is presumed sound at service entrance.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S3",
+            "text": "Regarding whether the presumption of soundness may be rebutted in this case, the July 2014 VA examiner opined that the records suggest that the Veteran's mental health issues stem from the sexual, physical and emotional abuse as a child.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S4",
+            "text": "The examiner also indicated that the Veteran had a history of problems in school with anxiety and depression and tension and a confused childhood, which \"supports the hypothesis that his problems began before the military.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S5",
+            "text": "In the October 2014 VA addendum opinion report the examiner opined that December 1991 and August 1998 medical records which reflect the history of abuse and of working on the issues for many years was evidence that his mood and anxiety disorders existed prior to service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P74S6",
+            "text": "Although there is clearly evidence that the Veteran had a traumatic childhood and that mental health symptoms existed prior to service, the Board finds that such evidence does not clearly and unmistakably establish that bipolar disorder and anxiety disorder were present prior to service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S1",
+            "text": "Moreover, even if the evidence clearly and unmistakably showed that bipolar and anxiety disorder existed prior to service, there is not clear and unmistakable evidence that the bipolar disorder and/or anxiety disorder were not aggravated during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S2",
+            "text": "The July 2014 VA examiner indicated that \"[t]here is no evidence to support the disorder being 'clearly and unmistakably' aggravated beyond their natural progression.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S3",
+            "text": "This is not the standard.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S4",
+            "text": "The standard is whether there is clear and unmistakable evidence that there was no aggravation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S5",
+            "text": "Additionally, the examiner stated that if the Veteran's reports of his experiences in service actually happened (but noted that there is no evidence to confirm this), then \"it would be easy to see that they could have exacerbated his symptoms.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S6",
+            "text": "In sum, the October 2014 VA examiner simply stated that there is no evidence of aggravation; however, the examiner also admitted that based upon the Veteran's report, the symptoms could have been aggravated during service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P75S7",
+            "text": "Based upon the evidence, the Board cannot find that there is clear and unmistakable evidence that bipolar disorder and/or anxiety disorder were not aggravated during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P76S1",
+            "text": "Therefore, having not rebutted the presumption of soundness, the Veteran is presumed sound at service entrance and the claim proceeds on a direct service incurrence basis.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S1",
+            "text": "As noted above, the Veteran was diagnosed with anxiety reaction in service, and he claims that he had ongoing symptoms since service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S2",
+            "text": "While there is no evidence of treatment for any psychiatric disability in the years immediately after service or until 1975, \"symptoms, not treatment, are the essence of any evidence of continuity of symptomatology.\"",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S3",
+            "text": "Savage, 10 Vet. App. at 496 (citing Wilson v. Derwinski, 2 Vet. App. 16, 19 (1991).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S4",
+            "text": "While the August 2004 VA examiner opined that the Veteran's bipolar disorder was not related to service, no further explanation or reasoning was provided.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S5",
+            "text": "As such, the medical opinion contained in the August 2004 is entitled to little probative value.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P77S6",
+            "text": "See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning; threshold considerations are whether the person opining is suitably qualified and sufficiently informed).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P78S1",
+            "text": "The July 2014 VA examination report contains an opinion that the claimed condition was at least as likely as not incurred in or was caused by the claimed in-service injury, event, or illness.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P78S2",
+            "text": "The examiner reasoned that the Veteran's treatment for his symptoms reportedly began in service and that they have been continuous since then.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P78S3",
+            "text": "Therefore, the examiner opined that they are most likely one in the same as those disorders treated in the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P78S4",
+            "text": "Similarly the October 2014 addendum opinion contains an opinion that both the bipolar disorder and anxiety disorder are related to the anxiety treated in service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P79S1",
+            "text": "As such, and in giving the benefit of the doubt to the Veteran, service connection has been established for a psychiatric disability diagnosed as unspecified bipolar disorder and unspecified anxiety disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P79S2",
+            "text": "38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S1",
+            "text": "With respect to the PTSD claim, the totality of evidence fails to support the finding that the Veteran has a diagnosis of PTSD that is related to his active service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S2",
+            "text": "Reports of the August 2004 and July 2014 determined that the Veteran did not meet the criteria for PTSD diagnosis.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S3",
+            "text": "Indeed, a review of record fails to establish a diagnosis of PTSD at any time during the pendency of the appeal.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S4",
+            "text": "See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007); Romanowsky v. Shinseki, 26 Vet. App. 289 (2013).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S5",
+            "text": "The only evidence suggesting a PTSD diagnosis was in 1998, which was several years prior the Veteran filing his claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S6",
+            "text": "A claim for service connection requires a finding of current disability that is related to an injury or disease in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S7",
+            "text": "Brammer  v. Derwinski, 3 Vet. App. 223 (1992).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P80S8",
+            "text": "Thus, in the absence of a diagnosis of PTSD, the Veteran's claim fails.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P81S1",
+            "text": "The Veteran's former wife, who is competent to report her observations regarding his behavior and demeanor, indicates that her observations have been over the past 25 years, or from approximately 1981.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P81S2",
+            "text": "Her statement alone is insufficient to establish a diagnosis of PTSD and as a lay person, she lacks the expertise to say that any current psychiatric disability is the result of an event in service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P81S3",
+            "text": "The Veteran also lacks the clinical skills necessary to diagnosis a psychiatric disability or render a nexus opinion related thereto.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P82S1",
+            "text": "Moreover, even if a diagnosis of PTSD were established, the evidence would not the Veteran's claim for service connection.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P82S2",
+            "text": "The August 1998 disability examiner attributed the Veteran's PTSD diagnosis, which again pre-dates his claim by several years, to the horrendous child abuse the Veteran had endured.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P82S3",
+            "text": "The July 2014 examiner similarly theorized that a diagnosis of PTSD, if such was diagnosed, would be related to the Veteran's childhood abuse.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P82S4",
+            "text": "Put another way, there is also no nexus evidence linking the Veteran's purported in-service stressors to a PTSD diagnosis.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P83S1",
+            "text": "The Board finds that a preponderance of the evidence is against finding that the Veteran has a current diagnosis of PTSD which is related to an in-service stressor.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P83S2",
+            "text": "That being the case, the preponderance of the evidence is against the claim of entitlement to service connection for PTSD and that claim must denied.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1607479P83S3",
+            "text": "38 U.S.C.A. §5107(b).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1607479\t\r\nDecision Date: 02/25/16 Archive Date: 03/04/16\r\n\r\nDOCKET NO. 05-37 753\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Philadelphia, Pennsylvania\r\n\r\n\r\nTHE ISSUE\r\n\r\n1. Entitlement to service connection for posttraumatic stress disorder (PTSD).\r\n\r\n2. Entitlement to service connection for a psychiatric disability other than PTSD, currently diagnosed as unspecified bipolar disorder and unspecified anxiety disorder. \r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tPennsylvania Office Department of Military and Veterans Affairs \r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nE. Redman, Counsel\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran served on active duty from August 1961 to August 1964. \r\n\r\nThese matters initially came before the Board of Veterans' Appeals (Board) from a February 2005 rating decision of the Department of Veterans' Affairs (VA) Regional Office (RO) in Augusta, Maine. In that decision, the RO denied the Veteran's petition to reopen a claim for service connection for a psychiatric disability as new and material evidence had not been submitted. Jurisdiction over the Veteran's claim currently resides with the RO in Philadelphia, Pennsylvania. \r\n\r\nIn a November 1978 decision the RO denied the Veteran's claim for service connection for a nervous condition. However, since the issuance of that rating decision, the Veteran has been diagnosed as having a variety of psychiatric conditions, including bipolar disorder, agoraphobia, major depression and avoidant personality disorder. These diagnoses were not considered in the 1978 decision. Because of the new diagnoses, the claim for service connection for a psychiatric disorder will be considered on a de novo basis. See Ephraim v. Brown, 8 F.3d 399 (Fed. Cir. 1996); Boggs v Peake, 520 F.3d 1330, 1337 (Fed. Cir. 2008) (a claim based on a new diagnosis will be considered a new claim).\r\n\r\nIn his October 2005 substantive appeal (VA Form 9), the Veteran requested a hearing before a Decision Review Officer (DRO) at the RO. In February 2006, he withdrew his hearing request. He has not requested that the hearing be rescheduled. The hearing request is considered withdrawn.\r\n\r\nIn a subsequent VA Form 9, received by VA in June 2007, the Veteran requested a Board hearing in Washington, DC. No such hearing was ever held. However, years have passed since the request was made and, in that time, the Veteran's claim has been previously adjudicated by the Board and appealed to the U.S. Court of Appeals for Veterans Claims (Court), and the Veteran has not made any argument about a Board hearing. In Scott v. McDonald, the United States Court of Appeals for the Federal Circuit (Federal Circuit) held that \"absent extraordinary circumstances . . . we think it is appropriate for the Board and the Veterans Court to address only those procedural arguments specifically raised by the veteran . . .\" 789 F.3d 1375 (Fed. Cir. 2015). In light of the Federal Circuit's holding in Scott, the Board finds that it can proceed to adjudicate the Veteran's service connection claims without remanding for a hearing because of the length of time that has passed, the procedural history of the case, and the lack of any procedural argument by the Veteran in this regard. \r\n\r\nIn April 2009, the Board denied the Veteran's claim for service connection for a psychiatric disability. The Veteran appealed the Board's denial to the Court. In December 2009, the Court vacated the Board's decision and remanded the case for readjudication in compliance with directives specified in a December 2009 Joint Motion for Remand. The matter was then remanded by the Board for further development. \r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. In giving the Veteran the benefit of the doubt, his unspecified bipolar disorder and unspecified anxiety disorder had their onset during service and have continued ever since. \r\n\r\n2. The Veteran does not have a diagnosis of PTSD linked to any corroborated inservice stressor.\r\n\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. An acquired psychiatric disorder other than PTSD, diagnosed as unspecified bipolar disorder and unspecified anxiety disorder, was incurred in service. 38 U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2014); 38 C.F.R. § 3.303 (2015).\r\n\r\n2. PTSD was not incurred in or aggravated by service. 38 U.S.C.A. §§ 1110, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.159, 3.303, 3.304 (2015).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nDuties to Notify and Assist\r\n\r\nUpon receipt of a substantially complete application for benefits, VA must notify the claimant what information or evidence is needed in order to substantiate the claim and it must assist the claimant by making reasonable efforts to get the evidence needed. 38 U.S.C.A. §§ 5103(a), 5103A; 38 C.F.R. § 3.159(b) ; see Quartuccio v. Principi, 16 Vet. App. 183, 187 (2002). The notice required must be provided to the claimant before the initial unfavorable decision on a claim for VA benefits, and it must (1) inform the claimant about the information and evidence not of record that is necessary to substantiate the claim; (2) inform the claimant about the information and evidence that VA will seek to provide; and (3) inform the claimant about the information and evidence the claimant is expected to provide. 38 U.S.C.A. §§ 5103(a); 38 C.F.R. § 3.159(b)(1); Pelegrini v. Principi, 18 Vet. App. 112, 120 (2004). \r\n\r\nThe notice requirements of 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) apply to all five elements of a service connection claim. Those five elements include: \r\n1) veteran status; 2) existence of a disability; 3) a connection between the veteran's service and the disability; 4) degree of disability; and 5) effective date of the disability. Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006). Upon receipt of an application for a service-connection claim, 38 U.S.C.A. § 5103(a) and 38 C.F.R. § 3.159(b) require VA to review the information and the evidence presented with the claim and to provide the claimant with notice of what information and evidence not previously provided, if any, will assist in substantiating or is necessary to substantiate the elements of the claim as reasonably contemplated by the application. Additionally, this notice must include notice that a disability rating and an effective date for the award of benefits will be assigned if service connection is awarded. \r\n\r\n\r\nIn the decision below, the Board has granted the Veteran's claim for service connection for a psychiatric disability currently diagnosed as unspecified bipolar disability and unspecified anxiety disorder. Therefore, regardless of whether the requirements have been met in this case with regard to this claim, no harm or prejudice to the appellant has resulted. A defect, if any, in providing notice and assistance to the Veteran, including pursuant to Stegall v. West, 11 Vet. App 268 (1998), was at worst harmless error in that it did not affect the essential fairness of the adjudication of the claim. Conway v. Principi, 353 F.3d 1369 (Fed. Cir. 2004); Pelegrini v. Principi, 18 Vet. App. 112, 119-120 (2004); Bernard v. Brown, 4 Vet. App. 384 (1993); VAOPGCPREC 16-92. \r\n\r\nWith respect to the PTSD claim, letters dated in July 2004, March 2006, and May 2013 satisfied the duty to notify provisions. The March 2006 May 2013 letters included proper notice to the Veteran regarding the regulations pertinent to the establishment of an effective date and of the disability rating. 38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b)(1); Quartuccio v. Principi, 16 Vet. App. 183, 187 (2002); Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006). \r\n\r\nAlthough the March 2006 and May 2013 letters, which contained the notice regarding disability ratings and effective dates, and contained the information regarding evidence that could be submitted from sources other than the Veteran's service records that may corroborate the Veteran's account of the stressor incident were sent after the initial unfavorable decisions by the Agency of Original Jurisdiction (AOJ), following the provision of the required notice and the completion of all indicated development of the record, the originating agency readjudicated the claim most recently in a January 2015 supplemental statement of the case. As such, there was no prejudice to the Veteran concerning the timing of these notice elements. See Prickett v. Nicholson, 20 Vet. App. 370 (2006) (the issuance of a fully compliant VCAA notification followed by readjudication of the claim is sufficient to cure a timing defect). \r\n\r\nA VA examination was conducted in July 2014 and an addendum opinion report was obtained in October 2014. The record does not reflect that, when considered together, these examinations or opinions were inadequate for rating purposes. Collectively, the examination and opinion reports were adequate because they were based on an examination of the Veteran, to include discussion of his complaints and symptoms, and contained medical opinions with adequate rationales predicated on a thorough review of the claims file. 38 C.F.R. § 3.159(c) (4); Barr v. Nicholson, 21 Vet. App. 303, 307 (2007). \r\n\r\nThere is no indication in the record that any additional evidence relevant to the issues decided herein is available and not part of the claims file. See Pelegrini v. Principi, 18 Vet. App. 112 (2004). As there is no indication that any failure on the part of VA to provide additional notice or assistance reasonably affects the outcome of the case, the Board finds that any such failure is harmless. See Mayfield v. Nicholson, 20 Vet. App. 537 (2006); see also Dingess/Hartman, 19 Vet. App. at 486; Shinseki v. Sanders/Simmons, 129 S. Ct. 1696 (2009). \r\n\r\nA remand by the Board confers on the claimant, as a matter of law, the right to compliance with the remand orders. Stegall v. West, 11 Vet. App. 268, 271 (1998). In this regard, the Board is satisfied as to compliance with the instructions from its September 2010 remand. Specifically, the Board remand instructed the RO to provide the Veteran notice regarding additional evidence which can be submitted to corroborate a personal assault, to obtain any outstanding service treatment records, to specifically include the March 25, 1964 psychiatric consultation, and to schedule the Veteran for a VA examination to determine the nature and etiology of his psychiatric disability. The RO sent the Veteran the requested letter in May 2013, attempted to obtain the missing service treatment records, but determined that they were unavailable and informed the Veteran of this fact in a January 2015 letter, and provided the requested VA examination and obtained the requested opinions in July 2014 and October 2014. The Board finds that the RO has complied with the Board's instructions and that the action taken by the RO/AMC, as well as the July 2014 VA examination report and October 2014 addendum opinion report substantially comply with the Board's September 2010 remand directives. Stegall v. West, 11 Vet. App. 268 (1998).\r\n\r\n\r\n\r\nLegal Analysis\r\n\r\nService connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, or air service. 38 U.S.C.A. §§ 1110, 1131. That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease. If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity. 38 C.F.R. § 3.303(b). Service connection may also be granted for any injury or disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service. 38 C.F.R. § 3.303(d). Other specifically enumerated disorders, including arthritis, will be presumed to have been incurred in service if manifested to a compensable degree within the first year following separation from active duty. 38 U.S.C.A. §§ 1101, 1112, 1113; 38 C.F.R. §§ 3.307, 3.309.\r\n\r\nIn Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013), the Federal Circuit held that the theory of continuity of symptomatology can be used only in cases involving those conditions explicitly recognized as chronic in 38 C.F.R. § 3.309(a). Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013). As discussed more thoroughly below, the Veteran is not diagnosed with a psychosis, which is recognized as a chronic disability in 38 C.F.R. § 3.309(a).\r\n\r\nIn relevant part, 38 U.S.C.A. § 1154(a) requires that VA give 'due consideration' to 'all pertinent medical and lay evidence' in evaluating a claim for disability benefits. In order to establish direct service connection for a disorder, there must be (1) competent evidence of the current existence of the disability for which service connection is being claimed; (2) competent evidence of a disease contracted, an injury suffered, or an event witnessed or experienced in active service; and (3) competent evidence of a nexus or connection between the disease, injury, or event in service and the current disability. Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. Sept. 14, 2009); cf. Gutierrez v. Principi, 19 Vet. App. 1, 5 (2004) (citing Hickson v. West, 12 Vet. App. 247, 253 (1999)). In many cases, medical evidence is required to meet the requirement that the evidence be \"competent.\" However, when a condition may be diagnosed by its unique and readily identifiable features, the presence of the disorder is not a determination \"medical in nature\" and is capable of lay observation. Barr v. Nicholson, 21 Vet. App. 303, 309 (2007). \r\n\r\nEntitlement to service connection for PTSD requires: (1) medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f).\r\n\r\nIf the evidence establishes that a veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor. 38 C.F.R. § 3.304(f)(2).\r\n\r\nWhere the claimed stressor is not related to combat, a veteran's lay testimony alone will not be enough to establish the occurrence of the alleged stressor. See Moreau v. Brown, 9 Vet. App. 389, 395 (1996); Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996). In such cases, the record must contain service records or other corroborative evidence which substantiates or verifies the veteran's testimony or statements as to the occurrence of the claimed stressor. See West (Carlton) v. Brown, 7 Vet. App. 70, 76 (1994); Zarycki v. Brown, 6 Vet. App. 91, 98 (1993). \r\n\r\nGenerally, a medical opinion diagnosing PTSD does not suffice to verify the occurrence of a claimed in-service stressor. See Moreau v. Brown, 9 Vet. App. 389, 395-396 (1996); Cohen v. Brown, 10 Vet. App. 128, 142 (1997). However, \r\nin the context of a PTSD claim based on personal assault, the United States Court of Appeals for the Federal Circuit (Federal Circuit) distinguished the holding in Moreau v. Brown, 9 Vet. App. 389 (1996), and held \"medical opinion evidence may be submitted for use in determining whether the occurrence of a stressor is corroborated.\" Menegassi v. Shinseki, 638 F.3d 1379, 1382 (Fed. Cir. 2011); see also Bradford v. Nicholson, 20 Vet. App. 200, 207 (2006); Patton v. West, 12 Vet. App. 272, 280 (1999). Thus, courts have made plain that, a claim for service connection for PTSD based on in-service personal assault, favorable medical evidence diagnosing PTSD based on the Veteran's account of in-service assault must be weighed against all other evidence of record when determining whether the claimed in-service personal assault has been corroborated. See Menegassi, 638 F.3d at 1382 n.1.\r\n\r\nAdditionally, if a PTSD claim is based on in-service personal assault, evidence from sources other than a veteran's service records may corroborate the claimant's account of the stressor incident. Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy. Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources. Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes. \r\n\r\nVA will not deny a PTSD claim that is based on in-service personal assault without first advising the claimant that evidence from sources other than the veteran's service records or evidence of behavior changes may constitute credible supporting evidence of the stressor and allowing him or her the opportunity to furnish this type of evidence or advise VA of potential sources of such evidence. VA may submit any evidence that it receives to an appropriate medical or mental health professional for an opinion as to whether it indicates that a personal assault occurred. 38 C.F.R. § 3.304(f)(3).\r\n\r\nIn rendering a decision on appeal, the Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant. See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990). When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant. 38 U.S.C.A. § 5107(b). When a reasonable doubt arises regarding service origin, such doubt will be resolved in the favor of the claimant. Reasonable doubt is doubt which exists because of an approximate balance of positive and negative evidence which does not satisfactorily prove or disprove the claim. 38 C.F.R. § 3.102. The question is whether the evidence supports the claim or is in relative equipoise, with the claimant prevailing in either event, or whether a fair preponderance of the evidence is against the claim, in which event the claim must be denied. See Gilbert, 1 Vet. App. at 54. \r\n\r\nThe Veteran contends that his psychiatric disability began after he was assaulted by a German police officer while stationed in Germany. He also contends that he suffers from PTSD as a result of a live fire training exercise in which ammunition exploded close to him. \r\n\r\nThe Veteran's July 1961 entrance and May 1964 discharge examination reports note normal psychiatric examination. In the May 1964 Report of Medical History he denied nervous trouble of any sort, depression or excessive worry, or frequent or terrifying nightmares. An April 1, 1964 service treatment record notes that the Veteran was somewhat nervous. It was also noted that he was seen by neuropsychiatric the week prior and that the Veteran was doing somewhat better but was still nervous. An April 6, 1964 service treatment record notes that psychiatric consult from March 1964 suicidal ideation and restlessness, and that the Veteran still seemed anxious. An April 15, 1964 service treatment record notes an impression of anxiety reaction. An April 1964 service treatment record reflects that the Veteran had \"anxiety reaction. \r\n\r\nA United States Army Europe car registration certificate indicated that the Veteran registered a 1962 Ford Taurus in August 1963. \r\n\r\n\r\nAn October 1978 private treatment summary indicates that the Veteran had been in treatment since 1975 for nervousness as a result of marital discord, and he was reportedly seen every month or two since that time. His condition was treated with various prescription medications. The Veteran reportedly functioned \"fairly well\" until August 1978, when his wife left him. His last treatment was reported to have occurred a week after this event and his condition was \"very poor.\" \r\n\r\nThe Veteran's employment records reflect several absenteeism counseling sessions beginning in July 1975. A November 1978 physician's certificate indicates that the Veteran had been absent from work due to \"feeling depressed and unable to cope with his daily responsibilities.\" \r\n\r\nAn April 1979 physician's certificate indicates that he had been diagnosed with anxiety neurosis rule-out passive-aggressive personality, and stated that he \"appear[ed] to be suffering from [a] depraved childhood and continued inadequate personal adjustments since.\" Alcoholism was noted in a June 1986 physician's certificate, while improved chemical dependency, depression and anxiety were noted in a February 1991 physician's certificate. \r\n\r\nA July 1991 note from a private physician indicates that the Veteran was anxious about possible termination of employment due to conflicts with his supervisor, and noted that he was a \"very angry individual who suffers from anxiety, depression, and has a history of chemical abuse.\" An undated letter written by the Veteran described his difficulties working with his supervisor and attributed his anxiety and depression to the \"intolerable stress\" that this circumstance caused. \r\n\r\nDiagnoses of a major depressive episode with mild psychotic features, as well as a history of substance abuse and avoidant personality disorder with passive, aggressive traits, were made in a January 1991 private hospitalization discharge summary. A February 1991 private treatment record reflected the Veteran's reports of horrendous childhood abuse. \r\n\r\n\r\nA May 1991 private treatment summary indicates that the Veteran had been hospitalized in 1990 for chemical dependency. The psychiatrist noted that the Veteran's conditions have resulted in deeply ingrained maladaptive patterns of behavior associated with persistent disturbance of mood and affect, pathological dependence, passivity and aggressivity with intense and unstable interpersonal relationships and impulsive and potentially damaging behavior. \r\n\r\nSSA records revealed that the Veteran was approved for benefits in April 1992 with a primary diagnosis of panic disorder with agoraphobia and a secondary diagnosis of major depression. His disability was determined to have begun in October 1990. \r\n\r\nAn August 1998 clinical psychological disability evaluation revealed the Veteran's history of alcohol and childhood abuse, as well as his history of social isolation. Issues relating his service, including the purported assault in Germany, were not noted in the examination report. Following a mental status evaluation, the Veteran was diagnosed with agoraphobia with panic, dysthymic disorder, chronic PTSD and alcohol addiction. This PTSD diagnosis was attributed to his history of childhood abuse. \r\n\r\nThe August 2004 VA psychiatric examination reflects the Veteran's accounts of being extracted from a motor vehicle and beaten by German police officer following an automobile collision while he stationed in Germany. He also recounted being exposed to live fire exercises during his training, during which he found himself too close to explosives and had ammunition exploding very close to him. During his examination, the Veteran was unable to describe the frequency, severity or duration of his symptoms, and he could not describe \"actual longitudinal symptomatology that would support the allegations of PTSD manifestation.\" The psychiatrist noted that a similar situation was encountered when he attempted to obtain information regarding his panic disorder with agoraphobia. \r\n\r\nThe Veteran reported experiencing one or two panic attacks every two weeks, and indicated that he experienced one or two instances per week during which he did not want to leave his house and be around other people. He reported driving an automobile without any difficulties, and having problems going into an enclosed area where there are small spaces. Following the examination and a review of the Veteran's claims folder, the psychiatrist diagnosed him as suffering from mixed bipolar disorder and alcohol abuse in an alleged remission since 1995. Allegations of panic disorder, agoraphobia and PTSD were \"unsupportable.\" \r\n\r\nAn August 2004 private treatment summary indicates that the Veteran had been in treatment since December 1991 and noted that he had a long history of alcohol abuse. The Veteran had reported a history of panic attacks since approximately 1984. He had reportedly been hospitalized in May 1994 due to his bipolar disorder, depressed type. The psychiatrist diagnosed the Veteran as suffering from panic disorder with agoraphobia, dysthymic disorder and a history of alcohol abuse. \r\n\r\nAn August 2004 statement from the Veteran indicates that ever since service he had a nervous stomach. \r\n\r\nDiagnoses of mild bipolar disorder, panic disorder with agoraphobia, and claustrophobia were made in a May 2006 VA mental health consultation. \r\n\r\nIn a statement dated in May 2006, the Veteran's former wife indicated that he had been suffering from \"problems dealing with\" an incident involving a German police officer and had told her that that incident scarred him emotionally. She stated that he was averse to disciplining his grandchildren, that he was mentally confused, and described his behavior as aggressive yet avoiding confrontation. He was suspicious of everyone and believed that someone is \"out to get him.\" Her observations were noted to have been over the past \"25 years.\" \r\n\r\nA July 2014 VA examination report reflects that the Veteran has current diagnoses of unspecified bipolar disorder and unspecified anxiety disorder. The report examiner noted that a February 1991 medical record reflects that the Veteran's father would beat him and his mother, and that the Veteran tried to stab his father once. It was noted that the Veteran enlisted in the Army and that he reported being beaten by German police. It was also noted that the Veteran was in an alcohol detoxification program in 1987 and 1991. He was psychiatrically hospitalized twice in the past, having been diagnosed with anxiety with panic and agoraphobia, and bipolar disorder. The Veteran reported that he started receiving medication for his nerves in the military. It was further noted that the Veteran reported having been sexually molested when he was a young child. \r\n\r\nOn review of the record, the July 2014 VA examiner opined that the Veteran's mental health issues stem from a history of the sexual, physical and emotional abuse as a child. The examiner found that the symptoms reported did not meet the criteria for a diagnosis of PTSD, but if he did it would likely be mostly due to his childhood experiences. Reference was made to a November 1990 record, which indicated that the Veteran had problems in school with anxiety and depression and tension, and that the Veteran described his childhood as confused. The examiner stated, \"[A]gain, this supports the hypothesis that his problems began before the military.\" \r\n\r\nThe examiner noted the Veteran's report that his experience with the German police and with a proving grounds explosion led to him having palpitations and showing signs of panic. Consideration was also given to the Veteran's history of mental health treatment in service. The examiner observed that the Veteran was unable to explain why he would have been suicidal in service. The examiner remarked that it seems likely that this was the influence of his childhood experiences. The examiner indicated that if the Veteran's reports of his experiences in service actually happened (but noted that there is no evidence to confirm this), then \"it would be easy to see that they could have exacerbated his symptoms.\" The examiner opined that the claimed condition was at least as likely as not incurred in or was caused by the claimed in-service injury, event, or illness. The examiner reasoned that the Veteran's treatment for his symptoms reportedly began in service and have been continuous since then. Therefore, the examiner opined that they are most likely one in the same as those disorders treated in the military. The examiner also noted that the symptoms began prior to service, and \"[t]here is no evidence to support the disorder being 'clearly and unmistakably' aggravated beyond their natural progression.\"\r\n\r\nAn October 2014 VA medical opinion addendum report indicates that both psychiatric disabilities are the result of childhood abuse. The examiner noted that there is documentation in the record (dated in December 1991 and August 1998) which reflect the history of abuse and of working on the issues for many years. The examiner stated that this is taken as medical evidence that his mood and anxiety disorders existed prior to service. The examiner opined that there is no evidence that they were aggravated beyond natural progression during service. The examiner indicated that both disorders are related to the anxiety treated in service. However, it is less likely than not that either was caused or aggravated by anything that occurred during service. \r\n\r\n38 U.S.C.A. § 1111 sets forth governing principles relating to the presumption of a Veteran's soundness of condition upon entry to service. It provides that \"every veteran shall be taken to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at the time of the examination, acceptance, and enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.\" 38 U.S.C.A. § 1111.\r\n\r\nThe implementing regulation, 38 C.F.R. § 3.304(b), similarly provides that a veteran will be considered to have been in sound condition when examined, accepted and enrolled for service, except as to defects, infirmities, or disorders noted at entrance into service, or where clear and unmistakable (obvious or manifest) evidence demonstrates that an injury or disease existed prior thereto and was not aggravated by such service. Only such conditions as are recorded in examination reports are to be considered as noted. 38 C.F.R. § 3.304(b). A history of preservice existence of a disease or injury recorded at the time of examination does not constitute a notation of such a malady, but instead, must be considered with all other material evidence in determinations as to inception. 38 C.F.R. § 3.304(b)(1). \r\n\r\nA veteran thus enjoys an initial presumption of sound condition upon service entry if the enlistment records do not reflect that a veteran has a disease or injury that subsequently becomes manifest during service. Wagner v. Principi, 370 F.3d 1089, 1096 (2004) (noting that \"[w]hen no preexisting condition is noted upon entry to service, the veteran is presumed to have been sound upon entry,\" but that \"if a preexisting disorder is noted upon entry to service, the veteran cannot bring a claim for service connection for that disorder\"). \r\n\r\nSuch an initial presumption, however, is not absolute and may be rebutted. Wagner, 370 F.3d at 1096-1097. Section 1111 permits VA to overcome the presumption of soundness upon a two-prong showing by clear and unmistakable evidence of both a preexisting condition and a lack of inservice aggravation to overcome the presumption of soundness for service. Id. If the government fails to demonstrate either prong, the rebuttal fails and the soundness presumption remains. Id. (recognizing that the government's failure to rebut the soundness presumption means that the veteran's claim is one for direct service connection); see also Kinnaman v. Principi, 4 Vet. App. 20, 27 (1993). The government's \"burden of proof is a formidable one,\" Id., and it \"means that an item cannot be misinterpreted and misunderstood, i.e., it is undebatable.\" Vanerson v. West, 12 Vet. App. 254, 258 (1999); accord Cotant v. Principi, 17 Vet. App. 116, 123-30 (2003) (noting that \"[t]he clear-and-unmistakable-evidence standard is an 'onerous' one\"). \r\n\r\nA preexisting injury or disease will be considered to have been aggravated by active military, naval, or air service, where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease. 38 U.S.C.A. § 1153; 38 C.F.R. § 3.306(a). Independent medical evidence is needed to support a finding that the preexisting disorder increased in severity in service. See Paulson v. Brown, 7 Vet. App. 466, 470-471 (1995); Crowe v. Brown, 7 Vet. App. 238, 246 (1994). \r\n\r\nClear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation where the preservice disability underwent an increase in severity during service. 38 C.F.R. § 3.306(b). Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service. 38 C.F.R. § 3.306(b)(1); Hunt v. Derwinski, 1 Vet. App. 292, 297 (1991).\r\n\r\nIn this case, no psychiatric disability was noted at service entry. As such, the Veteran is presumed sound at service entrance. Regarding whether the presumption of soundness may be rebutted in this case, the July 2014 VA examiner opined that the records suggest that the Veteran's mental health issues stem from the sexual, physical and emotional abuse as a child. The examiner also indicated that the Veteran had a history of problems in school with anxiety and depression and tension and a confused childhood, which \"supports the hypothesis that his problems began before the military.\" In the October 2014 VA addendum opinion report the examiner opined that December 1991 and August 1998 medical records which reflect the history of abuse and of working on the issues for many years was evidence that his mood and anxiety disorders existed prior to service. Although there is clearly evidence that the Veteran had a traumatic childhood and that mental health symptoms existed prior to service, the Board finds that such evidence does not clearly and unmistakably establish that bipolar disorder and anxiety disorder were present prior to service. \r\n\r\nMoreover, even if the evidence clearly and unmistakably showed that bipolar and anxiety disorder existed prior to service, there is not clear and unmistakable evidence that the bipolar disorder and/or anxiety disorder were not aggravated during service. The July 2014 VA examiner indicated that \"[t]here is no evidence to support the disorder being 'clearly and unmistakably' aggravated beyond their natural progression.\" This is not the standard. The standard is whether there is clear and unmistakable evidence that there was no aggravation. Additionally, the examiner stated that if the Veteran's reports of his experiences in service actually happened (but noted that there is no evidence to confirm this), then \"it would be easy to see that they could have exacerbated his symptoms.\" In sum, the October 2014 VA examiner simply stated that there is no evidence of aggravation; however, the examiner also admitted that based upon the Veteran's report, the symptoms could have been aggravated during service. Based upon the evidence, the Board cannot find that there is clear and unmistakable evidence that bipolar disorder and/or anxiety disorder were not aggravated during service. \r\n\r\nTherefore, having not rebutted the presumption of soundness, the Veteran is presumed sound at service entrance and the claim proceeds on a direct service incurrence basis.\r\n\r\nAs noted above, the Veteran was diagnosed with anxiety reaction in service, and he claims that he had ongoing symptoms since service. While there is no evidence of treatment for any psychiatric disability in the years immediately after service or until 1975, \"symptoms, not treatment, are the essence of any evidence of continuity of symptomatology.\" Savage, 10 Vet. App. at 496 (citing Wilson v. Derwinski, 2 Vet. App. 16, 19 (1991). While the August 2004 VA examiner opined that the Veteran's bipolar disorder was not related to service, no further explanation or reasoning was provided. As such, the medical opinion contained in the August 2004 is entitled to little probative value. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning; threshold considerations are whether the person opining is suitably qualified and sufficiently informed).\r\n\r\nThe July 2014 VA examination report contains an opinion that the claimed condition was at least as likely as not incurred in or was caused by the claimed in-service injury, event, or illness. The examiner reasoned that the Veteran's treatment for his symptoms reportedly began in service and that they have been continuous since then. Therefore, the examiner opined that they are most likely one in the same as those disorders treated in the military. Similarly the October 2014 addendum opinion contains an opinion that both the bipolar disorder and anxiety disorder are related to the anxiety treated in service. \r\n\r\nAs such, and in giving the benefit of the doubt to the Veteran, service connection has been established for a psychiatric disability diagnosed as unspecified bipolar disorder and unspecified anxiety disorder. 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.\r\n\r\nWith respect to the PTSD claim, the totality of evidence fails to support the finding that the Veteran has a diagnosis of PTSD that is related to his active service. Reports of the August 2004 and July 2014 determined that the Veteran did not meet the criteria for PTSD diagnosis. Indeed, a review of record fails to establish a diagnosis of PTSD at any time during the pendency of the appeal. See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007); Romanowsky v. Shinseki, 26 Vet. App. 289 (2013). The only evidence suggesting a PTSD diagnosis was in 1998, which was several years prior the Veteran filing his claim. A claim for service connection requires a finding of current disability that is related to an injury or disease in service. Brammer v. Derwinski, 3 Vet. App. 223 (1992). Thus, in the absence of a diagnosis of PTSD, the Veteran's claim fails.\r\n\r\nThe Veteran's former wife, who is competent to report her observations regarding his behavior and demeanor, indicates that her observations have been over the past 25 years, or from approximately 1981. Her statement alone is insufficient to establish a diagnosis of PTSD and as a lay person, she lacks the expertise to say that any current psychiatric disability is the result of an event in service. The Veteran also lacks the clinical skills necessary to diagnosis a psychiatric disability or render a nexus opinion related thereto.\r\n\r\nMoreover, even if a diagnosis of PTSD were established, the evidence would not the Veteran's claim for service connection. The August 1998 disability examiner attributed the Veteran's PTSD diagnosis, which again pre-dates his claim by several years, to the horrendous child abuse the Veteran had endured. The July 2014 examiner similarly theorized that a diagnosis of PTSD, if such was diagnosed, would be related to the Veteran's childhood abuse. Put another way, there is also no nexus evidence linking the Veteran's purported in-service stressors to a PTSD diagnosis.\r\n\r\nThe Board finds that a preponderance of the evidence is against finding that the Veteran has a current diagnosis of PTSD which is related to an in-service stressor. That being the case, the preponderance of the evidence is against the claim of entitlement to service connection for PTSD and that claim must denied. 38 U.S.C.A. §5107(b).\r\n\r\n\r\n\r\nORDER\r\n\r\nEntitlement to service connection for a psychiatric disability diagnosed as unspecified bipolar disorder and unspecified anxiety disorder is granted.\r\n\r\nEntitlement to service connection for PTSD is denied.\r\n\r\n\r\n\r\n____________________________________________\r\nMICHAEL A. HERMAN\r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1607479",
+        "decisionDate": "2016-02-25T00:00:00",
+        "archiveDate": "2016-03-04T00:00:00",
+        "docketNumber": "05-37 753",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Philadelphia, Pennsylvania",
+        "judge": "MICHAEL A. HERMAN",
+        "fileName": "BVA1607479.txt",
+        "processDate": "2019-01-20T14:41:27.8900094-08:00"
+    }
+}

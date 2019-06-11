@@ -1,0 +1,1422 @@
+{
+    "docID": "1719263",
+    "sentences": [
+        {
+            "sentID": "1719263P1S1,",
+            "text": "Citation Nr: 1719263",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P24S1",
+            "text": "FINDING OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P25S1",
+            "text": "None of the appellant's current psychiatric disorders was caused or aggravated by and none had their onset during any period of training in either the National Guard or Army Reserve or within any applicable presumptive period.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P29S1",
+            "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P32S1",
+            "text": "Analysis",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P33S1",
+            "text": "The appellant claims entitlement to service connection for an acquired psychiatric disorder, to include schizophrenia, depression, and posttraumatic stress disorder.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P34S1",
+            "text": "In general, service connection will be granted for disability resulting from injury or disease incurred in or aggravated by active military service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P34S2",
+            "text": "38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P35S1",
+            "text": "Certain chronic disabilities, such as a psychosis, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from active duty.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P35S2",
+            "text": "38 U.S.C.A. §§ 1101, 1112, 1137; 38 C.F.R. §§ 3.307, 3.309.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P36S1",
+            "text": "Active military service includes active duty, or any period of active duty for training during which the individual concerned was disabled from a disease or injury incurred in the line of duty.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P36S2",
+            "text": "38 U.S.C.A. § 101(21), (24); 38 C.F.R. § 3.6(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P36S3",
+            "text": "Active military service also includes any period of inactive duty training during which the individual concerned was disabled from an injury incurred in the line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident which occurred during such training.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P36S4",
+            "text": "Id.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P37S1",
+            "text": "In order to establish service connection or service-connected aggravation for a present disability, the appellant must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P37S2",
+            "text": "Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P38S1",
+            "text": "Effective March 19, 2015, VA adopted as final an interim rule adopting the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P38S2",
+            "text": "The provisions of the final rule shall apply to all applications for benefits that are received by VA or that are pending before the agency of original jurisdiction on or after August 4, 2014.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P38S3",
+            "text": "The Secretary does not intend for the provisions of this final rule to apply to claims that have been certified for appeal to the Board or are pending before the Board, the United States Court of Appeals for Veterans Claims, or the United States Court of Appeals for the Federal Circuit even if such claims are subsequently remanded to the agency of original jurisdiction.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P38S4",
+            "text": "See 80 Fed. Reg. 14308-09 (March 19, 2015); 79 Fed. Reg. 45093-99  (August 4, 2014).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P38S5",
+            "text": "Given the procedural history of this case, the provisions of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM -IV) remain for application.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P39S1",
+            "text": "VA has conducted extensive development in an effort to verify the appellant's periods of service and the evidence shows that he did not serve on active duty.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P39S2",
+            "text": "Instead, the entirety of his service was in the National Guard and Army Reserve and consisted of periods of active duty for training and inactive duty for training.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P40S1",
+            "text": "More specifically, information in the claims folder shows his initial period of active duty for training was from December 1984 to April 1985.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P40S2",
+            "text": "In November 1986, he was transferred to inactive status in the National Guard.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P40S3",
+            "text": "In October 1987, he was discharged from the National Guard and assigned to the Army Reserve.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P40S4",
+            "text": "He was reassigned in the Reserve in July 1990 due to unsatisfactory participation and discharged in June 1993.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P41S1",
+            "text": "The record clearly reflects that the appellant has a current psychiatric disorder, namely schizophrenia.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P41S2",
+            "text": "The evidence, however, preponderates against finding that such began during or is otherwise related to active military service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S1",
+            "text": "National Guard and Reserve enlistment examinations in August 1984 and June 1987 reflect normal psychiatric evaluations.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S2",
+            "text": "In addition, the appellant denied common symptoms of a psychiatric disorder at the time of the examinations.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S3",
+            "text": "Service treatment records show no complaint, diagnosis, or treatment for psychiatric complaints.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S4",
+            "text": "In sum, there is no medical evidence of in-service incurrence.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S5",
+            "text": "There is also no lay evidence of any in-service treatment for a psychiatric disorder.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P42S6",
+            "text": "During treatment in April 2002, the appellant relayed that he did not see any type of health professional for emotional problems while he was in the military, and in October 1994, he told a private clinician that he had no prior psychiatric treatment.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P43S1",
+            "text": "Despite the lack of medical evidence or reports of treatment for a psychiatric disorder during either active duty for training or inactive duty for training, the appellant contends that his psychiatric disorder started while he was affiliated with the National Guard or Reserve.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P44S1",
+            "text": "During private treatment in October and November 1994 at East Mississippi State Hospital, the appellant reported that his mind had not been right since 1982 when his girlfriend, in his words, \"Came up with a baby.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P44S2",
+            "text": "He believed that his mind was controlled by outside agents and he was sure his thoughts had been broadcast to others.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P44S3",
+            "text": "More recently, the appellant contends that he first observed symptoms of mental illness beginning in 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P44S4",
+            "text": "In his January 1998 claim for benefits, he reported his disability beginning in April 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P44S5",
+            "text": "At the November 2001 Decision Review Officer hearing, the appellant testified that he did not have any symptoms until after he reenlisted in 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S1",
+            "text": "At the June 2003 travel board hearing, the claimant testified that he first started going to the doctor for psychiatric reasons in 1994 but that his problem started earlier.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S2",
+            "text": "He thought he should be service-connected because after he reenlisted in 1987 is when he noticed that things were going wrong.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S3",
+            "text": "In an April 2005 statement, he reported that shortly after June 29, 1987, before going to Ft. Belvoir, he felt something hit him in his front yard that had a spinning sensation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S4",
+            "text": "In an April 2011 statement, he stated that his conditions started in 1986 and 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S5",
+            "text": "In a May 2011 statement, he indicated problems starting about June 28, 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S6",
+            "text": "As discussed further below, he also reported onset in 1987 on VA examination in April 2005 and the November 2015 private psychiatric evaluation.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S7",
+            "text": "A March 2007 progress note documents the appellant's reports that the day before he reenlisted, something hit him and had him in \"spin mode\" from 1987 to 1997.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P45S8",
+            "text": "The claimant further stated that he went to Ft. Belvoir and had it there but he did not tell them.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P46S1",
+            "text": "At the June 2016 videoconference hearing, the appellant denied problems with psychiatric illness while in the National Guard.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P46S2",
+            "text": "His spouse testified that they met in 1986 and things were fine.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P46S3",
+            "text": "They married in 1987 but by 1988 the claimant was not himself.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P47S1",
+            "text": "In lay statements received in November and December 2001, respectively, the appellant's mother and brother relayed that by their observation everything was okay for the appellant prior to reenlisting in June 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P48S1",
+            "text": "Considering the appellant's statements in light of the service records, symptoms of his psychiatric disorder did not begin during a period of service.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P48S2",
+            "text": "The appellant did not join the military until 1984; thus, his report of symptoms in 1982 does not establish in-service onset.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P49S1",
+            "text": "The appellant's statements about symptoms beginning in June 1987 do not establish in-service onset.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P49S2",
+            "text": "Service records indicate that the appellant was transferred to inactive status in the Army National Guard in November 1986 and then transferred to the Army Reserve in October 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P49S3",
+            "text": "Thus, he would not have participated in either active duty for training or inactive duty for training in June 1987.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P49S4",
+            "text": "Indeed, a Leave and Earning Statement submitted by the appellant reflects that he had no drill performance during the month of June 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P50S1",
+            "text": "The appellant reported for a medical examination to enlist in the Army Reserve on June 29, 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P50S2",
+            "text": "Even if the examination was considered military service, the evidence of record is against finding that a psychiatric disorder began at that time.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P50S3",
+            "text": "That is, a psychiatric evaluation performed during the June 1987 examination revealed that the claimant was clinically normal from a psychiatric perspective.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P50S4",
+            "text": "As part of this June 1987 examination the appellant completed a report of medical history in which he denied having had depression, excessive worry, or nervous trouble of any sort.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P51S1",
+            "text": "While disability from injury or covered diseases incurred proceeding directly to or returning directly from active duty for training or inactive duty for training shall be deemed to have been incurred on active duty for training or inactive duty for training, in this case, and by his own reports, the appellant was at his home when his symptoms reportedly began.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P51S2",
+            "text": "See 38 U.S.C.A. § 106(d)(1); 38 C.F.R. § 3.6(e).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P52S1",
+            "text": "In a July 2014 statement, the appellant argued that he was in travel status when the claimed injury occurred on September 9, 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P52S2",
+            "text": "This contradicts information he previously provided as to the onset of symptoms and further, there is no indication he was in travel status at that time.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P53S1",
+            "text": "The claims folder contains various records and opinions concerning the onset of his schizophrenia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P54S1",
+            "text": "The first psychiatric treatment of record is in October 1994, when the appellant was hospitalized after threatening family members and was diagnosed with chronic paranoid schizophrenia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P54S2",
+            "text": "At that time the claimant believed that his mind had not been right since 1982, that he was being controlled by outside agents and his thoughts were being broadcast to others.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P55S1",
+            "text": "The report of a November 1999 Disability Determination Examination indicates the appellant disclosed some delusional information regarding the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P55S2",
+            "text": "The examiner indicated the appellant was not a reliable historian.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P55S3",
+            "text": "The diagnosis was paranoid schizophrenia, in apparent partial remission.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P56S1",
+            "text": "In August 2000, P H. A., M.D., a private internist wrote that the appellant's psychiatric disorder was just as likely as not caused by his military service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P56S2",
+            "text": "As no rationale was provided for this opinion it has been afforded no probative value.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P56S3",
+            "text": "See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 300-01 (2008).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P57S1",
+            "text": "The appellant also requested a medical opinion from Dr. S.J.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P57S2",
+            "text": "During an initial psychiatric examination in April 2002, the appellant attributed his schizophrenia to the military stating that he was being punished for not paying back money and he felt like they put a curse on him.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P57S3",
+            "text": "Dr. S.J. indicated that while the appellant's psychotic break might have occurred while he was in the military, this is something she was unable to determine as she did not have his previous record and he stated that he did not see any type of health professional for emotional problems while he was in the military.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P57S4",
+            "text": "In 2003, Dr. S.J. again stated that it would be difficult for her to say when the onset of psychotic symptoms occurred and noted that she did not have access to his previous psychiatric records.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S1",
+            "text": "In February 2004, Dr. S.J. wrote that the appellant discussed situations in the military causing his illness.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S2",
+            "text": "According to Dr. S.J., the events really did not seem to have any cause-effect relationship to one another and she noted that he still had delusions regarding events that happened years ago.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S3",
+            "text": "She continued to reiterate that she could not make an opinion regarding the cause of the appellant's psychotic illness or if his military service contributed to or aggravated the psychotic symptoms.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S4",
+            "text": "In April 2006, Dr. S.J. reevaluated the appellant and diagnosed adjustment disorder, not otherwise specified, and noted schizophrenia by history.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S5",
+            "text": "No opinion as to etiology was offered.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P58S6",
+            "text": "Overall, Dr. S.J. has not linked any current psychiatric disorder to service; thus, these records do not represent evidence in favor of the claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P59S1",
+            "text": "In an April 2005 statement, one of the appellant's former coworkers, a nurse, relayed during the early 1990s the appellant showed signs of being paranoid and had mood swings.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P59S2",
+            "text": "This statement is consistent with other evidence of record.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S1",
+            "text": "The appellant was provided a VA examination in April 2005.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S2",
+            "text": "The examiner noted that the appellant was a poor historian, and that his responses to questions were vague.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S3",
+            "text": "The appellant stated that his problems began in 1987 when \"I was at home one day I walked outside in the yard and something hit me a presence around me.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S4",
+            "text": "Since that time, he felt that everything in his life was turned around or going in reverse until 1997.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S5",
+            "text": "The examiner diagnosed chronic paranoid type schizophrenia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S6",
+            "text": "The examiner noted that the perceptual experience in 1987 that the appellant described may have been a prodrome of schizophrenia; however, he did not seek any medical attention and there is no formal documentation about what was going on.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S7",
+            "text": "Based on the evidence of record, the examiner concluded that the appellant's schizophrenia first began when it was psychiatrically diagnosed in 1994.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P60S8",
+            "text": "This opinion is considered probative as the examiner reviewed the claims folder, considered relevant history and records, and provided sufficient rationale.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S1",
+            "text": "In November 2015, the appellant underwent an independent medical evaluation at a private neuropsychiatric clinic.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S2",
+            "text": "The physician, Dr. M.M., indicated that he met with the appellant and reported reviewing the claimant's medical records and military personnel file.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S3",
+            "text": "The physician noted that there was no documented history of psychiatric illness or treatment at the time of the appellant's enlistment examination on June 29, 1987.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S4",
+            "text": "The appellant provided information concerning the year 1987 and reported that the day before leaving for a period of training he had an experience and from that time forth it felt like everything that happened to him was backwards.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S5",
+            "text": "The examiner stated that \"[t]his experience of things being 'backwards' was systemized, prevalent and continuous and constituted delusional thinking on the part of [the appellant] in a way that was bizarre and falls under the diagnostic criteria required for diagnosing 'Schizophrenia'.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P61S6",
+            "text": "Dr. M.M. stated that, \"[i]nexplicably, this experience of 'everything was backward' seemed to end around 1997.\"",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S1",
+            "text": "Regarding unauthorized absences from drills, the appellant explained that he presented for the training drills but was not able to sign in because he did not have a swipe card.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S2",
+            "text": "The physician noted that while the appellant might not have made any complaint about psychiatric symptoms during Reserve service in no way establishes that he was not experiencing symptoms.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S3",
+            "text": "The physician further noted that longitudinally speaking, the appellant was able to successfully enlist into the National Guard and then in the Army Reserve.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S4",
+            "text": "Subsequent to his enlistment in the Reserve, he developed symptoms and manifested a behavior disturbance consistent with schizophrenia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S5",
+            "text": "The physician set forth a detailed mental status examination indicating that the appellant was presently delusional.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P62S6",
+            "text": "The physician proceeded to answer specific questions.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P63S1",
+            "text": "First, he opined that the appellant's current psychiatric illness was schizophrenia and that it first manifested while he was in the Army Reserve.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P63S2",
+            "text": "Second, he opined that the appellant's behavior disturbance that resulted in him being absent without leave developed and occurred after he successfully enlisted in the Reserve and in his opinion, and within a reasonable degree of medical probability, was due to schizophrenia, the onset of which occurred during his period of enlistment in the Army Reserve.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P63S3",
+            "text": "More likely than not the absence without leave marked the first manifestation of symptoms of his current schizophrenia.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P64S1",
+            "text": "As set forth, this evaluation indicates that the appellant's schizophrenia manifested sometime during his period of service in the Army Reserve (October 1987 to June 1993).",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P64S2",
+            "text": "More specifically, the physician indicated the periods of absence without leave marked the first manifestations of symptoms.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P64S3",
+            "text": "The physician interviewed the appellant and reviewed relevant records and the opinion is considered probative.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P65S1",
+            "text": "The Board acknowledges that on its face, this report appears to support the appellant's claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P65S2",
+            "text": "As discussed above, however, the appellant was in the Army Reserve and was not serving on active duty.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P65S3",
+            "text": "Even assuming the condition first manifested during the missed drills in 1990, the appellant was clearly absence without leave at that time and thus, not in either a period of active duty for training or inactive duty for training.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P65S4",
+            "text": "This report does not serve to establish entitlement to service connection.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P66S1",
+            "text": "To the extent the appellant asserts that he was actually present for the drills in question, the Board does not find his statements credible.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P66S2",
+            "text": "That is, Dr. M.M. suggested this was part of his delusional thinking.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P66S3",
+            "text": "Further, the official military records documenting the unexcused absences are considered far more probative than the appellant's statements in this regard.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P67S1",
+            "text": "To the extent the appellant may be alleging that a psychiatric disorder started while he was not on duty but was subsequently aggravated by military duty, the Board notes that where there is a claim based on a period of active duty for training or inactive duty for training, the presumption of aggravation is not applicable.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P67S2",
+            "text": "See Smith v. Shinseki, 24 Vet. App. 40, 48 n. 7 (2010).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P67S3",
+            "text": "As noted above, service records show no treatment for a psychiatric disorder and the appellant himself has denied seeking treatment for a psychiatric disorder during service.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P67S4",
+            "text": "Thus, service connection on the basis of aggravation must be denied.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S1",
+            "text": "The Board also recognizes that where an appellant served continuously for 90 days or more during a period of war, or during peacetime service after December 31, 1946, and a psychosis becomes manifest to a degree of 10 percent within one year from the date of termination of such service, such disease shall be presumed to have been incurred or aggravated in service, even though there is no evidence of such disease during the period of service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S2",
+            "text": "38 U.S.C.A. §§ 1101, 1131, 1133; 38 C.F.R. §§ 3.307, 3.309.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S3",
+            "text": "In this case, the appellant's only period of service lasting 90 days or more ended in April 1985.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S4",
+            "text": "There is no medical evidence reflecting that any psychosis was compensably disabling within one year of April 1985.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S5",
+            "text": "Indeed, the appellant's own statements put the onset of symptoms in 1987, well outside the one year period.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S6",
+            "text": "It is also well to note that presumptive periods do not apply to periods of active duty for training and inactive duty for training.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S7",
+            "text": "See Biggins v. Derwinski, 1 Vet. App. 474 (1991).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P68S8",
+            "text": "A psychiatric disorder cannot be presumed incurred during the appellant's service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S1",
+            "text": "The Board is cognizant that the criteria for establishing service connection for posttraumatic stress disorder are different from those for establishing service connection for other psychiatric disorders.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S2",
+            "text": "See 38 C.F.R. § 3.304(f).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S3",
+            "text": "In his May 2011 stressor statement, the appellant reported an incident occurring on January 15, 1989 at his house.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S4",
+            "text": "He described the incident as when he realized that he needed to do things in reverse order.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S5",
+            "text": "In this case, however, the appellant has not been diagnosed with posttraumatic stress disorder and has not clearly articulated an in-service stressor that could have caused posttraumatic stress disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S6",
+            "text": "Further, as the appellant did not serve in combat any stressor must be verified, and here there is no evidence that independently corroborates any claimed stressor.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S7",
+            "text": "Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P69S8",
+            "text": "Entitlement to service connection for posttraumatic stress disorder is not warranted.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P70S1",
+            "text": "In sum, the most probative evidence preponderates against finding that the appellant's psychiatric disorder had its onset during a period of active duty for training or inactive duty for training and as no psychiatric disorder is otherwise related to any such period of service, the claim is denied.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P71S1",
+            "text": "In reaching this decision the Board considered the doctrine of reasonable doubt, however, as the preponderance of the evidence is against the appellant's claim, the doctrine is not for application.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1719263P71S2",
+            "text": "Gilbert v. Derwinski, 1 Vet.App. 49 (1990).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1719263\t\r\nDecision Date: 05/15/17 Archive Date: 06/06/17\r\n\r\nDOCKET NO. 00-16 910\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Jackson, Mississippi\r\n\r\n\r\nTHE ISSUE\r\n\r\nEntitlement to service connection for an acquired psychiatric disorder, to include paranoid schizophrenia, posttraumatic stress disorder (PTSD), and chronic depression. \r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tMark R. Lippman, Attorney\r\n\r\n\r\nWITNESSES AT HEARINGS ON APPEAL\r\n\r\nAppellant and his spouse\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nM. Carsten, Counsel\r\nINTRODUCTION\r\n\r\nThe appellant was associated with the Army National Guard from August 1984 to October 1987, as well as with the Army Reserve from October 1987 to June 1993 during which time he served on periods of active duty for training and inactive duty for training.\r\n\r\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from an April 2000 decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Jackson, Mississippi. The appellant's various claims related to schizophrenia, PTSD, and chronic depression are all within the scope of the claim of entitlement to service connection for an acquired psychiatric disorder. See Clemons v. Shinseki, 23 Vet. App. 1 (2009). \r\n\r\nIn November 2001, a hearing was held before a Decision Review Officer (DRO) sitting at the RO. In June 2003, a travel board hearing was held before Veterans Law Judge Mason.\r\n\r\nIn February 2004, the Board remanded the claim for additional development. In June 2007, the Board issued a denial. The appellant appealed this decision to the United States Court of Appeals for Veterans Claims (Court), which, in a March 2009 memorandum decision, vacated the Board's June 2007 decision and remanded the matter. The Board again remanded the matter in February 2010 and again denied the claim in January 2015. The appellant appealed that denial to the Court, which granted a joint motion for remand (joint motion) in September 2015. Pursuant to the joint motion, the January 2015 Board decision was vacated. \r\n\r\nIn December 2015, the attorney submitted additional evidence with a waiver of RO jurisdiction. \r\n\r\nIn March 2016, the Board remanded the appeal so that another hearing could be scheduled. In June 2016, a three-way videoconference hearing was held before Veterans Law Judge Brown. \r\n\r\nIn January 2017, the Board informed the appellant that since he had presented testimony at two hearings before two different Veterans Law Judges concerning the appeal issue, he had the option of having an additional hearing held before a third Veterans Law Judge. Arneson v. Shinseki, 24 Vet. App. 379 (2011). The appellant did not respond within 30 days from the date of the letter and the Board assumes he does not want a third hearing. Accordingly, the Board will proceed with a panel decision. See 38 U.S.C.A. § 7102(a) (West 2014); 38 C.F.R. § 19.3 (2016). \r\n\r\nThis is a paperless appeal and the Veterans Benefits Management System (VBMS) and Virtual VA folders have been reviewed. \r\n\r\nThis appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2016). 38 U.S.C.A. § 7107(a)(2) (West 2014).\r\n\r\n\r\nFINDING OF FACT\r\n\r\nNone of the appellant's current psychiatric disorders was caused or aggravated by and none had their onset during any period of training in either the National Guard or Army Reserve or within any applicable presumptive period. \r\n\r\n\r\nCONCLUSION OF LAW\r\n\r\nAn acquired psychiatric disorder, to include schizophrenia, posttraumatic stress disorder, and chronic depression was not incurred or aggravated inservice, and a psychosis may not be presumed to have been so incurred. 38 U.S.C.A. §§ 101(24), 106, 1110, 1131 (West 2014); 38 C.F.R. §§ 3.6, 3.303, 3.304, 3.307, 3.309 (2016). \r\n\r\n\r\n\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\n\r\nVeterans Claims Assistance Act of 2000 (VCAA)\r\n\r\nWith respect to the appellant's claim herein, VA has met all statutory and regulatory notice and duty to assist provisions. See 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5106, 5107, 5126 (West 2014); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326 (2015); see also Scott v. McDonald, 789 F.3d 1375 (Fed. Cir. 2015).\r\n\r\nAnalysis\r\n\r\nThe appellant claims entitlement to service connection for an acquired psychiatric disorder, to include schizophrenia, depression, and posttraumatic stress disorder. \r\n\r\nIn general, service connection will be granted for disability resulting from injury or disease incurred in or aggravated by active military service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303. \r\n\r\nCertain chronic disabilities, such as a psychosis, are presumed to have been incurred in service if manifest to a compensable degree within one year of discharge from active duty. 38 U.S.C.A. §§ 1101, 1112, 1137; 38 C.F.R. §§ 3.307, 3.309.\r\n\r\nActive military service includes active duty, or any period of active duty for training during which the individual concerned was disabled from a disease or injury incurred in the line of duty. 38 U.S.C.A. § 101(21), (24); 38 C.F.R. § 3.6(a). Active military service also includes any period of inactive duty training during which the individual concerned was disabled from an injury incurred in the line of duty or from an acute myocardial infarction, a cardiac arrest, or a cerebrovascular accident which occurred during such training. Id. \r\n\r\nIn order to establish service connection or service-connected aggravation for a present disability, the appellant must show: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service. Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004).\r\n\r\nEffective March 19, 2015, VA adopted as final an interim rule adopting the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5). The provisions of the final rule shall apply to all applications for benefits that are received by VA or that are pending before the agency of original jurisdiction on or after August 4, 2014. The Secretary does not intend for the provisions of this final rule to apply to claims that have been certified for appeal to the Board or are pending before the Board, the United States Court of Appeals for Veterans Claims, or the United States Court of Appeals for the Federal Circuit even if such claims are subsequently remanded to the agency of original jurisdiction. See 80 Fed. Reg. 14308-09 (March 19, 2015); 79 Fed. Reg. 45093-99 (August 4, 2014). Given the procedural history of this case, the provisions of the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM -IV) remain for application.\r\n\r\nVA has conducted extensive development in an effort to verify the appellant's periods of service and the evidence shows that he did not serve on active duty. Instead, the entirety of his service was in the National Guard and Army Reserve and consisted of periods of active duty for training and inactive duty for training. \r\n\r\nMore specifically, information in the claims folder shows his initial period of active duty for training was from December 1984 to April 1985. In November 1986, he was transferred to inactive status in the National Guard. In October 1987, he was discharged from the National Guard and assigned to the Army Reserve. He was reassigned in the Reserve in July 1990 due to unsatisfactory participation and discharged in June 1993. \r\n\r\nThe record clearly reflects that the appellant has a current psychiatric disorder, namely schizophrenia. The evidence, however, preponderates against finding that such began during or is otherwise related to active military service. \r\n\r\nNational Guard and Reserve enlistment examinations in August 1984 and June 1987 reflect normal psychiatric evaluations. In addition, the appellant denied common symptoms of a psychiatric disorder at the time of the examinations. Service treatment records show no complaint, diagnosis, or treatment for psychiatric complaints. In sum, there is no medical evidence of in-service incurrence. There is also no lay evidence of any in-service treatment for a psychiatric disorder. During treatment in April 2002, the appellant relayed that he did not see any type of health professional for emotional problems while he was in the military, and in October 1994, he told a private clinician that he had no prior psychiatric treatment.\r\n\r\nDespite the lack of medical evidence or reports of treatment for a psychiatric disorder during either active duty for training or inactive duty for training, the appellant contends that his psychiatric disorder started while he was affiliated with the National Guard or Reserve. \r\n\r\nDuring private treatment in October and November 1994 at East Mississippi State Hospital, the appellant reported that his mind had not been right since 1982 when his girlfriend, in his words, \"Came up with a baby.\" He believed that his mind was controlled by outside agents and he was sure his thoughts had been broadcast to others. More recently, the appellant contends that he first observed symptoms of mental illness beginning in 1987. In his January 1998 claim for benefits, he reported his disability beginning in April 1987. At the November 2001 Decision Review Officer hearing, the appellant testified that he did not have any symptoms until after he reenlisted in 1987. \r\n\r\nAt the June 2003 travel board hearing, the claimant testified that he first started going to the doctor for psychiatric reasons in 1994 but that his problem started earlier. He thought he should be service-connected because after he reenlisted in 1987 is when he noticed that things were going wrong. In an April 2005 statement, he reported that shortly after June 29, 1987, before going to Ft. Belvoir, he felt something hit him in his front yard that had a spinning sensation. In an April 2011 statement, he stated that his conditions started in 1986 and 1987. In a May 2011 statement, he indicated problems starting about June 28, 1987. As discussed further below, he also reported onset in 1987 on VA examination in April 2005 and the November 2015 private psychiatric evaluation. A March 2007 progress note documents the appellant's reports that the day before he reenlisted, something hit him and had him in \"spin mode\" from 1987 to 1997. The claimant further stated that he went to Ft. Belvoir and had it there but he did not tell them. \r\n\r\nAt the June 2016 videoconference hearing, the appellant denied problems with psychiatric illness while in the National Guard. His spouse testified that they met in 1986 and things were fine. They married in 1987 but by 1988 the claimant was not himself. \r\n\r\nIn lay statements received in November and December 2001, respectively, the appellant's mother and brother relayed that by their observation everything was okay for the appellant prior to reenlisting in June 1987. \r\n\r\nConsidering the appellant's statements in light of the service records, symptoms of his psychiatric disorder did not begin during a period of service. The appellant did not join the military until 1984; thus, his report of symptoms in 1982 does not establish in-service onset. \r\n\r\nThe appellant's statements about symptoms beginning in June 1987 do not establish in-service onset. Service records indicate that the appellant was transferred to inactive status in the Army National Guard in November 1986 and then transferred to the Army Reserve in October 1987. Thus, he would not have participated in either active duty for training or inactive duty for training in June 1987. Indeed, a Leave and Earning Statement submitted by the appellant reflects that he had no drill performance during the month of June 1987. \r\n\r\nThe appellant reported for a medical examination to enlist in the Army Reserve on June 29, 1987. Even if the examination was considered military service, the evidence of record is against finding that a psychiatric disorder began at that time. That is, a psychiatric evaluation performed during the June 1987 examination revealed that the claimant was clinically normal from a psychiatric perspective. As part of this June 1987 examination the appellant completed a report of medical history in which he denied having had depression, excessive worry, or nervous trouble of any sort. \r\n\r\nWhile disability from injury or covered diseases incurred proceeding directly to or returning directly from active duty for training or inactive duty for training shall be deemed to have been incurred on active duty for training or inactive duty for training, in this case, and by his own reports, the appellant was at his home when his symptoms reportedly began. See 38 U.S.C.A. § 106(d)(1); 38 C.F.R. § 3.6(e). \r\n\r\nIn a July 2014 statement, the appellant argued that he was in travel status when the claimed injury occurred on September 9, 1987. This contradicts information he previously provided as to the onset of symptoms and further, there is no indication he was in travel status at that time. \r\n\r\nThe claims folder contains various records and opinions concerning the onset of his schizophrenia. \r\n\r\nThe first psychiatric treatment of record is in October 1994, when the appellant was hospitalized after threatening family members and was diagnosed with chronic paranoid schizophrenia. At that time the claimant believed that his mind had not been right since 1982, that he was being controlled by outside agents and his thoughts were being broadcast to others. \r\n\r\nThe report of a November 1999 Disability Determination Examination indicates the appellant disclosed some delusional information regarding the military. The examiner indicated the appellant was not a reliable historian. The diagnosis was paranoid schizophrenia, in apparent partial remission. \r\n\r\nIn August 2000, P H. A., M.D., a private internist wrote that the appellant's psychiatric disorder was just as likely as not caused by his military service. As no rationale was provided for this opinion it has been afforded no probative value. See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 300-01 (2008). \r\n\r\nThe appellant also requested a medical opinion from Dr. S.J. During an initial psychiatric examination in April 2002, the appellant attributed his schizophrenia to the military stating that he was being punished for not paying back money and he felt like they put a curse on him. Dr. S.J. indicated that while the appellant's psychotic break might have occurred while he was in the military, this is something she was unable to determine as she did not have his previous record and he stated that he did not see any type of health professional for emotional problems while he was in the military. In 2003, Dr. S.J. again stated that it would be difficult for her to say when the onset of psychotic symptoms occurred and noted that she did not have access to his previous psychiatric records.\r\n\r\nIn February 2004, Dr. S.J. wrote that the appellant discussed situations in the military causing his illness. According to Dr. S.J., the events really did not seem to have any cause-effect relationship to one another and she noted that he still had delusions regarding events that happened years ago. She continued to reiterate that she could not make an opinion regarding the cause of the appellant's psychotic illness or if his military service contributed to or aggravated the psychotic symptoms. In April 2006, Dr. S.J. reevaluated the appellant and diagnosed adjustment disorder, not otherwise specified, and noted schizophrenia by history. No opinion as to etiology was offered. Overall, Dr. S.J. has not linked any current psychiatric disorder to service; thus, these records do not represent evidence in favor of the claim. \r\n\r\nIn an April 2005 statement, one of the appellant's former coworkers, a nurse, relayed during the early 1990s the appellant showed signs of being paranoid and had mood swings. This statement is consistent with other evidence of record.\r\n\r\nThe appellant was provided a VA examination in April 2005. The examiner noted that the appellant was a poor historian, and that his responses to questions were vague. The appellant stated that his problems began in 1987 when \"I was at home one day I walked outside in the yard and something hit me a presence around me.\" Since that time, he felt that everything in his life was turned around or going in reverse until 1997. The examiner diagnosed chronic paranoid type schizophrenia. The examiner noted that the perceptual experience in 1987 that the appellant described may have been a prodrome of schizophrenia; however, he did not seek any medical attention and there is no formal documentation about what was going on. Based on the evidence of record, the examiner concluded that the appellant's schizophrenia first began when it was psychiatrically diagnosed in 1994. This opinion is considered probative as the examiner reviewed the claims folder, considered relevant history and records, and provided sufficient rationale. \r\n\r\nIn November 2015, the appellant underwent an independent medical evaluation at a private neuropsychiatric clinic. The physician, Dr. M.M., indicated that he met with the appellant and reported reviewing the claimant's medical records and military personnel file. The physician noted that there was no documented history of psychiatric illness or treatment at the time of the appellant's enlistment examination on June 29, 1987. The appellant provided information concerning the year 1987 and reported that the day before leaving for a period of training he had an experience and from that time forth it felt like everything that happened to him was backwards. The examiner stated that \"[t]his experience of things being 'backwards' was systemized, prevalent and continuous and constituted delusional thinking on the part of [the appellant] in a way that was bizarre and falls under the diagnostic criteria required for diagnosing 'Schizophrenia'.\" Dr. M.M. stated that, \"[i]nexplicably, this experience of 'everything was backward' seemed to end around 1997.\"\r\n\r\nRegarding unauthorized absences from drills, the appellant explained that he presented for the training drills but was not able to sign in because he did not have a swipe card. The physician noted that while the appellant might not have made any complaint about psychiatric symptoms during Reserve service in no way establishes that he was not experiencing symptoms. The physician further noted that longitudinally speaking, the appellant was able to successfully enlist into the National Guard and then in the Army Reserve. Subsequent to his enlistment in the Reserve, he developed symptoms and manifested a behavior disturbance consistent with schizophrenia. The physician set forth a detailed mental status examination indicating that the appellant was presently delusional. The physician proceeded to answer specific questions. \r\n\r\nFirst, he opined that the appellant's current psychiatric illness was schizophrenia and that it first manifested while he was in the Army Reserve. Second, he opined that the appellant's behavior disturbance that resulted in him being absent without leave developed and occurred after he successfully enlisted in the Reserve and in his opinion, and within a reasonable degree of medical probability, was due to schizophrenia, the onset of which occurred during his period of enlistment in the Army Reserve. More likely than not the absence without leave marked the first manifestation of symptoms of his current schizophrenia. \r\n\r\nAs set forth, this evaluation indicates that the appellant's schizophrenia manifested sometime during his period of service in the Army Reserve (October 1987 to June 1993). More specifically, the physician indicated the periods of absence without leave marked the first manifestations of symptoms. The physician interviewed the appellant and reviewed relevant records and the opinion is considered probative. \r\n\r\nThe Board acknowledges that on its face, this report appears to support the appellant's claim. As discussed above, however, the appellant was in the Army Reserve and was not serving on active duty. Even assuming the condition first manifested during the missed drills in 1990, the appellant was clearly absence without leave at that time and thus, not in either a period of active duty for training or inactive duty for training. This report does not serve to establish entitlement to service connection. \r\n\r\nTo the extent the appellant asserts that he was actually present for the drills in question, the Board does not find his statements credible. That is, Dr. M.M. suggested this was part of his delusional thinking. Further, the official military records documenting the unexcused absences are considered far more probative than the appellant's statements in this regard.\r\n\r\nTo the extent the appellant may be alleging that a psychiatric disorder started while he was not on duty but was subsequently aggravated by military duty, the Board notes that where there is a claim based on a period of active duty for training or inactive duty for training, the presumption of aggravation is not applicable. See Smith v. Shinseki, 24 Vet. App. 40, 48 n. 7 (2010). As noted above, service records show no treatment for a psychiatric disorder and the appellant himself has denied seeking treatment for a psychiatric disorder during service. Thus, service connection on the basis of aggravation must be denied. \r\n\r\nThe Board also recognizes that where an appellant served continuously for 90 days or more during a period of war, or during peacetime service after December 31, 1946, and a psychosis becomes manifest to a degree of 10 percent within one year from the date of termination of such service, such disease shall be presumed to have been incurred or aggravated in service, even though there is no evidence of such disease during the period of service. 38 U.S.C.A. §§ 1101, 1131, 1133; 38 C.F.R. §§ 3.307, 3.309. In this case, the appellant's only period of service lasting 90 days or more ended in April 1985. There is no medical evidence reflecting that any psychosis was compensably disabling within one year of April 1985. Indeed, the appellant's own statements put the onset of symptoms in 1987, well outside the one year period. It is also well to note that presumptive periods do not apply to periods of active duty for training and inactive duty for training. See Biggins v. Derwinski, 1 Vet. App. 474 (1991). A psychiatric disorder cannot be presumed incurred during the appellant's service. \r\n\r\nThe Board is cognizant that the criteria for establishing service connection for posttraumatic stress disorder are different from those for establishing service connection for other psychiatric disorders. See 38 C.F.R. § 3.304(f). In his May 2011 stressor statement, the appellant reported an incident occurring on January 15, 1989 at his house. He described the incident as when he realized that he needed to do things in reverse order. In this case, however, the appellant has not been diagnosed with posttraumatic stress disorder and has not clearly articulated an in-service stressor that could have caused posttraumatic stress disorder. Further, as the appellant did not serve in combat any stressor must be verified, and here there is no evidence that independently corroborates any claimed stressor. Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996). Entitlement to service connection for posttraumatic stress disorder is not warranted. \r\n\r\nIn sum, the most probative evidence preponderates against finding that the appellant's psychiatric disorder had its onset during a period of active duty for training or inactive duty for training and as no psychiatric disorder is otherwise related to any such period of service, the claim is denied.\r\n\r\nIn reaching this decision the Board considered the doctrine of reasonable doubt, however, as the preponderance of the evidence is against the appellant's claim, the doctrine is not for application. Gilbert v. Derwinski, 1 Vet.App. 49 (1990).\r\n\r\n\r\n\r\nORDER\r\n\r\nEntitlement to service connection for an acquired psychiatric disorder, to include paranoid schizophrenia, PTSD, and chronic depression, is denied. \r\n\r\n\r\n\r\n_____________________________\r\nDEREK R. BROWN\r\nVeterans Law Judge\r\nBoard of Veterans' Appeals\r\n_____________________________\r\nJOHN Z. JONES\r\nVeterans Law Judge\r\nBoard of Veterans' Appeals\r\n\r\n\r\n\r\n_______________________________________\r\nCHERYL L. MASON\r\n\tVeterans Law Judge\r\nBoard of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1719263",
+        "decisionDate": "2017-05-15T00:00:00",
+        "archiveDate": "2017-06-06T00:00:00",
+        "docketNumber": "00-16 910",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Jackson, Mississippi",
+        "judge": "DEREK R. BROWN",
+        "fileName": "BVA1719263.txt",
+        "processDate": "2019-01-20T14:43:15.7895627-08:00"
+    }
+}

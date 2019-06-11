@@ -1,0 +1,630 @@
+{
+    "docID": "1720286",
+    "sentences": [
+        {
+            "sentID": "1720286P1S1,",
+            "text": "Citation Nr: 1720286",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P21S1",
+            "text": "FINDINGS OF FACT",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P22S1",
+            "text": "1.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P22S2",
+            "text": "The Veteran has current acquired psychiatric disabilities of PTSD and major depressive disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P23S1",
+            "text": "2.",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P23S2",
+            "text": "The Veteran's acquired psychiatric disability, which preexisted service, worsened beyond normal progression during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P26S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSION",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P30S1",
+            "text": "Service Connection Legal Authority",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S1",
+            "text": "Under the relevant laws and regulations, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S2",
+            "text": "38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S3",
+            "text": "As a general matter, service connection may be established for any disease diagnosed after discharge when the evidence establishes that the disease was incurred in service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S4",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S5",
+            "text": "This has been interpreted as a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P31S6",
+            "text": "See Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P32S1",
+            "text": "A veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service except as to defects, infirmities, or disorders noted at the time of examination, acceptance, enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P32S2",
+            "text": "38 U.S.C.A. § 1111 (West 2014); 38 C.F.R. § 3.304 (2016).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S1",
+            "text": "A preexisting injury or disease will be considered to have been aggravated by active service where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S2",
+            "text": "38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S3",
+            "text": "Clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation where the preservice disability underwent an increase in severity during service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S4",
+            "text": "38 C.F.R. § 3.306.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S5",
+            "text": "Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P33S6",
+            "text": "38 C.F.R. § 3.306.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P35S1",
+            "text": "In explaining the meaning of an increase in disability, the United States Court of Appeals for Veterans Claims (Court) has held that \"temporary or intermittent flare-ups during service of a preexisting injury or disease are not sufficient to be considered 'aggravation in service' unless the underlying condition, as contrasted to symptoms, is worsened.\"",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P35S2",
+            "text": "Hunt v. Derwinski, 1 Vet. App. 292, 297 (1992); see also Davis v. Principi, 276 F.3d 1341, 1346 (Fed. Cir. 2002) (explaining that, for non-combat veterans, a temporary worsening of symptoms due to flare ups is not evidence of an increase in disability).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P35S3",
+            "text": "However, the increase need not be so severe as to warrant compensation. ",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P35S4",
+            "text": "Browder v. Derwinski, 1 Vet. App. 204, 207 (1991).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P36S1",
+            "text": "Of note is that the burdens and evidentiary standard to determine whether conditions noted at entrance into service were aggravated by service are different than the burdens and evidentiary standard to determine whether conditions not noted at entrance into service were aggravated.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P36S2",
+            "text": "If a preexisting condition noted at entrance into service is not shown to have as likely as not increased in severity during service, the analysis stops.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P36S3",
+            "text": "Only if such condition is shown by an as likely as not standard to have increased in severity during service does the analysis continue.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P36S4",
+            "text": "In such cases, the increase is presumed to have been due to service unless there is clear and unmistakable evidence that the increase during service was not beyond the natural progression of the condition.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P36S5",
+            "text": "See 38 C.F.R. § 3.306.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P37S1",
+            "text": "Lay assertions may serve to support a claim for service connection by establishing the occurrence of observable events or the presence of disability or symptoms of disability subject to lay observation.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P37S2",
+            "text": "See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006) (addressing lay evidence as potentially competent to support presence of disability even where not corroborated by contemporaneous medical evidence).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P37S3",
+            "text": "The Federal Circuit has clarified that lay evidence can be competent and sufficient to establish a diagnosis or etiology when (1) a lay person is competent to identify a medical condition; (2) the lay person is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P37S4",
+            "text": "Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau, 492 F.3d 1372.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P38S1",
+            "text": "The Board has reviewed all the evidence in the record.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P38S2",
+            "text": "Although the Board has an obligation to provide adequate reasons and bases supporting this decision, there is no requirement that the evidence submitted by the appellant or obtained on his or her behalf be discussed in detail.",
+            "rhetRole": [
+                "LegalRuleSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P38S3",
+            "text": "Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P38S4",
+            "text": "See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) and Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000).",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P39S1",
+            "text": "Service Connection for an Acquired Psychiatric Disorder",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P40S1",
+            "text": "The Veteran contends that service connection is warranted because an acquired psychiatric disorder is related to service. ",
+            "rhetRole": [
+                "Sentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P40S2",
+            "text": "Specifically, the Veteran asserted that he was in Operation Desert Storm where he encountered dead and charred bodies of Iraqi troops near the border between Iraq and Kuwait, which caused him to be depressed.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P40S3",
+            "text": "See, e.g., January 2016 Board hearing transcript.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P40S4",
+            "text": "The Veteran stated that he was in Desert Storm from December 1990 to May 1991.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P41S1",
+            "text": "The Board finds that the Veteran has a current acquired psychiatric disability.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P41S2",
+            "text": "The March 2009 VA examination report shows a diagnosis of major depressive disorder, and the January 2013 VA examination report shows a diagnosis of PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S1",
+            "text": "After a review of all the evidence, both lay and medical, the Board finds that the evidence is in relative equipoise on the question of whether the acquired psychiatric disability, which preexisted service, was aggravated by active service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S2",
+            "text": "The January 2013 VA examiner opined that the Veteran clearly and unmistakably had PTSD prior to military service, and that PTSD was permanently aggravated by military service as evidence by the increase and/or change in some of his current PTSD symptoms.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S3",
+            "text": "The January 2013 VA examiner explained that aggravation consists of symptoms, such as nightmares about military experiences and increase in hypervigilance as evidenced by checking the perimeter at home and being wary of people at restaurants.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S4",
+            "text": "The January 2013 VA examiner noted that depression was a symptom of the PTSD.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S5",
+            "text": "In an April 2013 addendum opinion, the VA examiner indicated that she could not verify the claimed stressors by reviewing the information provided in the claims file; however, service personnel records confirm service in Southwest Asia during Desert storm.",
+            "rhetRole": [
+                "EvidenceSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P42S6",
+            "text": "Resolving reasonable doubt in the Veteran's favor on the question of aggravation by service, the Board finds that the acquired psychiatric disability worsened during service.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P43S1",
+            "text": "Because the evidence shows worsening occurred during service, and there is no specific finding that the increase in disability is due to the natural progress of the disease, clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation.",
+            "rhetRole": [
+                "ReasoningSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P43S2",
+            "text": "38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner, 370 F.3d at 1096.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P43S3",
+            "text": "The Board finds that the evidence in this case is not clear and unmistakable to show that aggravation of the pre-existing acquired psychiatric disability did not occur in service; therefore, the Board finds that the preexisting acquired psychiatric disability was aggravated by service, that is, that the acquiredpsychiatric disability worsened beyond its normal progression during service to warrant service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder.",
+            "rhetRole": [
+                "FindingSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        },
+        {
+            "sentID": "1720286P43S4",
+            "text": "38 U.S.C.A. § 1153; 38 C.F.R. § 3.306.",
+            "rhetRole": [
+                "CitationSentence"
+            ],
+            "ruleCondition": "ADD",
+            "nlpOutput": {}
+        }
+    ],
+    "ruleTree": {
+        "name": "The veteran has a disability that is service-connected.",
+        "truthValue": "",
+        "children": [{
+            "name": "The veteran has a present disability.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        },
+        {
+            "name": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": [{
+                "name": "The veteran suffered an in-service incurrence of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [{
+                    "name": "The veteran suffered an injury or contracted a disease during active military service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": ""
+                    }
+                },
+                {
+                    "name": "The injury or disease did not preexist entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                            "name": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                            "inferenceRelation": "REBUT",
+                            "truthValue": ""
+                        }            
+                    }
+                }]        
+                },
+                {
+                "name": "The veteran suffered an in-service aggravation of a disease or injury.",
+                "siblingRelation": "OR",
+                "siblingCount": 2,
+                "inferenceRelation": "OR",
+                "truthValue": "",
+                "children": [
+                    {
+                    "name": "The injury or disease preexisted entry into service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": ""
+                    },
+                    {
+                    "name": "There was an aggravation during service.",
+                    "siblingRelation": "AND",
+                    "siblingCount": 2,
+                    "inferenceRelation": "AND",
+                    "truthValue": "",
+                    "children": {
+                        "name": "The presumption of aggravation has been satisfied.",
+                        "inferenceRelation": "IMP",
+                        "truthValue": "",
+                        "children": {
+                                "name": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                "inferenceRelation": "REBUT",
+                                "truthValue": ""
+                        }
+                    }
+                }]        
+                },
+                {
+                "name": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                "siblingRelation": "",
+                "siblingCount": 0,
+                "inferenceRelation": "REBUT",
+                "truthValue": ""
+            }]
+        },
+        {
+            "name": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+            "siblingRelation": "AND",
+            "siblingCount": 3,
+            "inferenceRelation": "AND",
+            "truthValue": "",
+            "children": {
+                "name": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                "inferenceRelation": "IMP",
+                "truthValue": ""
+            }
+        }]
+    },
+    "text": "Citation Nr: 1720286\t\r\nDecision Date: 06/07/17 Archive Date: 06/21/17\r\n\r\nDOCKET NO. 13-05 153\t)\tDATE\r\n\t)\r\n\t)\r\n\r\nOn appeal from the\r\nDepartment of Veterans Affairs Regional Office in Seattle, Washington\r\n\r\n\r\nTHE ISSUE\r\n\r\nService connection for an acquired psychiatric disorder, to include major depressive disorder and posttraumatic stress disorder (PTSD). \r\n\r\n\r\nREPRESENTATION\r\n\r\nAppellant represented by:\tDennis W. Mills, Agent\r\n\r\n\r\nWITNESS AT HEARING ON APPEAL\r\n\r\nThe Veteran (Appellant)\r\n\r\n\r\nATTORNEY FOR THE BOARD\r\n\r\nJ. Ragheb, Associate Counsel\r\n\r\n\r\nINTRODUCTION\r\n\r\nThe Veteran, who is the appellant, served on active duty from August 1988 to August 1992, from October 1994 to March 1995, from February 2004 to September 2004, from December 2004 to May 2005, and from May 2005 to September 2006. \r\n\r\nThis case comes before the Board of Veterans' Appeals (Board) on appeal from an April 2009 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Seattle, Washington.\r\n\r\nIn January 2016, the Veteran testified at a videoconference Board hearing before the undersigned Veterans Law Judge (VLJ). The hearing transcript has been associated with the claims file. \r\n\r\nThe Board notes that a January 1994 rating decision denied service connection for anxiety and nervousness. The Veteran's current claim for an acquired psychiatric disorder is based on new diagnoses of PTSD and depression; therefore, the current claim for an acquired psychiatric disorder, to include PTSD and depression, is a new claim and not a reopening of service connection for anxiety and nervousness, which was denied in the January 1994 rating decision. See Ephraim v. Brown, \r\n82 F.3d 399 (Fed. Cir. 1996) (holding that a claim based on a new diagnosis is a new claim); Boggs v. Peake, 520 F.3d 1330 (Fed. Cir. 2008) (holding that a claim for one diagnosed disease or injury cannot be prejudiced by a prior claim for a different diagnosed disease or injury, when it is an independent claim based on distinct factual bases).\r\n\r\nIn March 2016, the Board remanded the issue on appeal to the Agency of Original Jurisdiction (AOJ) in order to verify the Veteran's service in Southwest Asia during Operation Desert Storm. Because the above-referenced development has been completed, the Board finds that the AOJ substantially complied with the March 2016 Board remand directives. See Dyment v. West, 13 Vet. App. 141, 146-47 \r\n\r\n(1999) (remand not required under Stegall v. West, 11 Vet. App. 268 (1998), where the Board's remand instructions were substantially complied with), aff'd, Dyment v. Principi, 287 F.3d 1377 (Fed. Cir. 2002). \r\n\r\n\r\nFINDINGS OF FACT\r\n\r\n1. The Veteran has current acquired psychiatric disabilities of PTSD and major depressive disorder. \r\n\r\n2. The Veteran's acquired psychiatric disability, which preexisted service, worsened beyond normal progression during service.\r\n\r\n\r\nCONCLUSION OF LAW\r\n\r\nResolving reasonable doubt in the Veteran's favor, the criteria for service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder, have been met. 38 U.S.C.A. §§ 1110, 1131, 1153, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.306 (2016).\r\n\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSION\r\n\r\nDuties to Notify and Assist\r\n\r\nThe Veterans Claims Assistance Act of 2000 (VCAA) enhanced VA's duties to notify and assist claimants in substantiating their claims for VA benefits. \r\n38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2014); 38 C.F.R. \r\n§§ 3.102, 3.156(a), 3.159, 3.326(a) (2016). Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and the representative of any information, and any medical or lay evidence, that is necessary to substantiate the claim. 38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b). In this case, the Board is granting service connection an acquired psychiatric disability, which constitutes a full grant of the benefit sought on appeal with respect to this claim. As there remains no aspect of this claim to be further substantiated, there is no further VCAA duty to notify or assist, or to explain compliance with VCAA duties to notify and assist. See Bernard v. Brown, 4 Vet. App. 384, 394 (1993).\r\n\r\nService Connection Legal Authority\r\n\r\nUnder the relevant laws and regulations, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service. 38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a). As a general matter, service connection may be established for any disease diagnosed after discharge when the evidence establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). This has been interpreted as a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service. See Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009).\r\n\r\nA veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service except as to defects, infirmities, or disorders noted at the time of examination, acceptance, enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service. 38 U.S.C.A. § 1111 (West 2014); 38 C.F.R. § 3.304 (2016).\r\n\r\nA preexisting injury or disease will be considered to have been aggravated by active service where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease. 38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004). Clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation where the preservice disability underwent an increase in severity during service. 38 C.F.R. § 3.306. Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service. \r\n38 C.F.R. § 3.306. \r\n\r\nIn explaining the meaning of an increase in disability, the United States Court of Appeals for Veterans Claims (Court) has held that \"temporary or intermittent flare-ups during service of a preexisting injury or disease are not sufficient to be considered 'aggravation in service' unless the underlying condition, as contrasted to symptoms, is worsened.\" Hunt v. Derwinski, 1 Vet. App. 292, 297 (1992); see also Davis v. Principi, 276 F.3d 1341, 1346 (Fed. Cir. 2002) (explaining that, for non-combat veterans, a temporary worsening of symptoms due to flare ups is not evidence of an increase in disability). However, the increase need not be so severe as to warrant compensation. Browder v. Derwinski, 1 Vet. App. 204, 207 (1991).\r\n\r\nOf note is that the burdens and evidentiary standard to determine whether conditions noted at entrance into service were aggravated by service are different than the burdens and evidentiary standard to determine whether conditions not noted at entrance into service were aggravated. If a preexisting condition noted at entrance into service is not shown to have as likely as not increased in severity during service, the analysis stops. Only if such condition is shown by an as likely as not standard to have increased in severity during service does the analysis continue. In such cases, the increase is presumed to have been due to service unless there is clear and unmistakable evidence that the increase during service was not beyond the natural progression of the condition. See 38 C.F.R. § 3.306.\r\n\r\nLay assertions may serve to support a claim for service connection by establishing the occurrence of observable events or the presence of disability or symptoms of disability subject to lay observation. See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006) (addressing lay evidence as potentially competent to support presence of disability even where not corroborated by contemporaneous medical evidence). The Federal Circuit has clarified that lay evidence can be competent and sufficient to establish a diagnosis or etiology when (1) a lay person is competent to identify a medical condition; (2) the lay person is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional. Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau, 492 F.3d 1372.\r\n\r\nThe Board has reviewed all the evidence in the record. Although the Board has an obligation to provide adequate reasons and bases supporting this decision, there is no requirement that the evidence submitted by the appellant or obtained on his or her behalf be discussed in detail. Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim. See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) and Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000).\r\n\r\nService Connection for an Acquired Psychiatric Disorder\r\n\r\nThe Veteran contends that service connection is warranted because an acquired psychiatric disorder is related to service. Specifically, the Veteran asserted that he was in Operation Desert Storm where he encountered dead and charred bodies of Iraqi troops near the border between Iraq and Kuwait, which caused him to be depressed. See, e.g., January 2016 Board hearing transcript. The Veteran stated that he was in Desert Storm from December 1990 to May 1991. \r\n\r\nThe Board finds that the Veteran has a current acquired psychiatric disability. The March 2009 VA examination report shows a diagnosis of major depressive disorder, and the January 2013 VA examination report shows a diagnosis of PTSD. \r\n\r\nAfter a review of all the evidence, both lay and medical, the Board finds that the evidence is in relative equipoise on the question of whether the acquired psychiatric disability, which preexisted service, was aggravated by active service. The January 2013 VA examiner opined that the Veteran clearly and unmistakably had PTSD prior to military service, and that PTSD was permanently aggravated by military service as evidence by the increase and/or change in some of his current PTSD symptoms. The January 2013 VA examiner explained that aggravation consists of symptoms, such as nightmares about military experiences and increase in hypervigilance as evidenced by checking the perimeter at home and being wary of people at restaurants. The January 2013 VA examiner noted that depression was a symptom of the PTSD. In an April 2013 addendum opinion, the VA examiner indicated that she could not verify the claimed stressors by reviewing the information provided in the claims file; however, service personnel records confirm service in Southwest Asia during Desert storm. Resolving reasonable doubt in the Veteran's favor on the question of aggravation by service, the Board finds that the acquired psychiatric disability worsened during service.\r\n\r\nBecause the evidence shows worsening occurred during service, and there is no specific finding that the increase in disability is due to the natural progress of the disease, clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation. 38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner, 370 F.3d at 1096. The Board finds that the evidence in this case is not clear and unmistakable to show that aggravation of the pre-existing acquired psychiatric disability did not occur in service; therefore, the Board finds that the preexisting acquired psychiatric disability was aggravated by service, that is, that the acquired\r\npsychiatric disability worsened beyond its normal progression during service to warrant service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder. 38 U.S.C.A. § 1153; 38 C.F.R. § 3.306.\r\n\r\n\r\nORDER\r\n\r\nService connection for an acquired psychiatric disability, to include PTSD and major depressive disorder, is granted.\r\n\r\n\r\n\r\n\r\n____________________________________________\r\nJ. PARKER\r\nVeterans Law Judge, Board of Veterans' Appeals\r\n\r\n\r\n\r\nDepartment of Veterans Affairs",
+    "metadm": {
+        "citationNr": "1720286",
+        "decisionDate": "2017-06-07T00:00:00",
+        "archiveDate": "2017-06-21T00:00:00",
+        "docketNumber": "13-05 153",
+        "regionalOffice": "Department of Veterans Affairs Regional Office in Seattle, Washington",
+        "judge": "J. PARKER",
+        "fileName": "BVA1720286.txt",
+        "processDate": "2019-01-20T14:43:21.0418957-08:00"
+    }
+}
