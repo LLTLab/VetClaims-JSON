@@ -1,7 +1,9 @@
 # VetClaims-JSON
-This repository contains analyzed disability-claim decisions issued by the Board of Veterans' Appeals ("BVA") of the U.S. Department of Veterans Affairs. These <b>analyzed decisions</b> are referred to as decision models, and they are contained in a JSON format. The analysis consists of classifying sentences in those decisions according to their rhetorical role (see explanation below). These decisions are <b>found in the repo branch "BVA-Decisions-JSON-Format"</b>.
+This repository contains analyzed disability-claim decisions issued by the Board of Veterans' Appeals ("BVA") of the U.S. Department of Veterans Affairs. These <b>analyzed decisions</b> are referred to as decision models, and they are contained in a JSON format. The analysis consists of classifying sentences in those decisions according to their rhetorical role (see explanation below). These decisions are <b>found in the folder "BVA Decisions JSON Format"</b>.
 
 Also in this repo is <b>a folder containing the protocols</b> (guidelines, criteria) for classifying a sentence as being of a particular semantic type (rhetorical role).
+
+If you find an error in either a JSON file or a protocol, please let us know at <LLTLab@Hofstra.edu>.
 
 Finally, there is a folder containing <b>the scripts and ML settings</b> for experiments reported in the paper: Vern R. Walker, Krishnan Pillaipakkamnatt, Alexandra M. Davidson, Marysa Linares and Domenick J. Pesce. 2019. "Automatic Classification of Rhetorical Roles for Sentences: Comparing Rule-Based Scripts with Machine Learning." In <i>Proceedings of the Third Workshop on Automated Semantic Analysis of Information in Legal Text (ASAIL 2019)</i>, Montreal, QC, Canada, 10 pages.
 
