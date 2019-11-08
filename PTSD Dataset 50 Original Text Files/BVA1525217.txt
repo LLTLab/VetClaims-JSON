@@ -1,0 +1,165 @@
+Citation Nr: 1525217	
+Decision Date: 06/12/15    Archive Date: 06/19/15
+
+DOCKET NO.  13-30 391	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Waco, Texas
+
+
+THE ISSUES
+
+Entitlement to service connection for a psychiatric condition, to include posttraumatic stress disorder (PTSD).  
+
+
+REPRESENTATION
+
+Appellant represented by:	Disabled American Veterans
+
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+C. Bosely, Counsel
+
+
+INTRODUCTION
+
+The Veteran had active service from May 1981 to May 1985. 
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2010 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In July 2011, the Veteran testified before a Decision Review Officer of the RO.  A transcript of that hearing is associated with the file.  In January 2014, the Veteran withdrew his prior request for a Board hearing.  He confirmed this withdrawal in September 2014 and again in January 2015.  
+
+Beginning from the July 2011 hearing, the Veteran expressed his desire to expand the scope of the claim to include all psychiatric conditions, not limited to PTSD.  The Board has recharacterized the issues accordingly.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009).  
+
+
+FINDINGS OF FACT
+
+1.  A psychiatric condition was not noted at the Veteran's entrance into service, and clear and unmistakable evidence does not show a psychiatric condition existed prior to service and was not aggravated therein.  
+
+2.  A current psychiatric condition, variously diagnosed as schizoaffective disorder, bipolar disorder, and PTSD, is shown as likely as not to have been manifested during service when the Veteran was treated for depression in December 1983.  
+
+
+
+
+
+CONCLUSION OF LAW
+
+The criteria to establish service connection for a psychiatric disability variously diagnosed as schizoaffective disorder, bipolar disorder, and PTSD, are met.  38 U.S.C.A. §§ 1110, 1131 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.304, 3.306 (2014).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Veteran is seeking service connection for a psychiatric condition, including, but not limited to, PTSD.  
+
+A.  Applicable Law
+
+Service connection may be granted for a disability resulting from disease or injury incurred coincident with or aggravated by service.  38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303.  Service connection generally requires evidence satisfying three criteria: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship ('nexus') between the present disability and the disease or injury incurred or aggravated during service.  See Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Hickson v. West, 12 Vet .App. 247, 253 (1999).
+
+Certain chronic diseases, which are listed in 38 C.F.R. § 3.309(a), includes psychoses, may be presumed to have been incurred during service if manifested to a compensable degree within one year of separation from active service.  38 U.S.C.A. §§ 1112, 1113, 1137; 38 C.F.R. §§ 3.307, 3.309.  Moreover, if a disease listed in 38 C.F.R. § 3.309(a) is shown to be chronic in service, subsequent manifestations of the same chronic disease at any later date, however remote, are service connected, unless clearly attributable to intercurrent causes.  38 C.F.R. § 3.303(b).  For the showing of chronic disease in service, there is required a combination of manifestations sufficient to identify the disease entity and sufficient observation to establish chronicity at the time.  Id.  However, if evidence of a chronic condition is noted during service or during the presumptive period, but the chronic condition is not "shown to be chronic, or where the diagnosis of chronicity may be legitimately questioned," i.e., "when the fact of chronicity in service is not adequately supported," then a showing of continuity of symptomatology after discharge is required to support a claim for disability compensation for the chronic disease.  Walker v. Shinseki, 708 F.3d 1331, 1333 (Fed. Cir. 2013) (quoting 38 C.F.R. § 3.303(b)).  A claimant "can benefit from continuity of symptomatology to establish service connection in the ultimate sense, but only if [the] chronic disease is one listed in § 3.309(a)."  Walker, 708 F.3d at 1337.
+
+Service connection may otherwise be granted for any disease diagnosed after discharge when all of the evidence establishes that the disease was incurred in service.  38 C.F.R. § 3.303(a).
+
+The Board must analyze the credibility and probative value of the evidence, account for the evidence that it finds persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the claimant.  Kahana v. Shinseki, 24 Vet. App. 428, 433 (2011).
+
+This includes weighing the credibility and probative value of lay evidence against the remaining evidence of record.  See King v. Shinseki, 700 F.3d 1339 (Fed. Cir. 2012); Kahana, 24 Vet. App. at 433-34.  Lay evidence may be competent and sufficient evidence of a diagnosis or nexus if (1) the particular condition at issue is the type of condition that is within the competence or common knowledge of a layperson, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  See Davidson, 581 F.3d at 1316; Jandreau v. Nicholson, 492 F.3d 1372, 1376-77 (Fed. Cir. 2007); see also Kahana, 24 Vet. App. at 433, n.4.  The Board must determine on a case-by-case basis whether a particular condition is the type of condition that is within the competence of a lay person.  See Fountain v. McDonald, 27 Vet. App. 258, 274-75 (2015); see also Jandreau, 492 F.3d 1376-77.
+
+A Veteran bears the evidentiary burden to establish all elements of a service connection claim, including the nexus requirement.  Fagan v. Shinseki, 573 F.3d 1282, 1287-88 (2009); see also Walker v. Shinseki, 708 F.3d 1331, 1334 (Fed. Cir. 2013).  In making its ultimate determination, the Board must give a veteran the benefit of the doubt on any issue material to the claim when there is an approximate balance of positive and negative evidence.  Fagan, 573 F.3d at 1287 (quoting 38 U.S.C.A. § 5107(b)).
+
+B.  Discussion
+
+In the present case, the Board must find that the evidence of record is in relative equipoise in establishing that the Veteran's current psychiatric condition likely manifested during service.  The reasons are as follows.  
+
+1.  Existence of a Present Disability
+
+The Veteran has been diagnosed with multiple psychiatric disorders.  Most recently, a VA clinical psychologist made a diagnosis in June 2011 of "schizoaffective and PTSD features (Childhood and MST)."  The diagnosis of schizoaffective disorder was confirmed on VA examination in July 2010.  A private psychological evaluation in December 2002 resulted in a diagnosis of bipolar disorder.  Other diagnoses include Bipolar II disorder, Recurrent; PTSD; Borderline Personality disorder (September 2001) and depressive disorder, NOS; impulse control disorder, NOD; rule out borderline and histrionic personality disorder (July 2001).  
+
+(The Board notes that personality disorders are not diseases or injuries within the meaning of applicable legislation and, therefore, cannot themselves be service-connected.  See 38 C.F.R. § 3.303(c); O'Bryan v. McDonald, 771 F.3d 1376 (Fed. Cir. 2014).  They are listed here for sake of completeness.)  
+
+A diagnosis of PTSD was made during the September 2001 and December 2002 evaluations.  The diagnosis of "PTSD features" was made more recently at VA in June 2011.  For purposes of this appeal, there is no compelling indication that the earlier diagnoses of PTSD were incorrect or that the Veteran's PTSD had resolved by the time he filed his claim in September 2009.  See Romanowsky v. Shinseki, 26 Vet. App. 289 (2013); Cohen v. Brown, 10 Vet. App. 128, 153 (1997).  
+
+As such, the first requirement to establish service connection, evidence of a current disability, has been met as to this claim.  See Walker, 708 F.3d at 1337.
+
+2.  In-Service Incurrence of Injury or Disease
+
+Next, the evidence of record makes at least equally likely that the Veteran manifested symptoms of his condition during service.  His service treatment records (STRs) affirmatively show treatment in December 1983 for "[m]ild depression" associated with his expectation that his father would "die [at] any time [and he] worries about this."  
+
+The Veteran has also alleged MST during service.  The RO determined in an October 2010 statement of the case (SOC) that the Veteran likely experienced MST, as he claimed.  The RO's finding does not follow from the evidence it cited, and its finding is not a binding determination at this point in time.  See Anderson v. Shinseki, 22 Vet. App. 423, 428 (2009).  The RO based its finding on an entry in the STRs showing that the Veteran received treatment at Fort Hood, Texas, in May 1985 for lesions on the penis with last sexual contact one week prior.  The Board notes that this treatment was received two years after the last claimed trauma (the second of two), which the Veteran states occurred in 1983.  Thus, this treatment could not possibly have been for the alleged 1983 trauma, which would have occurred outside the one-week window identified in the treatment record.  Also, the treatment occurred in Texas, rather than Germany, and he had transferred out of Germany in August 1983, which would again place it outside of the one-week timeframe.    
+
+Nonetheless, the December 1983 treatment for depression establishes (a) treatment for a mental health condition during service (depression), and (b) a stressful event (the impending death of his father).
+
+There is some indication in the evidence that the Veteran's psychiatric condition  may have manifested prior to service.  As best summarized by a VA examiner in September 2011, the Veteran has reported at various times that he experienced traumatic events as a child.  
+
+For purposes of this appeal, a mental health condition was not "noted" at service entrance.  On physical examination at entrance in May 1981, a psychiatric evaluation was "normal," and no psychiatric abnormality is otherwise noted on the Report of Medical History or Report of Medical examination.  It was noted that the Veteran affirmatively "denies history of drug and alcohol abuse[.]"  
+
+A veteran is presumed to have been sound upon entry into the military, except as to conditions noted at the time of the acceptance, examination, or enrollment, or where clear and unmistakable evidence demonstrates that the condition existed before acceptance and enrollment and was not aggravated by such service.  38 U.S.C.A. § 1111 (West 2014); Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004).  The presumption of soundness applies only when a disease or injury not noted upon entry to service manifests in service, and a question arises as to whether it preexisted service.  Gilbert v. Shinseki, 26 Vet. App. 48, 55 (2012), aff'd 749 F.3d 1370 (Fed. Cir. 2014).
+
+Once the presumption of soundness applies, the burden of proof shifts to and remains with VA to prove both preexistence and the absence of aggravation by clear and unmistakable evidence.  Horn v. Shinseki, 25 Vet. App. 231 (2012).  A "claimant need not produce any evidence of aggravation in order to prevail under the aggravation prong," even if clear and unmistakable evidence establishes that a disease preexisted service.  Id.  In other words, the "burden is not on the claimant to show that his disability increased in severity."  Id.  To the contrary, the burden is on VA to "establish by clear and unmistakable evidence that [a preexisting disease] did not [increase in severity during service] or that any increase was due to the natural progress of the disease."  Id.  This burden must be met by "affirmative evidence" demonstrating that there was no aggravation.  Id.  The burden is not met by finding "that the record contains insufficient evidence of aggravation."  Id.  
+
+The presumption of soundness relates to the second requirement-the showing of in-service incurrence or aggravation of a disease or injury.  In order to invoke the presumption of soundness, a claimant must show that he or she suffered from a disease or injury while in service.  Thereafter, except for conditions noted at induction, the presumption of soundness ordinarily operates to satisfy the second service connection requirement without further proof.  Horn, 25 Vet. App. at 236.  
+
+If a veteran is presumed sound at service entrance, a disease or injury that manifested in service is deemed incurred in service if the Secretary is unable to rebut the presumption.  Gilbert, 26 Vet. App. at 53.
+
+In this case, the Veteran is entitled to the presumption of soundness because a psychiatric condition was not "noted" an service entrance.  See 38 U.S.C.A. § 1111; Horn, 25 Vet. App. 231. 
+
+There is not clear and unmistakable evidence establishing the preexistence of a psychiatric condition.  First, there is no contemporaneous evidence prior to service.  Second, there is only circumstantial evidence indicating a preexisting psychiatric condition.  For instance, the diagnosis of "PTSD features" made at VA in June 2011 includes a parenthetical indicating "(Childhood and MST)".  This would indicate that the Veteran's pre-service trauma contributed to the onset of psychiatric condition.  
+
+Moreover, a VA examiner reviewed the matter in July 2010 and again in September 2011.  This VA examiner marked the box in the Disabilities Benefits Questionnaire (DBQ) stating that "The claimed condition . . . clearly and unmistakably existed prior to service[.]"  In the Rationale section of the report, the VA examiner restated this opinion:  The [V]eteran's (PTSD . . . ) which existed prior to service... ."  These types of definitive statements could support a finding that the condition preexisted service.  
+
+However, the VA examiner's September 2011 opinion is quite equivocal when read in its entirety.  First, the VA examiner started off by reiterating prior evidence, which he found to undermine the Veteran's credibility as a historian (relating the fact of preexisting trauma).  Then, the examiner declared that "[a] mental disorder may have pre-existed military service."  (Emphasis added.)  Such an equivocal medical opinion, especially where it is based on the VA examiner's own assessment that the factual predicate was unreliable, does not meet VA's clear and unmistakable burden of proof.  See Cotant v. Principi, 17 Vet. App. 116, 131 (2003) (citing Harris, v. West, 11 Vet. App. 456, 462 (1998)); see also Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 302 (2008).  
+
+There is otherwise no clear and unmistakable evidence establishing a preexisting traumatic injury.
+
+There is also no clear and unmistakable evidence establishing that his psychiatric condition, if preexisting, was not aggravated during service.  Again here, the September 2011 VA examiner marked the box in the DBQ indicating that the condition "was clearly and unmistakably not aggravated" by service.  In his own words, the examiner restated this opinion as follows:  "The [V]eteran's (PTSD ...) ... was NOT aggravated beyond natural progression by the sexual assault and rape in service."  (Emphasis in original.)  The Board notes, as an initial matter, that this is a compound conclusion.  It could mean either (a) there was no aggravation by service and, therefore, no natural progression, or (b) that there was aggravation by service, but not one beyond the natural progression.  In either event, the VA went on to make remarks which undermine the conclusiveness of his opinion.  For instance, under bullet point number 4, he indicated that "[s]ubstance abuse may have been [an] aggravating factor."  When read most favorably for the Veteran, the examiner's statement tends to suggest that the examiner did find a degree of aggravation during service.  Also notable, the VA examiner stated in bullet number 5 that "[o]ther service record evidence tends to contraindicate a severe impairment at that time."  (The examiner had already stated his opinion that the Veteran "may have ... already experience severe childhood" trauma.)  This might indicate that the VA examiner found the preexisting diagnosis to have lessened in severity during service.  However, the examiner's use of the qualifiers "tends" and "contraindicate" suggest that this conclusion was not undebatable.  
+
+All of this evidence, including the VA examiner's conclusions, greatly increases the likelihood that a preexisting psychiatric condition was not aggravated by service.  However, this evidence does not make it clear and unmistakable.  Therefore, the presumption of soundness is not rebutted.  See 38 U.S.C.A. § 1111; Horn, 25 Vet. App. 231.
+
+Because the Veteran is presumed sound at service entrance, and because the presumption of soundness is not rebutted, the psychiatric condition that manifested in service is deemed service-incurred.  Gilbert, 26 Vet. App. at 53.
+
+3.  Nexus
+
+In light of the above two findings, the central question remaining in this case is whether the Veteran's current psychiatric condition is the same as that which was first manifested during service.
+
+Even if an injury or disease is deemed to have been incurred in service pursuant to application of the presumption of soundness (or to have been found to have been actually incurred in service), a veteran must nonetheless establish that a current disability is related to the in-service injury or disease.  Gilbert, 26 Vet. App. at 53-54 (citing Holton v. Shinseki, 557 F.3d 1362, 1367 (Fed. Cir. 2009)("The presumption of soundness ... does not relieve the veteran of the obligation to show the presence of a current disability and to demonstrate a nexus between that disability and the in-service injury or disease or aggravation thereof.")).  Stated differently, the evidence must show that a disease or injury, if not noted upon entry to service, manifested during or was incurred in service.  The presumption of soundness is not for application without a predicate finding that a pre-service disease or injury manifested or was incurred in service.  Id. at 52.  Consequently, there must be evidence that the disease or injury (not noted upon entry to service) manifested or was incurred in service.  Id. 
+
+On this question in the present case, the July 2010 VA examiner found that the depression during service was not "an early manifestation of his currently diagnosed schizoaffective disorder."  However, the VA examiner based this conclusion on a finding that the Veteran had "already experienced severe childhood" stressors and "was already manifesting alcohol dependence prior to the service and while in the service."  The VA examiner found that this alcohol dependence "could have just as likely been a contributing if not causative factor to any depressive or mental disorders at that time."  (The same VA examiner offered similar reasoning in the September 2011 examination report.)  
+
+It is implicit in the VA examiner's rationale that the Veteran's psychiatric symptomatology during service was a continuation of a preexisting mental health condition.  Otherwise, the rationale offered cannot be reconciled with the opinion given.  Thus, the VA examiner's opinion must be interpreted to mean that the in-service depression was a manifestation of the preexisting condition.  By operation of the presumption of soundness, as explained herein above, the Veteran's psychiatric symptoms, even if actually preexisting service, must be deemed to have been service-incurred.  See Gilbert, 26 Vet. App. at 53-54.  Therefore, this VA examiner's opinion is essentially positive nexus evidence.  
+
+There otherwise appears to be no material dispute that the Veteran's current psychiatric condition is a continuation of the symptoms deemed to have first manifested during service.  
+
+Accordingly, the evidence is in relative equipoise in making it likely that the Veteran's current mental health condition manifested during or was incurred in service.  See Gilbert, 26 Vet. App. at 52.
+
+For these reasons, after resolving all reasonable doubt in the Veteran's favor, the evidentiary record is in relative equipoise as to all material elements of the claim.  Therefore, service connection is warranted for a psychiatric disability, variously diagnosed as schizoaffective disorder, bipolar disorder, and PTSD, and the claim must be granted.  Because the benefits being sought on appeal are granted in full, the Board finds that any errors in VA's duties to notify and assist are harmless and will not be discussed.  See 38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.103, 3.159 (2013).
+
+
+
+
+ORDER
+
+Service connection a psychiatric disability, variously diagnosed as schizoaffective disorder, bipolar disorder, and PTSD, is granted.  
+
+
+
+
+______________________________________________
+MICHAEL E. KILCOYNE
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+
+
+
+
+
+Department of Veterans Affairs
+
+

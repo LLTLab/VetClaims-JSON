@@ -1,0 +1,110 @@
+Citation Nr: 1455570	
+Decision Date: 12/17/14    Archive Date: 12/24/14
+
+DOCKET NO.  12-28 467	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Louisville, Kentucky
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).  
+
+
+REPRESENTATION
+
+Veteran represented by:	Disabled American Veterans
+
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+John Francis, Counsel 
+
+INTRODUCTION
+
+The Veteran served on active duty from November 1963 to April 1969.  He is the recipient of numerous awards and decorations, to include the Combat Infantryman Badge and the Purple Heart with an Oak Leaf Cluster.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a February 2011 rating decision issued by the Department of Veterans Affairs (VA) Regional Office (RO) in Louisville, Kentucky, which denied service connection for PTSD.
+
+The record reflects that the Veteran has been diagnosed with major depressive disorder in addition to PTSD.  The United States Court of Appeals for Veterans Claims (Court) has held that the scope of a mental health disability claim includes any mental health disability that could reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.  Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009).  Therefore, the Board has recharacterized the Veteran's claim as shown on the first page of this decision as entitlement to service connection for an acquired psychiatric disorder, to include PTSD. 
+
+In September 2013, the Veteran testified at a Board hearing before the undersigned Veterans Law Judge sitting at the RO.  A transcript of the hearing is associated with the claims file.  At such time, the Veteran submitted additional evidence consisting of VA treatment records dated through May 2013 with a waiver of RO consideration.  38 C.F.R. § 20.1304(c) (2014).  Therefore, the Board may properly consider such newly received evidence.
+
+The Board notes that, in addition to the paper claims file, the Veteran also has electronic Virtual VA and Veteran Benefits Management System (VBMS) paperless claims files.  A review of the documents in Virtual VA reveals that, with the exception of a copy of the September 2013 Board hearing transcript and VA treatment records dated through November 2012, which were considered by the RO in the November 2012 supplemental statement of the case, they are either duplicative of the evidence in the paper claims file or are irrelevant to the issue on appeal.  Further, the Veteran's VBMS file does not contain any documents at this time.  
+
+
+FINDING OF FACT
+
+Resolving all doubt in his favor, the Veteran's current acquired psychiatric disorder, diagnosed as PTSD and major depressive disorder, is, at least in part, due to traumatic events during combat in Vietnam.  
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for PTSD and major depressive disorder are met.  38 U.S.C.A. §§ 1110, 1154, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.304, 4.125 (2014).  
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+As the Board's decision to grant service connection for PTSD and major depressive disorder is completely favorable, no further action is required to comply with the Veterans Claims Assistance Act of 2000 and implementing regulations.
+
+The Veteran served as a U.S. Army infantryman with combat service in the Republic of Vietnam.  He was awarded the Combat Infantryman Badge and the Purple Heart with an Oak Leaf Cluster.  He contended in an April 2012 statement and in testimony at the September 2013 Board hearing that he experienced PTSD arising from traumatic events in combat including firefights, mortar and rocket attacks, and observing the deaths of several fellow soldiers.  The Veteran also submitted an undated statement from a fellow soldier (received in September 2013) that confirmed the Veteran's participation in combat action.  
+
+Service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by service.  38 U.S.C.A. § 1110; 38 C.F.R. § 3.303(a).  Service connection may also be granted for any disease diagnosed after discharge, when all of the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+Direct service connection may not be granted without evidence of a current disability; in-service incurrence or aggravation of a disease or injury; and a nexus between the claimed in-service disease or injury and the present disease or injury. Id.; also Caluza v. Brown, 7 Vet. App. 498, 506 (1995) aff'd, 78 F.3d 604 (Fed. Cir. 1996) [(table)]. 
+
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (i.e., in accordance with DSM-IV); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).
+
+According to the DSM-IV criteria, a diagnosis of PTSD requires that a Veteran have been exposed to a traumatic event, and that he experience a number of specified current symptoms.  The traumatic event, or stressor, involves having experienced, witnessed, or being confronted with an event or events that involved actual or threatened death or serious injury, or a threat to the physical integrity of self or others.  In addition, the response must involve intense feelings of fear, hopelessness, or horror.  See American Psychiatric Association Diagnostic and Statistical Manual of Mental Disorders (4th ed. 1994).  In Cohen v. Brown, 10 Vet. App. 128, 140 (1997), the United States Court of Appeals for Veterans Claims held that "a clear (that is, unequivocal) PTSD diagnosis by a mental-health professional must be presumed (unless evidence shows to the contrary) to have been made in accordance with the applicable DSM criteria as to both the adequacy of the symptomatology and the sufficiency of the stressor."
+
+Satisfactory lay or other evidence that an injury or disease was incurred or aggravated in combat will be accepted as sufficient proof of service connection if the evidence is consistent with the circumstances, conditions or hardships of such service even though there is no official record of such incurrence or aggravation.  38 C.F.R. § 3.304(d); see also Collette v. Brown, 82 F.3d 389 (Fed. Cir. 1996) (under 38 U.S.C.A. §1154(b), a combat Veteran's assertions of an event during combat are to be presumed if consistent with the time, place and circumstances of such service).  In cases where the Veteran engaged in combat, the Federal Circuit has held that the presumption found in § 1154(b) applies not only to the potential cause of a disability, but also to whether a disability itself was incurred while in service. See Reeves v. Shinseki, 682 F.3d 988, 999 (Fed. Cir. 2012).  The combat presumption, however, does not alleviate the requirement that the evidence show current disabilities attributable to the past in-service disorder.  See generally Clyburn v. West, 12 Vet. App. 296, 303 (1999).
+
+The "current disability" requirement for service connection will be met when there is a disability at the time of filing or during the pendency of a claim.  McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).  The Board may also make a factual finding as to whether an earlier diagnosis is sufficiently proximate to the filing of a claim so as to constitute evidence of a "current diagnosis."  Romanowsky v. Shinseki, 26 Vet. App. 289, 293-94 (2013).
+
+When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt is given to the claimant.  38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  
+
+The Veteran's service treatment records include the reports of treatment for several combat shrapnel and head injuries.  The records, including the reports of discharge physical examinations in December 1968 and March 1969, are silent for any mental health symptoms, diagnoses, or treatment.  Following his tour of duty in Vietnam, the Veteran received military discipline on many occasions for periods of absence without leave and striking an officer and was under consideration for a discharge for unsatisfactory performance.  In May 1969, a military psychiatrist examined the Veteran and found no underlying medically disqualifying emotional illness.  In a September 2013 statement, the Veteran attributed his post-Vietnam behavior to the onset of PTSD.  The Veteran initially received an other than honorable discharge, which was upgraded to a general discharge under honorable conditions in May 1978.  
+
+Records of VA outpatient medical care starting in September 2010 show a history of surgery and disabilities of the lower extremities.  Although several PTSD screening questionnaires were negative, the Veteran was referred for a mental health evaluation for symptoms of anxiety and depression.  In a report of a telephone interview in late September 2010, a VA psychologist noted the Veteran's reports of experiencing an unspecified traumatic events and suicidal ideations in the past, and current feelings of lack of energy and interest and difficulty sleeping.  The psychologist also noted symptoms of unspecified disturbing memories, nightmares, and avoidance behaviors.  The psychologist diagnosed a generalized anxiety disorder that "may meet the criteria for PTSD." 
+
+Two days later, the Veteran underwent an in-person mental health examination by a VA psychiatrist.  The Veteran again reported experiencing suicidal and homicidal ideations in the past and olfactory hallucinations of rifle smoke that reminded him of Vietnam.  The Veteran was also experiencing chronic pain from several serious workplace injuries and surgery that forced him to retire and created financial distress.  The psychiatrist diagnosed only a depressive episode without further explanation.  The Veteran began periodic VA outpatient mental health treatment.  In November 2010, the attending psychologist continued to diagnose a depressive disorder, mentioning the Veteran's struggle with VA for benefits and general references to past military experiences.  
+
+The RO received the Veteran's claim for service connection for PTSD in November 2010, and the Veteran underwent a VA mental health examination in January 2011.  The VA psychologist did not review the claims file, but found the Veteran to be a reliable historian and noted detailed summaries of the Veteran's combat experiences, post-combat performance problems and discipline, the death of his first wife in 1999, remarriage in 2001 with a supportive relationship, and physical disabilities that caused his retirement in March 2009.  On examination, the psychologist noted the Veteran's report of a "fair" mood and difficulty sleeping because of physical pain, but no other deficits.  The psychologist acknowledged that the Veteran's combat experiences would be sufficient to meet the event criteria for a diagnosis of PTSD, but that no diagnosis of a mental health disorder was appropriate because the symptoms were limited to expected reactions to stressors such as the death of his first wife and unwanted forced retirement due to medical issues and related financial distress, and not to the events in military service. 
+
+The Veteran stopped VA outpatient mental health treatment in February 2011 but returned to seek primary care in April 2012.  A primary care physician noted the Veteran's reports of irritable mood, flashbacks, and nightmares about his experiences in Vietnam triggered while driving and smelling smoke.  The physician referred the Veteran for further mental health care.  In May 2012, a licensed social worker noted the Veteran's reports of his current family situation and inability to work because of his multiple physical disabilities.  The Veteran reported symptoms of irritability, depression, and interrupted sleep as well as occasional panic attacks, but there was no mention by the Veteran or the examiner of any events in service.  The social worker diagnosed depression associated with adjustment to mobility deficits.  In a follow-up examination the same day, a VA psychiatrist noted that the Veteran's mood was "down but not overly so" and that symptoms of PTSD were greatly reduced.  
+
+In subsequent treatment encounters in July 2012 and August 2012, the attending psychiatrist diagnosed both major depressive disorder and related PTSD with diminishing symptoms that did not interfere with activities.  However, in August 2012, the psychiatrist noted that the Veteran was not depressed on that occasion.  In October 2012, the VA social worker noted some improvement in isolative behaviors, anger issues, and disturbed sleep with the use of medication, but that the Veteran continued to display a depressed mood caused by thoughts of his fellow soldiers killed in Vietnam, how he was treated during service, his physical disabilities, and the death of his first wife.  In November 2012, the Veteran was diagnosed with major depressive disorder.  VA treatment records dated from February 2013 through May 2013 show diagnoses of major depressive disorder and PTSD, and ongoing treatment for such disorders from the Veteran's treating psychiatrist, psychologist, and social worker.
+
+During the September 2013 Board hearing, the Veteran testified that he was currently under treatment in an intensive program at a VA mental health clinic for PTSD, major depression, and anxiety disorder since April 10, 2013, and that his psychiatrist had associated the disorders with his combat service.  
+
+The Board finds that service connection for PTSD and major depressive disorder is warranted.  As an initial matter, the Board finds that the Veteran's reports of his traumatic events during combat in Vietnam and current symptoms are competent because they are observable by lay persons and have been accepted without challenge by all clinicians and the January 2011 examiner and are consistent with his service records.  Moreover, as the Veteran served in combat, his lay statements are sufficient to verify his in-service stressors.
+
+The Board acknowledges that there is competent evidence both for and against a finding that the Veteran has a current psychiatric disorder related to his in-service combat stressors.  The VA psychologist in January 2011 provided a detailed history and comprehensive report of his examination in which he acknowledged the combat events and found that they met the traumatic event criteria.  However, he found that the Veteran did not have any diagnosed psychiatric disorder on that one occasion, but did not have access to or mention the nature of the VA outpatient care that was provided prior to his examination.  
+
+On the other hand, outpatient clinicians in 2010 diagnosed depression and possible PTSD, albeit with little detailed rationale.  Nevertheless, the clinicians acknowledged the combat events as well as the death of the Veteran's first wife, his workplace injuries and surgery, and his involuntary retirement.  In 2012, the outpatient clinicians affirmatively diagnosed mild symptoms of depression and PTSD without conditional language, but again with little detailed analysis or rationale, referring to both physical disabilities as a cause for depression and combat events as causes for nightmares, intrusive memories, and irritability.  However, beginning in February 2013, VA treatment records reflect diagnoses of PTSD and major depressive disorder, and ongoing treatment for such disorders from the Veteran's treating psychiatrist, psychologist, and social worker.  Moreover, the Veteran's testimony regarding a 2013 intensive mental health treatment program for PTSD, depression, and anxiety, which he reported had been related to his in-service combat stressors, is competent and credible in light of his ongoing treatment for such disorders.  
+
+Therefore, resolving all doubt in favor of the Veteran, the Board finds that the competent and credible evidence shows that diagnoses of PTSD and major depressive disorder were rendered during portions of the pendency of the Veteran's claim and such were, at least in part, related to traumatic events during combat in Vietnam.  Consequently, service connection for such acquired psychiatric disorders is warranted.  38 U.S.C.A. § 5107; 38 C.F.R. § 3.102; Gilbert, supra.  
+
+
+ORDER
+
+Service connection for PTSD and major depressive disorder is granted.
+
+
+
+____________________________________________
+A. JAEGER
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

@@ -1,0 +1,137 @@
+Citation Nr: 1514004	
+Decision Date: 04/01/15    Archive Date: 04/09/15
+
+DOCKET NO.  13-01 414	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Salt Lake City, Utah
+
+
+THE ISSUES
+
+1.  Entitlement to service connection for a psychiatric disorder.  
+
+2.  Whether there was clear and unmistakable error (CUE) in a September 1971 rating decision that denied the claim of service connection for chronic anxiety state.  
+
+3.  Entitlement to an initial rating in excess of 60 percent for coronary artery disease.  
+
+
+REPRESENTATION
+
+Veteran represented by:	James McElfresh II, Agent
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+M. Taylor, Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from May 1968 to June 1969.  He also had Reserve service with active duty for training (ACDUTRA) from March 1964 to September 1964.  
+
+This matter is before the Board of Veterans' Appeals (Board) on appeal of a December 2011 and April 2012 rating decisions of the Salt Lake City, Utah, Regional Office (RO) of the Department of Veterans Affairs (VA).  
+
+The psychiatric disorder claim, including PTSD, has been previously denied.  Generally, new and material evidence is generally required to reopen a previously denied claim.  See 38 U.S.C.A. § 5108 (West 2014); 38 C.F.R. § 3.156(a).  Here, at the least, there is a liberalizing law as to PTSD claims concerning "fear of hostile military or terrorist activity."  See 75 Fed. Reg. 39843-52 (July 13, 2010).  Thus, new and material evidence is not necessary to reach the merits of the claim.  See Spencer v. Brown, 4 Vet. App. 283 (1993).  Additionally, new and material evidence was received with the time to appeal a December 2010 rating decision in the form of a July 2011 private treatment record.  Thus, it is considered as if filed with the August 2010 claim pending at that time.  See 38 C.F.R. § 3.156(b).
+
+For clarity, and although the April 2012 rating decision reflects that the agency of original jurisdiction (AOJ) adjudicated the issue of whether there was clear and unmistakable error in prior rating decisions denying service connection for PTSD and chronic anxiety state, the rating decision also addresses the merits of the claims of service connection for PTSD and chronic anxiety state.  The December 2012 statement of the case addresses service connection for a psychiatric disorder, to include PTSD and anxiety state.  Thereafter the Veteran filed a substantive appeal (VA Form 9).  To the extent that statement of the case addresses clear and unmistakable error in the prior rating decisions, the Board finds the statement of the case to be inadequate in that respect, as detailed in the remand section.  
+
+The Veteran appeared at a hearing before the undersigned Veterans Law Judge in August 2013.
+
+The electronic file shows that the Veteran perfected an appeal with respect to an initial rating in excess of 60 percent for coronary artery disease.  As such, the issue is reflected on the title page.  
+
+Testimony at the Board hearing raises the issue of whether there was CUE in a March 1993 rating decision that denied reopening the claim of service connection for chronic anxiety state (currently diagnosed as generalized anxiety disorder), and denied service connection for PTSD.  The AOJ has not adjudicated the issues and thus, the Board does not have jurisdiction over them.  As such, they are referred to the AOJ for appropriate action.  
+
+To the extent the Veteran alleged CUE in the December 2011 rating decision.  This is not permissible as the decision was not final.  In fact, in the decision below, the Board is granting the benefit sought for a claim pending prior to that decision.
+
+The issue of entitlement to an initial rating in excess of 60 percent for coronary artery disease, along with the issues of where there was CUE in September 1971 and December 2011 rating decisions being remanded are addressed in the REMAND portion of the decision below and is REMANDED to the AOJ.
+
+
+FINDING OF FACT
+
+PTSD and generalized anxiety disorder are related to service.  
+
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for PTSD and generalized anxiety disorder have been met.  38 U.S.C.A. §§ 1110, 1111, 5107(b), 5121A (West 2014); 38 C.F.R. § 3.303, 3.304(f) (2014).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+I. Criteria
+
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty, or for aggravation of a pre-existing injury suffered or disease contracted in line of duty. 38 U.S.C.A. §§ 1110, 1131 (West 2014); 38 C.F.R. §§ 3.303, 3.304 (2014).  Service connection may also be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d). 
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).  
+
+Effective July 13, 2010, VA amended the regulations for adjudicating disability compensation claims for PTSD in 38 C.F.R. § 3.304(f)(3) to liberalize the evidentiary standard for establishing the required in-service stressor in certain cases.  The current, liberalized version of § 3.304(f)(3) states that when the claimed in-service stressor is related to the veteran's "fear of hostile military or terrorist activity," the following shall be demonstrated to establish service connection for PTSD: 1) the claimed stressor is consistent with the places, types and circumstances of the veteran's service; 2) a VA psychiatrist or psychologist, or contract equivalent, confirms the claimed stressor is adequate to support a diagnosis of PTSD; and 3) the veteran's symptoms are related to the claimed stressor. 
+
+This recent regulatory change has eliminated the requirement for submitting credible supporting evidence of the claimed in-service stressor if it is related to the veteran's "fear of hostile military or terrorist activity."  For purposes of 38 C.F.R. § 3.304(f)(3), "fear of hostile military or terrorist activity" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness or horror.
+
+Generally, veterans are presumed to have entered service in sound condition as to their health.  38 U.S.C.A. § 1111 (West 2014)  This presumption attaches only where there has been an induction examination in which the later complained-of disability was not detected.  See Bagby v. Derwinski, 1 Vet. App. 225, 227 (1991).  The regulations provide expressly that the term "noted" denotes "[o]nly such conditions as are recorded in examination reports," 38 C.F.R. § 3.304(b), and that "[h]istory of preservice existence of conditions recorded at the time of examination does not constitute a notation of such conditions."  Id. at (b)(1).  
+
+The application of the presumption of soundness applies only when a disease or injury not noted upon entry to service manifests in service, and a question arises as to whether it pre-existed service.  Gilbert v. Shinseki, 26 Vet. App. 48 (2012).  Under such circumstances, VA is required to prove by clear and unmistakable evidence that a disease or injury manifesting in service both preexisted service and was not aggravated by service.  Id.  
+
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the Veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.  38 U.S.C.A. § 5107(b) (West 2014); 38 C.F.R. § 3.102 (2014); Gilbert v. Derwinski, 1 Vet. App. 49 (1990). 
+
+II. Analysis
+
+The Veteran asserts entitlement to service connection for a psychiatric disorder.  His symptoms have been variously diagnosed but primarily as PTSD and generalized anxiety disorder.  
+
+Initially, and to the extent that PTSD has noted to have preexisted service and/or attributed to childhood trauma, to include on VA examination in December 1992 and November 2010, the Board notes that a January 1964 Reserve examination report reflects psychiatric examination was normal.  His neuropsychiatric status was assigned a profile of "1."  See Odiorne v. Principi, 3 Vet. App. 456, 457 (1992) (observing that the 'PULHES' profile reflects the overall physical and psychiatric condition of the Veteran on a scale of 1 (high level of fitness) to 4 (a medical condition or physical defect which is below the level of medical fitness for retention in the military service)).  On the accompanying medical history, the Veteran denied having or having had frequent trouble sleeping, frequent or terrifying nightmares, depression or excessive worry, and nervous trouble of any sort.  
+
+In addition, the August 1964 ACDUTRA separation examination report shows psychiatric examination was normal.  His neuropsychiatric status was assigned a profile of "1."  On the accompanying medical history he denied having or having had frequent trouble sleeping, frequent or terrifying nightmares, depression or excessive worry, and nervous trouble of any sort.  
+
+Furthermore, and although a March 1971 VA treatment record notes inpatient treatment in 1967 with long standing anxiety symptoms diagnosed as chronic anxiety state, the May 1968 active duty service entrance examination report shows psychiatric examination.  In addition, and although psychiatric impairment was noted, the June 1969 separation examination report shows psychiatric evaluation was normal, and his neuropsychiatric status was assigned a profile of "1."  In light of these contradictory findings, and having reviewed the record, the Board concludes that there is not clear and unmistakable evidence that a psychiatric disorder existed prior to service entrance.  Thus, the Veteran is presumed to have been in sound condition when entering service as to a psychiatric disorder.
+Service records tend to show that at least psychiatric symptoms manifested during service.  Following his deployment to Vietnam in September 1968, he was accompanied by a recommendation for limited duty and deployment only to a location where psychiatric outpatient treatment was available.  In November 1968, he was noted to be more reclusive, more depressed, and getting worse.  
+
+After service, a December 1992 VA examination report reflecting a history of having come under small arms fire in a helicopter during service in Vietnam notes that the Veteran was transferred by helicopter on a weekly basis to psychiatric appointments.  Although the June 1969 separation examination report shows psychiatric evaluation was normal, on the accompanying medical history the Veteran indicated that he had depression or excessive worry, memory loss, and nervous trouble.
+
+With respect to diagnosis, and although a November 2011 VA examination report reflects a diagnosis of somatoform disorder, a November 2010 VA examination report noting a history of the Veteran's camp having regularly come under mortar attack during service in Vietnam reflects the Veteran meets the criteria for a diagnosis of PTSD.  
+
+Consistent with the November 2010 VA examiner's opinion is the opinion of the July 2011 private physician who determined that the Veteran meets the criteria for not only a diagnosis of PTSD but also generalized anxiety disorder (GAD).  Both the July 2011 private report and the December 1992 VA examination report conclude that the most traumatic circumstance of the Veteran's Vietnam service was related to the Veteran not being permitted to carry a gun due to his psychiatric disorder.  
+
+The private report states that the Veteran felt terrified and feared for his life the entire time he was serving in Vietnam.  The physician noted that PTSD is most severe in individuals such as the Veteran who have an underlying psychiatric disorder such as GAD.  Based on this new July 2011 private treatment report, in conjunction with the other evidence of record, the Board finds that the evidence is at least in equipoise as to whether the Veteran has PTSD and generalized anxiety disorder related to service.
+
+Resolving reasonable doubt in the Veteran's favor, the Board finds the evidence is in favor of the claim.  See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102.  Consequently, service connection for PTSD and generalized anxiety disorder is warranted. 
+
+
+ORDER
+
+Service connection for PTSD and generalized anxiety disorder is granted.  
+
+
+REMAND
+
+With respect to CUE, an April 2012 rating decision addresses CUE in a September 1971 rating decision.  The Veteran filed a notice of disagreement with the rating decision.  Subsequently, a statement of the case (SOC) was issued in December 2012 and supplemental statement of the case (SSOC) was issued in May 2013.  The SOC and SSOC pertain to the claim decided above.  Although there is a passing reference to CUE in the SOC, a reasonable person would not understand this was a SOC for that issue as the issue was not listed on the SOC (or the SSOC) and there is little to no discussion of that potential issue or identification of any prior decision being challenged.  Thus, the Board finds that a SOC should be issued as to whether there was CUE in a September 1971 rating decision that denied the claim of service connection for chronic anxiety state.  See Manlincon v. West, 12 Vet. App. 238, 240-41 (1999).
+
+As noted above, the Veteran seeks a higher initial rating for service-connected coronary artery disease.  He has not been afforded the Board hearing via videoconference requested in his substantive appeal.  As such, the matter is remanded to afford him a Board hearing.  
+
+Accordingly, this issue is REMANDED for the following actions:
+
+1.  Issue a SOC whether there was CUE in a September 1971 rating decision that denied the claim of service connection for chronic anxiety state.  If, and only if, the Veteran files a timely substantive appeal should this issue be returned to the Board.
+
+2.  Also, Schedule the Veteran for a Board hearing via videoconference with respect to the issue of entitlement to an initial rating in excess of 60 percent for coronary artery disease.  
+
+The Veteran has the right to submit additional evidence and argument on the matter the Board has remanded.  Kutscherousky v. West, 12 Vet. App. 369 (1999).
+
+These claims must be afforded expeditious treatment.  The law requires that all claims that are remanded by the Board or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action must be handled in an expeditious manner.  See 38 U.S.C.A. §§ 5109B, 7112 (West 2014).
+
+
+
+
+______________________________________________
+RYAN T. KESSEL
+Veterans Law Judge, Board of Veterans' Appeals
+
+Department of Veterans Affairs
+
+

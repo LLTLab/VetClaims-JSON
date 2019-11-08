@@ -1,0 +1,94 @@
+Citation Nr: 1630402	
+Decision Date: 07/29/16    Archive Date: 08/04/16
+
+DOCKET NO.  16-04 998	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Baltimore, Maryland
+
+
+THE ISSUE
+
+Entitlement to service connection for posttraumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Appellant represented by:	Veterans of Foreign Wars of the United States
+
+
+ATTORNEY FOR THE BOARD
+
+M. J. In, Counsel
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from June 1943 to May 1964.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from an April 2012 rating decision of the Department of Veterans Affairs (VA) Regional Offices (RO) in Baltimore, Maryland, which denied the benefits sought on appeal.  
+
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2015).  38 U.S.C.A. § 7107(a)(2) (West 2014).
+
+
+FINDING OF FACT
+
+The evidence of record is at least in equipoise with respect to whether the Veteran has a current diagnosis of PTSD related to combat stressors from his active duty service.
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for PTSD have been met.  38 U.S.C.A. §§ 1110, 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304(f), 4.125(a) (2015).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+Pursuant to the Veterans Claims Assistance Act of 2000 (VCAA), VA has duties to notify and assist claimants in substantiating a claim for VA benefits.  38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2014); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a); see also Pelegrini v. Principi, 18 Vet. App. 112 (2004); Quartuccio v. Principi, 16 Vet. App. 183 (2002); Mayfield v. Nicholson, 444 F.3d 1328 (Fed. Cir. 2006); Dingess/Hartman v. Nicholson, 19 Vet. App. 473 (2006).  
+
+Given the favorable disposition of the action herein, which is not prejudicial to the Veteran, the Board need not assess VA's compliance with the VCAA.  See, e.g., Bernard v. Brown, 4 Vet. App. 384 (1993); VAOPGCPREC 16-92, 57 Fed. Reg. 49,747 (1992).
+
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in the line of duty in the active military, naval, or air service.  38 U.S.C.A. §§ 1110, 1131.  That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease.  If there is no showing of a resulting chronic condition during service, then a showing of continuity of symptomatology after service is required to support a finding of chronicity.  38 C.F.R. § 3.303(b).  Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a) (conforming to the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV)); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  See 38 C.F.R. § 3.304(f) (2015); see also Cohen v. Brown, 10 Vet. App. 128 (1997).  
+
+If the evidence establishes that a veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided that the claimed stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 U.S.C.A. § 1154(b) (West 2014); 38 C.F.R. § 3.304(f)(2) (2015).
+
+The Veteran contends that he has PTSD as a result of his combat experiences as an underwater demolition team combat swimmer.  As noted above, in order for the Veteran to be entitled to service connection for PTSD, the medical evidence must show a diagnosis of PTSD linked to an in-service stressor.  
+
+With respect the Veteran's claimed stressors, the record shows that he engaged in combat with the enemy as an underwater demolition team member; in June 1945, he was involved in a diving operation during which bombs exploded nearby, he suffered concussion injury, and one of his fellow teammates died.  Service personnel records and DD 214s reflect that his military occupational specialty (MOS) was as an underwater demolition team combat swimmer from December 1949 to March 1955, a diver from March 1955 to December 1960, and a diver foreman from December 1960 to May 1964 and that he received various decorations, including Purple Heart and Bronze Start Medal with "V" device, which is indicative of combat participation.  
+
+Service treatment records show that on June 8, 1945, the Veteran was doing a swimming reconnaissance off Ramsey Point, Labuan Island, North Borneo, when bombs dropped from Liberators fell and exploded nearby.  He suffered from mild shock and pain in the abdomen.  The diagnosis was blast concussion water.
+
+As such, the Board finds the Veteran's alleged combat stressors as consistent with his verified military occupation specialty as a Navy diver and service department records.  38 U.S.C.A. § 1154(a); 38 C.F.R. § 3.304(f).
+
+In January 2012, the Veteran was provided with a VA examination.  The examiner concluded that the Veteran did not meet the diagnostic criteria for PTSD.  The examiner noted that the Veteran had severe dementia and was unable to discuss the underwater incident in June 1945 and all details were provided by his wife.  The examiner stated that there was insufficient evidence to diagnose PTSD due to no history of treatment or evidence of PTSD symptoms prior to dementia onset and the Veteran's inability to meaningfully participate in a clinical interview.
+
+In contrast, a private psychiatrist, Dr. M.B., opined in May 2013 that it is much more likely than not that the alleged stressor events contributed directly to the occurrence of severe, chronic, delayed onset posttraumatic stress disorder in the Veteran's case.  In reaching this conclusion, Dr. B. initially noted that the Veteran demonstrated well the required clinical criteria to establish the diagnosis severe PTSD, chronic, delayed onset, in accordance with the DSM-IV, since 2007 to the present, based on his investigations and interviews, including family, fellow veteran combat swimmers, other foreign war veterans, health care team and other Navy diving medicine experts.  Dr. B. indicated that he was a national and miliary expert in the combined field of the psychiatry of military diving and the effect of disasters, trauma, and PTSD among Navy divers, and provided his insight as follows:
+
+Navy diving training always forges extreme mental physical and emotional "toughness," with compartmentalization of negative emotions such as fear anxiety and grief which could get in the way of a mission.  This ingrained compartmentalization usually persists for years as a part of the diver's personality long after a Navy diving career is completed.  ...  Diver's psychological defenses are adaptively hardened from years of unexpected exposures to traumatic experiences; however, many years later, they can develop PTSD replaying and reliving in dramatic fashion those situations which caused physical injury intense fear and anxiety of being ambushed or coming under fire and grief over seeing and swimming among bodies and body parts of fellow divers.  This exactly describes what happened in [the Veteran's] life.  He experienced combat and came under attack repeatedly; this is documented in citations he received which are a matter of record in previous documents submitted on behalf of his appeals to the Department of Veterans Affairs.  Information about one of his serious wounds during combat, a traumatic brain injury, is also part of this file.  It was only until his brain expected aging in later life caused both structural brain decline as well as the decline of those ingrained psychological defenses; in 2007, this led to the beginning of a flooding of emotional responses to past wartime horrors.  He has replayed these situations over and over in public and in front of his health care providers at the Perry Point Veterans Affairs Medical Center (VAMC) as well as in the presence of his family members at home and at reunions of wartime combat and special warfare swimmers.
+
+Email correspondence dated April 2013 between Dr. B and another physician reflects that they agreed that PTSD best described the Veteran's behavior which deluded him into thinking that the metal hair clamps of a female in the hospital hallway were improvised explosive devices which must be disarmed and made safe and he must protect the hospital and those in it from injury by enemy forces landing on the river bank and attacking.
+
+Dr. B. also reviewed the January 2012 VA examination report and pointed out that this determination was based upon the Veteran's lack of cooperation during one brief interview of several questions, to which he responded "Ask my wife," but his wife was not allowed to provide information at this examination.  It was further noted that the Veteran's brief singular responses were actually direct manifestations of PTSD; avoidance of stimuli (conversation) that recall/relive the traumatic events; suspicious ness of a strange individual; and misperception that he was being interrogated by "an enemy soldier" in a POW situation and not cooperating to provide information which could betray his men and cause them harm and torture.  
+
+Thus, there is evidence of record that indicates that the Veteran has a current diagnosis of PTSD related to his alleged combat stressors in service.  Based on the foregoing, the Board finds that the evidence is at least in equipoise regarding whether the Veteran has a current diagnosis of PTSD related to his claimed in-service combat stressors.  Accordingly, the Board resolves any reasonable doubt in the Veteran's favor and finds service connection for PTSD is warranted.
+
+
+ORDER
+
+Entitlement to service connection for PTSD is granted.
+
+
+
+____________________________________________
+MICHAEL MARTIN
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

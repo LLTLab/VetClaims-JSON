@@ -1,0 +1,102 @@
+Citation Nr: 1534347	
+Decision Date: 08/11/15    Archive Date: 08/20/15
+
+DOCKET NO.  13-13 851	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Medical and Regional Office Center in Wichita, Kansas
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD) and depression.
+
+
+REPRESENTATION
+
+Appellant represented by:	Veterans of Foreign Wars of the United States
+
+
+WITNESSES AT HEARING ON APPEAL
+
+The Veteran and his spouse
+
+
+ATTORNEY FOR THE BOARD
+
+M. Elias, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty from September 1985 to February 1991.
+
+This matter comes before the Board of Veterans' Appeals (Board) on appeal from a March 2012 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Wichita, Kansas.
+
+The Veteran testified at a hearing before the undersigned Veterans Law Judge (VLJ) in December 2013.  A transcript is of record.
+
+Service connection for an acquired psychiatric disorder was previously denied, however, at the time of the last decision on this claim, some of the Veteran's service records were not in the claims file.  They have since been obtained.  Under 38 C.F.R. § 3.156(c) (2014), if at any time after VA issues a decision on a claim, VA receives or associates with the claims file relevant official service department records that existed and had not been associated with the claims file when VA first decided the claim, VA will reconsider the claim.  Here, because relevant service treatment records have been received since the last decision on this claim, and because there is no indication that VA previously would have been unable to obtain them because they did not exist or because the Veteran failed to provide sufficient information, the claim must be reconsidered on the merits.  See id.
+
+
+FINDING OF FACT
+
+The Veteran's acquired psychiatric disorder was incurred during his active military service.
+
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for an acquired psychiatric disorder have been met.  38 U.S.C.A. §§ 1110, 1154, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.304, 4.125 (2014).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veteran's claim of service connection for an acquired psychiatric disorder is based on his contention that his conditions are related to his military service.  For the following reasons, the Board finds that entitlement to service connection for an acquired psychiatric disorder has been established.
+
+Service connection means that a veteran has a current disability resulting from disease or injury incurred in or aggravated by active service.  38 U.S.C.A. §§ 1110, 1131 (West 2014); 38 C.F.R. § 3.303(a).  Service connection may be granted for any disease diagnosed after discharge when the evidence shows that the disease was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection is established when the following elements are satisfied: (1) the existence of a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship or "medical nexus" between the current disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1166-67 (Fed. Cir. 2004); see 38 C.F.R. § 3.303(a).  
+
+A veteran is considered to have been in sound condition when examined, accepted, and enrolled for service, except as to defects, infirmities, or disorders noted at entrance into service, or where clear and unmistakable evidence demonstrates that an injury or disease existed before acceptance and enrollment and was not aggravated by such service.  38 U.S.C.A. § 1111.  A history of conditions existing prior to service recorded at the time of the entrance examination does not constitute a notation of such conditions for the purpose of establishing whether the Veteran was of sound condition at enlistment.  See 38 C.F.R. § 3.304(b)(1).  However, the recording of such a history in the entrance examination will be considered together with all other material evidence in determinations as to inception of the disability at issue.  See id.  
+
+In order to rebut the presumption of sound condition, VA must show by clear and unmistakable (obvious or manifest) evidence both (1) that the disease or injury existed prior to service and (2) that the disease or injury was not aggravated by service.  See § 3.304(b); Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); VAOPGCPREC 3-03 (July 16, 2003).  Thus, when the presumption of sound condition applies, the claimant is not required to establish aggravation by showing that the preexisting disease or injury increased in severity during service.  See VAOPGCPREC 3-03.  Rather, the burden remains with VA to show by clear and unmistakable evidence that the preexisting disease or injury was not aggravated by service.  See id.; Wagner, 370 F.3d at 1096; see also Horn v. Shinseki, 25 Vet. App. 231, 235 (2012) (observing that "even when there is clear and unmistakable evidence of preexistence, the claimant need not produce any evidence of aggravation in order to prevail under the aggravation prong of the presumption of soundness"). 
+
+VA may find a lack of aggravation under 38 U.S.C. § 1111 if clear and unmistakable evidence shows that there was no increase in disability during service, or that any increase in disability was due to the natural progress of the preexisting condition.  Wagner, 370 F.3d at 1096 (citing 38 U.S.C. § 1153 (West 2014) and 38 C.F.R. § 3.306 (2014)); but see Horn, 25 Vet. App. at 238 (emphasizing that "neither the presumption of aggravation of section 1153 nor the regulation implementing that statutory provision, § 3.306, has any application to an analysis under the aggravation prong of the presumption of soundness in section 1111").  If this burden is met, then the veteran is not entitled to service connection benefits.  Wagner, 370 F.3d at 1096.  
+
+On the other hand, if the presumption of soundness applies and VA fails to show by clear and unmistakable evidence that the preexisting condition was not aggravated by active service, then the presumption has not been rebutted.  See id. at 1094 (holding that Congress intended to "convert aggravation claims to ones for service connection when the government fails to overcome the presumption of soundness under section 1111").  In that case, the claim will be considered as a normal claim for service connection and, if granted, no deduction for the degree of disability existing at the time of entrance will be made.  Id. at 1096 (citing 38 C.F.R. § 3.322).  In other words, the claim may not be denied, nor benefits deducted, on the basis of a finding that the disability in question preexisted active service, if VA does not also meet its evidentiary burden of showing that the disability was not aggravated during service.  Id. 
+
+If the presumption of soundness has not been rebutted, the disease or injury that manifested in service is deemed incurred in service, such that the second element of service connection is established.  See Gilbert, 26 Vet. App. at 53 (citing Horn, 25 Vet. App. at 236).  Nevertheless, the claimant must still establish a current disability related to the in-service injury or disease.  Id. (citing Holton v. Shinseki, 557 F.3d 1363, 1367 (Fed. Cir. 2009) ("The presumption of soundness . . . does not relieve the veteran of the obligation to show the presence of a current disability and to demonstrate a nexus between that disability and the in-service injury or disease or aggravation thereof.")).
+
+The clear-and-unmistakable-evidence standard is a much more formidable evidentiary burden to meet than the preponderance-of-the-evidence standard.  See Vanerson v. West, 12 Vet. App. 254, 258 (1999) (noting that the clear-and-unmistakable-evidence standard is more demanding than the clear-and-convincing-evidence standard, which in turn is higher than the preponderance-of-the-evidence standard).  It is an "onerous" and "very demanding" evidentiary standard, requiring that the evidence be "undebatable."  Cotant v. West, 17 Vet. App. 116, 131 (2003) (citing Laposky v. Brown, 4 Vet. App. 331, 334 (1993)).
+
+The Board has reviewed all the evidence in the claims file and has an obligation to provide an adequate statement of reasons or bases supporting its decision.  See 38 U.S.C.A. § 7104(d)(1) (West 2014); Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000).  The Board must assess the credibility and weight of all evidence, accounting for evidence which it finds to be persuasive or unpersuasive, and providing reasons for rejecting any evidence favorable to the claimant.  Caluza v. Brown, 7 Vet. App. 498, 506 (1995).  A claimant is entitled to the benefit of the doubt when there is an approximate balance of positive and negative evidence on any issue material to the claim.  See 38 U.S.C.A. § 5107; 38 C.F.R. § 3.102.  When the evidence supports the claim or is in relative equipoise, the claimant prevails.  See Gilbert v. Derwinski, 1 Vet. App. 49, 55 (1990).  If the preponderance of the evidence weighs against the claim, it must be denied.  See id.; Alemany v. Brown, 9 Vet. App. 518, 519 (1996).
+
+Here, the Veteran has been diagnosed with several acquired psychiatric disorders throughout his life, including major depressive disorder and PTSD.  Although there were no acquired psychiatric disorders noted at entry into service, the record shows, and the Veteran has testified that he had been diagnosed with acquired psychiatric disorders prior to his entry into service.  Thus, the Board must determine whether the presumption of soundness has been rebutted.  See Gilbert v. Shinseki, 26 Vet. App. 48, 55 (2012) (holding that the presumption of soundness applies only when a disease or injury manifests in service which was not noted on entry, and a question arises as to whether it preexisted service).  For the following reasons, the Board finds that the presumption of soundness has not been rebutted.
+
+The Veteran's October 1984 entrance examination report does not note any psychiatric problems.  Therefore, the presumption of soundness attaches.  See 38 U.S.C.A. § 1111; 38 C.F.R. § 3.304(b)(1).   
+
+There is clear and unmistakable evidence that the Veteran's acquired psychiatric disorder preexisted service.  More specifically, an October 1984 consultation sheet states that the Veteran was referred by his school to a psychiatrist at age 16 and that he received treatment for two years.  In addition, a March 2006 letter from a community mental health clinic confirms that the Veteran participated in an intake assessment at the clinic in November 1979 and that his file was closed in January 1981.  Finally, the Veteran has repeatedly stated that he was treated for a psychiatric disorder prior to entering service.  Thus, there is clear and unmistakable evidence that the Veteran had an acquired psychiatric disorder prior to his active duty.
+
+However, the record does not contain clear and unmistakable evidence that the Veteran's acquired psychiatric disorder was not aggravated by service.  In fact, the medical evidence in the record suggests the opposite.  For example, in the February 1998 VA examination report, the VA examiner diagnosed the Veteran with major depression with psychotic features and stated that the Veteran described symptoms of major depression during service.  In addition, while describing the Veteran's diagnosis of major depression in a January 2002 letter, the Veteran's private physician discussed the Veteran's childhood trauma that was exacerbated by his military experience and led to a hospitalization for depression.  Finally, in a September 2004 letter, the Veteran's VA physician stated that the Veteran's acquired psychiatric conditions "clearly intensified during his military experience."  Thus, VA has not met its burden to rebut the presumption of soundness, as the evidence is either favorable or in equipoise as to whether or not the Veteran's acquired psychiatric disorder was aggravated by active service.  Therefore, the second element of service connection is established and benefits may not be deducted on the basis of evidence of pre-existence of an acquired psychiatric disorder.  See Wagner, 370 F.3d at 1096.
+
+As to the first and third elements of service connection, the Veteran has consistently been diagnosed with acquired psychiatric disorders since he was in service and throughout the pendency of this claim.  More specifically, the diagnoses of PTSD and/or depression are noted in service treatment records (when he was his spouse's dependent) dated September 1992 and October 1992; letters from private physicians dated  November 1993, January 1998, January 2002, and March 2002; and VA treatment records dated February 1998; March and August 2001; March, April, June, July, and December 2002; September and October 2003; February and September 2004; January, April, August, and October 2005; January, February, April, July, and November 2006; January, June, and September 2007; January and May 2008; April, May, July, September, and December 2010; January 2011; March, April, June, August, and October 2012; January, April, July, August, October, and November 2013; January, February, April, June, August, September, October, and December 2014; and January and March 2015, as well as many others.  Thus, the Veteran has a current diagnosis of an acquired psychiatric disorder and it has been continuously treated since his time in service.  A nexus between the Veteran's current acquired psychiatric disorder and his period of active service is likewise established with the findings of aggravation reflected in the September 2004 letter from the Veteran's VA physician.  All of this evidence indicates that the Veteran's current acquired psychiatric disorder is the result of or a continuation of the disorders he had in service.
+
+Accordingly, resolving all reasonable doubt in favor of the claim, service connection is warranted for the Veteran's acquired psychiatric disorder.  See 38 U.S.C.A. § 5107(b); 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).
+
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder is granted.
+
+
+
+____________________________________________
+P. M. DILORENZO
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+Department of Veterans Affairs
+
+

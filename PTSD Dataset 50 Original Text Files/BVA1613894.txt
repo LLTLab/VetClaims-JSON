@@ -1,0 +1,169 @@
+Citation Nr: 1613894	
+Decision Date: 04/05/16    Archive Date: 04/13/16
+
+DOCKET NO.  13-11 279	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Houston, Texas
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD).
+
+
+REPRESENTATION
+
+Veteran represented by:	Texas Veterans Commission
+
+
+ATTORNEY FOR THE BOARD
+
+I. Cannaday, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty in the U.S. Army from May 1961 to April 1964. 
+ This case comes before the Board of Veterans' Appeals (Board) on appeal from a September 2012 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Houston, Texas.
+
+A Board video conference hearing was scheduled in September 2014, but the Veteran failed to report.  His hearing request is deemed withdrawn.  See 38 C.F.R. § 20.702(d).
+
+The Board remanded the case for further development in November 2015.  The case has since been returned to the Board for appellate review.
+
+The Board notes that, the Veteran has previously claimed service connection for PTSD.  The RO denied that claim in a June 2006 rating decision.  The Veteran requested that claim be reopened in November 2010.  The RO readjudicated the claim and once again denied the PTSD claim in the September 2012 rating decision.  The Veteran timely appealed that decision.  Subsequently, in a March 2015 decision, the Board re-opened and remanded the claim.
+
+In the March 2015 remand, the Board ordered that a VA examination be obtained.  The Veteran did not report for his examination, and indicated that he wished to withdraw his claim.  The Appeals Management Center (AMC) sent the Veteran a letter in August 2015 that provided him with a copy of VA form 21-4138 so that he could provide a written request.  The Veteran did not respond, thus his appeal remains pending.
+
+This appeal was processed using the Veterans Benefits Management System (VBMS).  The Virtual VA electronic claims file contains documents that are either duplicative of the records in VBMS or irrelevant to the issue on appeal.
+
+
+FINDINGS OF FACT
+
+1.  The Veteran did not engage in combat with the enemy, and the most probative evidence does not corroborate the Veteran's claimed stressor incident based on personal assault.
+
+2.  The Veteran's current depressive disorder did not manifest in service and is not related to any event or incident of his active service from May 1961 to April 1964. Nor is there evidence of a psychosis within one year of service.
+
+
+CONCLUSIONS OF LAW
+
+1.  PTSD was not incurred in active service.  38 U.S.C.A. § 1131 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.655(a), 4.125 (2015).
+
+2.  An acquired psychiatric disorder, other than PTSD, was not incurred in active service, nor may a psychosis be presumed to have been so incurred.  38 U.S.C.A. §§ 1101, 1112, 1113, 1131 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102 , 3.159, 3.303, 3.307, 3.309 (2015).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+Duties to Notify and Assist
+
+Upon receipt of a substantially complete application for benefits, VA must notify the claimant of what information or evidence is needed in order to substantiate the claim and it must assist the claimant by making reasonable efforts to get the evidence needed.  38 U.S.C.A. §§ 5103(a), 5103A (West 2014); 38 C.F.R. § 3.159(b) (2014); see Quartuccio v. Principi, 16 Vet. App. 183, 187 (2002).  
+
+In this case, the RO provided the Veteran with a notification letter in May 2011, prior to the initial decision on the claim.  In the letter, the RO notified the Veteran of the evidence necessary to substantiate the claim and of the division of responsibilities in obtaining such evidence.  The letter also explained how disability ratings and effective dates are determined.
+
+In addition, the duty to assist the Veteran has also been satisfied in this case.  The Veteran's available service records and all identified and available post-service medical records are in the claims file.  The Veteran has not identified any available, outstanding records that are relevant to the claim decided herein.  The record also includes written statements provided by the Veteran.
+
+Additionally, in a March 2015 remand, the Board, having determined that the current examination of record needed a supplemental medical opinion, remanded the matter to afford the Veteran a VA examination in connection with his current claim.  Subsequently, he was scheduled for a VA examination in June 2015.  The Veteran did not report to that examination, and indicated that he would like to withdraw his claim as the reason for not reporting to his VA examination.  The September 2015 supplemental statement of the case (SSOC) outlined the reasons for the continued denial of his claim, specifically that because he failed to report to his examination his claims would be adjudicated based on the evidence of record, which was insufficient to grant his claim.  The Veteran has not indicated that he wanted to reschedule this examination.  Additionally, pursuant to the Veteran's statements to VA Medical Center employees, in August 2015 the AMC sent the Veteran a VA form 21-4138 seeking clarification from the Veteran as to whether he wished to withdraw his appeal.  To date, he has not responded to that letter.  Therefore, because the Veteran was given ample notification that he would be scheduled for an examination and he failed to report to that examination, and he was given an opportunity to provide good cause to report to his examinations; the Board finds that there is no prejudice to proceed with the claims.  See 38 C.F.R. § 3.655(a).
+
+Without the Veteran's cooperation, VA cannot obtain the evidence necessary to ascertain the etiology of his PTSD.  While VA has a duty to assist the Veteran in substantiating his claims, that duty is not a one-way street.  See Woods v. Gober, 14 Vet. App. 214, 224 (2000); see also Hurd v. West, 13 Vet. App. 449, 452 (2000) (noting that a veteran cannot passively wait for help from VA).  Therefore, the Board finds that additional efforts to assist the Veteran with obtaining additional evidence and to schedule the Veteran for further evaluations would be futile, and as such, the Board finds that VA has fulfilled its duty to assist.  38 C.F.R. § 3.159(c) (4) (2014); Barr v. Nicholson, 21 Vet. App. 303, 312 (2007). 
+
+In addition, as noted above, the Board last remanded this matter for further development in November 2015.  In the remand, the Board instructed the agency of original jurisdiction (AOJ) to request outstanding records from the Harris County Vet Center.  Subsequently, in December 2015, the AOJ sent the Veteran an authorization form to get permission to obtain the Veteran's Harris County Vet Center records.  However, to this date, the Veteran has not responded to that authorization form.  His claim was once again adjudicated in the January 2016 SSOC.  Thus, there is compliance with the Board's remand instructions.  See Stegall v. West, 11 Vet. App. 268, 271 (1998) (noting that where the remand orders of the Board are not complied with, the Board errs as a matter of law when it fails to ensure compliance).
+
+For these reasons, the Board finds that VA has fulfilled the duty to assist the Veteran in this case.  Hence, there is no error or issue that precludes the Board from addressing the merits of this appeal.
+
+Law and Analysis
+
+Service connection may be established for disability resulting from personal injury suffered or disease contracted in line of duty in the active military, naval, or air service.  38 U.S.C.A. §§ 1110, 1131(2015).  That an injury or disease occurred in service is not enough; there must be chronic disability resulting from that injury or disease.  Service connection may also be granted for any injury or disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.  38 C.F.R. § 3.303(d).
+
+Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f). 
+
+A mental disorder diagnosis must conform to the Fourth Edition of the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders (DSM-IV), or, for claims received by or pending before the AOJ on or after August 4, 2014, the Fifth Edition (DSM-5).  See 38 C.F.R. §§ 4.125, 4.130; 79 Fed. Reg. 45093 (Aug. 4, 2014).  Here, the claim was pending before the AOJ before August 4, 2014, therefore DSM-IV is to be used.  There are several avenues to document an in-service stressor, other than obtaining verification from the Joint Services Records Research Center (JSRRC) or other government records repository: an in-service PTSD diagnosis with lay testimony; combat service with lay testimony; prisoner of war status with lay testimony; lay evidence of personal assault with appropriate corroboration; and a stressor related to Veteran's fear of hostile military or terrorist activity, with appropriate medical evidence.  38 C.F.R. § 3.304(f) (2015) (emphasis added). 
+
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the claimant prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990); 38 U.S.C.A. § 5107(b) (West 2014); 38 C.F.R. § 3.102.
+
+In the case of any veteran who has engaged in combat with the enemy, satisfactory lay or other evidence that an injury or disease was incurred or aggravated in combat will be accepted as sufficient proof of service connection if the evidence is consistent with the circumstances, condition or hardships of such service, even though there is no official record of such incurrence or aggravation.  Every reasonable doubt shall be resolved in favor of such a veteran.  38 U.S.C.A. § 1154(b) (West 2014); 38 C.F.R. § 3.304(d) (2015).
+
+If VA determines either that a veteran did not engage in combat with the enemy or that the veteran did engage in combat, but that the alleged stressor is not combat related, the veteran's lay testimony, by itself, is not sufficient to establish the occurrence of the alleged stressor.  Instead, the record must contain credible supporting evidence that corroborates the veteran's testimony or statements.  38 C.F.R. § 3.304(f); Stone v. Nicholson, 480 F.3d 1111 (Fed. Cir. 2007); Cohen v. Brown, 10 Vet. App. 128 at 147 (1997); Moreau v. Brown, 9 Vet. App. 389, 395 (1996).  Generally, after-the-fact medical nexus evidence cannot be the sole evidence of the occurrence of the claimed stressor.  Moreau, 9 Vet. App. at 396. 
+
+If a PTSD claim is based on an in-service personal assault, evidence from sources other than the Veteran's service records may corroborate the Veteran's account of the stressor incident.  Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.  Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.  Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.  VA will not deny a PTSD claim that is based on in-service personal assault without first advising the claimant that evidence from sources other than the Veteran's service records or evidence of behavior changes may constitute credible supporting evidence of the stressor and allowing him or her the opportunity to furnish this type of evidence or advise VA of potential sources of such evidence.  38 C.F.R. § 3.304(f)(5) .
+
+Regardless of the factual adjudication of the occurrence of an assault, VA may submit any evidence that it receives to an appropriate medical or mental health professional for an opinion as to whether it indicates that a personal assault occurred.  Gallegos v. Peake, 22 Vet. App. 329, 332 (2008); Patton v. West, 12 Vet. App. 272, 280 (1999); 38 C.F.R. § 3.304(f)(5).  The VA Adjudication Procedures Manual Rewrite (M21-1MR) notes that personal assault is an event of human design that threatens or inflicts harm.  Examples of personal assault include rape, physical assault, domestic battering, robbery, mugging, stalking, and harassment.  M21-1MR.IV.ii.1.D.17.a.
+
+Lay evidence can be competent and sufficient to establish a diagnosis of a condition when (1) a layperson is competent to identify the medical condition, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Jandreau v. Nicholson, 492 F.3d 1372.  Laypersons can also provide an eyewitness account of an individual's visible symptoms.  See Davidson v. Shinseki, 581 F.3d 1313 (2009) (noting that a layperson may comment on lay-observable symptoms).
+
+Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits.  VA shall consider all information, lay and medical evidence of record in a case and when there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall give the benefit of the doubt to the claimant.  38 U.S.C.A. § 5107; Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).  To deny a claim on its merits, the weight of the evidence must be against the claim.  Alemany v. Brown, 9 Vet. App. 518, 519 (1996).
+
+In considering the evidence of record under the laws and regulations as set forth above, the Board concludes that the Veteran is not entitled to service connection for PTSD.
+
+The Veteran contends that he has PTSD as a result of an incident of personal assault by a member of the military during his period of active service.  See May 2012 VA examination; March 2013 substantive appeal. 
+
+Initially, the record does not reflect, and the Veteran does not contend that he engaged in combat with the enemy, has a combat-related stressor, or has a non-combat stressor related to fear of hostile military or terrorist activity.  Thus, the provisions of 38 U.S.C.A. § 1154(b) and 38 C.F.R. §§ 3.304(f)(2) and (3) are not applicable in this case.
+
+As it is not shown that the Veteran engaged in combat and none of the alleged stressors involve combat, the Veteran's assertions of service stressors are insufficient to establish the occurrence of such events.  Rather, his alleged service stressors must be established by official service records, or other credible supporting evidence.  38 C.F.R. § 3.304(f); Pentecost v. Principi, 16 Vet. App. 124 (2002); Fossie v. West, 12 Vet. App. 1 (1998); Cohen v. Brown, 10 Vet. App. 128 (1997); Doran v. Brown, 6 Vet. App. 283 (1994); see also VBA's Adjudication Procedure Manual, M21-1MR (hereinafter "M21-1MR"), Part III.iv.4.H.29.a, i.
+
+The Veteran's reported in-service stressor is that he was sexually assaulted in June 1962 while in Myrtle Beach, South Carolina.  The Veteran stated that after drinking excessively with military friends, he was sexually assaulted while passed out.  See May 2012 VA examination.  The Board notes that the Veteran also asserts non-service stressors, including being sexually assaulted by a family friend as a child, being attacked by three young men while working security, and having a car hit him from behind four times, as he rode on his motorcycle.  See May 2012 VA examination.
+
+Review of the record shows a diagnosis of PTSD.  See June 2010 VA treatment record.  However, the Board finds, that he does not have a stressor that meets the above requirements for verification.
+
+Regarding the military sexual trauma (MST), as discussed above, the Veteran's lay evidence needs some corroboration.  The evidence used to support the story can be medical records, police records, statements from the Veteran's family and friends, and changes in behavior, to include substance abuse, a request for a transfer to another military duty assignment, and unexplained changes in social behavior.
+
+The Veteran's post-service medical records do not mention the in-service personal assault until his June 2010 VA initial mental health assessment.  At that assessment, the Veteran indicated that he attempted suicide by overdosing on Thorazine in 1968, probably on the anniversary of the sexual assault.  The Veteran further stated that he has never been the same since that incident.  Additionally, the Veteran stated that he has had sleep problems and rage since the personal assault in 1963.  Moreover, the Veteran indicated that he was diagnosed with schizophrenia and discharged from the Army.  The Veteran's wife also stated that he has never really been able to sleep during the 30 years that she has known him and that his anger and rage used to be unbelievable until he quit drinking.  Importantly, the Veteran stated that the sexual assault was performed by a group of special forces members and that he never reported it.  At that initial health assessment the Veteran was diagnosed with having PTSD related to MST that occurred in November 1963.  
+
+However, the Veteran's service treatment records (STRs) shows no indication that the personal assault occurred.  In the Veteran's May 1961 entrance examination, the Veteran denied a history of relevant symptoms, including depression or excessive worry, nervous trouble of any sort, and treatment for a mental condition.  On examination, he was found to be psychiatrically normal.  The Veteran further denied experiencing any psychological issues in his March 1964 Report of Medical History at separation.  In that report the Veteran checked a box to indicate that he has never had depression or excessive worry.  Further, the Veteran indicated that he never had frequent trouble sleeping.  Moreover, the records do not show that the Veteran complained of any sexual trauma or any psychological issue while in service. 
+
+It is not until after service that the Veteran indicated that he had trouble sleeping.  The Veteran indicated that he had insomnia in January 2004.  See January 2004 private treatment record.
+
+Additionally, there are no medical records, police records, or changes in behavior that corroborate the Veteran's assertions.  While, there are statements from the Veteran's wife that he told her about the personal assault.  The Board notes that that the wife was unaware of the personal assault until June 2010, about 45 years after the Veteran left service.  See June 2010 VA treatment record.  Additionally, there is conflicting information in the record as to when and how the personal assault occurred.  The Veteran has indicated that he was attacked in June 1962 in Myrtle Beach by one attacker.  See May 2012 VA examination; April 2011 statement in support of claim.  However, there is also notation that the incident took place in Ft. Bragg in November 1963 and that it was a group attack.  See September 2012 Capri record; June 2010 VA treatment record.  Further, the Board notes that in March 2006, the Veteran stated that while in service he was forced to have sex with a prostitute.  However, it is unclear if the Veteran was referring to the same incident or not.  There is also conflicting information regarding the Veteran's action after service.  As stated above, the Veteran reported that he attempted to commit suicide in 1968, probably on the anniversary of the sexual assault.  However, the Veteran indicated during his May 2012 VA examination, that he only attempted suicide in 1973.
+
+The Board notes that the Veteran's claim has been alleged on the basis of in-service personal assault while in service.  The Veteran is certainly competent to report as to his observable symptoms and experiences.  In this case, however, as discussed above, the Board finds that the Veteran's reports of these incidents are not credible, as his statements in this regard have not remained consistent throughout the course of the claim.  Layno v. Brown, 6 Vet. App. 465 (1994); Buchanan v. Nicholson, 451 F.3d 1331 (Fed. Cir. 2006); Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); Caluza v. Brown, 7 Vet. App. 498, 511(1995).  
+
+In addition, the service records do not corroborate the Veteran's account of the stressor incident, and the record does not contain contemporaneous evidence from sources other than the service records.  The Veteran has indicated that he did not file a report of personal trauma during service.  He was provided an opportunity to submit or advise VA of the potential sources of evidence contemplated in 38 C.F.R. § 3.304(f)(5), but he did not provide any additional information or evidence in this regard.
+
+As to the potentially supporting in-service evidence, there is a notation in the Veteran's service personnel record that the Veteran was absent without official leave (AWOL) for three days in November of 1962.  The Veteran's DD-214 also contains a notation that the Veteran had 3 days lost in November of 1962.  However, there is no indication that the Veteran went AWOL as a result of the asserted personal assault that could have happened 5 months prior, depending on what identified timeframe is relied on as the date of the assault.  
+
+Further, the record also shows that the Veteran left the Special Forces.  The Veteran's wife has indicated that this occurred because of the physical assault.  See July 2011 correspondence.  However, the Veteran told the May 2012 VA examiner that he was getting increasingly scared about parachuting and did not enjoy it.  He also stated that he hurt his ankle twice while in jump school and did not want to continue.
+
+On review of the medical records, the Board finds that the May 2012 VA examination is the most probative medical evidence of record, as to the question of whether the Veteran's claimed personal assault stressor actually occurred.  The VA examiner opined that there is no evidence in his military record of markers related to MST.  The examiner stated that the Veteran sought treatment for a sprained ankle twice, sore throat, and cough consistently between 1961-1964 with no apparent increase in medical services after the asserted assault in 1962.  The examiner further stated that the Veteran reports a history of alcohol problems beginning prior to the assault with no significant change in pattern after 1962.  The Board affords substantial probative weight to this opinion, as it is based on review of the claims file, to include the Veteran's contentions and the medical evidence of record, an accurate characterization of the evidence of record, and supporting rationale.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295, 304 (2008) (most of the probative value of a medical opinion comes from its reasoning).  
+
+Although there are VA treatment records that show assessments of PTSD based on in-service personal assault, these determinations were made based on the Veteran's current reports of these events, which the Board has found not credible.  Thus, these opinions are of limited probative value on this question.  See Reonal v. Brown, 5 Vet. App. 458, 460-61 (1993) (opinion based on an inaccurate (or unsubstantiated) factual premise has no probative value).
+
+Based on the foregoing, the Board finds that the record does not contain credible supporting evidence that the claimed in-service personal assault stressor occurred.  Thus, the claim does not satisfy this element necessary for service connection, and no discussion of the remaining elements is necessary.  See Arzio v. Shinseki, 602 F.3d 1343, 1346 (Fed. Cir. 2010) (38 C.F.R. § 3.304(f) makes clear that credible evidence of an in-service stressor is a mandatory or compulsory element in any claim for disability compensation for PTSD).
+
+Regarding the remaining claimed stressors of being sexually assaulted by a family friend as a child, being attacked by three young men while working security, and having a car hit him from behind four times while riding his motorcycle in 2005 or 2006.  The record does not show, and the Veteran does not assert that any of these incidents happened while he was in-service.  As such, these claims do not satisfy this element necessary for service connection for PTSD, and no discussion of the remaining elements is necessary.  See 38 C.F.R. § 3.304(f).
+
+As the weight of the evidence is against the Veteran's claim, the benefit-of-the-doubt rule does not apply, and the claim is denied.  Gilbert, 1 Vet. App. 49, 53.
+
+In the present case, during the course of the appeal, the Veteran has been diagnosed with anxiety, chronic schizophrenia, and depression.  See October 2013 VA treatment record.  As such, the Board cannot limit its analysis of the Veteran's claim solely to PTSD.  That is, his claim potentially encompasses psychiatric conditions other than PTSD that are reasonably raised by the record. See Clemons v. Shinseki, 23 Vet. App. 1, 5 (2009) (holding that the scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record). 
+
+Nevertheless, upon review of the evidence of record, the Board finds that the Veteran is not entitled to service connection for an acquired psychiatric disorder other than PTSD.
+
+The Veteran meets the first requirement for any service-connection claim - proof of a current mental health disability.  Boyer v. West, 210 F.3d at 1353 (Fed. Cir. 2000); Brammer v. Derwinski, 3 Vet. App. 223 at 225 (1992).  However, as stated above, the Veteran's in-service medical records show no indication of any psychiatric disorder.  In fact, the Veteran denied experiencing any psychological issues in his March 1964 Report of Medical History.  In that report the Veteran checked a box to indicate that he has never had depression or excessive worry.  
+
+Further, the evidence does not show that there was a preexisting psychiatric disorder that was aggravated by his military service.  38 U.S.C.A. §§ 1111, 1153 (West 2014); 38 C.F.R. §§ 3.304, 3.306 (2015).  See also Quirin v. Shinseki, 22 Vet. App. 390, 396 (2009); Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004); VAOPGCPREC 3-2003.  The Veteran did state that, a family friend sexually assaulted him as a child.  See May 2012 VA examination.  Further, the Veteran's wife indicated that the Veteran was "messed up as a child."  See March 1989 correspondence.  However, there is no diagnosis of a psychiatric disorder prior to service.  Further, at his 1961 entrance examination the Veteran noted that he has never had depression or excessive worry, never been a patient in a mental hospital, and his psychiatric evaluation was noted as normal.  As such, it cannot be said that the evidence clearly and unmistakably shows that the Veteran had a preexisting psychiatric disorder.  Therefore, the Board's analysis must turn to the issue of whether a current psychiatric disorder was incurred during the Veteran's active service.  See Wagner v. Principi, 370 F.3d 1089, 1094- 1096 (Fed. Cir. 2004) (indicating that, in cases where the presumption of soundness cannot be rebutted, the effect is that claims for service connection based on aggravation are converted into claims for service connection based on service incurrence).  VAOPGCPREC 3-2003 (July 16, 2003).  The Court also held that, before the presumption of soundness is for application, there must be evidence that a disease or injury - that was not noted upon entrance into service - manifested or was incurred in service.  Gilbert v. Shinseki, 26 Vet. App. 48, 52 (2013).  In this present case, there is no probative evidence that a psychiatric disorder manifested during service.  
+
+As stated above, service connection requires competent evidence showing: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service - the so-called "nexus" requirement.  Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). 
+
+Here, as discussed above, there is no competent evidence showing an in-service incurrence or aggravation of any of the Veteran's diagnosed psychiatric disorders.  Further, the Veteran's current psychiatric disorders have not been linked to his military service.  Thus, the claim does not satisfy the second element necessary for service connection, and no discussion of the remaining elements is necessary. 
+
+As the weight of the evidence is against the Veteran's claim, the benefit-of-the-doubt rule does not apply, and the claim is denied.  Gilbert, 1 Vet. App. 49, 53.
+
+
+ORDER
+
+Entitlement to service connection for an acquired psychiatric disorder, to include PTSD, is denied.
+
+
+
+
+
+
+____________________________________________
+GAYLE E. STROMMEN
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

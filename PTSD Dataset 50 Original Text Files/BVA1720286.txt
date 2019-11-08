@@ -1,0 +1,112 @@
+Citation Nr: 1720286	
+Decision Date: 06/07/17    Archive Date: 06/21/17
+
+DOCKET NO.  13-05 153	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Seattle, Washington
+
+
+THE ISSUE
+
+Service connection for an acquired psychiatric disorder, to include major depressive disorder and posttraumatic stress disorder (PTSD).  
+
+
+REPRESENTATION
+
+Appellant represented by:	Dennis W. Mills, Agent
+
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran (Appellant)
+
+
+ATTORNEY FOR THE BOARD
+
+J. Ragheb, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran, who is the appellant, served on active duty from August 1988 to August 1992, from October 1994 to March 1995, from February 2004 to September 2004, from December 2004 to May 2005, and from May 2005 to September 2006.  
+
+This case comes before the Board of Veterans' Appeals (Board) on appeal from an April 2009 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO) in Seattle, Washington.
+
+In January 2016, the Veteran testified at a videoconference Board hearing before the undersigned Veterans Law Judge (VLJ).  The hearing transcript has been associated with the claims file.  
+
+The Board notes that a January 1994 rating decision denied service connection for anxiety and nervousness.  The Veteran's current claim for an acquired psychiatric disorder is based on new diagnoses of PTSD and depression; therefore, the current claim for an acquired psychiatric disorder, to include PTSD and depression, is a new claim and not a reopening of service connection for anxiety and nervousness, which was denied in the January 1994 rating decision.  See Ephraim v. Brown, 
+82 F.3d 399 (Fed. Cir. 1996) (holding that a claim based on a new diagnosis is a new claim); Boggs v. Peake, 520 F.3d 1330 (Fed. Cir. 2008) (holding that a claim for one diagnosed disease or injury cannot be prejudiced by a prior claim for a different diagnosed disease or injury, when it is an independent claim based on distinct factual bases).
+
+In March 2016, the Board remanded the issue on appeal to the Agency of Original Jurisdiction (AOJ) in order to verify the Veteran's service in Southwest Asia during Operation Desert Storm.  Because the above-referenced development has been completed, the Board finds that the AOJ substantially complied with the March 2016 Board remand directives.  See Dyment v. West, 13 Vet. App. 141, 146-47 
+
+(1999) (remand not required under Stegall v. West, 11 Vet. App. 268 (1998), where the Board's remand instructions were substantially complied with), aff'd, Dyment v. Principi, 287 F.3d 1377 (Fed. Cir. 2002).  
+
+
+FINDINGS OF FACT
+
+1. The Veteran has current acquired psychiatric disabilities of PTSD and major depressive disorder. 
+
+2. The Veteran's acquired psychiatric disability, which preexisted service, worsened beyond normal progression during service.
+
+
+CONCLUSION OF LAW
+
+Resolving reasonable doubt in the Veteran's favor, the criteria for service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder, have been met.  38 U.S.C.A. §§ 1110, 1131, 1153, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.306 (2016).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+Duties to Notify and Assist
+
+The Veterans Claims Assistance Act of 2000 (VCAA) enhanced VA's duties to notify and assist claimants in substantiating their claims for VA benefits.  
+38 U.S.C.A. §§ 5100, 5102, 5103, 5103A, 5107, 5126 (West 2014); 38 C.F.R. 
+§§ 3.102, 3.156(a), 3.159, 3.326(a) (2016).  Upon receipt of a complete or substantially complete application for benefits, VA is required to notify the claimant and the representative of any information, and any medical or lay evidence, that is necessary to substantiate the claim.  38 U.S.C.A. § 5103(a); 38 C.F.R. § 3.159(b).   In this case, the Board is granting service connection an acquired psychiatric disability, which constitutes a full grant of the benefit sought on appeal with respect to this claim.  As there remains no aspect of this claim to be further substantiated, there is no further VCAA duty to notify or assist, or to explain compliance with VCAA duties to notify and assist.  See Bernard v. Brown, 4 Vet. App. 384, 394 (1993).
+
+Service Connection Legal Authority
+
+Under the relevant laws and regulations, service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active military, naval, or air service.  38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  As a general matter, service connection may be established for any disease diagnosed after discharge when the evidence establishes that the disease was incurred in service.  38 C.F.R. § 3.303(d).  This has been interpreted as a three-element test: (1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred in or aggravated by service.  See Holton v. Shinseki, 557 F.3d 1363, 1366 (Fed. Cir. 2009).
+
+A veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service except as to defects, infirmities, or disorders noted at the time of examination, acceptance, enrollment, or where clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.  38 U.S.C.A. § 1111 (West 2014); 38 C.F.R. § 3.304 (2016).
+
+A preexisting injury or disease will be considered to have been aggravated by active service where there is an increase in disability during such service, unless there is a specific finding that the increase in disability is due to the natural progress of the disease.  38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner v. Principi, 370 F.3d 1089, 1096 (Fed. Cir. 2004).  Clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation where the preservice disability underwent an increase in severity during service.  38 C.F.R. § 3.306.  Aggravation may not be conceded where the disability underwent no increase in severity during service on the basis of all the evidence of record pertaining to the manifestations of the disability prior to, during, and subsequent to service. 
+38 C.F.R. § 3.306. 
+
+In explaining the meaning of an increase in disability, the United States Court of Appeals for Veterans Claims (Court) has held that "temporary or intermittent flare-ups during service of a preexisting injury or disease are not sufficient to be considered 'aggravation in service' unless the underlying condition, as contrasted to symptoms, is worsened."  Hunt v. Derwinski, 1 Vet. App. 292, 297 (1992); see also Davis v. Principi, 276 F.3d 1341, 1346 (Fed. Cir. 2002) (explaining that, for non-combat veterans, a temporary worsening of symptoms due to flare ups is not evidence of an increase in disability).  However, the increase need not be so severe as to warrant compensation.  Browder v. Derwinski, 1 Vet. App. 204, 207 (1991).
+
+Of note is that the burdens and evidentiary standard to determine whether conditions noted at entrance into service were aggravated by service are different than the burdens and evidentiary standard to determine whether conditions not noted at entrance into service were aggravated.  If a preexisting condition noted at entrance into service is not shown to have as likely as not increased in severity during service, the analysis stops.  Only if such condition is shown by an as likely as not standard to have increased in severity during service does the analysis continue.  In such cases, the increase is presumed to have been due to service unless there is clear and unmistakable evidence that the increase during service was not beyond the natural progression of the condition.  See 38 C.F.R. § 3.306.
+
+Lay assertions may serve to support a claim for service connection by establishing the occurrence of observable events or the presence of disability or symptoms of disability subject to lay observation.  See Jandreau v. Nicholson, 492 F.3d 1372 (Fed. Cir. 2007); see also Buchanan v. Nicholson, 451 F.3d 1331, 1336 (Fed. Cir. 2006) (addressing lay evidence as potentially competent to support presence of disability even where not corroborated by contemporaneous medical evidence).  The Federal Circuit has clarified that lay evidence can be competent and sufficient to establish a diagnosis or etiology when (1) a lay person is competent to identify a medical condition; (2) the lay person is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  Davidson v. Shinseki, 581 F.3d 1313, 1316 (Fed. Cir. 2009); Jandreau, 492 F.3d 1372.
+
+The Board has reviewed all the evidence in the record.  Although the Board has an obligation to provide adequate reasons and bases supporting this decision, there is no requirement that the evidence submitted by the appellant or obtained on his or her behalf be discussed in detail.  Rather, the Board's analysis below will focus specifically on what evidence is needed to substantiate the claim and what the evidence in the claims file shows, or fails to show, with respect to the claim.  See Gonzales v. West, 218 F.3d 1378, 1380-81 (Fed. Cir. 2000) and Timberlake v. Gober, 14 Vet. App. 122, 128-30 (2000).
+
+Service Connection for an Acquired Psychiatric Disorder
+
+The Veteran contends that service connection is warranted because an acquired psychiatric disorder is related to service.  Specifically, the Veteran asserted that he was in Operation Desert Storm where he encountered dead and charred bodies of Iraqi troops near the border between Iraq and Kuwait, which caused him to be depressed.  See, e.g., January 2016 Board hearing transcript.  The Veteran stated that he was in Desert Storm from December 1990 to May 1991.  
+
+The Board finds that the Veteran has a current acquired psychiatric disability.  The March 2009 VA examination report shows a diagnosis of major depressive disorder, and the January 2013 VA examination report shows a diagnosis of PTSD.  
+
+After a review of all the evidence, both lay and medical, the Board finds that the evidence is in relative equipoise on the question of whether the acquired psychiatric disability, which preexisted service, was aggravated by active service.  The January 2013 VA examiner opined that the Veteran clearly and unmistakably had PTSD prior to military service, and that PTSD was permanently aggravated by military service as evidence by the increase and/or change in some of his current PTSD symptoms.  The January 2013 VA examiner explained that aggravation consists of symptoms, such as nightmares about military experiences and increase in hypervigilance as evidenced by checking the perimeter at home and being wary of people at restaurants.  The January 2013 VA examiner noted that depression was a symptom of the PTSD.  In an April 2013 addendum opinion, the VA examiner indicated that she could not verify the claimed stressors by reviewing the information provided in the claims file; however, service personnel records confirm service in Southwest Asia during Desert storm.  Resolving reasonable doubt in the Veteran's favor on the question of aggravation by service, the Board finds that the acquired psychiatric disability worsened during service.
+
+Because the evidence shows worsening occurred during service, and there is no specific finding that the increase in disability is due to the natural progress of the disease, clear and unmistakable evidence (obvious or manifest) is required to rebut the presumption of aggravation.  38 U.S.C.A. § 1153; 38 C.F.R. § 3.306; Wagner, 370 F.3d at 1096.  The Board finds that the evidence in this case is not clear and unmistakable to show that aggravation of the pre-existing acquired psychiatric disability did not occur in service; therefore, the Board finds that the preexisting acquired psychiatric disability was aggravated by service, that is, that the acquired
+psychiatric disability worsened beyond its normal progression during service to warrant service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder.  38 U.S.C.A. § 1153; 38 C.F.R. § 3.306.
+
+
+ORDER
+
+Service connection for an acquired psychiatric disability, to include PTSD and major depressive disorder, is granted.
+
+
+
+
+____________________________________________
+J. PARKER
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

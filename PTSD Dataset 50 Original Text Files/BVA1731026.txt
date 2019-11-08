@@ -1,0 +1,125 @@
+Citation Nr: 1731026	
+Decision Date: 08/03/17    Archive Date: 08/11/17
+
+DOCKET NO.  13-22 042A	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in St. Petersburg, Florida
+
+
+THE ISSUE
+
+Entitlement to service connection for an acquired psychiatric disorder, including post-traumatic stress disorder (PTSD) and dysthymia.
+
+
+ATTORNEY FOR THE BOARD
+
+Rachel E. Jensen, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran served on active duty in the United States Army from September 1967 to September 1969.
+
+This matter comes to the Board of Veterans' Appeals (Board) on appeal from a February 2011 rating decision by the Department of Veterans Affairs (VA) Regional Office (RO) in St. Petersburg, Florida.
+
+In his August 2013 substantive appeal, the Veteran requested a hearing; however, in September 2015, he withdrew that request.
+
+
+FINDINGS OF FACT
+
+1.  The Veteran has been diagnosed throughout the appeal period with PTSD, major depression, generalized anxiety disorder, panic disorder, and rule-out dysthymia.
+
+2.  The Veteran did not engage in combat with the enemy and there is no credible evidence corroborating any of his alleged in-service stressors.
+
+3.  The medical evidence of record does not show that an acquired psychiatric disorder is etiologically related to any disease, injury, or incident in service.
+
+
+CONCLUSION OF LAW
+
+The criteria for service connection for an acquired psychiatric disorder, including PTSD and dysthymia, have not been met.  38 U.S.C.A. § 1110, 1131, 5103, 5103A, 5107 (West 2014); 38 C.F.R. §§ 3.102, 3.303, 3.304(f), 3.307, 3.309, 3.310, 4.125 (2016).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+The Board acknowledges that the Veteran receives Social Security disability benefits and that there are no Social Security Administration (SSA) medical records associated with the claims file.  However, the Veteran has indicated that he receives these benefits and ceased working due to a nonservice-connected back injury that resulted from a traffic accident.  VA is required to obtain relevant SSA records which are (1) those records that relate to the injury for which the appellant is seeking benefits, and (2) have a reasonable possibility of helping to substantiate the claim.  Golz v. Shinseki, 590 F.3d 1317 (Fed. Cir. 2010); Murincsak v. Derwinski, 2 Vet. App. 363 (1992).  As the Veteran's SSA records pertain to an unrelated injury and do not have a reasonable possibility of helping to substantiate his PTSD or dysthymia claim, it is not necessary to obtain these records.  
+
+Neither the Veteran nor his representative has raised any other issues with the duty to notify or duty to assist.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to a duty to assist argument).
+
+The Veteran contends that his currently-diagnosed PTSD was caused by incidents in service, namely that he feared being deployed to the Republic of Vietnam during wartime, he heard about and saw pictures of many people being killed in service there, and that he observed a fight while stationed in Germany that resulted in one man stabbing and killing another.
+
+Service connection may be granted if the evidence demonstrates that a current disability resulted from an injury or disease incurred or aggravated in active military service.  This means that the facts establish that a particular injury or disease resulting in disability was incurred coincident with service in the Armed Forces, or if preexisting such service, was aggravated therein.  38 U.S.C.A. §§ 1110, 1131; 38 C.F.R. § 3.303(a).  
+
+Generally, in order to prove service connection, there must be competent, credible evidence of (1) a current disability, (2) in-service incurrence or aggravation of an injury or disease, and (3) a nexus, or link, between the current disability and the in-service disease or injury.  See, e.g., Davidson v. Shinseki, 581 F.3d 1313 (Fed. Cir. 2009); Pond v. West, 12 Vet. App. 341 (1999).
+
+Alternatively, service connection may be established under 38 C.F.R. § 3.303(b) by (a) evidence of (i) the existence of a chronic disease in service or during an applicable presumption period under 38 C.F.R. § 3.307 and (ii) present manifestations of the same chronic disease, or (b) when a chronic disease is not present during service, evidence of continuity of symptomatology.  The provisions of 38 C.F.R. § 3.303(b) relating to continuity of symptomatology can be applied only in cases involving those conditions explicitly recognized as chronic under 38 C.F.R. § 3.309(a). Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).  While "psychoses" are one of the enumerated conditions, for the purposes of 38 C.F.R. § 3.309(a), the term "psychosis" only includes diagnoses of brief psychotic disorder, delusional disorder, psychotic disorder due to general medical condition, psychotic disorder not otherwise specified, schizoaffective disorder, schizophrenia, schizophreniform disorder, shared psychotic disorder, and substance-induced psychotic disorder.  38 C.F.R. § 3.384 (2016).  As the Veteran's diagnoses of record do not reflect psychoses, service connection on a presumptive basis as a chronic disease is not warranted.
+
+Service connection for a disability may also be established based on aggravation of disease or injury which preexisted service when there is an increase in disability during service unless the increase is due to the natural progress of the disease.  38 U.S.C.A. § 1153 (West 2014); 38 C.F.R. § 3.306(a) (2016).  Establishing service connection for a disability based on aggravation requires (1) evidence sufficient to show that a disease or injury preexisted service; (2) evidence showing an increase in disability during service sufficient to raise a presumption of aggravation of the disability; and (3) an absence of clear and unmistakable evidence to rebut the presumption of aggravation which may include evidence showing that the increase in severity was due to the natural progress of the disability.  38 C.F.R. § 3.306(b) (2016).  Concerning item (1), a disorder may be shown to have preexisted service if it is noted at entrance into service or where clear and unmistakable evidence rebuts a legal presumption of sound condition at entrance for disorders not noted at entrance.  See Cotant v. Principi, 17 Vet. App. 116, 131 (2003) (stating that the clear and unmistakable evidentiary standard is an "onerous" evidentiary standard, requiring that the preexistence of a condition and the no-aggravation result be "undebatable").  History provided by the Veteran at his VA examination and in treatment notes indicates several pre-service stressors.  This in and of itself, without medical records of treatment or diagnosis, does not constitute clear and unmistakable evidence that a condition preexisted service.
+
+Service connection for PTSD requires medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a); a link, established by medical evidence, between the current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  See 38 C.F.R. §§ 3.304(f), 4.125 (2016); see also Cohen v. Brown, 10 Vet. App. 128, 140 (1997). 
+
+With regard to medical evidence of a diagnosis of PTSD in accordance with 38 C.F.R. § 4.125(a), this regulation provides that, for VA purposes, all mental disorder diagnoses must conform to the Fourth Edition of the American Psychiatric Association's Diagnostic and Statistical Manual for Mental Disorders (DSM-IV). The Board notes that the DSM-IV has been recently updated with a Fifth Edition (DSM-V), and VA has issued a final rule amending certain provisions in the regulations to reflect this update, including 38 C.F.R. § 4.125(a).  79 Fed. Reg. 45093.  However, the amendments only apply to applications that are received by VA or are pending before the agency of original jurisdiction on or after August 4, 2014, and do not apply to appeals, such as the instant claim, that were pending prior to that date.  Id. 
+
+Concerning the requirement that there be credible supporting evidence that the claimed in-service stressor occurred, section 3.304(f) sets forth circumstances that are exceptions to this rule and allow a claimant's lay testimony, alone, to establish the occurrence of the alleged stressor. 
+
+In the first circumstance, if the evidence establishes a diagnosis of PTSD during service and the claimed stressor is related to that service, in the absence of clear and convincing evidence to the contrary, and provided the stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(1). 
+
+In the second circumstance, if the evidence establishes that the veteran engaged in combat with the enemy and the claimed stressor is related to that combat, in the absence of clear and convincing evidence to the contrary, and provided the stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(2).
+
+In the third circumstance, if a stressor claimed by a veteran is related to his "fear of hostile military or terrorist activity" and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms the claimed stressor is adequate to support a diagnosis of PTSD and that the veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(3). 
+
+In the fourth circumstance, if the evidence establishes the veteran was a prisoner-of-war (POW) under the provisions of section 3.1(y) of the regulations, and the claimed stressor is related to that POW experience, in the absence of clear and convincing evidence to the contrary, and provided the stressor is consistent with the circumstances, conditions, or hardships of the veteran's service, the veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  38 C.F.R. § 3.304(f)(4).
+
+And in the fifth circumstance, if a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident.  38 C.F.R. § 3.304(f)(5).
+
+Here, the Veteran does not claim and there is no evidence otherwise showing that he engaged in combat with the enemy or was a prisoner of war.  He has also not identified a stressor related to fear of hostile military or terrorist activity, nor has he alleged occurrence of an in-service personal assault.  Finally, the Veteran's service treatment records (STRs) do not show diagnoses of PTSD or a related diagnosis such as anxiety disorder or "shell shock."  Accordingly, none of the above exceptions under section 3.304(f) apply.  Therefore, the Veteran's statements alone are not sufficient to establish an in-service stressor, but must be corroborated by credible supporting evidence.  See Dizoglio v. Brown, 9 Vet. App. 163, 166 (1996); accord Moreau v. Brown, 9 Vet. App. 389, 394-95 (1996); see also Cohen v. Brown, 10 Vet. App. at 146-47.
+
+The available evidentiary sources for corroboration of a claimed stressor are not limited to service records (as required prior to the adoption of 38 C.F.R. § 3.304(f)), but may also include other sources of evidence. See Cohen, supra (citing to M21-1, Part VI, para 7.46(f) (Sept. 21, 1992); M21-1, Subch. XII, para 50.45(d) (1989)). 
+
+Corroboration of every detail of the stressor is not required.  Pentecost v. Principi, 16 Vet. App. 124, 128 (2002).  Moreover, a veteran's actual presence during the stressor event need not be specifically corroborated if the evidence shows that he was assigned to and stationed with a unit that was present when a reported event that has otherwise been verified occurred; such evidence strongly suggests actual exposure to the stressor event.  Id. 
+
+In general, "after-the-fact medical nexus evidence," such as a VA examiner's finding that a claimant's PTSD was caused by the alleged in-service stressor, cannot by itself serve as credible supporting evidence of the claimed in-service stressor.  See Moreau v. Brown, 9 Vet. App. at 396. 
+
+In determining whether service connection is warranted for a disability, VA is responsible for determining whether the evidence supports the claim or is in relative equipoise, with the veteran prevailing in either event, or whether a preponderance of the evidence is against the claim, in which case the claim is denied.  Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  To do so, the Board must assess the credibility and weight of all the evidence, including the medical evidence, to determine its probative value, accounting for evidence that it finds to be persuasive or unpersuasive, and providing reasons for rejecting any evidence favorable to the veteran.  See Masors v. Derwinski, 2 Vet. App. 181 (1992).  When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the benefit of the doubt shall be given to the claimant.  38 U.S.C.A. § 5107(b).
+
+As regards the Veteran's current psychiatric disorder, the probative evidence of record include his STRs, service personnel records, VA treatment records, private medical opinions, lay statements, and a VA examination opinion. 
+
+The Veteran's October 1966 pre-induction examination report indicated no psychiatric disorders.  His STRs are silent as to any psychiatric complaint or treatment.  His July and October 1969 exit examination reports do not contain any notations regarding PTSD, dysthymia, depression, or any psychiatric disorder.  The Veteran's military personnel records indicate that his military occupational specialty was truck vehicle mechanic but do not indicate that he was involved in combat and do not corroborate the stabbing incident claimed.
+
+In May 1988, the Veteran underwent a psychological consultation where he stated that during his time in service, he was constantly afraid he would be sent to Vietnam, and that since discharge, he has had a violent temper characterized by smashing or throwing things when he gets really angry, grabbing his wife, fighting while drinking, night sweats, and nightmares.  The Veteran also reported several pre-service stressors, and noted current stressors of family problems, financial problems, and the inability to work due to a back injury.  The clinician noted that his thoughts were rational and relevant with no evidence of cognitive dysfunction or psychosis.  He was diagnosed with rule out PTSD and rule out dysthymia.
+
+The Veteran's private psychologist first examined him in January 1998 and diagnosed major depression, single episode, and generalized anxiety disorder.  He also began medication management of the Veteran's symptoms.  In an April 2010 letter, he stated that the Veteran suffered from recurrent major depression and PTSD.  The Veteran had reported to him that during his two years in the Army he spent forty days training in preparation to go to Vietnam, but was never sent there.  He stated that he witnessed events in service that were very traumatic, including seeing someone stabbed in front of him.  He reported that he had been struggling with depression and anxiety since his tour in the military, and had experienced nightmares, intrusive memories of traumatic events, social isolation, and hyperarousal symptoms.  The clinician noted he was currently taking Ativan, Restoril, Zoloft, and Trazodone for his symptoms.
+
+The Veteran underwent a VA psychiatric examination in February 2011 at which time he reported that he was told to come to the examination and never thought he had PTSD.  The examiner explained the current lack of a military stressor, and the Veteran agreed.  Additionally he did not endorse PTSD symptoms.  He reported he had been a "loner" and had significant family stressors pre-service.  The clinician referred to a 2001 evaluation in which stressors reported to evaluators included family issues, unresolved grief from childhood, and anger over not getting money when his father died.  A long history of alcohol and drug use caused many problems including fights and explosive anger.  The Veteran identified pain as his reason for depression.  .  Poor physical health was listed as his current stressor.  It was also noted that the Veteran was receiving Social Security disability benefits due to a 1983 accident and the resulting injury when working as a truck driver.  
+
+The clinician concluded that the Veteran did not have a military stressor for PTSD, and that he had extensive problems related to pre-military and post-military life circumstances.  She stated that fearing possible deployment, hearing about people getting killed, and seeing pictures of dead bodies did not meet the criteria of a sufficient stressor per the DSM-IV.  She also referenced the opinion and records from the Veteran's private psychologist and noted that he was being treated by him for depression due to the stressor of pain.  The clinician concluded that the Veteran's diagnoses of depression and panic disorder were the result of nonmilitary stressors and that there was nothing to link his current diagnosis of depression with a history of dysthymia to the military.  Any depressive symptoms were due to the pain from his back injury.  He was diagnosed with depression, secondary to pain and panic disorder.  
+
+Although the Veteran's private psychologist discussed the Veteran's military service and the events and symptoms reported to him, he did not specifically relate the Veteran's psychiatric symptoms to his military service in his April 2010 letter.  Thus, the Board finds that the VA examiner's opinion, which discusses and evaluates all of the stressors identified by the Veteran, including military and nonmilitary stressors, more probative regarding etiology.
+
+In February 2010, March 2010, and September 2010, the Veteran was sent letters from VA, complying with the Veteran Claims Assistance Act, indicating what information was need to establish service connection for PTSD and for dysthymia.  To date, the Veteran has not supplied the information requested, specifically the date and place of the stabbing incident, the unit of assignment at the time of the incident, and a detailed description of the event, including who was involved.  Accordingly, in June 2013, a VA memorandum was issued declaring a formal finding on a lack of information required to verify stressors in connection to the PTSD claim.  The information required to verify the stressor described by the Veteran was insufficient to send to the Joint Services Records Research Center (JSRRC).
+
+The Board concludes that the Veteran does not have a verified military stressor.  Fearing deployment and hearing stories of people dying or seeing pictures of dead bodies do not meet the clinical criteria for a PTSD stressor.  The Veteran has not provided any further information to attempt verification of the stabbing incident he reported.  The duty to assist is not always a one-way street.  If a veteran wishes help, he cannot passively wait for it in those circumstances where he may or should have information that is essential in obtaining the putative evidence.  Wood v. Derwinski, 1 Vet. App. 190, 193 (1991).  Regardless, the Veteran was not directly involved in this incident and there was no fear of hostile military activity.  Thus, the reported stressors do not meet the criteria for PTSD service connection.
+
+Additionally, service connection for a psychiatric disorder other than PTSD is not warranted.  The Veteran has been diagnosed with rule out dysthymia, major depression, generalized anxiety disorder, and panic disorder.  His STRs are silent for any complaints or treatment of any psychiatric disorder.  The first time the Veteran was evaluated was in May 1988 and he first sought treatment in January 1998.  Therefore, there is nothing to link his current diagnoses to his military service.  Further, many non-service life circumstances have been identified as causes of his depression and other symptoms.  As such, service connection for an acquired psychiatric disorder is not merited.
+
+
+The preponderance of the evidence is thus against a finding that PTSD or a psychiatric disorder was incurred in service and the Veteran's claim must be denied. The benefit-of-doubt rule does not apply when the Board finds that a preponderance of the evidence is against the claim.  Ortiz v. Principi, 274 F. 3d 1361, 1365 (Fed. Cir. 2001).
+
+
+ORDER
+
+Service connection for a psychiatric disorder, to include PTSD and dysthymia, is denied.
+
+
+
+____________________________________________
+H.M. WALKER
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+
