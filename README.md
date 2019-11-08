@@ -1,5 +1,5 @@
 # VetClaims-JSON
-This repository contains analyzed disability-claim decisions issued by the Board of Veterans' Appeals ("BVA") of the U.S. Department of Veterans Affairs. These <b>analyzed decisions</b> are referred to as decision models, and they are contained in a JSON format. The analysis consists of classifying sentences in those decisions according to their rhetorical role (see explanation below). These decisions are <b>found in the folder "BVA Decisions JSON Format"</b>.
+This repository contains analyzed disability-claim decisions issued by the Board of Veterans' Appeals ("BVA") of the U.S. Department of Veterans Affairs. These <b>analyzed decisions</b> are referred to as decision models, and they are contained in a JSON format. These decision models were created by the Research Laboratory for Law, Logic and Technology (<b>LLT Lab</b>) at the Maurice A. Deane School of Law at Hofstra University, in New York. The analysis consists of classifying sentences in those decisions according to their rhetorical role (see explanation below). These decisions are <b>found in the folder "BVA Decisions JSON Format"</b>.
 
 Also in this repo is <b>a folder containing the protocols</b> (guidelines, criteria) for classifying a sentence as being of a particular semantic type (rhetorical role).
 
