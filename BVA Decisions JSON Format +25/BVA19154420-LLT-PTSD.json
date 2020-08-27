@@ -1,0 +1,983 @@
+{
+    "caseNumber": "19154420",
+    "caseInfo": {
+        "guidKey": "3c1b58de-c8e5-4180-c9a4-c9e53d4a14d6",
+        "name": "19154420",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T16:10:45.560Z",
+        "fileName": "BVA19154420-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19154420P1S1",
+            "text": "Citation Nr: 19154420",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P2S1",
+            "text": "Decision Date: 07/16/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P2S2",
+            "text": "Archive Date: 07/15/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P3S1",
+            "text": "DOCKET NO. 18-45 612",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P4S1",
+            "text":"DATE: July 16, 2019",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P6S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P6S2",
+            "text": "Service connection for posttraumatic stress disorder (PTSD) is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P8S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P8S2",
+            "text": "Service connection for major depressive disorder (MDD) with psychotic features is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P10S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P10S2",
+            "text": "Service connection for sleep apnea is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P12S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P12S2",
+            "text": "Entitlement to total disability based on individual unemployability due to service-connected disabilities (TDIU) is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P13S1",
+            "text": "FINDINGS OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P14S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P14S2",
+            "text": "The Veteran has current diagnosis of PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P15S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P15S2",
+            "text": "The claimed stressor did not involve combat or fear of hostile military or terrorist activity.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P16S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P16S2",
+            "text": "An in-service stressor sufficient to cause PTSD has not been verified or corroborated by evidence of record.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P17S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P17S2",
+            "text": "The Veteran has a current diagnosis of MDD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P18S1",
+            "text": "5.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P18S2",
+            "text": "The Veteran’s MDD did not begin in service and is not causally or etiologically related to service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P19S1",
+            "text": "6.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P19S2",
+            "text": "The Veteran does not have a current sleep apnea diagnosis.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P20S1",
+            "text": "7.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P20S2",
+            "text": "Service connection has not been established for any disability.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P21S1",
+            "text": "CONCLUSIONS OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P22S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P22S2",
+            "text": "The criteria for service connection for PTSD have not been met.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P22S3",
+            "text": "38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 4.125.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P23S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P23S2",
+            "text": "The criteria for service connection for MDD have not been met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P23S3",
+            "text": "38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P24S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P24S2",
+            "text": "The criteria for sleep apnea have not been met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P24S3",
+            "text": "38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P25S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P25S2",
+            "text": "The criteria for a TDIU have not been met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P25S3",
+            "text": "38 U.S.C. §§ 1155, 5103, 5103A, 5107; 38 C.F.R. §§ 3.340, 3.341, 4.15, 4.16, 4.18, 4.19.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P26S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P27S1",
+            "text": "The Veteran served on active duty in the United States Navy from July 13, 1964 to August 21, 1964 in Peacetime and during the beginning of the Vietnam War Era.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P28S1",
+            "text": "After one and a half weeks of service and during Navy training, the Veteran had an asthma attack, which led to a medical discharge shortly thereafter.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P29S1",
+            "text": "This matter is before the Board of Veterans’ Appeals (Board) on appeal from two rating decisions (RDs), dated July 2015 and February 2017.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P29S2",
+            "text": "The July 2015 RD denied service connection for PTSD, and the February 2017 RD denied service connection for sleep apnea and TDIU.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P29S3",
+            "text": "The Veteran timely filed a June 2016 notice of disagreement regarding the PTSD claim, and an April 2017 notice of disagreement regarding the sleep apnea and TDIU claims.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P29S4",
+            "text": "Two statements of the case (SOC) were issued in August 2018, denying all three claims, and the Veteran substantively appealed the three claims in September 2018.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P29S5",
+            "text": "The appeal was certified to the Board in October 2018, and the Veteran declined a Board hearing.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P29S6",
+            "text": "This matter now is timely before the Board for disposition.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P30S1",
+            "text": "The Board here recharacterizes the PTSD claim to include an additional claim for service connection for a psychiatric disorder other than PTSD—major depressive disorder—in accordance with the United States Court of Appeals for Veterans Claims.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P30S2",
+            "text": "See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (holding that a claim for benefits for one psychiatric disability also encompassed benefits based on other psychiatric diagnoses and should be considered by the Board to be within the scope of the filed claim).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P31S1",
+            "text": "In March and May 2019 letters, the Veteran’s attorney informed VA that he had not received the January 2019 notice of docketing or the two August 2018 SOCs by mail.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P31S2",
+            "text": "The attorney further stated that he became aware of the filings after he reviewed VA’s case filing system, VBMS.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P31S3",
+            "text": "He requested that VA note an address change, of which he had previously informed VA.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P31S4",
+            "text": "As the attorney now has seen the documents, the Veteran has not been prejudiced.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P31S5",
+            "text": "In the March 2019 letter, the attorney waived a 90-day hold for additional evidence submission.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P32S1",
+            "text": "Service Connection Legal Criteria",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P33S1",
+            "text": "Direct service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P33S2",
+            "text": "38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P33S3",
+            "text": "Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P33S4",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P33S5",
+            "text": "Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P33S6",
+            "text": "38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P34S1",
+            "text": "Secondary service connection may be established for a disability that is proximately due to or the result of service-connected disease or injury.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P34S2",
+            "text": "In such instance, service connection shall be granted as secondary to the disability for which VA benefits were initially established.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P34S3",
+            "text": "38 C.F.R. § 3.310(a); see Harder v. Brown, 5 Vet. App. 183, 187 (1993).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P34S4",
+            "text": "The Veteran may also obtain compensation for the aggravation of a nonservice-connected condition by a service-connected disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P34S5",
+            "text": "See 38 C.F.R. § 3.310(a); see Allen v. Brown, 7 Vet. App. 439, 448 (1995).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P35S1",
+            "text": "To prevail under a theory of secondary service causation, the record must show (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical nexus evidence establishing a connection between the current disability and the service-connected disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P35S2",
+            "text": "Wallin v. West, 11 Vet. App. 509, 512 (1998); Reiber v. Brown, 7 Vet. App. 513, 516-17 (1995).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P35S3",
+            "text": "Any increase in the severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disability, will be itself service connected.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P35S4",
+            "text": "38 C.F.R. § 3.310(b).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P36S1",
+            "text": "Service connection for PTSD requires the following three elements: (1) a current medical diagnosis of PTSD (presumed to include the adequacy of the PTSD symptomatology and the sufficiency of a claimed in-service stressor in accordance with 38 C.F.R. § 4.125(a)); (2) credible supporting evidence that the claimed in-service stressor occurred; and (3) medical evidence of a causal relationship between the current symptomatology and the specific claimed in-service stressor.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P36S2",
+            "text": "See 38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P36S3",
+            "text": "In adjudicating a claim for service connection for PTSD, the Board is required to evaluate evidence based on places, types, and circumstances of service, as shown by military records and all pertinent medical and lay evidence.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P36S4",
+            "text": "See Hayes v. Brown, 5 Vet. App. 60, 66 (1993); see also 38 U.S.C. § 1154(a); 38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P36S5",
+            "text": "The evidence necessary to establish the occurrence of an in-service stressor for PTSD will vary depending on if the veteran \"engaged in combat with the enemy.\"",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P36S6",
+            "text": "Id.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P37S1",
+            "text": "If a veteran did not engage in combat with the enemy, or the claimed stressors are not related to combat, and the stressor is not related to fear of hostile military or terrorist activity, then the veteran’s testimony alone is not sufficient to establish the occurrence of the claimed stressors, and his testimony must be corroborated by credible supporting evidence.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P37S2",
+            "text": "Cohen v. Brown, 10 Vet. App. 128 (1997); Moreau v. Brown, 9 Vet. App. 389 (1996); Dizoglio v. Brown, 9 Vet. App. 163 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P37S3",
+            "text": "Furthermore, service department records must support, and not contradict, the claimant’s testimony regarding non-combat stressors.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P37S4",
+            "text": "Doran v. Brown, 6 Vet. App. 283 (1994).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P38S1",
+            "text": "Under 38 C.F.R. § 3.304(f)(5), if a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P38S2",
+            "text": "Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P38S3",
+            "text": "Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P38S4",
+            "text": "Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P39S1",
+            "text": "The question of whether a veteran was exposed to a stressor in service is a factual one, and VA adjudicators are not bound to accept uncorroborated accounts of stressors or medical opinions based upon such accounts.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P39S2",
+            "text": "Wood v. Derwinski, 1 Vet. App. 190 (1991), aff’d on reconsideration, 1 Vet. App. 406 (1991).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P39S3",
+            "text": "Hence, whether a stressor was of sufficient gravity to cause or support a diagnosis of PTSD is a question of fact for medical professionals.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P39S4",
+            "text": "Whether the evidence establishes the occurrence of stressors, however, is a question of fact for adjudicators.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P40S1",
+            "text": "PTSD, MDD, and sleep apnea are not “chronic diseases” under 38 C.F.R. § 3.309(a); therefore, the presumptive provisions of 38 C.F.R. § 3.303(b) for \"chronic\" in service symptoms and \"continuous\" post-service symptoms do not apply.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P40S2",
+            "text": "Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P41S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P41S2",
+            "text": "Denial of Service Connection for PTSD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P42S1",
+            "text": "The Veteran asserts that he witnessed an in-service stressor—the accidental drowning of a fellow soldier during training—which caused his current PTSD.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P42S2",
+            "text": "The Veteran reported to the VA that, shortly after beginning his Naval training in July 1964 at the Recruit Training Command (RTC) in Great Lakes, Illinois, he witnessed the drowning of another trainee during an aquatic training exercise.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P42S3",
+            "text": "Specifically, he reported that he saw the trainee in the pool in distress with blood in the water.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P42S4",
+            "text": "The next day, the Veteran heard that the trainee had died.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P43S1",
+            "text": "After a review of the record, the Board finds that service connection for PTSD is not warranted because the claimed in-service stressor has not been sufficiently verified.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P43S2",
+            "text": "An in-service personal assault like the one described by the Veteran must be supported or verified by credible supporting evidence.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P43S3",
+            "text": "The stressor event claimed by the Veteran has not been sufficiently verified or corroborated by evidence in the record, as required under 38 C.F.R. § 3.304(f)(5).",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P43S4",
+            "text": "The evidence includes a diagnosis of PTSD.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P43S5",
+            "text": "See Mental Health Treatment Records.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P43S6",
+            "text": "The statements in the record from treating mental health professionals regarding the Veteran’s PTSD, which simply record the history as told to them by the Veteran, are not sufficient to corroborate the stressor.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P43S7",
+            "text": "The recorded histories relied only on the Veteran’s recent reporting of the claimed in-service event asserted to be a stressor, and the recent examination reports did not include independent verification of the claimed stressor event.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P44S1",
+            "text": "The military service personnel records and service treatment records (STRs) do not include any reports or even oblique references to a drowning accident.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P44S2",
+            "text": "During the Veteran’s very brief time in the Navy, he experienced an asthma attack, which led to review by a Medical Board and a subsequent discharge for unfitness for service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P44S3",
+            "text": "See STRs and Military Personnel Records.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P44S4",
+            "text": "In support of his VA PTSD claim, the Veteran reported that his asthma attacked happened the day after witnessing the drowning, implying that stress caused the asthma attack.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P44S5",
+            "text": "None of the contemporaneous medical records from 1964, however, note reports from the Veteran of the drowning or any psychiatric or psychological symptoms such as stress, fear, or guilt in the context of his asthma attack or otherwise.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P44S6",
+            "text": "If stress had caused his asthma attack, it is likely that he would have reported that to the treating physician and the Medical Board, especially considering that the Medical Board was considering fitness for service.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P44S7",
+            "text": "See Curry v. Brown, 7 Vet. App. 59 (1994) (noting that contemporaneous evidence has greater probative value than history as reported by the veteran); Kahana v. Shinseki, 24 Vet. App. 428, 440 (2011) (Lance, J., concurring) (the silence in a medical record can be weighed against lay testimony if the alleged injury, disease, or related symptoms would ordinarily have been recorded in the medical record being evaluated by the fact finder).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P45S1",
+            "text": "The August 1964 Report from the Medical Board found that the Veteran had not disclosed his history of asthma (and asthma attacks) on his enlistment documents, and if he had done so, he would not have been found fit for service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P45S2",
+            "text": "As such, the Medical Board recommended (and the commander agreed and implemented) a discharged by reason of erroneous enlistment.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P46S1",
+            "text": "Additionally, VA conducted a Joint Service Records Research Center search to attempt to verify the claimed stressor, which was negative for any military records regarding a drowning or death in 1964, as described by the Veteran.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P46S2",
+            "text": "The search included a review of the 1964 command histories submitted by both RTC and the Naval Training Command located in Great Lakes, Illinois, as well as a review of the Department of Defense casualty reports available and coordinated with the Casualty Assistance Division, Navy Personnel Command in Millington, Tennessee.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P46S3",
+            "text": "Finally, an additional search by the Naval Criminal Investigative Service also yielded no results.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P46S4",
+            "text": "A trainee drowning during a naval training exercise is the sort of incident which would have been documented and investigated by the command at the time of the incident.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P47S1",
+            "text": "In support of the PTSD claim, the Veteran submitted a July 2015 lay statement represented to be from a high school friend and fellow recruit (through the buddy program), who was stationed with the Veteran in Great Lakes, Michigan.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P47S2",
+            "text": "The statement asserts that the friend also witnessed the drowning of a trainee; that prior to service the Veteran was outgoing, social, and happy about his future in the Navy, but the Veteran changed after service, becoming sad, frightened, and disillusioned with his future.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P47S3",
+            "text": "The friend did not provide any current contact information and noted that he had not spoken about the incident until his friend asked him to in the context of the VA claim.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19154420P47S4",
+            "text": "While the Veteran’s friend stated that a drowning happened during their naval training which negatively impacted his friend (and himself), the statement was made many years after the incident, lacks specific details about the event, and omitted contact information; thus, the Board finds that the statement is of minimal probative value in the context of reporting a drowning event for which there is no independent military documentation or corroboration.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19154420P48S1",
+            "text": "Given the Veteran’s lack of contemporaneous reporting of the stressor (the first reference of the stressor in the record is from almost 50 years later and close in time to his VA claim for compensation), his misrepresentation of his health on the enlistment documents, the lack of military records documenting the incident, and absence of any military record references to death of a recruit, the Board finds that the evidence has not corroborated or verified the claimed stressor.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P49S1",
+            "text": "As such, the Board finds that the reported event alleged to be the stressor is not corroborated.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P49S2",
+            "text": "Accordingly, upon consideration of all information and lay and medical evidence of record in this matter, the Board finds that the preponderance of the evidence is against service connection for PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19154420P49S3",
+            "text": "See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P50S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P50S2",
+            "text": "Denial of Service Connection for MDD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P51S1",
+            "text": "To the extent that the Veteran has been diagnosed with MDD in addition to PTSD, the Board also considered whether the  MDD could be service connected as a separate claim from PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P51S2",
+            "text": "The MDD includes PTSD-like symptoms and other psychiatric symptoms experienced by the Veteran for the entire appeal period.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P51S3",
+            "text": "See Mental Health Treatment Records.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P52S1",
+            "text": "After a review of the evidence, the Board finds that service connection for MDD is not warranted.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P52S2",
+            "text": "While the Veteran has a current MDD diagnosis, the Board finds that the MDD did not begin in service and is not causally or etiologically related to service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P52S3",
+            "text": "The STRs do not include any psychiatric complaints or symptoms, and no diagnoses. Furthermore, the record does not include any MDD or other psychiatric diagnosis, any psychiatric treatment records, or any assertions of a psychiatric disorder for VA purposes until the Veteran asserted a PTSD claim in 2013—almost 50 years after discharge from service in 1964.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P53S1",
+            "text": "As discussed above, MDD is not a chronic disease under the chronic disease presumption for service connection. While the MDD diagnosis includes psychotic features in some of the mental health treatment records, the Veteran has not been diagnosed with a psychosis, which would be a chronic disease for VA purposes.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P53S2",
+            "text": "See 38 C.F.R. §§ 3.303(b), 3.309(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P53S3",
+            "text": "In any event, the STRs do not show any psychiatric symptoms in service, and the record as a whole does not show that any psychiatric disorder manifested to 10 percent within one year of service or that psychiatric symptoms have been continuous since service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P54S1",
+            "text": "While the Veteran has asserted that he experienced psychiatric symptoms in and since service, the Board finds the lack of lay or medical evidence of such symptoms for almost 50 years to be highly persuasive.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P54S2",
+            "text": "As discussed above in detail, the record does not support the Veteran’s recent statements about his asserted PTSD stressor, nor does it show any contemporaneous psychiatric symptoms or diagnoses prior to 2013, when the Veteran first asserted PTSD for purposes of VA compensation.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P54S3",
+            "text": "Accordingly, upon consideration of all information and lay and medical evidence of record in this matter, the Board finds that the preponderance of the evidence is against entitlement to service connection for MDD on a direct or presumptive basis, and the claim must be denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P54S4",
+            "text": "See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P55S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P55S2",
+            "text": "Denial of Service Connection of Sleep Apnea, to Include as Secondary to PTSD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P56S1",
+            "text": "The Veteran contends that sleep apnea is related to PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P56S2",
+            "text": "In this decision, the Board is denying service connection for PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P57S1",
+            "text": "After a review of the evidence, the Board finds that direct service connection for sleep apnea is not warranted because the weight of the evidence shows no symptoms of sleep apnea during service and no current diagnosis of sleep apnea.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P57S2",
+            "text": "The weight of the evidence demonstrates that sleep apnea did not begin in service and is not otherwise related to service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P57S3",
+            "text": "There are no STRs noting any diagnoses, complaints of, or treatment for, sleep apnea or any other sleep impairments.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P58S1",
+            "text": "The weight of the evidence shows that the Veteran does not have a current sleep apnea diagnosis.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P58S2",
+            "text": "See VA Mental Health Treatment Records.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P58S3",
+            "text": "A November 2016 VA mental health treatment record noted that sleep apnea was suspected and indicated that the Veteran would participate in a sleep study.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P58S4",
+            "text": "A January 2017 VA mental health treatment record noted that the Veteran reported that he had a sleep study, but did not yet have the results.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P58S5",
+            "text": "Nowhere in the record does the Veteran report a sleep apnea diagnosis or date of diagnosis.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P59S1",
+            "text": "To the extent that the Veteran asserts that sleep apnea was caused by the current PTSD, because the Board has denied service for PTSD or any other psychological disorder, so there is no primary service-connected disability to which sleep apnea could be related, secondary service connection is precluded as a matter of law.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P59S2",
+            "text": "For these reasons, the claim for service connection for sleep apnea must be denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P59S3",
+            "text": "See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19154420P60S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P60S2",
+            "text": "Denial of Entitlement to TDIU",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P61S1",
+            "text": "The Veteran contends that he is entitled to TDIU due to PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P61S2",
+            "text": "As service connection for PTSD has been denied, and service connection has not been established for any disability, a TDIU is precluded as a matter of law.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P68S1",
+            "text": "J. PARKER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P69S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P70S1",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P71S1",
+            "text": "ATTORNEY FOR THE BOARD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P71S2",
+            "text": "E. Miller, Associate Counsel",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19154420P72S1",
+            "text": "The Board’s decision in this case is binding only with respect to the instant matter decided.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P72S2",
+            "text": "This decision is not precedential, and does not establish VA policies or interpretations of general applicability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19154420P72S3",
+            "text": "38 C.F.R. § 20.1303.",
+            "rhetClass": "CitationSentence"
+        }
+    ],
+    "text": "Citation Nr: 19154420\r\nDecision Date: 07/16/19\tArchive Date: 07/15/19\r\n\r\nDOCKET NO. 18-45 612\r\nDATE:\tJuly 16, 2019\r\n\r\nORDER\r\n\r\n1.\tService connection for posttraumatic stress disorder (PTSD) is denied.\r\n\r\n\r\n\r\n2.\tService connection for major depressive disorder (MDD) with psychotic features is denied.\r\n\r\n\r\n\r\n3.\tService connection for sleep apnea is denied.\r\n\r\n\r\n\r\n4.\tEntitlement to total disability based on individual unemployability due to service-connected disabilities (TDIU) is denied.\r\n\r\nFINDINGS OF FACT\r\n\r\n1.\tThe Veteran has current diagnosis of PTSD. \r\n\r\n2.\tThe claimed stressor did not involve combat or fear of hostile military or terrorist activity.\r\n\r\n3.\tAn in-service stressor sufficient to cause PTSD has not been verified or corroborated by evidence of record.\r\n\r\n4.\tThe Veteran has a current diagnosis of MDD.\r\n\r\n5.\tThe Veteran’s MDD did not begin in service and is not causally or etiologically related to service. \r\n\r\n6.\tThe Veteran does not have a current sleep apnea diagnosis.\r\n\r\n7.\tService connection has not been established for any disability.\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1.\tThe criteria for service connection for PTSD have not been met. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 4.125.\r\n\r\n2.\tThe criteria for service connection for MDD have not been met. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303.\r\n\r\n3.\tThe criteria for sleep apnea have not been met. 38 U.S.C. §§ 1110, 1131, 5103, 5103A, 5107; 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.310.\r\n\r\n4.\tThe criteria for a TDIU have not been met. 38 U.S.C. §§ 1155, 5103, 5103A, 5107; 38 C.F.R. §§ 3.340, 3.341, 4.15, 4.16, 4.18, 4.19.\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nThe Veteran served on active duty in the United States Navy from July 13, 1964 to August 21, 1964 in Peacetime and during the beginning of the Vietnam War Era.\r\n\r\nAfter one and a half weeks of service and during Navy training, the Veteran had an asthma attack, which led to a medical discharge shortly thereafter. \r\n\r\nThis matter is before the Board of Veterans’ Appeals (Board) on appeal from two rating decisions (RDs), dated July 2015 and February 2017. The July 2015 RD denied service connection for PTSD, and the February 2017 RD denied service connection for sleep apnea and TDIU. The Veteran timely filed a June 2016 notice of disagreement regarding the PTSD claim, and an April 2017 notice of disagreement regarding the sleep apnea and TDIU claims. Two statements of the case (SOC) were issued in August 2018, denying all three claims, and the Veteran substantively appealed the three claims in September 2018. The appeal was certified to the Board in October 2018, and the Veteran declined a Board hearing. This matter now is timely before the Board for disposition.   \r\n\r\nThe Board here recharacterizes the PTSD claim to include an additional claim for service connection for a psychiatric disorder other than PTSD—major depressive disorder—in accordance with the United States Court of Appeals for Veterans Claims. See Clemons v. Shinseki, 23 Vet. App. 1 (2009) (holding that a claim for benefits for one psychiatric disability also encompassed benefits based on other psychiatric diagnoses and should be considered by the Board to be within the scope of the filed claim).\r\n\r\nIn March and May 2019 letters, the Veteran’s attorney informed VA that he had not received the January 2019 notice of docketing or the two August 2018 SOCs by mail. The attorney further stated that he became aware of the filings after he reviewed VA’s case filing system, VBMS. He requested that VA note an address change, of which he had previously informed VA. As the attorney now has seen the documents, the Veteran has not been prejudiced. In the March 2019 letter, the attorney waived a 90-day hold for additional evidence submission.\r\n\r\nService Connection Legal Criteria\r\n\r\nDirect service connection may be granted for a disability resulting from disease or injury incurred in or aggravated by active service. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a). Service connection may be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability. 38 U.S.C. §§ 1110, 1131; 38 C.F.R. § 3.303(a).\r\n\r\nSecondary service connection may be established for a disability that is proximately due to or the result of service-connected disease or injury. In such instance, service connection shall be granted as secondary to the disability for which VA benefits were initially established. 38 C.F.R. § 3.310(a); see Harder v. Brown, 5 Vet. App. 183, 187 (1993). The Veteran may also obtain compensation for the aggravation of a nonservice-connected condition by a service-connected disability. See 38 C.F.R. § 3.310(a); see Allen v. Brown, 7 Vet. App. 439, 448 (1995). \r\n\r\nTo prevail under a theory of secondary service causation, the record must show (1) evidence of a current disability, (2) evidence of a service-connected disability, and (3) medical nexus evidence establishing a connection between the current disability and the service-connected disability. Wallin v. West, 11 Vet. App. 509, 512 (1998); Reiber v. Brown, 7 Vet. App. 513, 516-17 (1995). Any increase in the severity of a nonservice-connected disability that is proximately due to or the result of a service-connected disease or injury, and not due to the natural progress of the nonservice-connected disability, will be itself service connected. 38 C.F.R. § 3.310(b).\r\n\r\nService connection for PTSD requires the following three elements: (1) a current medical diagnosis of PTSD (presumed to include the adequacy of the PTSD symptomatology and the sufficiency of a claimed in-service stressor in accordance with 38 C.F.R. § 4.125(a)); (2) credible supporting evidence that the claimed in-service stressor occurred; and (3) medical evidence of a causal relationship between the current symptomatology and the specific claimed in-service stressor. See 38 C.F.R. § 3.304(f). In adjudicating a claim for service connection for PTSD, the Board is required to evaluate evidence based on places, types, and circumstances of service, as shown by military records and all pertinent medical and lay evidence. See Hayes v. Brown, 5 Vet. App. 60, 66 (1993); see also 38 U.S.C. § 1154(a); 38 C.F.R. § 3.304(f). The evidence necessary to establish the occurrence of an in-service stressor for PTSD will vary depending on if the veteran \"engaged in combat with the enemy.\" Id. \r\n\r\nIf a veteran did not engage in combat with the enemy, or the claimed stressors are not related to combat, and the stressor is not related to fear of hostile military or terrorist activity, then the veteran’s testimony alone is not sufficient to establish the occurrence of the claimed stressors, and his testimony must be corroborated by credible supporting evidence. Cohen v. Brown, 10 Vet. App. 128 (1997); Moreau v. Brown, 9 Vet. App. 389 (1996); Dizoglio v. Brown, 9 Vet. App. 163 (1996). Furthermore, service department records must support, and not contradict, the claimant’s testimony regarding non-combat stressors. Doran v. Brown, 6 Vet. App. 283 (1994).\r\n\r\nUnder 38 C.F.R. § 3.304(f)(5), if a PTSD claim is based on in-service personal assault, evidence from sources other than the veteran's service records may corroborate the veteran's account of the stressor incident. Examples of such evidence include, but are not limited to: records from law enforcement authorities, rape crisis centers, mental health counseling centers, hospitals, or physicians; pregnancy tests or tests for sexually transmitted diseases; and statements from family members, roommates, fellow service members, or clergy. Evidence of behavior changes following the claimed assault is one type of relevant evidence that may be found in these sources. Examples of behavior changes that may constitute credible evidence of the stressor include, but are not limited to: a request for a transfer to another military duty assignment; deterioration in work performance; substance abuse; episodes of depression, panic attacks, or anxiety without an identifiable cause; or unexplained economic or social behavior changes.\r\n\r\nThe question of whether a veteran was exposed to a stressor in service is a factual one, and VA adjudicators are not bound to accept uncorroborated accounts of stressors or medical opinions based upon such accounts. Wood v. Derwinski, 1 Vet. App. 190 (1991), aff’d on reconsideration, 1 Vet. App. 406 (1991). Hence, whether a stressor was of sufficient gravity to cause or support a diagnosis of PTSD is a question of fact for medical professionals. Whether the evidence establishes the occurrence of stressors, however, is a question of fact for adjudicators.\r\n\r\nPTSD, MDD, and sleep apnea are not “chronic diseases” under 38 C.F.R. § 3.309(a); therefore, the presumptive provisions of 38 C.F.R. § 3.303(b) for \"chronic\" in service symptoms and \"continuous\" post-service symptoms do not apply. Walker v. Shinseki, 708 F.3d 1331 (Fed. Cir. 2013).\r\n\r\n1.\tDenial of Service Connection for PTSD\r\n\r\nThe Veteran asserts that he witnessed an in-service stressor—the accidental drowning of a fellow soldier during training—which caused his current PTSD. The Veteran reported to the VA that, shortly after beginning his Naval training in July 1964 at the Recruit Training Command (RTC) in Great Lakes, Illinois, he witnessed the drowning of another trainee during an aquatic training exercise. Specifically, he reported that he saw the trainee in the pool in distress with blood in the water. The next day, the Veteran heard that the trainee had died.\r\n\r\nAfter a review of the record, the Board finds that service connection for PTSD is not warranted because the claimed in-service stressor has not been sufficiently verified. An in-service personal assault like the one described by the Veteran must be supported or verified by credible supporting evidence. The stressor event claimed by the Veteran has not been sufficiently verified or corroborated by evidence in the record, as required under 38 C.F.R. § 3.304(f)(5). The evidence includes a diagnosis of PTSD. See Mental Health Treatment Records. The statements in the record from treating mental health professionals regarding the Veteran’s PTSD, which simply record the history as told to them by the Veteran, are not sufficient to corroborate the stressor.  The recorded histories relied only on the Veteran’s recent reporting of the claimed in-service event asserted to be a stressor, and the recent examination reports did not include independent verification of the claimed stressor event.   \r\n\r\nThe military service personnel records and service treatment records (STRs) do not include any reports or even oblique references to a drowning accident. During the Veteran’s very brief time in the Navy, he experienced an asthma attack, which led to review by a Medical Board and a subsequent discharge for unfitness for service. See STRs and Military Personnel Records. In support of his VA PTSD claim, the Veteran reported that his asthma attacked happened the day after witnessing the drowning, implying that stress caused the asthma attack. None of the contemporaneous medical records from 1964, however, note reports from the Veteran of the drowning or any psychiatric or psychological symptoms such as stress, fear, or guilt in the context of his asthma attack or otherwise. If stress had caused his asthma attack, it is likely that he would have reported that to the treating physician and the Medical Board, especially considering that the Medical Board was considering fitness for service. See Curry v. Brown, 7 Vet. App. 59 (1994) (noting that contemporaneous evidence has greater probative value than history as reported by the veteran); Kahana v. Shinseki, 24 Vet. App. 428, 440 (2011) (Lance, J., concurring) (the silence in a medical record can be weighed against lay testimony if the alleged injury, disease, or related symptoms would ordinarily have been recorded in the medical record being evaluated by the fact finder).\r\n\r\nThe August 1964 Report from the Medical Board found that the Veteran had not disclosed his history of asthma (and asthma attacks) on his enlistment documents, and if he had done so, he would not have been found fit for service. As such, the Medical Board recommended (and the commander agreed and implemented) a discharged by reason of erroneous enlistment.  \r\n\r\nAdditionally, VA conducted a Joint Service Records Research Center search to attempt to verify the claimed stressor, which was negative for any military records regarding a drowning or death in 1964, as described by the Veteran. The search included a review of the 1964 command histories submitted by both RTC and the Naval Training Command located in Great Lakes, Illinois, as well as a review of the Department of Defense casualty reports available and coordinated with the Casualty Assistance Division, Navy Personnel Command in Millington, Tennessee. Finally, an additional search by the Naval Criminal Investigative Service also yielded no results. A trainee drowning during a naval training exercise is the sort of incident which would have been documented and investigated by the command at the time of the incident.\r\n\r\nIn support of the PTSD claim, the Veteran submitted a July 2015 lay statement represented to be from a high school friend and fellow recruit (through the buddy program), who was stationed with the Veteran in Great Lakes, Michigan. The statement asserts that the friend also witnessed the drowning of a trainee; that prior to service the Veteran was outgoing, social, and happy about his future in the Navy, but the Veteran changed after service, becoming sad, frightened, and disillusioned with his future. The friend did not provide any current contact information and noted that he had not spoken about the incident until his friend asked him to in the context of the VA claim. While the Veteran’s friend stated that a drowning happened during their naval training which negatively impacted his friend (and himself), the statement was made many years after the incident, lacks specific details about the event, and omitted contact information; thus, the Board finds that the statement is of minimal probative value in the context of reporting a drowning event for which there is no independent military documentation or corroboration.         \r\n\r\nGiven the Veteran’s lack of contemporaneous reporting of the stressor (the first reference of the stressor in the record is from almost 50 years later and close in time to his VA claim for compensation), his misrepresentation of his health on the enlistment documents, the lack of military records documenting the incident, and absence of any military record references to death of a recruit, the Board finds that the evidence has not corroborated or verified the claimed stressor. \r\n\r\nAs such, the Board finds that the reported event alleged to be the stressor is not corroborated. Accordingly, upon consideration of all information and lay and medical evidence of record in this matter, the Board finds that the preponderance of the evidence is against service connection for PTSD. See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.             \r\n\r\n2.\tDenial of Service Connection for MDD\r\n\r\nTo the extent that the Veteran has been diagnosed with MDD in addition to PTSD, the Board also considered whether the  MDD could be service connected as a separate claim from PTSD. The MDD includes PTSD-like symptoms and other psychiatric symptoms experienced by the Veteran for the entire appeal period. See Mental Health Treatment Records.\r\n\r\nAfter a review of the evidence, the Board finds that service connection for MDD is not warranted. While the Veteran has a current MDD diagnosis, the Board finds that the MDD did not begin in service and is not causally or etiologically related to service. The STRs do not include any psychiatric complaints or symptoms, and no diagnoses. Furthermore, the record does not include any MDD or other psychiatric diagnosis, any psychiatric treatment records, or any assertions of a psychiatric disorder for VA purposes until the Veteran asserted a PTSD claim in 2013—almost 50 years after discharge from service in 1964. \r\n\r\nAs discussed above, MDD is not a chronic disease under the chronic disease presumption for service connection. While the MDD diagnosis includes psychotic features in some of the mental health treatment records, the Veteran has not been diagnosed with a psychosis, which would be a chronic disease for VA purposes. See 38 C.F.R. §§ 3.303(b), 3.309(a). In any event, the STRs do not show any psychiatric symptoms in service, and the record as a whole does not show that any psychiatric disorder manifested to 10 percent within one year of service or that psychiatric symptoms have been continuous since service. \r\n\r\nWhile the Veteran has asserted that he experienced psychiatric symptoms in and since service, the Board finds the lack of lay or medical evidence of such symptoms for almost 50 years to be highly persuasive. As discussed above in detail, the record does not support the Veteran’s recent statements about his asserted PTSD stressor, nor does it show any contemporaneous psychiatric symptoms or diagnoses prior to 2013, when the Veteran first asserted PTSD for purposes of VA compensation. Accordingly, upon consideration of all information and lay and medical evidence of record in this matter, the Board finds that the preponderance of the evidence is against entitlement to service connection for MDD on a direct or presumptive basis, and the claim must be denied. See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.\r\n\r\n3.\tDenial of Service Connection of Sleep Apnea, to Include as Secondary to PTSD\r\n\r\nThe Veteran contends that sleep apnea is related to PTSD.  In this decision, the Board is denying service connection for PTSD.\r\n\r\nAfter a review of the evidence, the Board finds that direct service connection for sleep apnea is not warranted because the weight of the evidence shows no symptoms of sleep apnea during service and no current diagnosis of sleep apnea. The weight of the evidence demonstrates that sleep apnea did not begin in service and is not otherwise related to service. There are no STRs noting any diagnoses, complaints of, or treatment for, sleep apnea or any other sleep impairments.\r\n\r\nThe weight of the evidence shows that the Veteran does not have a current sleep apnea diagnosis. See VA Mental Health Treatment Records. A November 2016 VA mental health treatment record noted that sleep apnea was suspected and indicated that the Veteran would participate in a sleep study. A January 2017 VA mental health treatment record noted that the Veteran reported that he had a sleep study, but did not yet have the results. Nowhere in the record does the Veteran report a sleep apnea diagnosis or date of diagnosis. \r\n\r\nTo the extent that the Veteran asserts that sleep apnea was caused by the current PTSD, because the Board has denied service for PTSD or any other psychological disorder, so there is no primary service-connected disability to which sleep apnea could be related, secondary service connection is precluded as a matter of law.  For these reasons, the claim for service connection for sleep apnea must be denied. See 38 U.S.C. § 5107; 38 C.F.R. § 3.102.  \r\n\r\n4.\tDenial of Entitlement to TDIU\r\n\r\nThe Veteran contends that he is entitled to TDIU due to PTSD. As service connection for PTSD has been denied, and service connection has not been established for any disability, a TDIU is precluded as a matter of law. \r\n\r\n\r\n\r\n  \r\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\nJ. PARKER\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nATTORNEY FOR THE BOARD\tE. Miller, Associate Counsel\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential, and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. \r\n\r\n\r\n\r\n"
+}

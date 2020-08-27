@@ -1,0 +1,2691 @@
+{
+    "caseNumber": "19148674",
+    "caseInfo": {
+        "uri": "https://legalcasestorage.blob.core.windows.net:443/25newlltfall19/BVA19148674-NEW-0008.json",
+        "guidKey": "45011d89-f40d-42fd-8ea8-fb94844cf913",
+        "version": "0008",
+        "lastChange": "2020-07-07T16:06:35.830Z",
+        "prevFileName": "BVA19148674-NEW-0007.json",
+        "nextFileName": null,
+        "name": "19148674",
+        "extension": ".json",
+        "title": null,
+        "description": null,
+        "keywords": "",
+        "notes": null,
+        "owner": "VRW",
+        "fileName": "BVA19148674-NEW-0008.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19148674P1S1",
+            "text": "Citation Nr: 19148674",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "1",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P2S1",
+            "text": "Decision Date: 06/21/19Archive Date: 06/21/19",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "2",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P3S1",
+            "text": "DOCKET NO. 16-46 455",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "3",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P4S2",
+            "text": "DATE:June 21, 2019",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "attributeSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "4",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 57.2
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 18.41
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 11.31
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.32
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.92
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.84
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "orderSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "5",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P6S2",
+            "text": "Entitlement to service connection for an acquired psychiatric disorder, claimed as posttraumatic stress disorder (PTSD), anxiety disorder, and major depressive disorder, is granted.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "orderSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "6",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P7S1",
+            "text": "FINDING OF FACT",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "findingsSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "7",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P8S2",
+            "text": "Resolving reasonable doubt in the Veteran’s favor, his acquired psychiatric disorder is at least as likely as not related to his military service.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "findingsSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "8",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "FindingSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "FindingSentence",
+                    "value": 65
+                },
+                {
+                    "name": "Sentence",
+                    "value": 13.69
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 10.29
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 10.02
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.59
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.42
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P9S1",
+            "text": "CONCLUSION OF LAW",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "9",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P10S2",
+            "text": "The criteria for entitlement to service connection for an acquired psychiatric disorder have been met.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "10",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "FindingSentence",
+            "predictions": [
+                {
+                    "name": "FindingSentence",
+                    "value": 48.15
+                },
+                {
+                    "name": "Sentence",
+                    "value": 34.95
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 8.98
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.08
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.02
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.81
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P10S3",
+            "text": "38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "10",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 99.29
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.31
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.19
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.11
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.08
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.03
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P11S1",
+            "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "11",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P12S2",
+            "text": "The Veteran served on active duty from April 1969 to April 1971.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "12",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 58.73
+                },
+                {
+                    "name": "Sentence",
+                    "value": 19.37
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.06
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 5.59
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 5.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.01
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P13S2",
+            "text": "This matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2016 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "13",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 40.66
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 20.31
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 19.82
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 13.47
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.2
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.54
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P14S2",
+            "text": "In January 2019 the Veteran testified at a videoconference hearing before the undersigned Veterans Law Judge.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "14",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 49.18
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 33
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 7.07
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 4.29
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 4.1
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.36
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P14S3",
+            "text": "A copy of the transcript is associated with the evidentiary record.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "14",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 54.88
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 18.59
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 11.93
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 6.36
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.05
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.19
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P15S2",
+            "text": "The scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the appellant’s description of the claim, reported symptoms, and the other information of record.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "15",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P15S3",
+            "text": "Clemons v. Shinseki, 23 Vet. App. 1 (2009).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "15",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 76.61
+                },
+                {
+                    "name": "Sentence",
+                    "value": 19.86
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.28
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.1
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.66
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.49
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P15S4",
+            "text": "Thus, the Board has recharacterized the psychiatric claim on appeal to entitlement to service connection for an acquired psychiatric disorder, to include PTSD, anxiety disorder, and major depressive disorder.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "15",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P16S2",
+            "text": "Entitlement to service connection for an acquired psychiatric disorder.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "16",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 78.88
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 11.98
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 3.78
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.04
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.9
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.42
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P17S2",
+            "text": "Legal Criteria",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "17",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 67.02
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 11.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 7.84
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.74
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 5.51
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.67
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P18S2",
+            "text": "Generally, to establish a right to compensation for a present disability a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "18",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "LegalRuleSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 80.86
+                },
+                {
+                    "name": "Sentence",
+                    "value": 12.68
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 5.76
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.39
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.09
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P18S3",
+            "text": "Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "18",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 91.31
+                },
+                {
+                    "name": "Sentence",
+                    "value": 5.27
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.24
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.11
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.61
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.46
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P19S2",
+            "text": "For compensation purposes, there are particular requirements for establishing PTSD in 38 C.F.R. § 3.304(f) that are separate from those for establishing service connection generally.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P19S3",
+            "text": "Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 79.79
+                },
+                {
+                    "name": "Sentence",
+                    "value": 13.55
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 2.76
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.02
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.11
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.77
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P19S4",
+            "text": "Establishing service connection for PTSD requires: (1) medical evidence diagnosing PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P19S5",
+            "text": "38 C.F.R. § 3.304(f); see also Cohen v. Brown, 10 Vet. App. 128 (1997).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 99.78
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.13
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.03
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.03
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.02
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.01
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P19S6",
+            "text": "If a PTSD stressor claimed by a veteran is related to the veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of posttraumatic stress disorder and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "LegalRuleSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 96.03
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.6
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.69
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.46
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.21
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P19S7",
+            "text": "See 38 C.F.R. § 3.304(f)(3).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "19",
+            "sentenceNumber": "7",
+            "id": 7,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 95.22
+                },
+                {
+                    "name": "Sentence",
+                    "value": 2.68
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.82
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.61
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.44
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.22
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P20S2",
+            "text": "Under 38 C.F.R. § 3.304(f)(3), \"fear of hostile military or terrorist activity\" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "20",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "LegalRuleSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 98.26
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.16
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.2
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.15
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.12
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.1
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P21S2",
+            "text": "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the claimant.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "21",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "LegalRuleSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 94.57
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.99
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.49
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.45
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.39
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.11
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P21S3",
+            "text": "38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "21",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 99.74
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.14
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.07
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.02
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.02
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.01
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P21S4",
+            "text": "To deny a claim on its merits, the evidence must preponderate against the claim.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "21",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P21S5",
+            "text": "Alemany v. Brown, 9 Vet. App. 518 (1996).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "21",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 82.3
+                },
+                {
+                    "name": "Sentence",
+                    "value": 11.68
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 2.42
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.8
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.07
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.73
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P22S2",
+            "text": "Analysis",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "22",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 90.36
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 2.93
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.5
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.83
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.37
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.01
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P23S2",
+            "text": "The Veteran contends that he is entitled to service connection for PTSD based on in-service stressors.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "23",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P23S3",
+            "text": "See January 2019 Hearing Transcript.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "23",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 68.44
+                },
+                {
+                    "name": "Sentence",
+                    "value": 19.82
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.39
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.04
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.15
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.17
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P24S2",
+            "text": "Based on the evidence of record, and resolving reasonable doubt in favor of the Veteran, the Board finds that entitlement to service connection for an acquired psychiatric disorder has been established.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "24",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "FindingSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "FindingSentence",
+                    "value": 97.69
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.73
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.34
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.02
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P25S2",
+            "text": "Consistent with the Veteran’s contentions, the record establishes that the Veteran has been diagnosed with PTSD, major depressive disorder, and an anxiety disorder.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "25",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P25S3",
+            "text": "See July 2016 Medical Treatment Record- Government Facility at 7.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "25",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 75.27
+                },
+                {
+                    "name": "Sentence",
+                    "value": 10.99
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.41
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.17
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P25S4",
+            "text": "The record shows that the Veteran has received treatment including group therapy and medication for his acquired psychiatric disorders since at least June 2013.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "25",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 75.73
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 12.11
+                },
+                {
+                    "name": "Sentence",
+                    "value": 5.42
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.37
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.15
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.22
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P25S5",
+            "text": "See October 2016 Medical Treatment Record- Government Facility at 6; see also March 2017 Medical Treatment Record- Government Facility, August 2018 CAPRI, February 2019 CAPRI.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "25",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 77.09
+                },
+                {
+                    "name": "Sentence",
+                    "value": 8.93
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 8.15
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.42
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.85
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.57
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P26S2",
+            "text": "Further, the record establishes that the Veteran has consistently reported in-service stressors of the death of a friend and fellow soldier, mortar attacks and sniper attacks in service.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "26",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "labeler": "VRW"
+        },
+        {
+            "sentID": "19148674P26S3",
+            "text": "See October 2016 Medical Treatment Record- Government Facility at 11.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "26",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 72.78
+                },
+                {
+                    "name": "Sentence",
+                    "value": 11.41
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.03
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.02
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.46
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.3
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P26S4",
+            "text": "In May 2016, the Veteran reported being stationed near a major airfield and near two to three ammo dumps, and stated that this area received a lot of enemy mortar fire.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "26",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 96.68
+                },
+                {
+                    "name": "Sentence",
+                    "value": 1.32
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.16
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.43
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.28
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.12
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P27S2",
+            "text": "The Board concludes that the Veteran’s reports are consistent with his service.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "27",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P27S3",
+            "text": "His military personnel records reflect that from November 1969 to November 1970, he participated in operations against hostile forces in DaNang, Republic of Vietnam.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "27",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 88.6
+                },
+                {
+                    "name": "Sentence",
+                    "value": 6.42
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.75
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.93
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.81
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.49
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P27S4",
+            "text": "This appears to meet the definition of 38 C.F.R. § 3.304(f)(3), “fear of hostile military or terrorist activity.”",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "27",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 35.95
+                },
+                {
+                    "name": "Sentence",
+                    "value": 26.18
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 15.56
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 15.31
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.92
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.08
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P27S5",
+            "text": "The next question is whether a psychiatrist or psychologist confirms that the claimed stressor is adequate to support a diagnosis of PTSD.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "27",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P28S2",
+            "text": "There is evidence for and against the claim that the Veteran has PTSD.  The Veteran’s entitlement to service connection for an acquired psychiatric disorder is supported by the opinions of the Veteran’s treating clinicians.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "28",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "labeler": "VRW"
+        },
+        {
+            "sentID": "19148674P29S2",
+            "text": "In an April 2014 statement, the Veteran’s psychologist J.T. reported that the Veteran began treatment for PTSD in June 2013, due to the Veteran experiencing traumas when serving in Vietnam.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "29",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 95.17
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.08
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.77
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.5
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.26
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.22
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P29S3",
+            "text": "The traumas included experiencing losing a close friend, being rocketed and mortared, fearing he would die when guarding a fuel dump that was hit, and being sniped at while out retrieving trucks.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "29",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 80.97
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.29
+                },
+                {
+                    "name": "Sentence",
+                    "value": 6.91
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.96
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.01
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.85
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P29S4",
+            "text": "The Veteran’s treatment consisted of weekly outpatient group therapy sessions.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "29",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P29S5",
+            "text": "The clinician reported that the Veteran’s symptoms included daily intrusive memories, frequent nightmares, flashbacks, hyper arousal, avoiding people and difficulty trusting other.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "29",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 94.09
+                },
+                {
+                    "name": "Sentence",
+                    "value": 3.49
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.24
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.46
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.39
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.33
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P29S6",
+            "text": "See March 2016 Medical Treatment Record- Non-Government Facility at 2.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "29",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 48.63
+                },
+                {
+                    "name": "Sentence",
+                    "value": 33.96
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.67
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.52
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.91
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.31
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P30S2",
+            "text": "Similarly, in January 2016, psychologist L.H. reported that the Veteran continued to attend group therapy for his PTSD and major depression due to experiencing repetitive traumas while serving in Vietnam.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "30",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 99.18
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.5
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.15
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.11
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.04
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.02
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P30S3",
+            "text": "The clinician reported the Veteran’s symptoms included hyper arousal, disturbed sleep, isolation from other, extremely low frustration tolerance, reactivity to others, poor concentration and difficulty staying on task.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "30",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 95.1
+                },
+                {
+                    "name": "Sentence",
+                    "value": 1.98
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.43
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.99
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.28
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.23
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P30S4",
+            "text": "The Veteran’s reported combat experiences included the loss of a close friend while “in-country,” daily or near daily rocket and mortar attacks due to his location directly adjacent to two large ammunition storage areas during his entire tour, and experiencing sniper attacks and night penetration of his compound while on patrol.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "30",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 94.41
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.99
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.82
+                },
+                {
+                    "name": "Sentence",
+                    "value": 1.42
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.13
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P30S5",
+            "text": "See March 2016 Medical Treatment Record- Non-Government Facility at 1.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "30",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 57.2
+                },
+                {
+                    "name": "Sentence",
+                    "value": 26.99
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.82
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.41
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.39
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.19
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P31S2",
+            "text": "In July 2016, VA psychiatrist, V.M. opined that the Veteran has chronic PTSD related to his military service.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "31",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 86.64
+                },
+                {
+                    "name": "Sentence",
+                    "value": 7.56
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.32
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.28
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.78
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.42
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P31S3",
+            "text": "See July 2016 Medical Treatment Record- Government Facility at 7.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "31",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 75.27
+                },
+                {
+                    "name": "Sentence",
+                    "value": 10.99
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.41
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.17
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P32S1",
+            "text": "In contrast with the opinions of the Veteran’s clinicians, following a VA examination an April 2016 VA psychologist opined that the Veteran does not have a current acquired psychiatric disorder consistent with the fifth edition of the diagnostic and statistics manual (DSM 5).",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P32S2",
+            "text": "See April 2016 C&P Exam.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 62.01
+                },
+                {
+                    "name": "Sentence",
+                    "value": 23.95
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 6.74
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.53
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.42
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.34
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P32S3",
+            "text": "The examiner summarized that the Veteran was evaluated by the specialized outpatient PTSD program through VA in January 2014.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 88.86
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.2
+                },
+                {
+                    "name": "Sentence",
+                    "value": 4.24
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.63
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.54
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.53
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P32S4",
+            "text": "They concluded that his PTSD symptoms were sub-threshold and diagnosed him with anxiety disorder NOS.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "labeler": "VRW"
+        },
+        {
+            "text": "He was subsequently referred to the Mental Health Clinic where he has seen by V.M., M.D. six times.",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "rhetClass": "EvidenceSentence",
+            "sectionType": "reasonsBasesSection",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "sentenceNumber": "5",
+            "sentID": "19148674P32S5"
+        },
+        {
+            "sentID": "19148674P32S6",
+            "text": "Dr. V.M. has diagnosed him with unspecified anxiety disorder.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P32S7",
+            "text": "The Veteran has also been attending weekly outpatient PTSD groups through Communicare, Inc.  for several years.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "7",
+            "id": 7,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 62.14
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 24.26
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.1
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.9
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.95
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.65
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P32S8",
+            "text": "Letters from two of the group leaders, indicated that they have diagnosed him with PTSD.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "32",
+            "sentenceNumber": "8",
+            "id": 8,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 62.88
+                },
+                {
+                    "name": "Sentence",
+                    "value": 17.18
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 12.04
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.9
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.32
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.68
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P33S1",
+            "text": "The VA examiner noted that the Veteran’s reported trauma did appear to meet criterion A.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "33",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": false,
+            "labeler": "VRW"
+        },
+        {
+            "text": "The stressors reported were almost being knocked unconscious as the result of a fuel pump hitting him in the mouth and witnessing what he thought were Viet Cong with four or five other individuals tied up and held as prisoners.",
+            "caseNumber": "19148674",
+            "paragraphNumber": "33",
+            "rhetClass": "EvidenceSentence",
+            "sectionType": "reasonsBasesSection",
+            "id": 2,
+            "isFirst": false,
+            "isLast": false,
+            "sentenceNumber": "2",
+            "sentID": "19148674P33S2"
+        },
+        {
+            "sentID": "19148674P33S3",
+            "text": "He denied direct combat experiences.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "33",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P33S4",
+            "text": "However, it was noted that he did not report the same stressor to the VA examiner that he did to his provider in 2014; i.e.  he did not report to the VA examiner that he got hit by a few mortars, missiles hit the compound a time or two.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "33",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 91.28
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.15
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.29
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.13
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.08
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.07
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P34S2",
+            "text": "Ultimately, there is evidence for and against the claim.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "34",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19148674P34S3",
+            "text": "The Board will resolve reasonable doubt in the favor of the Veteran and grant entitlement to service connection for an acquired psychiatric disorder.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "34",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P35S2",
+            "text": "",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "35",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 73.15
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 7.6
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 7.23
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.97
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.14
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P36S2",
+            "text": "S. HENEKS",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "36",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 60.45
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 14.91
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 9.38
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.12
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 4
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.15
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P37S2",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "37",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 83.51
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.29
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.88
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.82
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.91
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.59
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P38S2",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "38",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 73.88
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.66
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 5.74
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 4.47
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.32
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P39S1",
+            "text": "ATTORNEY FOR THE BOARDA. Wimbish, Associate Counsel",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "unknownSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "39",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19148674P40S2",
+            "text": "The Board’s decision in this case is binding only with respect to the instant matter decided.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "unknownSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "40",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "ReasoningSentence",
+            "predictions": [
+                {
+                    "name": "ReasoningSentence",
+                    "value": 31.85
+                },
+                {
+                    "name": "Sentence",
+                    "value": 25.48
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 16.64
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 14.97
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.81
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.24
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P40S3",
+            "text": "This decision is not precedential, and does not establish VA policies or interpretations of general applicability.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "unknownSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "40",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "ReasoningSentence",
+            "predictions": [
+                {
+                    "name": "ReasoningSentence",
+                    "value": 62.9
+                },
+                {
+                    "name": "Sentence",
+                    "value": 14.94
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 11.12
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.75
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.06
+                }
+            ]
+        },
+        {
+            "sentID": "19148674P40S4",
+            "text": "38 C.F.R. § 20.1303.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "unknownSection",
+            "caseNumber": "19148674",
+            "paragraphNumber": "40",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 72.32
+                },
+                {
+                    "name": "Sentence",
+                    "value": 12.47
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.02
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.1
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.83
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.26
+                }
+            ]
+        }
+    ],
+    "text": "Citation Nr: 19148674\r\nDecision Date: 06/21/19\tArchive Date: 06/21/19\r\n\r\nDOCKET NO. 16-46 455\r\nDATE:\tJune 21, 2019\r\n\r\nORDER\r\n\r\nEntitlement to service connection for an acquired psychiatric disorder, claimed as posttraumatic stress disorder (PTSD), anxiety disorder, and major depressive disorder, is granted.\r\n\r\nFINDING OF FACT\r\n\r\nResolving reasonable doubt in the Veteran’s favor, his acquired psychiatric disorder is at least as likely as not related to his military service.\r\n\r\nCONCLUSION OF LAW\r\n\r\nThe criteria for entitlement to service connection for an acquired psychiatric disorder have been met.  38 U.S.C. §§ 1110, 1131, 5107; 38 C.F.R. §§ 3.102, 3.303, 3.304.\r\n\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\n\r\nThe Veteran served on active duty from April 1969 to April 1971.\r\n\r\nThis matter comes before the Board of Veterans' Appeals (Board) on appeal from a July 2016 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).\r\n\r\nIn January 2019 the Veteran testified at a videoconference hearing before the undersigned Veterans Law Judge.  A copy of the transcript is associated with the evidentiary record.\r\n\r\nThe scope of a mental health disability claim includes any mental disability that may reasonably be encompassed by the appellant’s description of the claim, reported symptoms, and the other information of record.  Clemons v. Shinseki, 23 Vet. App. 1 (2009).  Thus, the Board has recharacterized the psychiatric claim on appeal to entitlement to service connection for an acquired psychiatric disorder, to include PTSD, anxiety disorder, and major depressive disorder.\r\n\r\nEntitlement to service connection for an acquired psychiatric disorder.\r\n\r\nLegal Criteria\r\n\r\nGenerally, to establish a right to compensation for a present disability a veteran must show: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service.  Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).\r\n\r\nFor compensation purposes, there are particular requirements for establishing PTSD in 38 C.F.R. § 3.304(f) that are separate from those for establishing service connection generally.  Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).  Establishing service connection for PTSD requires: (1) medical evidence diagnosing PTSD; (2) credible supporting evidence that the claimed in-service stressor actually occurred; and (3) medical evidence of a link between current symptomatology and the claimed in-service stressor.  38 C.F.R. § 3.304(f); see also Cohen v. Brown, 10 Vet. App. 128 (1997).  If a PTSD stressor claimed by a veteran is related to the veteran's fear of hostile military or terrorist activity and a VA psychiatrist or psychologist, or a psychiatrist or psychologist with whom VA has contracted, confirms that the claimed stressor is adequate to support a diagnosis of posttraumatic stress disorder and that the Veteran's symptoms are related to the claimed stressor, in the absence of clear and convincing evidence to the contrary, and provided the claimed stressor is consistent with the places, types, and circumstances of the Veteran's service, the Veteran's lay testimony alone may establish the occurrence of the claimed in-service stressor.  See 38 C.F.R. § 3.304(f)(3).\r\n\r\nUnder 38 C.F.R. § 3.304(f)(3), \"fear of hostile military or terrorist activity\" means that a veteran experienced, witnessed, or was confronted with an event or circumstance that involved actual or threatened death or serious injury, or a threat to the physical integrity of the veteran or others, such as from an actual or potential improvised explosive device; vehicle-imbedded explosive device; incoming artillery, rocket, or mortar fire; grenade; small arms fire, including suspected sniper fire; or attack upon friendly military aircraft, and the veteran's response to the event or circumstance involved a psychological or psycho-physiological state of fear, helplessness, or horror.\r\n\r\nWhen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, VA shall resolve reasonable doubt in favor of the claimant.  38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49 (1990).  To deny a claim on its merits, the evidence must preponderate against the claim.  Alemany v. Brown, 9 Vet. App. 518 (1996).\r\n\r\nAnalysis \r\n\r\nThe Veteran contends that he is entitled to service connection for PTSD based on in-service stressors.  See January 2019 Hearing Transcript. \r\n\r\nBased on the evidence of record, and resolving reasonable doubt in favor of the Veteran, the Board finds that entitlement to service connection for an acquired psychiatric disorder has been established. \r\n\r\nConsistent with the Veteran’s contentions, the record establishes that the Veteran has been diagnosed with PTSD, major depressive disorder, and an anxiety disorder.  See July 2016 Medical Treatment Record- Government Facility at 7.  The record shows that the Veteran has received treatment including group therapy and medication for his acquired psychiatric disorders since at least June 2013.  See October 2016 Medical Treatment Record- Government Facility at 6; see also March 2017 Medical Treatment Record- Government Facility, August 2018 CAPRI, February 2019 CAPRI.  \r\n\r\nFurther, the record establishes that the Veteran has consistently reported in-service stressors of the death of a friend and fellow soldier, mortar attacks and sniper attacks in service.  See October 2016 Medical Treatment Record- Government Facility at 11.  In May 2016, the Veteran reported being stationed near a major airfield and near two to three ammo dumps, and stated that this area received a lot of enemy mortar fire.  \r\n\r\nThe Board concludes that the Veteran’s reports are consistent with his service.  His military personnel records reflect that from November 1969 to November 1970, he participated in operations against hostile forces in DaNang, Republic of Vietnam.  This appears to meet the definition of 38 C.F.R. § 3.304(f)(3), “fear of hostile military or terrorist activity.”  The next question is whether a psychiatrist or psychologist confirms that the claimed stressor is adequate to support a diagnosis of PTSD.\r\n\r\nThere is evidence for and against the claim that the Veteran has PTSD.  The Veteran’s entitlement to service connection for an acquired psychiatric disorder is supported by the opinions of the Veteran’s treating clinicians. \r\n\r\nIn an April 2014 statement, the Veteran’s psychologist J.T. reported that the Veteran began treatment for PTSD in June 2013, due to the Veteran experiencing traumas when serving in Vietnam.  The traumas included experiencing losing a close friend, being rocketed and mortared, fearing he would die when guarding a fuel dump that was hit, and being sniped at while out retrieving trucks.  The Veteran’s treatment consisted of weekly outpatient group therapy sessions.  The clinician reported that the Veteran’s symptoms included daily intrusive memories, frequent nightmares, flashbacks, hyper arousal, avoiding people and difficulty trusting other.  See March 2016 Medical Treatment Record- Non-Government Facility at 2. \r\n\r\nSimilarly, in January 2016, psychologist L.H. reported that the Veteran continued to attend group therapy for his PTSD and major depression due to experiencing repetitive traumas while serving in Vietnam.  The clinician reported the Veteran’s symptoms included hyper arousal, disturbed sleep, isolation from other, extremely low frustration tolerance, reactivity to others, poor concentration and difficulty staying on task.  The Veteran’s reported combat experiences included the loss of a close friend while “in-country,” daily or near daily rocket and mortar attacks due to his location directly adjacent to two large ammunition storage areas during his entire tour, and experiencing sniper attacks and night penetration of his compound while on patrol.  See March 2016 Medical Treatment Record- Non-Government Facility at 1.  \r\n\r\nIn July 2016, VA psychiatrist, V.M. opined that the Veteran has chronic PTSD related to his military service.  See July 2016 Medical Treatment Record- Government Facility at 7. \r\n\r\nIn contrast with the opinions of the Veteran’s clinicians, following a VA examination an April 2016 VA psychologist opined that the Veteran does not have a current acquired psychiatric disorder consistent with the fifth edition of the diagnostic and statistics manual (DSM 5).  See April 2016 C&P Exam.  The examiner summarized that the Veteran was evaluated by the specialized outpatient PTSD program through VA in January 2014.  They concluded that his PTSD symptoms were sub-threshold and diagnosed him with anxiety disorder NOS.  He was subsequently referred to the Mental Health Clinic where he has seen by V.M., M.D. six times.  Dr. V.M. has diagnosed him with unspecified anxiety disorder.  The Veteran has also been attending weekly outpatient PTSD groups through Communicare, Inc. for several years.  Letters from two of the group leaders, indicated that they have diagnosed him with PTSD.  \r\n\r\nThe VA examiner noted that the Veteran’s reported trauma did appear to meet criterion A.  The stressors reported were almost being knocked unconscious as the result of a fuel pump hitting him in the mouth and witnessing what he thought were Viet Cong with four or five other individuals tied up and held as prisoners.  He denied direct combat experiences.  However, it was noted that he did not report the same stressor to the VA examiner that he did to his provider in 2014; i.e. he did not report to the VA examiner that he got hit by a few mortars, missiles hit the compound a time or two.\r\n\r\nUltimately, there is evidence for and against the claim.  The Board will resolve reasonable doubt in the favor of the Veteran and grant entitlement to service connection for an acquired psychiatric disorder.\r\n\r\n \r\n\r\nS. HENEKS\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nATTORNEY FOR THE BOARD\tA. Wimbish, Associate Counsel\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential, and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. \r\n\r\n\r\n\r\n"
+}

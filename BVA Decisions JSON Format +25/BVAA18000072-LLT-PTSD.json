@@ -1,0 +1,393 @@
+{
+    "caseNumber": "A18000072",
+    "caseInfo": {
+        "guidKey": "66841044-5fd0-4fe3-88cc-de85a6f38d10",
+        "name": "A18000072",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T20:01:05.691Z",
+        "fileName": "BVAA18000072-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "A18000072P1S1",
+            "text": "Citation Nr: A18000072",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P2S1",
+            "text": "Decision Date: 12/17/18",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P2S2",
+            "text": "Archive Date: 12/17/18",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P3S1",
+            "text": "DOCKET NO. 181004-491",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P4S1",
+            "text":"DATE: December 17, 2018",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P6S1",
+            "text": "Entitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD), other specified trauma and stressor related disorder, and symptoms of anxiety and depression, is granted.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P7S1",
+            "text": "FINDING OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P8S1",
+            "text": "Resolving all reasonable doubt in the Veteran’s favor, her currently-diagnosed PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her military service, including her conceded in-service stressors.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P9S1",
+            "text": "CONCLUSION OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P10S1",
+            "text": "The criteria for service connection for PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are met",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P10S2",
+            "text": "38 U.S.C. §§ 1110, 1131, 5107 (2012); 38 C.F.R. § 3.102, 3.303, 3.304, 4.125 (2018).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P11S1",
+            "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P12S1",
+            "text": "On August 23, 2017, the President signed into law the Veterans Appeals Improvement and Modernization Act, Pub. L. No. 115-55 (to be codified as amended in scattered sections of 38 U.S.C.), 131 Stat. 1105 (2017), also known as the Appeals Modernization Act (AMA).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P12S2",
+            "text": "This law creates a new framework for Veterans dissatisfied with VA’s decision on their claim to seek review.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P12S3",
+            "text": "The Veteran chose to participate in VA’s test program RAMP, the Rapid Appeals Modernization Program.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P12S4",
+            "text": "This decision has been written consistent with the new AMA framework.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "A18000072P13S1",
+            "text": "The Veteran served on active duty from April 1977 to April 1980.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P13S2",
+            "text": "On May 14, 2018, she selected the Higher-Level Review lane when she submitted her RAMP election form.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P13S3",
+            "text": "Accordingly, the September 2018 RAMP rating decision considered the evidence of record as of the date VA received the RAMP election form.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P13S4",
+            "text": "The Veteran timely appealed the September 2018 RAMP rating decision to the Board and requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ).",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P14S1",
+            "text": "In the September 2018 RAMP rating decision, the AOJ implicitly found that new and relevant evidence was submitted to warrant the readjudication of the Veteran’s previously-denied claim for service connection for PTSD.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P14S2",
+            "text": "The Board is bound by this favorable finding.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P15S1",
+            "text": "Finally, the Board notes that the September 2018 RAMP rating decision characterized the Veteran’s claim for service connection as three separate issues: entitlement to service connection for PTSD; entitlement to service connection for other specified trauma and stressor related disorder; and entitlement to service connection for depression.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P15S2",
+            "text": "However, in light of the United States Court of Appeals for Veterans Claims’ holding in Clemons v. Shinseki, 23 Vet. App. 1 (2009), the Board has recharacterized the claim on appeal as entitlement to service connection for an acquired psychiatric disorder, to include PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P16S1",
+            "text": "Service Connection",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P17S1",
+            "text": "The Veteran claims entitlement to service connection for an acquired psychiatric disorder due to her military service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P17S2",
+            "text": "Specifically, the Veteran alleges that she suffers from PTSD as a result of multiple in-service stressors, including military sexual traumas (MST).",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P18S1",
+            "text": "“To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability, (2) in-service incurrence or aggravation of a disease or injury; (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service – the so-called “nexus” requirement.”",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "A18000072P18S2",
+            "text": "Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P19S1",
+            "text": "In addition to the general requirements for service connection, establishing service connection for PTSD requires medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a); credible supporting evidence that the claimed in-service stressor occurred; and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "A18000072P19S2",
+            "text": "See 38 C.F.R. §§ 3.304(f), 4.125.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P20S1",
+            "text": "With regard to the first element of service connection, the Board notes that the September 2018 RAMP rating decision found that Veteran had been diagnosed with PTSD and other specified trauma and stressor related disorder.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P20S2",
+            "text": "The Board is bound by these favorable findings.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P20S3",
+            "text": "Additionally, review of the Veteran’s VA and private treatment records show ongoing treatment related both anxiety and depression.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P20S4",
+            "text": "See, e.g., January 2017 VA Physical Medicine Rehab Outpatient Note.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P21S1",
+            "text": "With regard to the second element of service connection, in March 2015, the AOJ determined that there was sufficient evidence to support her reported stressors, including her in-service MSTs.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P21S2",
+            "text": "See March 2015 VA PTSD Stressors Memorandum.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P22S1",
+            "text": "Finally, turning to the question of whether the Veteran’s PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her military service, to include her conceded MSTs, the Board finds that the Veteran’s VA and private treatment records, and the April 2018 Disability Benefits Questionnaire (DBQ) completed by Dr. D.E., when taken together, provide competent and probative evidence in support of her claim.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P22S2",
+            "text": "Specifically, the April 2018 DBQ notes that her currently-diagnosed PTSD was related to her in-service MSTs.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P22S3",
+            "text": "Additionally, the Veteran’s VA treatment records also note that her psychiatric problems were related to her in-service MSTs.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P22S4",
+            "text": "See, e.g., January 2017 VA Mental Health Telephone Encounter Note.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "A18000072P22S5",
+            "text": "Finally, a July 2017 private treatment record reflects a diagnosis of PTSD, and indicates that the abuse/trauma supporting the diagnosis was her in-service experiences, including her conceded MSTs.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P23S1",
+            "text": "The Board notes that the May 2015 VA examiner provided a diagnosis of other specified trauma and stressor related disorder, but opined that such was less likely than not related to the Veteran’s in-service stressors.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "A18000072P23S2",
+            "text": "Significantly, however, the May 2015 VA examiner also determined that the Veteran did not suffer from PTSD, which has otherwise been established.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "A18000072P23S3",
+            "text": "As such the Board finds that the May 2015 VA examination report is less probative that the other evidence of record.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "A18000072P26S1",
+            "text": "(CONTINUED ON NEXT PAGE)",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P27S1",
+            "text": "In summation, after resolving all reasonable doubt in her favor, the evidence supports a finding that the Veteran’s currently-diagnosed PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her in-service MSTs.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P27S2",
+            "text": "Consequently, service connection is warranted.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "A18000072P28S1",
+            "text": "V. Chiappetta",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P29S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "A18000072P30S1",
+            "text":"Board of Veterans’ AppealsATTORNEY FOR THE BOARD James R. Springer, Associate Counsel",
+            "rhetClass": "Sentence"
+        }
+    ],
+    "text": "Citation Nr: A18000072\r\nDecision Date: 12/17/18\tArchive Date: 12/17/18\r\n\r\nDOCKET NO. 181004-491\r\nDATE:\tDecember 17, 2018\r\nORDER\r\nEntitlement to service connection for an acquired psychiatric disorder, to include posttraumatic stress disorder (PTSD), other specified trauma and stressor related disorder, and symptoms of anxiety and depression, is granted.\r\nFINDING OF FACT\r\nResolving all reasonable doubt in the Veteran’s favor, her currently-diagnosed PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her military service, including her conceded in-service stressors.\r\nCONCLUSION OF LAW\r\nThe criteria for service connection for PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are met.  38 U.S.C. §§ 1110, 1131, 5107 (2012); 38 C.F.R. § 3.102, 3.303, 3.304, 4.125 (2018).\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\nOn August 23, 2017, the President signed into law the Veterans Appeals Improvement and Modernization Act, Pub. L. No. 115-55 (to be codified as amended in scattered sections of 38 U.S.C.), 131 Stat. 1105 (2017), also known as the Appeals Modernization Act (AMA). This law creates a new framework for Veterans dissatisfied with VA’s decision on their claim to seek review. The Veteran chose to participate in VA’s test program RAMP, the Rapid Appeals Modernization Program. This decision has been written consistent with the new AMA framework.\r\nThe Veteran served on active duty from April 1977 to April 1980.  On May 14, 2018, she selected the Higher-Level Review lane when she submitted her RAMP election form. Accordingly, the September 2018 RAMP rating decision considered the evidence of record as of the date VA received the RAMP election form. The Veteran timely appealed the September 2018 RAMP rating decision to the Board and requested direct review of the evidence considered by the Agency of Original Jurisdiction (AOJ).\r\nIn the September 2018 RAMP rating decision, the AOJ implicitly found that new and relevant evidence was submitted to warrant the readjudication of the Veteran’s previously-denied claim for service connection for PTSD.  The Board is bound by this favorable finding. \r\nFinally, the Board notes that the September 2018 RAMP rating decision characterized the Veteran’s claim for service connection as three separate issues: entitlement to service connection for PTSD; entitlement to service connection for other specified trauma and stressor related disorder; and entitlement to service connection for depression.  However, in light of the United States Court of Appeals for Veterans Claims’ holding in Clemons v. Shinseki, 23 Vet. App. 1 (2009), the Board has recharacterized the claim on appeal as entitlement to service connection for an acquired psychiatric disorder, to include PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression.\r\nService Connection\r\nThe Veteran claims entitlement to service connection for an acquired psychiatric disorder due to her military service.  Specifically, the Veteran alleges that she suffers from PTSD as a result of multiple in-service stressors, including military sexual traumas (MST).\r\n“To establish a right to compensation for a present disability, a Veteran must show: (1) the existence of a present disability, (2) in-service incurrence or aggravation of a disease or injury; (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service – the so-called “nexus” requirement.”  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).\r\nIn addition to the general requirements for service connection, establishing service connection for PTSD requires medical evidence establishing a diagnosis of the condition in accordance with 38 C.F.R. § 4.125(a); credible supporting evidence that the claimed in-service stressor occurred; and a link, established by medical evidence, between current symptomatology and the claimed in-service stressor.  See 38 C.F.R. §§ 3.304(f), 4.125.\r\nWith regard to the first element of service connection, the Board notes that the September 2018 RAMP rating decision found that Veteran had been diagnosed with PTSD and other specified trauma and stressor related disorder.  The Board is bound by these favorable findings.  Additionally, review of the Veteran’s VA and private treatment records show ongoing treatment related both anxiety and depression.  See, e.g., January 2017 VA Physical Medicine Rehab Outpatient Note.\r\nWith regard to the second element of service connection, in March 2015, the AOJ determined that there was sufficient evidence to support her reported stressors, including her in-service MSTs.  See March 2015 VA PTSD Stressors Memorandum.\r\nFinally, turning to the question of whether the Veteran’s PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her military service, to include her conceded MSTs, the Board finds that the Veteran’s VA and private treatment records, and the April 2018 Disability Benefits Questionnaire (DBQ) completed by Dr. D.E., when taken together, provide competent and probative evidence in support of her claim.  Specifically, the April 2018 DBQ notes that her currently-diagnosed PTSD was related to her in-service MSTs.  Additionally, the Veteran’s VA treatment records also note that her psychiatric problems were related to her in-service MSTs.  See, e.g., January 2017 VA Mental Health Telephone Encounter Note.  Finally, a July 2017 private treatment record reflects a diagnosis of PTSD, and indicates that the abuse/trauma supporting the diagnosis was her in-service experiences, including her conceded MSTs.\r\nThe Board notes that the May 2015 VA examiner provided a diagnosis of other specified trauma and stressor related disorder, but opined that such was less likely than not related to the Veteran’s in-service stressors.  Significantly, however, the May 2015 VA examiner also determined that the Veteran did not suffer from PTSD, which has otherwise been established.  As such the Board finds that the May 2015 VA examination report is less probative that the other evidence of record.\r\n\r\n\r\n\r\n\r\n\r\n\r\n(CONTINUED ON NEXT PAGE)\r\nIn summation, after resolving all reasonable doubt in her favor, the evidence supports a finding that the Veteran’s currently-diagnosed PTSD, other specified trauma and stressor related disorder, and symptoms of anxiety and depression, are related to her in-service MSTs.  Consequently, service connection is warranted.\r\n\r\n \r\nV. Chiappetta\r\nVeterans Law Judge\r\nBoard of Veterans’ Appeals\r\nATTORNEY FOR THE BOARD\tJames R. Springer, Associate Counsel \r\n\r\n"
+}

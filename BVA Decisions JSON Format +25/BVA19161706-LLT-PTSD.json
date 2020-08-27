@@ -1,0 +1,2621 @@
+{
+    "caseNumber": "19161706",
+    "caseInfo": {
+        "uri": "https://legalcasestorage.blob.core.windows.net:443/25newlltfall19/BVA19161706-NEW-0010.json",
+        "guidKey": "2684f9ca-cec2-4850-aa05-5a732877d906",
+        "version": "0010",
+        "lastChange": "2020-07-07T18:51:42.861Z",
+        "prevFileName": "BVA19161706-NEW-0009.json",
+        "nextFileName": null,
+        "name": "19161706",
+        "extension": ".json",
+        "title": null,
+        "description": null,
+        "keywords": "",
+        "notes": null,
+        "owner": "VRW",
+        "fileName": "BVA19161706-NEW-0010.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19161706P1S1",
+            "text": "Citation Nr: 19161706",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "1",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P2S1",
+            "text": "Decision Date: 08/08/19Archive Date: 08/08/19",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "2",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P3S1",
+            "text": "DOCKET NO. 18-28 749",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "attributeSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "3",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P4S2",
+            "text": "DATE: August 8, 2019",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "attributeSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "4",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 75.04
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 9.28
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 6.38
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.37
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.98
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.94
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "orderSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "5",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P6S2",
+            "text": "Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "orderSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "6",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 87.54
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 7.1
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 2.17
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.86
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.8
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.52
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P7S2",
+            "text": "Entitlement to service connection for degenerative joint disease of the lumbar spine with herniated nucleus pulposus (HNP) at L5-S1 is granted.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "orderSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "7",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 28.68
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 25.48
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 22.41
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 14.01
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.05
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.38
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P8S1",
+            "text": "REMANDED",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "8",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P9S2",
+            "text": "Entitlement to service connection for a prostate condition, to include as secondary to in-service herbicide exposures, is remanded.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "9",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 76.81
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.98
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 8.04
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.62
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 2.59
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.97
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P10S2",
+            "text": "Entitlement to service connection for hypertension, to include as secondary to in-service herbicide exposure, is remanded.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "10",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 62.77
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 13.3
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 11.66
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 5.37
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.98
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.92
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P11S1",
+            "text": "FINDINGS OF FACT",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "findingsSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "11",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P12S2",
+            "text": "1. Resolving reasonable doubt in the Veteran’s favor, his PTSD is at least as likely as not related to stressful events during his service.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "findingsSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "12",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P13S2",
+            "text": "2. The Veteran’s degenerative joint disease of the lumbar spine with HNP at L5-S1 first manifested in service.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "findingsSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "13",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P14S1",
+            "text": "CONCLUSIONS OF LAW",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "14",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P15S2",
+            "text": "1. The criteria for entitlement to service connection for PTSD have been met.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "15",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 80.51
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 13.75
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.04
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.81
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.39
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.5
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P15S3",
+            "text": "38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.159, 3.303 (2018).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "15",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 99.21
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.31
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.22
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.13
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.1
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.02
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P16S2",
+            "text": "2. The criteria for entitlement to service connection for degenerative joint disease of the lumbar spine with HNP at L5-S1 have been met.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "16",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 51.28
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 21.23
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 14.1
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.01
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.61
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.77
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P16S3",
+            "text": "38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303 (2018).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "conclusionsLawSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "16",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 98.68
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.62
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.3
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.22
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.14
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.04
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P17S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "17",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P18S2",
+            "text": "The Veteran served on active duty in the U.S. Marine Corps from October 1972 until June 1979, and from December 1981 until April 1997, to include service in both Vietnam and the Persian Gulf.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "18",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 91.38
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.33
+                },
+                {
+                    "name": "Sentence",
+                    "value": 1.12
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.07
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.62
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.48
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P18S3",
+            "text": "This matter is before the Board of Veterans’ Appeals (Board) on appeal from an agency of original jurisdiction (AOJ) July 2017 rating decision by the Department of Veterans Affairs (VA) regional office in Baltimore, Maryland.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "18",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "ReasoningSentence",
+            "predictions": [
+                {
+                    "name": "ReasoningSentence",
+                    "value": 39.67
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 23.1
+                },
+                {
+                    "name": "Sentence",
+                    "value": 19.05
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 12.74
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.15
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.29
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P19S2",
+            "text": "Entitlement to service connection for PTSD",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "19",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 89.32
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.36
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.25
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.85
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.14
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.09
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P20S2",
+            "text": "There are particular requirements for establishing PTSD in 38 C.F.R. §3.304 (f) that are separate from those for establishing service connection generally.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "20",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P20S3",
+            "text": "Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "20",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P20S4",
+            "text": "In order to be entitled to service connection for PTSD, there must be medical evidence of PTSD, medical evidence that establishes a link between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "20",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "LegalRuleSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 86.93
+                },
+                {
+                    "name": "Sentence",
+                    "value": 4.56
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.24
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.45
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.75
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.07
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P20S5",
+            "text": "See 38 C.F.R. § 3.304 (f); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "20",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 99.81
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.1
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.04
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 0.02
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.02
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.01
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P21S2",
+            "text": "Corroboration of the stressor is not required when a VA psychiatrist or psychologist diagnoses PTSD resulting from a fear of hostile military or terrorist activity when that fear is consistent with the circumstances of the Veteran’s service.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "21",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P21S3",
+            "text": "38 C.F.R. §3.304(f)(3).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "21",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P21S4",
+            "text": "Corroboration of the existence of a stressor is also not required in certain circumstances when the Veteran was diagnosed with PTSD in service, the Veteran engaged in combat with the enemy and the claimed stressor is related to that experience, or the Veteran was a prisoner of war and the claimed stressor is related to that experience.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "21",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P21S5",
+            "text": "38 C.F.R. §3.304(f)(1), (2), (4).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "21",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P21S6",
+            "text": "Corroboration of the existence of an in-service stressor is necessary in all other cases.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "21",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P22S1",
+            "text": "The evidence of record satisfies all three service connection criteria for PTSD.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "22",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "text": "The Veteran’s July 2017 VA medical examination contains a diagnosis of PTSD, to include symptoms of sleep disturbance and irritability, from a VA psychologist.",
+            "caseNumber": "19161706",
+            "paragraphNumber": "22",
+            "rhetClass": "EvidenceSentence",
+            "sectionType": "reasonsBasesSection",
+            "id": 2,
+            "isFirst": false,
+            "isLast": false,
+            "sentenceNumber": "2",
+            "sentID": "19161706P22S2"
+        },
+        {
+            "sentID": "19161706P22S3",
+            "text": "The psychologist also opined that the Veteran’s PTSD was at least as likely as not (50 percent or greater) incurred in or caused by his active duty service.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "22",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P23S2",
+            "text": "Both the Veteran’s affidavit and the VA psychologist report note two specific in-service stressors.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P23S3",
+            "text": "One stressor took place in the Veteran’s deployment to the Persian Gulf during Operations Desert Shield and Desert Strike.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P23S4",
+            "text": "The Veteran reports being in a constant state of “hyper-alertness,” from which he had trouble transitioning back to civilian life.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P23S5",
+            "text": "The cause of this state was that the Veteran was the only Marine in his unit with combat experience, so he felt like he had to take personal responsibility for each individual member.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 98.74
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.6
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.29
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.21
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.14
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.02
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P23S6",
+            "text": "He was also responsible for recording the loss of life and equipment for all incidents and organizing the movement of the entire unit multiple times to avoid Scud missile attacks.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 81.54
+                },
+                {
+                    "name": "Sentence",
+                    "value": 8.84
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.39
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.56
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.92
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.74
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P23S7",
+            "text": "To this day, the Veteran experiences a great deal of anger and irritability, is frequently forced to disengage from social situations and spends most of his time at home alone.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "7",
+            "id": 7,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P23S8",
+            "text": "The VA psychologist noted this stressor as causing the Veteran’s diagnosed PTSD.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "23",
+            "sentenceNumber": "8",
+            "id": 8,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P24S2",
+            "text": "The available military personnel records corroborate the Veteran’s claims of service during Operations Desert Storm and Desert Shield.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "24",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P24S3",
+            "text": "Several personnel evaluations, including a combat report, describe in detail how the Veteran was singularly responsible for all administrative details in his unit and received the Navy Commendation Medal.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "24",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 91.98
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.38
+                },
+                {
+                    "name": "Sentence",
+                    "value": 1.82
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.09
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.51
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.23
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P24S4",
+            "text": "The combat report emphasized the Veteran’s personal leadership under fire.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "24",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P24S5",
+            "text": "Another report stated that the Veteran provided invaluable leadership to Marines who had never previously deployed overseas and supervised the movement of the entire unit three separate times.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "24",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 88.29
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.88
+                },
+                {
+                    "name": "Sentence",
+                    "value": 2.92
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.88
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.71
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.33
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P24S6",
+            "text": "In the Board’s opinion, these reports provide enough evidence to corroborate the Veteran’s account of leadership and sense of responsibility for an inexperienced unit, overseeing logistics including casualty reports, and maneuvering to avoid possible enemy attacks.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "24",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P25S1",
+            "text": "The law does not require the corroboration of every detail of a stressor, but only independent evidence sufficient to imply personal exposure and personal presence at the time of the alleged stressor.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "25",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P25S2",
+            "text": "Pentecost v. Principi, 16 Vet. App. 124, 128 (2002); Suozzi v. Brown, 10 Vet. App. 307, 311 (1997).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "25",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "CitationSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 92.99
+                },
+                {
+                    "name": "Sentence",
+                    "value": 4.11
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.39
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 0.87
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.41
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.23
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P25S3",
+            "text": "As there is enough evidence to place the Veteran on site during evacuation operations in Vietnam and combat operations in the Persian Gulf, the Board resolves reasonable doubt in the favor of the Veteran and grants the claim for entitlement to service connection for PTSD.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "25",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "text": "See Wise v. Shinseki, 26 Vet. App. 517, 531 (2014) (“By requiring only an ‘approximate balance of positive and negative evidence’..., the nation, ‘in recognition of our debt to our veterans,’ has ‘taken upon itself the risk of error’ in awarding... benefits.”)",
+            "caseNumber": "19161706",
+            "paragraphNumber": "25",
+            "rhetClass": "CitationSentence",
+            "sectionType": "reasonsBasesSection",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true,
+            "sentenceNumber": "4",
+            "sentID": "19161706P25S4"
+        },
+        {
+            "sentID": "19161706P26S2",
+            "text": "Entitlement to service connection for lumbar spine disability",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "26",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 68.73
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 10.29
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.14
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 7
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.08
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.76
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S2",
+            "text": "The Veteran seeks to establish service connection for a lumbar spine disability.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 71.66
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.79
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 8.18
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 7.28
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 3.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.87
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S3",
+            "text": "The facts of this issue may be briefly summarized.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 66.67
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 10.23
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 9.11
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 8.26
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.89
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.84
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S4",
+            "text": "The Veteran’s entrance examination in November 1981 reflected his report of recurrent low back pain.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 82.64
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.64
+                },
+                {
+                    "name": "Sentence",
+                    "value": 4.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.03
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.25
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.2
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S5",
+            "text": "However, his entrance examination indicated a normal clinical evaluation of the spine.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 87.76
+                },
+                {
+                    "name": "Sentence",
+                    "value": 5.23
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.72
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.76
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.73
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.79
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S6",
+            "text": "Thus, he is presumed to have entered service in sound condition.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P27S7",
+            "text": "38 U.S.C. § 1111.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "7",
+            "id": 7,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P27S8",
+            "text": "Thereafter, the record reflects that the Veteran underwent a magnetic resonance imaging (MRI) scan of the lumbar spine in March 1994 which was interpreted as showing degenerative changes of the lumbar spine with HNP at L5-S1.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "8",
+            "id": 8,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 92.73
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.84
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.8
+                },
+                {
+                    "name": "Sentence",
+                    "value": 0.99
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.4
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.24
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P27S9",
+            "text": "The Board finds no lay or medical evidence which could support a finding that this lumbar spine disability pre-existed entrance into service in December 1981.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "9",
+            "id": 9,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P27S10",
+            "text": "As such, the Board finds that the Veteran’s degenerative changes of the lumbar spine with HNP at L5-S1 first manifested in service.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "10",
+            "id": 10,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P27S11",
+            "text": "Thus, the claim is granted.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "11",
+            "id": 11,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P27S12",
+            "text": "38 U.S.C. § 1110.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "reasonsBasesSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "27",
+            "sentenceNumber": "12",
+            "id": 12,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 77.12
+                },
+                {
+                    "name": "Sentence",
+                    "value": 11.08
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.04
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 3.45
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 2.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.07
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P28S1",
+            "text": "REASONS FOR REMAND",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "28",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P29S2",
+            "text": "1. Entitlement to service connection for prostate condition, to include as secondary to in-service herbicide exposure, is remanded.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "29",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 87.47
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 5.01
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.8
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.86
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.07
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.79
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P30S2",
+            "text": "If a Veteran was exposed to an herbicide agent during active military, naval, or air service, service connection for prostate cancer can be service-connected on a presumptive basis.",
+            "rhetClass": "LegalRuleSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "30",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P30S3",
+            "text": "38 C.F.R. § 3.309(e).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "30",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P30S4",
+            "text": "There is no dispute that the Veteran has been diagnosed with prostate cancer.",
+            "rhetClass": "FindingSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "30",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P31S2",
+            "text": "The Veteran reports that, during the Vietnam War, he was operations chief for a helicopter unit operating flights from the aircraft carrier USS Hancock into and out of Vietnam.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P31S3",
+            "text": "According to the Veteran’s affidavit, during the chaos of the evacuation at the end of the War all hands were necessary and the Veteran participated as a gunner on helicopter flights.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P31S4",
+            "text": "He stated that one day the flight of a man who worked next to him did not return.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P31S5",
+            "text": "Another day, he skipped a for a dentist appointment, and his close friend assumed his position as gunner.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P31S6",
+            "text": "That flight also failed to return.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P31S7",
+            "text": "Per his affidavit, the Veteran was devastated and felt personally responsible for the loss of his friend, a new father.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "7",
+            "id": 7,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 92.17
+                },
+                {
+                    "name": "Sentence",
+                    "value": 3.48
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.61
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.51
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 0.95
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.28
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P31S8",
+            "text": "He says this continues to haunt him to the present day, leaving him feeling like he is constantly leaving something incomplete.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "31",
+            "sentenceNumber": "8",
+            "id": 8,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P32S2",
+            "text": "The Veteran’s SPRs do not contain direct verification of his Vietnam service ,but do reflect periods of temporary duty with the Marine Aviation Group (MAG 36), 1st Marine Division in April and May 1975.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "32",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "EvidenceSentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 85.11
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.58
+                },
+                {
+                    "name": "Sentence",
+                    "value": 3.58
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.29
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.1
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.34
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P32S3",
+            "text": "The AOJ must attempt to verify the Veteran’s claimed Vietnam service.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "32",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 32.14
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 27.19
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 16.34
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 13.3
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 7.73
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.3
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P33S2",
+            "text": "2. Entitlement to service connection for hypertension, to include as secondary to in-service herbicide exposure, is remanded.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "33",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 82.51
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 8.45
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 4.52
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 1.95
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 1.81
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.76
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P34S2",
+            "text": "The Veteran claims that he suffers from hypertension as a result of his exposure to herbicide agents in Vietnam.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "34",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P34S3",
+            "text": "Hypertension is not one of the enumerated diseases presumptively connected to herbicide exposure.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "34",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P34S4",
+            "text": "However, the National Academy of Sciences (NAS) has upgraded hypertension to the “sufficient” category from “limited or suggestive,” indicating that “there is enough epidemiologic evidence to conclude that there is a positive association” between hypertension and herbicide exposure.",
+            "rhetClass": "EvidenceSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "34",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P34S5",
+            "text": "http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25137.",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "34",
+            "sentenceNumber": "5",
+            "id": 5,
+            "isFirst": false,
+            "isLast": false
+        },
+        {
+            "sentID": "19161706P34S6",
+            "text": "Thus, if Vietnam service is verified, medical opinion would be necessary to decide the claim.",
+            "rhetClass": "ReasoningSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "34",
+            "sentenceNumber": "6",
+            "id": 6,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P35S1",
+            "text": "The matters are REMANDED for the following action:",
+            "rhetClass": "Sentence",
+            "isSection": true,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "35",
+            "sentenceNumber": "1",
+            "id": 1,
+            "isFirst": true,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P36S2",
+            "text": "1. Associate the most recent VA treatment records and any outstanding service records with the claims file.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "36",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 66.91
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 17.54
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 11.1
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.13
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 1.18
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.14
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P37S2",
+            "text": "2. After obtaining any outstanding records, the AOJ should take all appropriate steps to attempt to verify the Veteran’s claimed service as a gunner during the evacuation of Saigon.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "37",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 57
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 14.6
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 12.13
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 10.49
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 5
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.78
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P37S3",
+            "text": "The AOJ should contact the appropriate entity to search the naval aviation histories for any evidence that helicopter missions went from the USS Hancock to Vietnam and back during the period described in the Veteran’s affidavit.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "37",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": true,
+            "labeler": "VRW"
+        },
+        {
+            "sentID": "19161706P38S2",
+            "text": "In particular, the AOJ should verify whether the Veteran’s temporary duty assignments (TAD) with MAG 36, 1st Marine Division in April and May 1975 involved service in Vietnam.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "38",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "EvidenceSentence",
+            "predictions": [
+                {
+                    "name": "EvidenceSentence",
+                    "value": 76.8
+                },
+                {
+                    "name": "Sentence",
+                    "value": 10.91
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 5.31
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 5.23
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 1.17
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 0.57
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P39S2",
+            "text": "3. If herbicide exposure is confirmed based upon an appropriate type of Vietnam service, forward the claims folder to an appropriate medical professional for opinion as to whether the Veteran’s hypertension is causally related to his herbicide exposure in service.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "39",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 59.53
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 21.04
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 8.42
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 6.5
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.51
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P39S3",
+            "text": "In so doing, the examiner should consider the NAS determination to upgrade hypertension to the “sufficient” category from “limited or suggestive,” indicating that “there is enough epidemiologic evidence to conclude that there is a positive association” between hypertension and herbicide exposure.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "39",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "LegalRuleSentence",
+            "predictions": [
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 41.08
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 39.22
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 14.78
+                },
+                {
+                    "name": "Sentence",
+                    "value": 2.34
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.05
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 0.53
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P39S4",
+            "text": "http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25137; National Academies of Sciences, Engineering, and Medicine Veterans and Agent Orange: Update 11 (2018).",
+            "rhetClass": "CitationSentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "39",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true
+        },
+        {
+            "sentID": "19161706P40S2",
+            "text": "",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "40",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 73.15
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 7.6
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 7.23
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.97
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.14
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P41S2",
+            "text": "T. MAINELLI",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "41",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 69.16
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 11.16
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 7.88
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 4.9
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.98
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 2.92
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P42S2",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "42",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "labeler": "VRW",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 83.51
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.29
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.88
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.82
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 2.91
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.59
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P43S2",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "43",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 73.88
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.66
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 5.74
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.92
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 4.47
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 4.32
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P44S2",
+            "text": "Attorney for the BoardK.C. Schumacher, Associate Counsel",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "44",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": true,
+            "rhetClassPredict": "Sentence",
+            "predictions": [
+                {
+                    "name": "Sentence",
+                    "value": 47.22
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 15.26
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 12.17
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 10.79
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.63
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 5.92
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P45S2",
+            "text": "The Board’s decision in this case is binding only with respect to the instant matter decided.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "45",
+            "sentenceNumber": "2",
+            "id": 2,
+            "isFirst": true,
+            "isLast": false,
+            "rhetClassPredict": "ReasoningSentence",
+            "predictions": [
+                {
+                    "name": "ReasoningSentence",
+                    "value": 31.85
+                },
+                {
+                    "name": "Sentence",
+                    "value": 25.48
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 16.64
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 14.97
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 8.81
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 2.24
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P45S3",
+            "text": "This decision is not precedential, and does not establish VA policies or interpretations of general applicability.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "45",
+            "sentenceNumber": "3",
+            "id": 3,
+            "isFirst": false,
+            "isLast": false,
+            "rhetClassPredict": "ReasoningSentence",
+            "predictions": [
+                {
+                    "name": "ReasoningSentence",
+                    "value": 62.9
+                },
+                {
+                    "name": "Sentence",
+                    "value": 14.94
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 11.12
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.23
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 3.75
+                },
+                {
+                    "name": "CitationSentence",
+                    "value": 3.06
+                }
+            ]
+        },
+        {
+            "sentID": "19161706P45S4",
+            "text": "38 C.F.R. § 20.1303.",
+            "rhetClass": "Sentence",
+            "isSection": false,
+            "sectionType": "remandSection",
+            "caseNumber": "19161706",
+            "paragraphNumber": "45",
+            "sentenceNumber": "4",
+            "id": 4,
+            "isFirst": false,
+            "isLast": true,
+            "rhetClassPredict": "CitationSentence",
+            "predictions": [
+                {
+                    "name": "CitationSentence",
+                    "value": 72.32
+                },
+                {
+                    "name": "Sentence",
+                    "value": 12.47
+                },
+                {
+                    "name": "ReasoningSentence",
+                    "value": 6.02
+                },
+                {
+                    "name": "EvidenceSentence",
+                    "value": 4.1
+                },
+                {
+                    "name": "LegalRuleSentence",
+                    "value": 3.83
+                },
+                {
+                    "name": "FindingSentence",
+                    "value": 1.26
+                }
+            ]
+        }
+    ],
+    "text": "Citation Nr: 19161706\r\nDecision Date: 08/08/19\tArchive Date: 08/08/19\r\n\r\nDOCKET NO. 18-28 749\r\nDATE: \tAugust 8, 2019\r\n\r\nORDER\r\n\r\nEntitlement to service connection for posttraumatic stress disorder (PTSD) is granted.\r\n\r\nEntitlement to service connection for degenerative joint disease of the lumbar spine with herniated nucleus pulposus (HNP) at L5-S1 is granted.\r\n\r\nREMANDED\r\n\r\nEntitlement to service connection for a prostate condition, to include as secondary to in-service herbicide exposures, is remanded.\r\n\r\nEntitlement to service connection for hypertension, to include as secondary to in-service herbicide exposure, is remanded.\r\n\r\nFINDINGS OF FACT\r\n\r\n1. Resolving reasonable doubt in the Veteran’s favor, his PTSD is at least as likely as not related to stressful events during his service.\r\n\r\n2. The Veteran’s degenerative joint disease of the lumbar spine with HNP at L5-S1 first manifested in service.\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. The criteria for entitlement to service connection for PTSD have been met. 38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.159, 3.303 (2018).\r\n\r\n2. The criteria for entitlement to service connection for degenerative joint disease of the lumbar spine with HNP at L5-S1 have been met. 38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303 (2018).\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nThe Veteran served on active duty in the U.S. Marine Corps from October 1972 until June 1979, and from December 1981 until April 1997, to include service in both Vietnam and the Persian Gulf.  This matter is before the Board of Veterans’ Appeals (Board) on appeal from an agency of original jurisdiction (AOJ) July 2017 rating decision by the Department of Veterans Affairs (VA) regional office in Baltimore, Maryland.  \r\n\r\nEntitlement to service connection for PTSD\r\n\r\nThere are particular requirements for establishing PTSD in 38 C.F.R. §3.304 (f) that are separate from those for establishing service connection generally. Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).  In order to be entitled to service connection for PTSD, there must be medical evidence of PTSD, medical evidence that establishes a link between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.  See 38 C.F.R. § 3.304 (f); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).\r\n\r\nCorroboration of the stressor is not required when a VA psychiatrist or psychologist diagnoses PTSD resulting from a fear of hostile military or terrorist activity when that fear is consistent with the circumstances of the Veteran’s service. 38 C.F.R. §3.304(f)(3).  Corroboration of the existence of a stressor is also not required in certain circumstances when the Veteran was diagnosed with PTSD in service, the Veteran engaged in combat with the enemy and the claimed stressor is related to that experience, or the Veteran was a prisoner of war and the claimed stressor is related to that experience.  38 C.F.R. §3.304(f)(1), (2), (4).  Corroboration of the existence of an in-service stressor is necessary in all other cases.\r\n\r\nThe evidence of record satisfies all three service connection criteria for PTSD.  The Veteran’s July 2017 VA medical examination contains a diagnosis of PTSD, to include symptoms of sleep disturbance and irritability, from a VA psychologist.  The psychologist also opined that the Veteran’s PTSD was at least as likely as not (50 percent or greater) incurred in or caused by his active duty service.  \r\n\r\nBoth the Veteran’s affidavit and the VA psychologist report note two specific in-service stressors.  One stressor took place in the Veteran’s deployment to the Persian Gulf during Operations Desert Shield and Desert Strike.  The Veteran reports being in a constant state of “hyper-alertness,” from which he had trouble transitioning back to civilian life.  The cause of this state was that the Veteran was the only Marine in his unit with combat experience, so he felt like he had to take personal responsibility for each individual member.  He was also responsible for recording the loss of life and equipment for all incidents and organizing the movement of the entire unit multiple times to avoid Scud missile attacks.  To this day, the Veteran experiences a great deal of anger and irritability, is frequently forced to disengage from social situations and spends most of his time at home alone.  The VA psychologist noted this stressor as causing the Veteran’s diagnosed PTSD. \r\n\r\nThe available military personnel records corroborate the Veteran’s claims of service during Operations Desert Storm and Desert Shield.  Several personnel evaluations, including a combat report, describe in detail how the Veteran was singularly responsible for all administrative details in his unit and received the Navy Commendation Medal.  The combat report emphasized the Veteran’s personal leadership under fire.  Another report stated that the Veteran provided invaluable leadership to Marines who had never previously deployed overseas and supervised the movement of the entire unit three separate times.  In the Board’s opinion, these reports provide enough evidence to corroborate the Veteran’s account of leadership and sense of responsibility for an inexperienced unit, overseeing logistics including casualty reports, and maneuvering to avoid possible enemy attacks.\r\n\r\nThe law does not require the corroboration of every detail of a stressor, but only independent evidence sufficient to imply personal exposure and personal presence at the time of the alleged stressor.  Pentecost v. Principi, 16 Vet. App. 124, 128 (2002); Suozzi v. Brown, 10 Vet. App. 307, 311 (1997).  As there is enough evidence to place the Veteran on site during evacuation operations in Vietnam and combat operations in the Persian Gulf, the Board resolves reasonable doubt in the favor of the Veteran and grants the claim for entitlement to service connection for PTSD.  See Wise v. Shinseki, 26 Vet. App. 517, 531 (2014) (“By requiring only an ‘approximate balance of positive and negative evidence’..., the nation, ‘in recognition of our debt to our veterans,’ has ‘taken upon itself the risk of error’ in awarding... benefits.”)\r\n\r\nEntitlement to service connection for lumbar spine disability\r\n\r\nThe Veteran seeks to establish service connection for a lumbar spine disability.  The facts of this issue may be briefly summarized.  The Veteran’s entrance examination in November 1981 reflected his report of recurrent low back pain.  However, his entrance examination indicated a normal clinical evaluation of the spine.  Thus, he is presumed to have entered service in sound condition.  38 U.S.C. § 1111.  Thereafter, the record reflects that the Veteran underwent a magnetic resonance imaging (MRI) scan of the lumbar spine in March 1994 which was interpreted as showing degenerative changes of the lumbar spine with HNP at L5-S1.  The Board finds no lay or medical evidence which could support a finding that this lumbar spine disability pre-existed entrance into service in December 1981.  As such, the Board finds that the Veteran’s degenerative changes of the lumbar spine with HNP at L5-S1 first manifested in service.  Thus, the claim is granted.  38 U.S.C. § 1110.\r\n\r\nREASONS FOR REMAND\r\n\r\n1. Entitlement to service connection for prostate condition, to include as secondary to in-service herbicide exposure, is remanded.\r\n\r\nIf a Veteran was exposed to an herbicide agent during active military, naval, or air service, service connection for prostate cancer can be service-connected on a presumptive basis.  38 C.F.R. § 3.309(e).  There is no dispute that the Veteran has been diagnosed with prostate cancer.  \r\n\r\nThe Veteran reports that, during the Vietnam War, he was operations chief for a helicopter unit operating flights from the aircraft carrier USS Hancock into and out of Vietnam.  According to the Veteran’s affidavit, during the chaos of the evacuation at the end of the War all hands were necessary and the Veteran participated as a gunner on helicopter flights.  He stated that one day the flight of a man who worked next to him did not return.  Another day, he skipped a for a dentist appointment, and his close friend assumed his position as gunner.  That flight also failed to return.  Per his affidavit, the Veteran was devastated and felt personally responsible for the loss of his friend, a new father.  He says this continues to haunt him to the present day, leaving him feeling like he is constantly leaving something incomplete.\r\n\r\nThe Veteran’s SPRs do not contain direct verification of his Vietnam service ,but do reflect periods of temporary duty with the Marine Aviation Group (MAG 36), 1st Marine Division in April and May 1975.  The AOJ must attempt to verify the Veteran’s claimed Vietnam service.\r\n\r\n2. Entitlement to service connection for hypertension, to include as secondary to in-service herbicide exposure, is remanded.\r\n\r\nThe Veteran claims that he suffers from hypertension as a result of his exposure to herbicide agents in Vietnam.  Hypertension is not one of the enumerated diseases presumptively connected to herbicide exposure.  However, the National Academy of Sciences (NAS) has upgraded hypertension to the “sufficient” category from “limited or suggestive,” indicating that “there is enough epidemiologic evidence to conclude that there is a positive association” between hypertension and herbicide exposure.   http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25137.  Thus, if Vietnam service is verified, medical opinion would be necessary to decide the claim.\r\n\r\nThe matters are REMANDED for the following action:\r\n\r\n1. Associate the most recent VA treatment records and any outstanding service records with the claims file.  \r\n\r\n2. After obtaining any outstanding records, the AOJ should take all appropriate steps to attempt to verify the Veteran’s claimed service as a gunner during the evacuation of Saigon.  The AOJ should contact the appropriate entity to search the naval aviation histories for any evidence that helicopter missions went from the USS Hancock to Vietnam and back during the period described in the Veteran’s affidavit.  \r\n\r\nIn particular, the AOJ should verify whether the Veteran’s temporary duty assignments (TAD) with MAG 36, 1st Marine Division in April and May 1975 involved service in Vietnam.\r\n\r\n3. If herbicide exposure is confirmed based upon an appropriate type of Vietnam service, forward the claims folder to an appropriate medical professional for opinion as to whether the Veteran’s hypertension is causally related to his herbicide exposure in service.  In so doing, the examiner should consider the NAS determination to upgrade hypertension to the “sufficient” category from “limited or suggestive,” indicating that “there is enough epidemiologic evidence to conclude that there is a positive association” between hypertension and herbicide exposure.   http://www8.nationalacademies.org/onpinews/newsitem.aspx?RecordID=25137; National Academies of Sciences, Engineering, and Medicine Veterans and Agent Orange: Update 11 (2018).\r\n\r\n \r\n\r\nT. MAINELLI\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nAttorney for the Board\tK.C. Schumacher, Associate Counsel\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential, and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. \r\n\r\n"
+}

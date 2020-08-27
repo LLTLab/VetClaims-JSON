@@ -1,0 +1,658 @@
+{
+    "caseNumber": "19139412",
+    "caseInfo": {
+        "guidKey": "a6c9837b-7daf-45de-9ee9-8d3f9467f1ca",
+        "name": "19139412",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T14:52:47.167Z",
+        "fileName": "BVA19139412-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19139412P1S1",
+            "text": "Citation Nr: 19139412",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P2S1",
+            "text": "Decision Date: 05/21/19 Archive Date: 05/21/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P3S1",
+            "text": "DOCKET NO. 16-18 981",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P4S1",
+            "text": "DATE: May 21, 2019",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P7S1",
+            "text": "Entitlement to service connection for Posttraumatic Stress Disorder (PTSD) is granted.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P8S1",
+            "text": "FINDING OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P9S1",
+            "text": "The Veteran has a diagnosis of PTSD due to an in-service stressor.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19139412P10S1",
+            "text": "CONCLUSION OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P14S1",
+            "text": "PTSD was incurred in service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P14S2",
+            "text": "38 U.S.C. § 1131 (2012); 38 C.F.R. §§ 3.303, 3.304 (2017).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P15S1",
+            "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P17S1",
+            "text": "The Veteran served on active duty from April 1982 to June 1985.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P18S1",
+            "text": "The scope of a mental illness disability claim includes any mental disability that may reasonably be encompassed by the claimant's description of the claim, reported symptoms, and the other information of record.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P18S2",
+            "text": "Clemmons v. Shinseki, 23 Vet. App. 1 (2009).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P20S1",
+            "text": "Here, the initial claim was interpreted as one for depression, although the Veteran did note he also claiming PTSD on his VA Form 9.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P20S2",
+            "text": "Based on the evidence of record, PTSD seems to be the predominate acquired psychiatric disorder.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P20S3",
+            "text": "Although the most recent VA opinion found major depressive disorder and a pain disorder (which had symptoms that could not be differentiated from PTSD), the examiner found that PTSD, specifically, was due to an in-service stressor.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P20S4",
+            "text": "Therefore, the claim is granted as one for PTSD. ",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P22S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P22S2",
+            "text": "Acquired Psychiatric Disability",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P24S1",
+            "text": "Service connection may be established for disability resulting from personal injury or disease contracted in the line of duty in the active military, naval, or air service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P24S2",
+            "text": "38 U.S.C. § 1131 (2012).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P25S1",
+            "text": "To establish a right to compensation for a present disability, a Veteran must show: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P25S2",
+            "text": "38 C.F.R. § 3.303(a); see also Davidson v. Shinseki, 581 F.3d 1313, 1315-16(Fed. Cir. 2009); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P27S1",
+            "text": "Service connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P27S2",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P29S1",
+            "text": "In evaluating a claim, the Board must determine the value of all evidence submitted, including lay and medical evidence.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S2",
+            "text": "Buchanan v. Nicholson, 451 F.3d 1331, 1335 (2006).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P29S3",
+            "text": "The evaluation of evidence generally involves a three-step inquiry.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S4",
+            "text": "First, the Board must determiine whether the evidence comes from a \"competent\" source.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S5",
+            "text": "Competent lay evidence means any evidence not requiring that the proponent have specialized education, training, or experience.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S6",
+            "text": "Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S7",
+            "text": "38 C.F.R. § 3.159(a); Layno v. Brown, 6 Vet. App. 465, 470 (1994) (providing that a Veteran is competent to report on that of which he or she has personal knowledge).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P29S8",
+            "text": "Lay evidence can also be competent and sufficient evidence of a diagnosis if (1) the medical issue is within the competence of a layperson, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P29S9",
+            "text": "See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P30S1",
+            "text": "If the evidence is competent, the Board must then determine if the evidence is credible, or worthy of belief.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P30S2",
+            "text": "Barr v. Nicholson, 21 Vet. App. 303, 308 (2007) (observing that once evidence is determined to be competent, the Board must determine whether such evidence is also credible).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P30S3",
+            "text": " After determining the competency and credibility of evidence, the Board must then weigh its probative value.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P30S4",
+            "text": "In this regard, the Board may properly consider internal inconsistency, facial plausibility, and consistency with other evidence submitted on behalf of the claimant.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P30S5",
+            "text": "Caluza v. Brown, 7 Vet. App. 498, 511-12 (1995).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P31S1",
+            "text": "For a medical opinion (i.e., medical evidence) to be given weight, it must be: (1) based upon sufficient facts or data; (2) the product of reliable principles and methods; and (3) the result of principles and methods reliably applied to the facts.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P31S2",
+            "text": "See Nieves-Rodriquez v. Peake, 22 Vet. App. 295, 302 (2008).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P32S1",
+            "text": "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P32S2",
+            "text": "38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P32S3",
+            "text": "To deny a claim on its merits, the evidence must preponderate against the claim.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P32S4",
+            "text": "Alemany v. Brown, 9 Vet. App. 518, 519 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P33S1",
+            "text": "Service connection for posttraumatic stress disorder requires medical evidence diagnosing the disorder; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P33S2",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P33S3",
+            "text": "If a claimed stressor is not related to combat or fear of hostile or military activity, a veteran's lay statements alone are not sufficient to establish the occurrence of the alleged stressor.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P33S4",
+            "text": "Moreau v. Brown, 9 Vet. App. 389 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P33S5",
+            "text": "In addition, credible supporting evidence of the actual occurrence of an in-service stressor cannot consist solely of after-the-fact medical nexus evidence, which means that treatment records diagnosing PTSD are not sufficient to verify the occurrence of any reported in-service stressors.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19139412P33S6",
+            "text": "Id. ",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P34S1",
+            "text": "The Veteran claims PTSD and major depressive disorder are due to service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P34S2",
+            "text": "Alternatively, he alleged depression due to his service-connected disabilities, specifically pain caused by radiculopathy.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P35S1",
+            "text": "Regarding current disability, VA treatment records show the Veteran has PTSD and recurrent major depressive episodes.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P35S2",
+            "text": "See, e.g., January 2018 VA psychiatric treatment note.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P35S3",
+            "text": "When he first sought mental health treatment at VA, the Veteran stated he had depression since service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P35S4",
+            "text": "See February 2013 VA mental health note.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19139412P35S5",
+            "text": "Of the two VA examination reports (see below), one contains a finding of depression and the other a finding of PTSD, major depressive disorder, and pain disorder which cannot be differentiated.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P35S6",
+            "text": "The second examiner found that PTSD, alone, was due to service, specifically an in-service stressor event which is outlined immediately below.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P36S1",
+            "text": "Regarding the in-service stressor, the Veteran reported several incidents in service involving the deaths of others.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P36S2",
+            "text": "The Veteran stated he witnessed two men in his unit die, both because of falls.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P36S3",
+            "text": "In his PTSD stressors statements, the Veteran, while assigned to the U.S.S. Independence (CV-62) in December 1984, witnessed a fellow servicemember (L.S.) fall from a helicopter and the Veteran reported that the body was never recovered.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P36S4",
+            "text": "A second stressor event involved witnessing his friend and fellow servicemember (K.H.) fall six stories from a window while on leave in Israel around Christmas 1983.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P37S1",
+            "text": "A February 2016 Defense Personnel Record Information Retrieval System (DPRIS) response states relevant records were reviewed and L.S. was declared lost at sea after a helicopter crash in the Arabian Sea in December 1984.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P37S2",
+            "text": "There does not appear to be a response regarding K.H.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P37S3",
+            "text": "However, according to an internet printout submitted by the Veteran, K.H. died in December 1983 in a non-hostile incident in Israel.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P38S1",
+            "text": "The Veteran's service personnel records confirm that the Veteran was assigned to the U.S.S. Independence in December 1983.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P39S1",
+            "text": "There are two VA examinations with opinions of records.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P39S2",
+            "text": "A VA examination dated February 2014, showed that an examiner diagnosed unspecified depressive disorder.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P39S3",
+            "text": "The medical opinion states that it is less likely that depression was due to service-connected disabilities or disability.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P39S4",
+            "text": "The examiner stated depression is often multifactorial in nature and pain issues are likely to be a contributor to depression.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P39S5",
+            "text": "Additionally, the examiner reported a history of two traumatic incidences in service which contributed to the Veteran's symptoms (distress) as well as a history of alcohol and substance abuse.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P40S1",
+            "text": "A second VA examination in December 2016 found that the Veteran had PTSD, major depressive disorder, and pain disorder due to medical issues and psychological factors.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P40S2",
+            "text": "The examiner found that the Veteran had multiple mental disorders, but that symptoms could not be differentiated.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P40S3",
+            "text": "The Veteran's pain was contributing to his mood disturbance, and his mood disturbance likely exacerbated his pain disorder.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P40S4",
+            "text": "The Veteran's emotional symptoms were complex, and his disorders overlap, and likely potentiate one another, and were the consequence of his traumatic experiences while serving in the Navy.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P42S1",
+            "text": "The examiner noted the two stressors given above and noted several additional stressors (nightmares about airlifting deceased and injured people and a hazing event while on a ship) adequate to support a diagnosis of PTSD.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P42S2",
+            "text": "The examiner stated that it was less likely that PTSD was due to witnessing a fellow servicemember being lost at sea (L.S.), instead the examiner noted that the most traumatic event that occurred in the military was watching another man (K.H.) fall out of a hotel window and feeling like he should have been able to grab him before the fall.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P42S3",
+            "text": "Regarding the pain disorder, the examiner stated that the Veteran reported that his pain is related to an injury sustained in the military, so it is reasonable to assume the pain disorder was more likely than not related to an in-service event.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P44S1",
+            "text": "Here, PTSD was not diagnosed during service and is not claimed as due to combat or fear of hostile or terrorist activity as outlined in 38 C.F.R. § 3.304(f)(1)-(3).",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P45S1",
+            "text": "Instead, the Veteran claims several other in-service stressors",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P45S2",
+            "text": "As found by the VA examiner, the most traumatic event was when a fellow servicemember (K.H.) fell from a window in Israel around Christmas 1983.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P45S3",
+            "text": "An internet printout submitted by the Veteran from peacetime-casualities.findthedate.org verified that K.H. died in a non-hostile incident in Israel on December 26, 1983.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P45S4",
+            "text": "The Social Security Death Index confirms the date of death (month and year) for an individual (K.H.) with the same birthdate and home state listed on the printout.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P45S5",
+            "text": "K.H was an aviation anti-submarine warfare operator assigned to the U.S.S. Independence.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P45S6",
+            "text": "The Veteran's service personnel records show he was serving with a helicopter anti-submarine squadron (abbreviated as HS) on the U.S.S. Independence in December 1983, as was also noted in his stressor statement.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P45S7",
+            "text": "(The AOJ has noted that the appellant was ashore at the time of the incident.)",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P46S1",
+            "text": "The Veteran is competent, as a lay person to report what he witnessed.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P46S2",
+            "text": "The Board finds no reason to doubt the Veteran's credibility on the matter.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P46S3",
+            "text": "The evidence is supportive of the Veteran's statements that he served with K.H., as both the Veteran and K.H. served on the same ship at the same time and both had specialties involving anti-submarine aviation.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P46S4",
+            "text": " There is no evidence contrary to the Veteran's statements regarding being on leave around Christmas 1983 nor anything to negate that he witnessed K.H.'s death.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P46S5",
+            "text": "K.H. death in Israel around Christmas 1983 is documented.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P46S6",
+            "text": "As a result, there is credible supporting evidence that this in-service stressor event occurred (the death of fellow servicemember K.H.) and no reason to doubt that the Veteran witnessed such an event.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19139412P48S1",
+            "text": "Both medical opinions found that psychiatric symptoms, however diagnosed, were due to traumatic in-service stressors.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P48S2",
+            "text": "The Veteran has submitted credible supporting evidence showing at least one in-service stressor occurred.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P48S3",
+            "text": "The opinions are from medical professionals who reviewed the file and interviewed the Veteran.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19139412P48S4",
+            "text": "There is no reason to not give weight to the medical opinions.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19139412P48S5",
+            "text": "Given the above, the probative evidence supports an acquired psychiatric disability, PTSD, is attributable to service. ",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19139412P50S1",
+            "text": "H. N. SCHWARTZ",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P51S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P52S1",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P61S1",
+            "text": "ATTORNEY FOR THE BOARD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19139412P61S2",
+            "text": "P. Yoffe, Associate Counsel",
+            "rhetClass": "Sentence"
+        }
+    ],
+    "text": "Citation Nr: 19139412\r\nDecision Date: 05/21/19\tArchive Date: 05/21/19\r\n\r\nDOCKET NO. 16-18 981\r\nDATE:\tMay 21, 2019\r\n\r\nORDER\r\n\r\nEntitlement to service connection for Posttraumatic Stress Disorder (PTSD) is granted.\r\n\r\nFINDING OF FACT\r\n\r\nThe Veteran has a diagnosis of PTSD due to an in-service stressor.\r\n\r\nCONCLUSION OF LAW\r\n\r\nPTSD was incurred in service. 38 U.S.C. § 1131 (2012); 38 C.F.R. §§ 3.303, 3.304 (2017).\r\n\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\n\r\nThe Veteran served on active duty from April 1982 to June 1985.\r\n\r\nThe scope of a mental illness disability claim includes any mental disability that may reasonably be encompassed by the claimant’s description of the claim, reported symptoms, and the other information of record. Clemmons v. Shinseki, 23 Vet. App. 1 (2009). \r\n\r\nHere, the initial claim was interpreted as one for depression, although the Veteran did note he also claiming PTSD on his VA Form 9. Based on the evidence of record, PTSD seems to be the predominate acquired psychiatric disorder. Although the most recent VA opinion found major depressive disorder and a pain disorder (which had symptoms that could not be differentiated from PTSD), the examiner found that PTSD, specifically, was due to an in-service stressor. Therefore, the claim is granted as one for PTSD. \r\n\r\n1. Acquired Psychiatric Disability \r\n\r\nService connection may be established for disability resulting from personal injury or disease contracted in the line of duty in the active military, naval, or air service.  38 U.S.C. § 1131 (2012).\r\n\r\nTo establish a right to compensation for a present disability, a Veteran must show: (1) a current disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship, i.e., a nexus, between the claimed in-service disease or injury and the current disability.  38 C.F.R. § 3.303(a); see also Davidson v. Shinseki, 581 F.3d 1313, 1315–16 (Fed.  Cir. 2009); Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).\r\n\r\nService connection may also be granted for any disease diagnosed after discharge, when all the evidence, including that pertinent to service, establishes that the disease or injury was incurred in service.  38 C.F.R. § 3.303(d).  \r\n\r\nIn evaluating a claim, the Board must determine the value of all evidence submitted, including lay and medical evidence.  Buchanan v. Nicholson, 451 F.3d 1331, 1335 (2006).  The evaluation of evidence generally involves a three-step inquiry. First, the Board must determine whether the evidence comes from a “competent” source. Competent lay evidence means any evidence not requiring that the proponent have specialized education, training, or experience.  Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person.  38 C.F.R. § 3.159(a); Layno v. Brown, 6 Vet. App. 465, 470 (1994) (providing that a Veteran is competent to report on that of which he or she has personal knowledge).  Lay evidence can also be competent and sufficient evidence of a diagnosis if (1) the medical issue is within the competence of a layperson, (2) the layperson is reporting a contemporaneous medical diagnosis, or (3) lay testimony describing symptoms at the time supports a later diagnosis by a medical professional.  See Jandreau v. Nicholson, 492 F.3d 1372, 1377 (Fed. Cir. 2007).\r\n\r\nIf the evidence is competent, the Board must then determine if the evidence is credible, or worthy of belief.  Barr v. Nicholson, 21 Vet. App. 303, 308 (2007) (observing that once evidence is determined to be competent, the Board must determine whether such evidence is also credible).  After determining the competency and credibility of evidence, the Board must then weigh its probative value.  In this regard, the Board may properly consider internal inconsistency, facial plausibility, and consistency with other evidence submitted on behalf of the claimant.  Caluza v. Brown, 7 Vet. App. 498, 511–12 (1995).\r\n\r\nFor a medical opinion (i.e., medical evidence) to be given weight, it must be: (1) based upon sufficient facts or data; (2) the product of reliable principles and methods; and (3) the result of principles and methods reliably applied to the facts.  See Nieves-Rodriquez v. Peake, 22 Vet. App. 295, 302 (2008).\r\n\r\nWhen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.  38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).  To deny a claim on its merits, the evidence must preponderate against the claim.  Alemany v. Brown, 9 Vet. App. 518, 519 (1996).\r\n\r\nService connection for posttraumatic stress disorder requires medical evidence diagnosing the disorder; a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304(f). If a claimed stressor is not related to combat or fear of hostile or military activity, a veteran’s lay statements alone are not sufficient to establish the occurrence of the alleged stressor. Moreau v. Brown, 9 Vet. App. 389 (1996). In addition, credible supporting evidence of the actual occurrence of an in-service stressor cannot consist solely of after-the-fact medical nexus evidence, which means that treatment records diagnosing PTSD are not sufficient to verify the occurrence of any reported in-service stressors. Id. \r\n\r\nThe Veteran claims PTSD and major depressive disorder are due to service. Alternatively, he alleged depression due to his service-connected disabilities, specifically pain caused by radiculopathy.\r\n\r\nRegarding current disability, VA treatment records show the Veteran has PTSD and recurrent major depressive episodes. See, e.g., January 2018 VA psychiatric treatment note. When he first sought mental health treatment at VA, the Veteran stated he had depression since service. See February 2013 VA mental health note. Of the two VA examination reports (see below), one contains a finding of depression and the other a finding of PTSD, major depressive disorder, and pain disorder which cannot be differentiated. The second examiner found that PTSD, alone, was due to service, specifically an in-service stressor event which is outlined immediately below.\r\n\r\nRegarding the in-service stressor, the Veteran reported several incidents in service involving the deaths of others. The Veteran stated he witnessed two men in his unit die, both because of falls. In his PTSD stressors statements, the Veteran, while assigned to the U.S.S. Independence (CV-62) in December 1984, witnessed a fellow servicemember (L.S.) fall from a helicopter and the Veteran reported that the body was never recovered. A second stressor event involved witnessing his friend and fellow servicemember (K.H.) fall six stories from a window while on leave in Israel around Christmas 1983.\r\n\r\nA February 2016 Defense Personnel Record Information Retrieval System (DPRIS) response states relevant records were reviewed and L.S. was declared lost at sea after a helicopter crash in the Arabian Sea in December 1984. There does not appear to be a response regarding K.H. However, according to an internet printout submitted by the Veteran, K.H. died in December 1983 in a non-hostile incident in Israel.\r\n\r\nThe Veteran’s service personnel records confirm that the Veteran was assigned to the U.S.S. Independence in December 1983.\r\n\r\nThere are two VA examinations with opinions of records. A VA examination dated February 2014, showed that an examiner diagnosed unspecified depressive disorder. The medical opinion states that it is less likely that depression was due to service-connected disabilities or disability. The examiner stated depression is often multifactorial in nature and pain issues are likely to be a contributor to depression. Additionally, the examiner reported a history of two traumatic incidences in service which contributed to the Veteran’s symptoms (distress) as well as a history of alcohol and substance abuse.\r\n\r\nA second VA examination in December 2016 found that the Veteran had PTSD, major depressive disorder, and pain disorder due to medical issues and psychological factors. The examiner found that the Veteran had multiple mental disorders, but that symptoms could not be differentiated. The Veteran’s pain was contributing to his mood disturbance, and his mood disturbance likely exacerbated his pain disorder. The Veteran’s emotional symptoms were complex, and his disorders overlap, and likely potentiate one another, and were the consequence of his traumatic experiences while serving in the Navy. \r\n\r\nThe examiner noted the two stressors given above and noted several additional stressors (nightmares about airlifting deceased and injured people and a hazing event while on a ship) adequate to support a diagnosis of PTSD. The examiner stated that it was less likely that PTSD was due to witnessing a fellow servicemember being lost at sea (L.S.), instead the examiner noted that the most traumatic event that occurred in the military was watching another man (K.H.) fall out of a hotel window and feeling like he should have been able to grab him before the fall. Regarding the pain disorder, the examiner stated that the Veteran reported that his pain is related to an injury sustained in the military, so it is reasonable to assume the pain disorder was more likely than not related to an in-service event. \r\n\r\nHere, PTSD was not diagnosed during service and is not claimed as due to combat or fear of hostile or terrorist activity as outlined in 38 C.F.R. § 3.304(f)(1)-(3).\r\n\r\nInstead, the Veteran claims several other in-service stressors. As found by the VA examiner, the most traumatic event was when a fellow servicemember (K.H.) fell from a window in Israel around Christmas 1983. An internet printout submitted by the Veteran from peacetime-casualities.findthedate.org verified that K.H. died in a non-hostile incident in Israel on December 26, 1983. The Social Security Death Index confirms the date of death (month and year) for an individual (K.H.) with the same birthdate and home state listed on the printout. K.H was an aviation anti-submarine warfare operator assigned to the U.S.S. Independence. The Veteran’s service personnel records show he was serving with a helicopter anti-submarine squadron (abbreviated as HS) on the U.S.S. Independence in December 1983, as was also noted in his stressor statement. (The AOJ has noted that the appellant was ashore at the time of the incident.)\r\n\r\nThe Veteran is competent, as a lay person to report what he witnessed. The Board finds no reason to doubt the Veteran’s credibility on the matter. The evidence is supportive of the Veteran’s statements that he served with K.H., as both the Veteran and K.H. served on the same ship at the same time and both had specialties involving anti-submarine aviation. There is no evidence contrary to the Veteran’s statements regarding being on leave around Christmas 1983 nor anything to negate that he witnessed K.H.’s death. K.H. death in Israel around Christmas 1983 is documented. As a result, there is credible supporting evidence that this in-service stressor event occurred (the death of fellow servicemember K.H.) and no reason to doubt that the Veteran witnessed such an event. \r\n\r\nBoth medical opinions found that psychiatric symptoms, however diagnosed, were due to traumatic in-service stressors. The Veteran has submitted credible supporting evidence showing at least one in-service stressor occurred. The opinions are from medical professionals who reviewed the file and interviewed the Veteran. There is no reason to not give weight to the medical opinions. Given the above, the probative evidence supports an acquired psychiatric disability, PTSD, is attributable to service. \r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\nH. N. SCHWARTZ\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nATTORNEY FOR THE BOARD\tP. Yoffe, Associate Counsel \r\n\r\n\r\n\r\n"
+}

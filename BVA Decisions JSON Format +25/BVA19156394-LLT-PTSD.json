@@ -1,0 +1,633 @@
+{
+    "caseNumber": "19156394",
+    "caseInfo": {
+        "guidKey": "7faaa855-5c39-416c-8836-fe5b9aa83f67",
+        "name": "19156394",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T16:15:02.189Z",
+        "fileName": "BVA19156394-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19156394P1S1",
+            "text": "§§Citation Nr: 19156394",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P2S1",
+            "text": "Decision Date: 07/23/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P2S2",
+            "text": "Archive Date: 07/22/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P3S1",
+            "text": "DOCKET NO. 18-28 567",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P4S1",
+            "text":"DATE: July 23, 2019",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P6S1",
+            "text":"Service connection for an acquired psychiatric disorder, to include post-traumatic stress disorder (\"PTSD\"), is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P7S1",
+            "text": "FINDING OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P8S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P8S2",
+            "text": "The Veteran does not have a confirmed PTSD stressor.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P9S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P9S2",
+            "text": "A psychiatric disorder, including PTSD, was not caused by any in-service injury, disease, disorder, or event and has not existed continually since service.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P10S1",
+            "text": "CONCLUSION OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P11S1",
+            "text": "The criteria to establish service connection for an acquired psychiatric disorder, to include PTSD, have not been met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P11S2",
+            "text": "38 U.S.C. §§ 1131, 1137, 5103, 5103A, 5107(b); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.326(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P12S1",
+            "text": "REASONS AND BASES FOR FINDING AND CONCLUSION",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P13S1",
+            "text": "The Veteran served in the U.S. Navy from July 1977 to March 1986.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P14S1",
+            "text": "This matter is on appeal from a June 2017 rating decision of the Winston-Salem, North Carolina Regional Office (RO).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P15S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P15S2",
+            "text": "Service connection for an acquired psychiatric disorder to include PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P16S1",
+            "text": "Service connection may be granted for current disability arising from disease or injury incurred or aggravated by active service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P16S2",
+            "text": "38 U.S.C. §1110, 1131.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P16S3",
+            "text": "Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P16S4",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P16S5",
+            "text": "Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P16S6",
+            "text": "Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P17S1",
+            "text": "Service connection for PTSD requires (1) medical evidence diagnosing the condition; (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P17S2",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P18S1",
+            "text": "The Veteran reports two in-service PTSD stressors.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P18S2",
+            "text": "He alleges he saw an unnamed individual crushed between a tugboat and the USS Blandy (DD 943), the ship the Veteran was stationed on, on June 10, 1981.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P18S3",
+            "text": "He explained that he observed the failed attempt to resuscitate the man and the man was bleeding as CPR was performed.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P18S4",
+            "text": "The Veteran further explained that the USS Blandy was located in Norfolk, Virginia at the time of the incident.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P19S1",
+            "text": "The Veteran also alleges that on August 7, 1981 while assigned to the USS John King (DDG3) he was two feet from a boiler when it nearly exploded.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P19S2",
+            "text": "The Veteran alleges the boiler was billowing black smoke after his commander ordered the crew to race another, newer ship.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P19S3",
+            "text": "The Veteran further stated that he was ordered to remain as the boiler was smoking and that he was the person assigned to pull the switch to shut down the plant.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P20S1",
+            "text":"In March 2017, VA requested the Joint Services Records Research Center (JSRRC) attempt to corroborate the Veteran's claimed stressor events.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P20S2",
+            "text": "In June 2017, the JSRRC produced the 1981 command history and deck logs for the USS Blandy.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P20S3",
+            "text": "The logs and history indicate that the USS Blandy was homeported in Norfolk, Virginia, and was conducting training in port from May 1 to June 15, 1981.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P20S4",
+            "text": "From June 24 to August 5, 1981, the USS Blandy conducted underway training off the coast of Guantanamo Bay.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P20S5",
+            "text":"However, there was no record in the command history or deck logs of a man being crushed by another ship for the period from June 1 to July 31, 1981 - inclusive of the period as alleged by the Veteran.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P21S1",
+            "text":"According to the Department of the Navy's OPNAV Instruction 3100.7B, all U.S. Navy ships in commission must maintain a deck log, which is the official daily record of the ship, by watch standers.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P21S2",
+            "text":"The instruction states, \"The ship's deck log describes every circumstance and occurrence of importance or interest which concerns the crew and the operation and safety of the ship, or which may be of historical value.\"",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P21S3",
+            "text":"Given these instructions, it cannot be doubted that the death of a crewmember from the USS Blandy, or a crewmember of a supporting vessel would have been recorded in the ship's logs.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P22S1",
+            "text":"The ship's records are highly probative evidence because they were generated with the specific view of recording the events they describe.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P22S2",
+            "text": "In this respect, they are  official records, which generally enjoy a high degree of probative value in the law.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P22S3",
+            "text":"Rucker v. Brown, 10 Vet. App. 67, 73 (1997) (observing that although formal rules of evidence do not apply before the Board, recourse to the Federal Rules of Evidence may be appropriate if it assists in the articulation of the reasons for the Board's decision).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P23S1",
+            "text":"Further, the Veteran's assignment history reflects he was received for duty on the USS John King on March 19, 1982, several months after the time he claimed the boiler incident occurred.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P23S2",
+            "text":"Without more supporting evidence to corroborate his stressors, the Veteran's claim fails.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P23S3",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P24S1",
+            "text":"Even if the Veteran's stressors were corroborated, the claim still fails because there is no credible, competent evidence that any acquired psychiatric disorder, including PTSD, began in service or manifested to a compensable degree within one year after service separation.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P25S1",
+            "text": "Service treatment records (STRs) are silent as to complaints of any acquired psychiatric disorders or related symptoms.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P25S2",
+            "text":"In the Veteran's July 1977 enlistment medical examination report, no psychiatric abnormalities were noted.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P25S3",
+            "text": "In service, the Veteran denied having any emotional illness.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P25S4",
+            "text": "See May 1984 Medical Questionnaire/Examination.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P25S5",
+            "text":"In his March 1986 pre-separation medical history report, the Veteran answered in the negative to the question of whether he then had, or once had nervous trouble of any sort or \"depression or excessive worry.\"",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P25S6",
+            "text": "The Veteran also answered in the negative to the question of whether he had any illness or injury other than those listed.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P26S1",
+            "text": "To the extent that the Veteran may be alleging having continuous symptoms during and since service, his service treatment records do not support his allegation.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P26S2",
+            "text": "Apart from several instances of missing the movement of his vessel, the Veteran appears to have had no apparent difficulties while on active service.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P26S3",
+            "text": "The service treatment records are akin to statements of diagnosis or treatment, which also have great probative value under the law.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P26S4",
+            "text":"Rucker, supra., see also LILLY'S: AN INTRODUCTION TO THE LAW OF EVIDENCE, 2nd Ed. (1987), pp. 245-46 (many state jurisdictions, including the federal judiciary and Federal Rule 803(4), expand the hearsay exception for physical conditions to include statements of past physical condition on the rationale that statements made to physicians for purposes of diagnosis and treatment are exceptionally trustworthy since the declarant has a strong motive to tell the truth in order to receive proper care).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P27S1",
+            "text":"The Board has carefully considered the Veteran's submitted medical evaluations, but finds that they are not probative.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P28S1",
+            "text": "In December 2017, the Veteran submitted a Disability Benefits Questionnaire (DBQ), completed in September 2017 by M.M, Phd.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P28S2",
+            "text": "She indicated that she reviewed previous rating decisions and a September 2016 PTSD checklist (PCL-5) before rendering her opinion.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P28S3",
+            "text": "The Veteran reported experiencing symptoms of PTSD, including depressed mood, anxiety, reduced activity, poor concentration, fatigue, impaired sleep, social withdrawal, suicidal ideation, hypervigilance, exaggerated startle response, and intrusive thoughts of in-service trauma.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P28S4",
+            "text": "He stated he not seek treatment for many years and did not describe an exact date when his symptoms arose.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P28S5",
+            "text":"After evaluating the Veteran's symptoms under DSM 5 criteria, the examiner diagnosed the Veteran with PTSD, but opined the Veteran did not have a diagnosis of any other mental disorder - the latter finding being reiterated in several aspects on the DBQ.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P29S1",
+            "text":"Dr. M.M.'s opinion is not probative because it is not factually informed and therefore not competent.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P29S2",
+            "text": "Nieves- Rodriguez v. Peake, 22 Vet. App. 295 (2008) (the probative value of a medical opinion depends upon whether it is factually accurate, fully articulated, and contains sound reasoning for the conclusion, not the mere fact that the claims file was reviewed).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P29S3",
+            "text":"The examiner's subjective belief in the Veteran's credibility is not sufficient to substantiate the stressors.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P29S4",
+            "text": "A medical diagnosis is only as credible as the history on which it was based.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P29S5",
+            "text": "Reonal v. Brown, 5 Vet. App. 458 (1993); see also Elkins v. Brown, 5 Vet. App. 474 (1993); Swann v. Brown, 5 Vet. App. 229 (1993) (generally, that a diagnosis can be no better than the facts alleged by the claimant).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P30S1",
+            "text": "In November 2017, the opinion of C.M., PhD was received.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P30S2",
+            "text": "It challenges the June 2017 rating decision denying service connection.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P30S3",
+            "text":"See \"Medical Considerations for Post-Traumatic Stress Disorder Secondary to Active Duty Military Stressors.\"",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P30S4",
+            "text": "This opinion is also not probative for the same essential reason as that of Dr. M.M.: it is not factually informed.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P30S5",
+            "text":"Moreover, Dr. C.M.'s opinion is more legal brief than medical opinion.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P30S6",
+            "text": "He argues various provisions of Title 38 of the United States Code; Title 38 of the Code of Federal Regulations, and numerous precedential cases of the appellate courts.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P30S7",
+            "text":"See Sklar v. Brown, 5 Vet. App. 140 (1993) (observing that a specialist's opinion as to a medical matter outside of his or her specialty to be given little weight).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P31S1",
+            "text":"In the opinion, the Veteran's private psychologist argues that the Veteran's lay statements alone are sufficient to corroborate his in-service stressors.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19156394P31S2",
+            "text":"Not only is this not a medical opinion, the examiner is incorrect - in this circumstance, the law requires credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P31S3",
+            "text": "38 C.F.R. § 3.304(f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P31S4",
+            "text": "Further, none of the relaxed evidentiary standards of 3.304(f)(1)-(5) apply: the Veteran was not diagnosed with PTSD during service, he was not engaged in combat and his stressors are not related to combat, his stressors are not related to fear of hostile military or terrorist activity or an in-service personal assault, and the evidence does not establish he was a prisoner of war.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P31S5",
+            "text":"Accordingly, corroborating evidence other than the Veteran's lay statements is needed to establish service connection for PTSD.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P32S1",
+            "text": "The preponderance of the evidence is against finding service connection.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P32S2",
+            "text":"VA was unable to corroborate the Veteran's claimed stressors based on the command history and deck logs of the ships the Veteran was stationed on during the events he reported.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P32S3",
+            "text": "Further, STRs are silent as to any acquired psychiatric disorders and the Veteran did not report PTSD symptoms until many years after service.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P33S1",
+            "text": "Finally, the medical opinions the Veteran relies on are inadequate because they did not consider the entire relevant factual background and the latter renders legal conclusions that a psychologist is not competent to give.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19156394P34S1",
+            "text": "(Continued on the next page)",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P36S1",
+            "text": "The evidence is not in equipoise because the Veteran has failed to establish an element of his claim and the positive medical opinions are inadequate, as discussed above.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P36S2",
+            "text": "As the preponderance of the evidence is against the claim, the benefit-of-the-doubt doctrine is not applicable.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19156394P36S3",
+            "text": "38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19156394P36S4",
+            "text": "The claim is denied.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P38S1",
+            "text": "Vito A. Clementi",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P39S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P40S1",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P41S1",
+            "text": "ATTORNEY FOR THE BOARD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P41S2",
+            "text": "Benjamin M. Hiaasen",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19156394P42S1",
+            "text": "The Board’s decision in this case is binding only with respect to the instant matter decided.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P42S2",
+            "text": "This decision is not precedential, and does not establish VA policies or interpretations of general applicability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19156394P42S3",
+            "text": "38 C.F.R. § 20.1303.",
+            "rhetClass": "CitationSentence"
+        }
+    ],
+    "text": "Citation Nr: 19156394\r\nDecision Date: 07/23/19\tArchive Date: 07/22/19\r\n\r\nDOCKET NO. 18-28 567\r\nDATE: \tJuly 23, 2019\r\n\r\nORDER\r\n\r\nService connection for an acquired psychiatric disorder, to include post-traumatic stress disorder (“PTSD”), is denied.\r\n\r\nFINDING OF FACT\r\n\r\n1.  The Veteran does not have a confirmed PTSD stressor.\r\n\r\n2.  A psychiatric disorder, including PTSD, was not caused by any in-service injury, disease, disorder, or event and has not existed continually since service.\r\n\r\nCONCLUSION OF LAW\r\n\r\nThe criteria to establish service connection for an acquired psychiatric disorder, to include PTSD, have not been met.  38 U.S.C. §§ 1131, 1137, 5103, 5103A, 5107(b); 38 C.F.R. §§ 3.102, 3.159, 3.303, 3.304, 3.326(a).\r\n\r\nREASONS AND BASES FOR FINDING AND CONCLUSION\r\n\r\nThe Veteran served in the U.S. Navy from July 1977 to March 1986.  \r\n\r\nThis matter is on appeal from a June 2017 rating decision of the Winston-Salem, North Carolina Regional Office (RO).  \r\n\r\n1. Service connection for an acquired psychiatric disorder to include PTSD.\r\n\r\nService connection may be granted for current disability arising from disease or injury incurred or aggravated by active service. 38 U.S.C. §1110, 1131. Service connection may be granted for any disease diagnosed after discharge when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d). Service connection generally requires (1) medical evidence of a current disability; (2) medical or, in certain circumstances, lay evidence of in-service incurrence or aggravation of a disease or injury; and (3) medical evidence of a nexus between the claimed in-service disease or injury and the current disability. Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).\r\n\r\nService connection for PTSD requires (1) medical evidence diagnosing the condition; (2) a link, established by medical evidence, between current symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).  \r\n\r\nThe Veteran reports two in-service PTSD stressors. He alleges he saw an unnamed individual crushed between a tugboat and the USS Blandy (DD 943), the ship the Veteran was stationed on, on June 10, 1981.  He explained that he observed the failed attempt to resuscitate the man and the man was bleeding as CPR was performed.  The Veteran further explained that the USS Blandy was located in Norfolk, Virginia at the time of the incident.  \r\n\r\nThe Veteran also alleges that on August 7, 1981 while assigned to the USS John King (DDG3) he was two feet from a boiler when it nearly exploded.  The Veteran alleges the boiler was billowing black smoke after his commander ordered the crew to race another, newer ship.  The Veteran further stated that he was ordered to remain as the boiler was smoking and that he was the person assigned to pull the switch to shut down the plant.  \r\n\r\nIn March 2017, VA requested the Joint Services Records Research Center (JSRRC) attempt to corroborate the Veteran’s claimed stressor events.  In June 2017, the JSRRC produced the 1981 command history and deck logs for the USS Blandy.  The logs and history indicate that the USS Blandy was homeported in Norfolk, Virginia, and was conducting training in port from May 1 to June 15, 1981.  From June 24 to August 5, 1981, the USS Blandy conducted underway training off the coast of Guantanamo Bay.  However, there was no record in the command history or deck logs of a man being crushed by another ship for the period from June 1 to July 31, 1981 – inclusive of the period as alleged by the Veteran.  \r\n\r\nAccording to the Department of the Navy’s OPNAV Instruction 3100.7B, all U.S. Navy ships in commission must maintain a deck log, which is the official daily record of the ship, by watch standers. The instruction states, “The ship’s deck log describes every circumstance and occurrence of importance or interest which concerns the crew and the operation and safety of the ship, or which may be of historical value.” Given these instructions, it cannot be doubted that the death of a crewmember from the USS Blandy, or a crewmember of a supporting vessel would have been recorded in the ship’s logs. \r\n\r\nThe ships’ records are highly probative evidence because they were generated with the specific view of recording the events they describe. In this respect, they are  official records, which generally enjoy a high degree of probative value in the law. Rucker v. Brown, 10 Vet. App. 67, 73 (1997) (observing that although formal rules of evidence do not apply before the Board, recourse to the Federal Rules of Evidence may be appropriate if it assists in the articulation of the reasons for the Board’s decision). \r\n\r\nFurther, the Veteran’s assignment history reflects he was received for duty on the USS John King on March 19, 1982, several months after the time he claimed the boiler incident occurred.  Without more supporting evidence to corroborate his stressors, the Veteran’s claim fails.  38 C.F.R. § 3.304(f).      \r\n\r\nEven if the Veteran’s stressors were corroborated, the claim still fails because there is no credible, competent evidence that any acquired psychiatric disorder, including PTSD, began in service or manifested to a compensable degree within one year after service separation.\r\n\r\nService treatment records (STRs) are silent as to complaints of any acquired psychiatric disorders or related symptoms.  In the Veteran’s July 1977 enlistment medical examination report, no psychiatric abnormalities were noted.  In service, the Veteran denied having any emotional illness.  See May 1984 Medical Questionnaire/Examination.  In his March 1986 pre-separation medical history report, the Veteran answered in the negative to the question of whether he then had, or once had nervous trouble of any sort or “depression or excessive worry.”  The Veteran also answered in the negative to the question of whether he had any illness or injury other than those listed.  \r\n\r\nTo the extent that the Veteran may be alleging having continuous symptoms during and since service, his service treatment records do not support his allegation. Apart from several instances of missing the movement of his vessel, the Veteran appears to have had no apparent difficulties while on active service. The service treatment records are akin to statements of diagnosis or treatment, which also have great probative value under the law.  Rucker, supra., see also LILLY’S: AN INTRODUCTION TO THE LAW OF EVIDENCE, 2nd Ed. (1987), pp. 245-46 (many state jurisdictions, including the federal judiciary and Federal Rule 803(4), expand the hearsay exception for physical conditions to include statements of past physical condition on the rationale that statements made to physicians for purposes of diagnosis and treatment are exceptionally trustworthy since the declarant has a strong motive to tell the truth in order to receive proper care).\r\n\r\nThe Board has carefully considered the Veteran’s submitted medical evaluations, but finds that they are not probative. \r\n\r\nIn December 2017, the Veteran submitted a Disability Benefits Questionnaire (DBQ), completed in September 2017 by M.M, Phd.  She indicated that she reviewed previous rating decisions and a September 2016 PTSD checklist (PCL-5) before rendering her opinion.  The Veteran reported experiencing symptoms of PTSD, including depressed mood, anxiety, reduced activity, poor concentration, fatigue, impaired sleep, social withdrawal, suicidal ideation, hypervigilance, exaggerated startle response, and intrusive thoughts of in-service trauma.  He stated he not seek treatment for many years and did not describe an exact date when his symptoms arose.  After evaluating the Veteran’s symptoms under DSM 5 criteria, the examiner diagnosed the Veteran with PTSD, but opined the Veteran did not have a diagnosis of any other mental disorder – the latter finding being reiterated in several aspects on the DBQ.  \r\n\r\nDr. M.M.’s opinion is not probative because it is not factually informed and therefore not competent.  Nieves- Rodriguez v. Peake, 22 Vet. App. 295 (2008) (the probative value of a medical opinion depends upon whether it is factually accurate, fully articulated, and contains sound reasoning for the conclusion, not the mere fact that the claims file was reviewed). The examiner’s subjective belief in the Veteran’s credibility is not sufficient to substantiate the stressors. A medical diagnosis is only as credible as the history on which it was based. Reonal v. Brown, 5 Vet. App. 458 (1993); see also Elkins v. Brown, 5 Vet. App. 474 (1993); Swann v. Brown, 5 Vet. App. 229 (1993) (generally, that a diagnosis can be no better than the facts alleged by the claimant).  \r\n\r\nIn November 2017, the opinion of C.M., PhD was received. It challenges the June 2017 rating decision denying service connection.  See “Medical Considerations for Post-Traumatic Stress Disorder Secondary to Active Duty Military Stressors.” This opinion is also not probative for the same essential reason as that of Dr. M.M.: it is not factually informed. Moreover, Dr. C.M.’s opinion is more legal brief than medical opinion. He argues various provisions of Title 38 of the United States Code; Title 38 of the Code of Federal Regulations, and numerous precedential cases of the appellate courts.  See Sklar v. Brown, 5 Vet. App. 140 (1993) (observing that a specialist’s opinion as to a medical matter outside of his or her specialty to be given little weight).  \r\n\r\nIn the opinion, the Veteran’s private psychologist argues that the Veteran’s lay statements alone are sufficient to corroborate his in-service stressors.  Not only is this not a medical opinion, the examiner is incorrect— in this circumstance, the law requires credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § 3.304(f).  Further, none of the relaxed evidentiary standards of 3.304(f)(1)-(5) apply: the Veteran was not diagnosed with PTSD during service, he was not engaged in combat and his stressors are not related to combat, his stressors are not related to fear of hostile military or terrorist activity or an in-service personal assault, and the evidence does not establish he was a prisoner of war.  Accordingly, corroborating evidence other than the Veteran’s lay statements is needed to establish service connection for PTSD.\r\n\r\nThe preponderance of the evidence is against finding service connection.  VA was unable to corroborate the Veteran’s claimed stressors based on the command history and deck logs of the ships the Veteran was stationed on during the events he reported.  Further, STRs are silent as to any acquired psychiatric disorders and the Veteran did not report PTSD symptoms until many years after service.  \r\n\r\nFinally, the medical opinions the Veteran relies on are inadequate because they did not consider the entire relevant factual background and the latter renders legal conclusions that a psychologist is not competent to give.    \r\n\r\n(Continued on the next page)\r\n\r\n \r\n\r\nThe evidence is not in equipoise because the Veteran has failed to establish an element of his claim and the positive medical opinions are inadequate, as discussed above.  As the preponderance of the evidence is against the claim, the benefit-of-the-doubt doctrine is not applicable. 38 U.S.C. § 5107; 38 C.F.R. § 3.102; Gilbert v. Derwinski, 1 Vet. App. 49, 53-56 (1990).  The claim is denied.\r\n\r\n \r\n\r\nVito A. Clementi\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nATTORNEY FOR THE BOARD\tBenjamin M. Hiaasen\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential, and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. \r\n\r\n"
+}

@@ -1,0 +1,1201 @@
+{
+    "caseNumber": "19161969",
+    "caseInfo": {
+        "guidKey": "712a8b7c-054f-4857-b14d-c2181688c0c9",
+        "name": "19161969",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T19:18:19.460Z",
+        "fileName": "BVA19161969-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19161969P1S1",
+            "text": "Citation Nr: 19161969",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P2S1",
+            "text": "Decision Date: 08/13/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P2S2",
+            "text": "Archive Date: 08/09/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P3S1",
+            "text": "DOCKET NO. 15-27 167",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P4S1",
+            "text":"DATE: August 13, 2019",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P6S1",
+            "text": "Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P7S1",
+            "text": "REMANDED",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P8S1",
+            "text": "Entitlement to service connection for an acquired psychiatric disability other than PTSD, to include anxiety and depression, is remanded.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P9S1",
+            "text": "Entitlement to service connection for hypertension is remanded.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P10S1",
+            "text": "Entitlement to service connection for skin cancer (basal cell and squamous cell carcinoma) is remanded.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P11S1",
+            "text": "FINDINGS OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P12S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P12S2",
+            "text": "The Veteran is a combat veteran of the Vietnam War.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P13S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P13S2",
+            "text": "Medical evidence links the Veteran’s currently diagnosed PTSD to a stressor experienced during active military service.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P14S1",
+            "text": "CONCLUSION OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P15S1",
+            "text": "The criteria for service connection for posttraumatic stress disorder have been met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P15S2",
+            "text": "38 U.S.C. §§ 1101, 1110; 38 C.F.R. § §§ 3.303, 3.304.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P16S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSION",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P17S1",
+            "text": "The Veteran served on active duty from May 1966 to December 1968, with subsequent Army National Guard service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P18S1",
+            "text": "This matter comes before the Board of Veterans’ Appeals on appeal from a May 2012 rating decision.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P19S1",
+            "text": "In February 2019, the Board vacated a January 2019 Board decision that had denied service connection for basal cell carcinoma, squamous cell carcinoma, Grover’s disease, and an acquired psychiatric disorder, to include PTSD, and that remanded the issue of entitlement to service connection for hypertension.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P20S1",
+            "text": "In March 2019, the Veteran testified at a Board hearing before the undersigned Veterans Law Judge.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P20S2",
+            "text": "A transcript of the hearing is of record.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P21S1",
+            "text": "Service Connection",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P22S1",
+            "text": "Service connection will be granted for a current disability that resulted from an injury or disease incurred in, or aggravated by, active service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P22S2",
+            "text": "38 U.S.C. §§ 1110, 1131; 38 C.F.R. § § 3.303(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P22S3",
+            "text": "Generally, service connection requires: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the present disability and the disease or injury incurred or aggravated during service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P22S4",
+            "text": "See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P22S5",
+            "text": "The claimant will be given the benefit of the doubt as to any issue material to the determination of a matter when there is an approximate balance of positive and negative evidence.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P22S6",
+            "text": "38 U.S.C. § 5107(b); 38 C.F.R. § § 3.102.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P23S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P23S2",
+            "text": "Entitlement to service connection for PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P24S1",
+            "text": "The Veteran seeks service connection for PTSD, which he alleges began in 1968.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P24S2",
+            "text": "See Veteran’s claim of August 2011.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P24S3",
+            "text": "He describes an in-service stressor in which his unit was shelled by mortars, he fell and badly hurt his knee while running to a bunker, and he was left alone and vulnerable in the field.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P24S4",
+            "text": "He describes another in-service stressor in which several mortar rounds landed on the roof of his bunker, and he was under the mortar attack for several hours without communication with others.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P24S5",
+            "text": "See Veteran’s statements of August 2011 and October 2011; transcript of March 2019 Board hearing.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P25S1",
+            "text": "Establishing service connection for PTSD generally requires: (1) medical evidence diagnosing PTSD in conformance with established criteria; (2) a link, established by medical evidence, between a veteran’s present symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P25S2",
+            "text": "38 C.F.R. § §§ 3.304(f), 4.125; see also Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P26S1",
+            "text": "The Veteran has been diagnosed under the DSM-IV TR with PTSD, dysthymia, and personality disorder NOS.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P26S2",
+            "text": "See VA treatment record of August 2012.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P26S3",
+            "text": "He has also been diagnosed with anxiety disorder NOS and depression NOS.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P26S4",
+            "text": "See VA treatment record of October 2011.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P27S1",
+            "text": "A diagnosis of PTSD for compensation purposes must be established in accordance with 38 C.F.R. § 4.125(a), which mandates that, for VA purposes, all mental disorder diagnoses must conform to the Fifth Edition of the American Psychiatric Association ‘s Diagnostic and Statistical Manual for Mental Disorders (DSM-5).",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P27S2",
+            "text": "VA has determined that the DSM-5 applies to claims filed, or pending before the agency of original jurisdiction (AOJ), on or after August 4, 2014.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P27S3",
+            "text": "79 Fed. Reg. 45,093, 45,094 (Aug. 4, 2014).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P27S4",
+            "text": "As the Veteran’s appeal was certified to the Board in September 2015, the DSM-5 applies here.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P27S5",
+            "text": "However, the DSM-IV diagnoses of record must still be considered in assessing the claim.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P27S6",
+            "text": "On this basis, the Veteran meets the first criterion of service connection for PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P27S7",
+            "text": "See VA treatment record of August 2012; VA examination report of March 2012.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P28S1",
+            "text": "The Veteran underwent a VA examination for PTSD in March 2012.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P28S2",
+            "text": "PTSD and personality disorder NOS were diagnosed.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P28S3",
+            "text": "The examiner determined that it was not possible to differentiate which symptoms are attributable to each diagnosis.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P28S4",
+            "text": "Personality disorders are not considered disabilities for purposes of service connection.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P28S5",
+            "text": "38 C.F.R. §§ 3.303(c), 4.9; see also Winn v. Brown, 8 Vet. App. 510, 516 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P28S6",
+            "text": "While a claimant cannot be compensated for a personality disorder, which is considered to be a congenital or developmental abnormality, disability resulting from a mental disorder that is superimposed upon a personality disorder may be service-connected.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P28S7",
+            "text": "38 C.F.R. § § 4.127.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P28S8",
+            "text": "Because the examiner was unable to separate the symptoms of the personality disorder from those of PTSD, all psychiatric symptoms will be considered in assessing the claim.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P28S9",
+            "text": "See Mittleider v. West, 11 Vet. App. 181 (1998).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P29S1",
+            "text": "The VA examiner determined that three stressors were adequate to support the diagnosis of PTSD: 1) the incident in which the Veteran injured his knee and was immobile when trying to run to a bunker for protection in an actual mortar attack during service; 2) post-service fear arising from being arrested and interrogated by Russian police as a missionary in Russia; and 3) living in constant danger and having several friends beaten to death when he worked as a missionary post-service in Zimbabwe.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P29S2",
+            "text": "Noted as an additional stressor was the fact that the Veteran experienced physical and emotional abuse as a child.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P30S1",
+            "text": "A June 2019 report of Dr. J. W. determined that the Veteran’s diagnosed PTSD is related to the in-service stressor of the mortar attack, as described above.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P30S2",
+            "text": "Upon examination of the Veteran and a review of the medical record, Dr. J. W. determined that the Veteran meets the criteria for PTSD and that it is caused by the military stressor.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P30S3",
+            "text": "Because she linked the in-service stressor of the mortar attack to the Veteran’s present PTSD symptoms, the second element of service connection for PTSD is met.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P31S1",
+            "text": "The evidence demonstrates that the Veteran is a combat veteran of the Vietnam War.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P31S2",
+            "text": "His DD Form 214 lists receipt of the Vietnam Campaign Medal and the Vietnam Service Medal.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P31S3",
+            "text": "His military specialty, as described at the Board hearing, involved advanced cryptography.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P32S1",
+            "text": "In the case of any veteran who engaged in combat with the enemy in active service during a period of war, satisfactory lay or other evidence of service incurrence or aggravation of in-service injury or disease will be accepted as sufficient proof of in-service incurrence or aggravation, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and every reasonable doubt will be resolved in favor of the veteran.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P32S2",
+            "text": "That the particular disease or injury was incurred during service may be rebutted by clear and convincing evidence to the contrary.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P32S3",
+            "text": "38 U.S.C. § 1154(b); 38 C.F.R. § § 3.304(d) (general combat presumption); 3.304(f) (PTSD combat presumption).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P33S1",
+            "text": "Participation in combat is determined on a case-by-case basis.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P33S2",
+            "text": "It requires that the claimant have personally participated in events constituting an actual fight or encounter with a military foe or hostile unit or instrumentality.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P33S3",
+            "text": "Receipt of a decoration is not the only acceptable evidence of such engagement.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P33S4",
+            "text": "Receiving enemy fire can constitute participation in combat.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P33S5",
+            "text": "See Sizemore v. Principi, 18 Vet. App. 264 (2004).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P33S6",
+            "text": "A veteran’s own statements and other types of evidence may support the fact of combat participation.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P33S7",
+            "text": "See Gaines v. West, 11 Vet. App. 353, 359 (1998).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P34S1",
+            "text": "The Veteran’s personnel records indicate that he served at Phu Lam in Vietnam, and there is an Army memorandum of record that describes a mortar attack at Phu Lam facility on February 1968.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P34S2",
+            "text": "The Board finds that the Veteran’s credible testimony, as well as documentary evidence, weigh in favor of a finding that he engaged in combat and that the claimed in-service stressor occurred. ",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P34S3",
+            "text": "The stressor involving the knee injury and mortar attack is consistent with the circumstances of the Veteran’s service.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P34S4",
+            "text": "The fact that no psychological symptoms were found or reported on the separation examination report of December 1968 is not clear and convincing evidence to the contrary.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P34S5",
+            "text": "Accordingly, the third and final element of service connection for PTSD has been met.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P35S1",
+            "text": "Evidence that tends to weigh against the claim is the negative opinion of the March 2012 VA examiner.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P35S2",
+            "text": "While he determined that the Veteran’s in-service stressor involving the mortar attack was sufficient to support the PTSD diagnosis, the examiner also considered the Veteran’s current mental conditions of PTSD and personality disorder NOS to not be due to events of service.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P35S3",
+            "text": "The rationale was that the Veteran had had traumatic, abusive experiences during childhood, that treatment records from 1966 to 1980 are silent for a mental condition or reported problems, that the Veteran performed successfully for years in the National Guard and his private career, that he felt threatened and in danger when living and working in Russia and Zimbabwe post-service, and that his personality disorder NOS influences his behavior and emotional reactions to stressors related to his marriage, past injustices, and perceived slights.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19161969P36S1",
+            "text": "The Board places more probative weight in this case on the positive opinion of Dr. J.W., who considered the VA examination report in question and noted that several of its key findings are inconsistent with factual assertions made by the Veteran upon examination.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P36S2",
+            "text": "The Veteran’s testimony before the Board was also consistent with that given to Dr. J.W.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P36S3",
+            "text": " In attempting to disassociate the Veteran’s in-service stressor from diagnosed PTSD, the VA examiner relied on supposed facts that the Board finds to be insufficiently supported by the record.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P36S4",
+            "text": "Specifically, the Board finds the Veteran to be competent and credible in his assertion that his father did not break the Veteran’s collarbone, that he was not traumatized by his missionary work in Russia and Zimbabwe, and that he was able to work successfully for years following service because he worked night shifts in order to avoid people.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P37S1",
+            "text": "Furthermore, the VA examiner did not adequately explain how, although the symptoms of the Veteran’s personality disorder cannot be distinguished from those of his PTSD, the personality disorder can be identified as influencing the Veteran’s behavior more than the in-service stressor which (according to the examiner himself) is sufficient to support the diagnosis.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19161969P38S1",
+            "text": "An examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P38S2",
+            "text": "See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P38S3",
+            "text": "The Board may discount the weight of evidence, including medical evidence, in light of its inherent characteristics and relationship to other items of evidence.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P38S4",
+            "text": "See Prejean v. West, 13 Vet. App. 444, 448-49 (2000).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P38S5",
+            "text": "In this case, the evidence of record, including the report of June 2019 report of Dr. J. W., is sufficiently complete to grant the claim, and the Board discounts the negative evidence of the 2012 VA examination report for PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19161969P39S1",
+            "text": "REASONS FOR REMAND",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P40S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P40S2",
+            "text": "Entitlement to service connection for an acquired psychiatric disability other than PTSD, to include anxiety and depression.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P41S1",
+            "text": "In August 2011, the Veteran filed a service-connection claim for PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P41S2",
+            "text": "The claim will be granted by today’s order.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P41S3",
+            "text": "The scope of the Veteran’s PTSD claim includes any disability that may reasonably be encompassed by the description of the claim, reported symptoms, and the other information of record.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P41S4",
+            "text": "See Clemons v. Shinseki, 23 Vet. App. 1 (2009).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P42S1",
+            "text": "Following the filing of the Veteran’s claim in August 2011, he was diagnosed with psychiatric disorders other than PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S2",
+            "text": " A VA treatment record of August 2012 diagnosed both PTSD and dysthymia.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S3",
+            "text": "A VA treatment record of November 2014 diagnosed “unspecified anxiety, unspecified depression DSM-5.”",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S4",
+            "text": "A VA treatment record of January 2015 diagnosed, under the DSM-5, “unspecified anxiety, unspecified depression - resolved.”",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S5",
+            "text": "The March 2012 VA examiner attributed the Veteran’s anxiety and depressed mood to PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S6",
+            "text": "The VA examiner did not explain whether or not he was revising or correcting the earlier, non-PTSD diagnoses of record, which were made after the Veteran’s claim was filed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P42S7",
+            "text": "An earlier diagnosis of dysthymic disorder under the DSM-IV in a VA treatment record of December 2011 was acknowledged in the VA report.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P43S1",
+            "text": "The Veteran has also been diagnosed with personality disorder NOS.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P43S2",
+            "text": "See VA treatment record of August 2012; VA examination report of March 2012.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P43S3",
+            "text": "Personality disorders are not considered disabilities for purposes of service connection.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P43S4",
+            "text": "38 C.F.R. § §§ 3.303(c), 4.9; see also Winn v. Brown, 8 Vet. App. 510, 516 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P43S5",
+            "text": "While a claimant cannot be compensated for a personality disorder, which is considered to be a congenital or developmental abnormality, disability resulting from a mental disorder that is superimposed upon a personality disorder may be service-connected.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P43S6",
+            "text": "38 C.F.R. § § 4.127.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P44S1",
+            "text": "The requirement of a current disability is satisfied if a disorder is diagnosed at the time a claim is filed or at any time during the pendency of the appeal, and service connection may be awarded even though a disability resolves itself prior to adjudication of the claim.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P44S2",
+            "text": "See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P44S3",
+            "text": "Service connection may be granted for more than one mental health disorder, although separate ratings require different manifestations of disability.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P44S4",
+            "text": "See Amberman v. Shinseki, 570 F.3d 1377, 1380-81 (Fed. Cir. 2009).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P44S5",
+            "text": "Accordingly, an additional VA examination and opinion are necessary in this case to adjudicate possible entitlement to service connection for an acquired psychiatric disability other than PTSD, to include diagnosed anxiety and depression.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P45S1",
+            "text": "Furthermore, because the January 2012 VA examination report for skin diseases noted that the Veteran’s “anxiety, irritability” are systematic manifestations due to skin disease, the issue of entitlement to service connection for an acquired psychiatric disorder other than PTSD is inextricably intertwined with the issue of entitlement to service connection for skin cancer (which the Board is also remanding by today’s order).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P45S2",
+            "text": "See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991)",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P45S3",
+            "text": "Service connection may be granted on a secondary basis for disability which is proximately due to or the result of a service-connected disease or injury.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P45S4",
+            "text": "38 C.F.R. § § 3.310(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P45S5",
+            "text": "The Board must adjudicate all theories of entitlement reasonably raised by the record.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P45S6",
+            "text": "See Robinson v. Peake, 21 Vet. App. 545, 552-553 (2008).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P45S7",
+            "text": "Therefore, the remand action language below will request a medical opinion as to possible secondary service connection.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P46S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P46S2",
+            "text": "Entitlement to service connection for hypertension.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P47S1",
+            "text": "The Veteran seeks service connection for hypertension, which he alleges began in 1968.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P47S2",
+            "text": "See Veteran’s claim of August 2011.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P47S3",
+            "text": "Because the Veteran served in Vietnam from November 1967 to December 1968, exposure to an herbicide agent is presumed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P47S4",
+            "text": "38 U.S.C. § 1116(a); 38 C.F.R. §§ 3.307(a), 3.309(e).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P47S5",
+            "text": "Hypertension is not one of diseases listed under 38 C.F.R. § 3.309(e) for which a presumption of service connection based on herbicide exposure applies.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P48S1",
+            "text": "The Veteran underwent a VA examination for hypertension in March 2019.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P48S2",
+            "text": "Hypertension was diagnosed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P48S3",
+            "text": "The examiner, a physician assistant, offered a negative nexus opinion partly on the basis that VA regulations do not list hypertension as one of the diseases for which service connection will be presumed based on herbicide exposure.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P49S1",
+            "text": "The National Academy of Sciences (NAS) Institute of Medicine has recently updated its conclusion with respect to herbicide agents and hypertension, finding “sufficient” epidemiologic evidence to identify a positive association between hypertension and herbicide exposure.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P49S2",
+            "text": "See Veterans and Agent Orange: Update 11 (2018).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P49S3",
+            "text": "The VA examiner’s rationale gave no consideration to this new information, noting only that only a “causal relationship” between herbicides and hypertension has not been found by the National Academy of Sciences or other sound scientific study.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P49S4",
+            "text": "A remand is necessary for a new opinion that discusses the NAS’s 2018 update with respect to hypertension.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P50S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P50S2",
+            "text": "Entitlement to service connection for skin cancer (basal cell and squamous cell carcinoma).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P51S1",
+            "text": "In August 2011, the Veteran filed a service-connection claim for “rash on mid and lower body” and for skin cancer, alleging that the rash began in the 1970s and that the skin cancer began in 1980.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P51S2",
+            "text": "The scope of a disability claim includes any disability that may reasonably be encompassed by the description of the claim, reported symptoms, and the other information of record.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P51S3",
+            "text": "See Clemons v. Shinseki, 23 Vet. App. 1 (2009).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P52S1",
+            "text": "A rating decision of May 2012 denied service connection for skin cancer (basal cell and squamous cell carcinoma) and for Grover’s disease (transient and persistent acantholytic dermatosis) claimed as skin rash (mid/lower body).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P52S2",
+            "text": "The Veteran appealed as to the skin cancer claim only and not as to the denial of service connection for Grover’s disease.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P52S3",
+            "text": "See notice of disagreement of July 2012; VA Form 9 of July 2015.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P53S1",
+            "text": "The Board notes the Veteran’s appellate argument for secondary service connection for Grover’s disease based on the theory that it is triggered by the stress and sweating caused by nightmares caused by PTSD (for which he seeks service connection).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P53S2",
+            "text": "See Veteran’s filing of January 2017.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P53S3",
+            "text": "However, because no notice of disagreement was filed as to the issue of entitlement to service connection for Grover’s disease, that issue is not on appeal before the Board.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P53S4",
+            "text": "See Percy v. Shinseki, 23 Vet. App. 37, 44 (2009) (holding that, unlike a substantive appeal, a notice of disagreement is jurisdictional).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P54S1",
+            "text": "Because the Veteran served in Vietnam from November 1967 to December 1968, exposure to an herbicide agent is presumed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P54S2",
+            "text": "38 U.S.C. § 1116(a); 38 C.F.R. §§ 3.307(a), 3.309(e).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P54S3",
+            "text": "Skin cancer is not listed as a presumptive disease associated with exposure to herbicides.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P54S4",
+            "text": "38 C.F.R. § 3.309(e).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P55S1",
+            "text": "The Veteran underwent a VA examination for skin diseases in January 2012.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P55S2",
+            "text": "The report noted diagnoses in 1999 of 1) basal and squamous cell skin cancer, 2) Grover’s disease (transient and persistent acantholytic dermatosis), 3) actinic keratosis, and 4) seborrheic keratosis.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P55S3",
+            "text": "The examiner offered a negative nexus opinion.  The rationale consisted of the single sentence, “None of these skin conditions have been associated and/or related to exposure to Agent Orange.”",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P56S1",
+            "text": "A VA examination and opinion must be adequate.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P56S2",
+            "text": "See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P56S3",
+            "text": "An examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P56S4",
+            "text": "See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P56S5",
+            "text": "The VA examiner’s rationale does not make clear whether the lacking “association” for the Veteran’s skin disorders refers to a legal presumption of service connection for certain diseases based on herbicide exposure (under 38 C.F.R. § § 3.309(e)) or to a causal association of any kind.  Crucially, the examiner does not state who has not made the relevant association.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P57S1",
+            "text": "Notwithstanding any evidentiary presumption relating to service connection, a claimant can establish service connection for a disability based upon adequate evidence of actual causation.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P57S2",
+            "text": "38 U.S.C. § 1113(b); see also Combee v. Brown, 34 F.3d 1039, 1042 (Fed. Cir. 1994).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P58S1",
+            "text": "The matters are REMANDED for the following action:",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P59S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P59S2",
+            "text": "Undertake appropriate development to obtain any outstanding VA and private treatment records.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P59S3",
+            "text": "All records/responses received must be associated with the claims folder.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P60S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P60S2",
+            "text": "Schedule the Veteran for an examination by an appropriate clinician to determine the nature and etiology of any acquired psychiatric disorder other than PTSD, to include anxiety and depression, at any time since the Veteran’s claim was filed in August 2011, even if now resolved.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P60S3",
+            "text": "The examiner must opine as to whether any such disorder(s) is at least as likely as not:",
+            "rhetClass": "Sentence"
+        },{
+            "sentID": "19161969P61S1",
+            "text": "a. related to an in-service injury, event, or disease; or",
+            "rhetClass": "Sentence"
+        },{
+            "sentID": "19161969P62S1",
+            "text": "b. proximately due to skin disease, to include skin cancer, or aggravated beyond its natural progression by skin disease, to include skin cancer.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P63S1",
+            "text": "If the examiner finds that aggravation of an acquired psychiatric disorder(s) other than PTSD by skin disease, to include skin cancer, is at least as likely as not, the examiner should quantify the degree of aggravation by addressing the following medical issues: (i) the baseline manifestations of the Veteran’s psychiatric disorder prior to aggravation; and (ii) the increased manifestations which, in the examiner’s opinion, are due to skin disease, to include skin cancer",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P64S1",
+            "text": "For any personality disorder of the Veteran, the examiner must address whether it is at least as likely as not that the Veteran has an additional disability due to a disease or injury superimposed upon a personality disorder as a result of his active duty service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P65S1",
+            "text": "If the Veteran’s medical history indicates that the diagnosis of any mental disorder from August 2011 to the present has changed, the examiner must discuss the prior diagnosis or diagnoses of record and offer an opinion as to whether any finding upon examination represents the progression of a prior diagnosis, a correction of an error in the prior diagnosis, or the development of a new and separate disorder.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P66S1",
+            "text": "Notify the examiner that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P67S1",
+            "text": "Notify the examiner that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P67S2",
+            "text": "If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should indicate this in the examination report and provide a rationale for that determination.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P68S1",
+            "text": "If the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P68S2",
+            "text": "In so doing, the examiner shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P69S1",
+            "text": "A rationale is required for all opinions in the report.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P70S1",
+            "text": "3.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P70S2",
+            "text": "Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran’s hypertension is at least as likely as not related to an in-service injury, event, or disease.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P71S1",
+            "text": "The opinion should include consideration of the Veteran’s presumed exposure to certain herbicide agents, such as Agent Orange, and the fact that the National Academy of Sciences Institute of Medicine has concluded that there is “sufficient evidence of an association” between herbicide exposure and hypertension.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19161969P71S2",
+            "text": "See Veterans and Agent Orange: Update 11 (2018) https://www.nap.edu/read/25137/chapter/1.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19161969P72S1",
+            "text": "Notify the clinician that the mere fact that a legal presumption of service connection has not been established for a particular disorder based on herbicide exposure is not dispositive of the question of a nexus to service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P72S2",
+            "text": "Consideration must still be given to the in-service exposure.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P73S1",
+            "text": "Notify the clinician that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P74S1",
+            "text": "Notify the clinician that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P74S2",
+            "text": "If there is a medical basis to support or doubt the history provided by the Veteran, the clinician should indicate this in the report and provide a rationale for that determination.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P75S1",
+            "text": "If the clinician cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P75S2",
+            "text": "In so doing, the clinician shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P76S1",
+            "text": "A rationale is required for all opinions in the report.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P77S1",
+            "text": "4.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P77S2",
+            "text": "Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran’s basal and squamous cell skin cancer is at least as likely as not related to an in-service injury, event, or disease, to include the Veteran’s presumed exposure to certain herbicide agents, such as Agent Orange.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P78S1",
+            "text": "Notify the clinician that the mere fact that a legal presumption of service connection has not been established for a particular disorder based on herbicide exposure is not dispositive of the question of a nexus to service.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P78S2",
+            "text": "Consideration must still be given to the likelihood that the Veteran’s presumed herbicide exposure actually caused his basal and squamous cell carcinoma, regardless of whether such carcinoma is listed in VA regulations as a “presumed” herbicide disease.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P79S1",
+            "text": "Notify the clinician that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P80S1",
+            "text": "Notify the clinician that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P80S2",
+            "text": "If there is a medical basis to support or doubt the history provided by the Veteran, the clinician should indicate this in the report and provide a rationale for that determination.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P81S1",
+            "text": "If the clinician cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P81S2",
+            "text": "In so doing, the clinician shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P82S1",
+            "text": "(Continued on the next page)",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P84S1",
+            "text": "A rationale is required for all opinions in the report.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P86S1",
+            "text": "G. A. WASIK",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P87S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P88S1",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19161969P89S1",
+            "text":"Attorney for the Board Steven D. Najarian, Counsel",
+            "rhetClass": "Sentence"
+        }
+    ],
+    "text": "Citation Nr: 19161969\r\nDecision Date: 08/13/19\tArchive Date: 08/09/19\r\n\r\nDOCKET NO. 15-27 167\r\nDATE: \tAugust 13, 2019\r\n\r\nORDER\r\n\r\nEntitlement to service connection for posttraumatic stress disorder (PTSD) is granted.\r\n\r\nREMANDED\r\n\r\nEntitlement to service connection for an acquired psychiatric disability other than PTSD, to include anxiety and depression, is remanded.\r\n\r\nEntitlement to service connection for hypertension is remanded.\r\n\r\nEntitlement to service connection for skin cancer (basal cell and squamous cell carcinoma) is remanded.\r\n\r\nFINDINGS OF FACT\r\n\r\n1. The Veteran is a combat veteran of the Vietnam War.\r\n\r\n2. Medical evidence links the Veteran’s currently diagnosed PTSD to a stressor experienced during active military service.\r\n\r\nCONCLUSION OF LAW\r\n\r\nThe criteria for service connection for posttraumatic stress disorder have been met.  38 U.S.C. §§ 1101, 1110; 38 C.F.R. § §§ 3.303, 3.304.\r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSION\r\n\r\nThe Veteran served on active duty from May 1966 to December 1968, with subsequent Army National Guard service.\r\n\r\nThis matter comes before the Board of Veterans’ Appeals on appeal from a May 2012 rating decision.\r\n\r\nIn February 2019, the Board vacated a January 2019 Board decision that had denied service connection for basal cell carcinoma, squamous cell carcinoma, Grover’s disease, and an acquired psychiatric disorder, to include PTSD, and that remanded the issue of entitlement to service connection for hypertension.\r\n\r\nIn March 2019, the Veteran testified at a Board hearing before the undersigned Veterans Law Judge.  A transcript of the hearing is of record.\r\n\r\nService Connection\r\n\r\nService connection will be granted for a current disability that resulted from an injury or disease incurred in, or aggravated by, active service.  38 U.S.C. §§ 1110, 1131; 38 C.F.R. § § 3.303(a).  Generally, service connection requires: (1) a present disability; (2) an in-service incurrence or aggravation of a disease or injury; and (3) a nexus between the present disability and the disease or injury incurred or aggravated during service.  See Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004).  The claimant will be given the benefit of the doubt as to any issue material to the determination of a matter when there is an approximate balance of positive and negative evidence.  38 U.S.C. § 5107(b); 38 C.F.R. § § 3.102.\r\n\r\n1. Entitlement to service connection for PTSD.\r\n\r\nThe Veteran seeks service connection for PTSD, which he alleges began in 1968.  See Veteran’s claim of August 2011.  He describes an in-service stressor in which his unit was shelled by mortars, he fell and badly hurt his knee while running to a bunker, and he was left alone and vulnerable in the field.  He describes another in-service stressor in which several mortar rounds landed on the roof of his bunker, and he was under the mortar attack for several hours without communication with others.  See Veteran’s statements of August 2011 and October 2011; transcript of March 2019 Board hearing.\r\n\r\nEstablishing service connection for PTSD generally requires: (1) medical evidence diagnosing PTSD in conformance with established criteria; (2) a link, established by medical evidence, between a veteran’s present symptoms and an in-service stressor; and (3) credible supporting evidence that the claimed in-service stressor occurred.  38 C.F.R. § §§ 3.304(f), 4.125; see also Arzio v. Shinseki, 602 F.3d 1343, 1347 (Fed. Cir. 2010).\r\n\r\nThe Veteran has been diagnosed under the DSM-IV TR with PTSD, dysthymia, and personality disorder NOS.  See VA treatment record of August 2012.  He has also been diagnosed with anxiety disorder NOS and depression NOS.  See VA treatment record of October 2011.\r\n\r\nA diagnosis of PTSD for compensation purposes must be established in accordance with 38 C.F.R. § 4.125(a), which mandates that, for VA purposes, all mental disorder diagnoses must conform to the Fifth Edition of the American Psychiatric Association ‘s Diagnostic and Statistical Manual for Mental Disorders (DSM-5). VA has determined that the DSM-5 applies to claims filed, or pending before the agency of original jurisdiction (AOJ), on or after August 4, 2014.  79 Fed. Reg. 45,093, 45,094 (Aug. 4, 2014).  As the Veteran’s appeal was certified to the Board in September 2015, the DSM-5 applies here.  However, the DSM-IV diagnoses of record must still be considered in assessing the claim.  On this basis, the Veteran meets the first criterion of service connection for PTSD.  See VA treatment record of August 2012; VA examination report of March 2012.\r\n\r\nThe Veteran underwent a VA examination for PTSD in March 2012.  PTSD and personality disorder NOS were diagnosed.  The examiner determined that it was not possible to differentiate which symptoms are attributable to each diagnosis.  Personality disorders are not considered disabilities for purposes of service connection.  38 C.F.R. §§ 3.303(c), 4.9; see also Winn v. Brown, 8 Vet. App. 510, 516 (1996).  While a claimant cannot be compensated for a personality disorder, which is considered to be a congenital or developmental abnormality, disability resulting from a mental disorder that is superimposed upon a personality disorder may be service-connected.  38 C.F.R. § § 4.127.  Because the examiner was unable to separate the symptoms of the personality disorder from those of PTSD, all psychiatric symptoms will be considered in assessing the claim.  See Mittleider v. West, 11 Vet. App. 181 (1998).\r\n\r\nThe VA examiner determined that three stressors were adequate to support the diagnosis of PTSD: 1) the incident in which the Veteran injured his knee and was immobile when trying to run to a bunker for protection in an actual mortar attack during service; 2) post-service fear arising from being arrested and interrogated by Russian police as a missionary in Russia; and 3) living in constant danger and having several friends beaten to death when he worked as a missionary post-service in Zimbabwe.  Noted as an additional stressor was the fact that the Veteran experienced physical and emotional abuse as a child.\r\n\r\nA June 2019 report of Dr. J. W. determined that the Veteran’s diagnosed PTSD is related to the in-service stressor of the mortar attack, as described above.  Upon examination of the Veteran and a review of the medical record, Dr. J. W. determined that the Veteran meets the criteria for PTSD and that it is caused by the military stressor.  Because she linked the in-service stressor of the mortar attack to the Veteran’s present PTSD symptoms, the second element of service connection for PTSD is met.\r\n\r\nThe evidence demonstrates that the Veteran is a combat veteran of the Vietnam War.  His DD Form 214 lists receipt of the Vietnam Campaign Medal and the Vietnam Service Medal.  His military specialty, as described at the Board hearing, involved advanced cryptography.\r\n\r\nIn the case of any veteran who engaged in combat with the enemy in active service during a period of war, satisfactory lay or other evidence of service incurrence or aggravation of in-service injury or disease will be accepted as sufficient proof of in-service incurrence or aggravation, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and every reasonable doubt will be resolved in favor of the veteran.  That the particular disease or injury was incurred during service may be rebutted by clear and convincing evidence to the contrary.  38 U.S.C. § 1154(b); 38 C.F.R. § § 3.304(d) (general combat presumption); 3.304(f) (PTSD combat presumption).\r\n\r\nParticipation in combat is determined on a case-by-case basis.  It requires that the claimant have personally participated in events constituting an actual fight or encounter with a military foe or hostile unit or instrumentality.  Receipt of a decoration is not the only acceptable evidence of such engagement.  Receiving enemy fire can constitute participation in combat.  See Sizemore v. Principi, 18 Vet. App. 264 (2004).  A veteran’s own statements and other types of evidence may support the fact of combat participation.  See Gaines v. West, 11 Vet. App. 353, 359 (1998).\r\n\r\nThe Veteran’s personnel records indicate that he served at Phu Lam in Vietnam, and there is an Army memorandum of record that describes a mortar attack at Phu Lam facility on February 1968.  The Board finds that the Veteran’s credible testimony, as well as documentary evidence, weigh in favor of a finding that he engaged in combat and that the claimed in-service stressor occurred.  The stressor involving the knee injury and mortar attack is consistent with the circumstances of the Veteran’s service.  The fact that no psychological symptoms were found or reported on the separation examination report of December 1968 is not clear and convincing evidence to the contrary.  Accordingly, the third and final element of service connection for PTSD has been met.\r\n\r\nEvidence that tends to weigh against the claim is the negative opinion of the March 2012 VA examiner.  While he determined that the Veteran’s in-service stressor involving the mortar attack was sufficient to support the PTSD diagnosis, the examiner also considered the Veteran’s current mental conditions of PTSD and personality disorder NOS to not be due to events of service.  The rationale was that the Veteran had had traumatic, abusive experiences during childhood, that treatment records from 1966 to 1980 are silent for a mental condition or reported problems, that the Veteran performed successfully for years in the National Guard and his private career, that he felt threatened and in danger when living and working in Russia and Zimbabwe post-service, and that his personality disorder NOS influences his behavior and emotional reactions to stressors related to his marriage, past injustices, and perceived slights.\r\n\r\nThe Board places more probative weight in this case on the positive opinion of Dr. J.W., who considered the VA examination report in question and noted that several of its key findings are inconsistent with factual assertions made by the Veteran upon examination.  The Veteran’s testimony before the Board was also consistent with that given to Dr. J.W.  In attempting to disassociate the Veteran’s in-service stressor from diagnosed PTSD, the VA examiner relied on supposed facts that the Board finds to be insufficiently supported by the record.  Specifically, the Board finds the Veteran to be competent and credible in his assertion that his father did not break the Veteran’s collarbone, that he was not traumatized by his missionary work in Russia and Zimbabwe, and that he was able to work successfully for years following service because he worked night shifts in order to avoid people.\r\n\r\nFurthermore, the VA examiner did not adequately explain how, although the symptoms of the Veteran’s personality disorder cannot be distinguished from those of his PTSD, the personality disorder can be identified as influencing the Veteran’s behavior more than the in-service stressor which (according to the examiner himself) is sufficient to support the diagnosis.\r\n\r\nAn examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  The Board may discount the weight of evidence, including medical evidence, in light of its inherent characteristics and relationship to other items of evidence.  See Prejean v. West, 13 Vet. App. 444, 448-49 (2000).  In this case, the evidence of record, including the report of June 2019 report of Dr. J. W., is sufficiently complete to grant the claim, and the Board discounts the negative evidence of the 2012 VA examination report for PTSD.\r\n\r\nREASONS FOR REMAND\r\n\r\n2. Entitlement to service connection for an acquired psychiatric disability other than PTSD, to include anxiety and depression.\r\n\r\nIn August 2011, the Veteran filed a service-connection claim for PTSD.  The claim will be granted by today’s order.  The scope of the Veteran’s PTSD claim includes any disability that may reasonably be encompassed by the description of the claim, reported symptoms, and the other information of record.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009).\r\n\r\nFollowing the filing of the Veteran’s claim in August 2011, he was diagnosed with psychiatric disorders other than PTSD.  A VA treatment record of August 2012 diagnosed both PTSD and dysthymia.  A VA treatment record of November 2014 diagnosed “unspecified anxiety, unspecified depression DSM-5.”  A VA treatment record of January 2015 diagnosed, under the DSM-5, “unspecified anxiety, unspecified depression - resolved.”  The March 2012 VA examiner attributed the Veteran’s anxiety and depressed mood to PTSD.  The VA examiner did not explain whether or not he was revising or correcting the earlier, non-PTSD diagnoses of record, which were made after the Veteran’s claim was filed.  An earlier diagnosis of dysthymic disorder under the DSM-IV in a VA treatment record of December 2011 was acknowledged in the VA report.\r\n\r\nThe Veteran has also been diagnosed with personality disorder NOS.  See VA treatment record of August 2012; VA examination report of March 2012.  Personality disorders are not considered disabilities for purposes of service connection.  38 C.F.R. § §§ 3.303(c), 4.9; see also Winn v. Brown, 8 Vet. App. 510, 516 (1996).  While a claimant cannot be compensated for a personality disorder, which is considered to be a congenital or developmental abnormality, disability resulting from a mental disorder that is superimposed upon a personality disorder may be service-connected.  38 C.F.R. § § 4.127.\r\n\r\nThe requirement of a current disability is satisfied if a disorder is diagnosed at the time a claim is filed or at any time during the pendency of the appeal, and service connection may be awarded even though a disability resolves itself prior to adjudication of the claim.  See McClain v. Nicholson, 21 Vet. App. 319, 321 (2007).  Service connection may be granted for more than one mental health disorder, although separate ratings require different manifestations of disability.  See Amberman v. Shinseki, 570 F.3d 1377, 1380-81 (Fed. Cir. 2009).  Accordingly, an additional VA examination and opinion are necessary in this case to adjudicate possible entitlement to service connection for an acquired psychiatric disability other than PTSD, to include diagnosed anxiety and depression.\r\n\r\nFurthermore, because the January 2012 VA examination report for skin diseases noted that the Veteran’s “anxiety, irritability” are systematic manifestations due to skin disease, the issue of entitlement to service connection for an acquired psychiatric disorder other than PTSD is inextricably intertwined with the issue of entitlement to service connection for skin cancer (which the Board is also remanding by today’s order).  See Harris v. Derwinski, 1 Vet. App. 180, 183 (1991) Service connection may be granted on a secondary basis for disability which is proximately due to or the result of a service-connected disease or injury.  38 C.F.R. § § 3.310(a).  The Board must adjudicate all theories of entitlement reasonably raised by the record.  See Robinson v. Peake, 21 Vet. App. 545, 552-553 (2008).  Therefore, the remand action language below will request a medical opinion as to possible secondary service connection.\r\n\r\n3. Entitlement to service connection for hypertension.\r\n\r\nThe Veteran seeks service connection for hypertension, which he alleges began in 1968.  See Veteran’s claim of August 2011.  Because the Veteran served in Vietnam from November 1967 to December 1968, exposure to an herbicide agent is presumed.  38 U.S.C. § 1116(a); 38 C.F.R. §§ 3.307(a), 3.309(e).  Hypertension is not one of diseases listed under 38 C.F.R. § 3.309(e) for which a presumption of service connection based on herbicide exposure applies.\r\n\r\nThe Veteran underwent a VA examination for hypertension in March 2019.  Hypertension was diagnosed.  The examiner, a physician assistant, offered a negative nexus opinion partly on the basis that VA regulations do not list hypertension as one of the diseases for which service connection will be presumed based on herbicide exposure.\r\n\r\nThe National Academy of Sciences (NAS) Institute of Medicine has recently updated its conclusion with respect to herbicide agents and hypertension, finding “sufficient” epidemiologic evidence to identify a positive association between hypertension and herbicide exposure.  See Veterans and Agent Orange: Update 11 (2018).  The VA examiner’s rationale gave no consideration to this new information, noting only that only a “causal relationship” between herbicides and hypertension has not been found by the National Academy of Sciences or other sound scientific study.  A remand is necessary for a new opinion that discusses the NAS’s 2018 update with respect to hypertension.\r\n\r\n4. Entitlement to service connection for skin cancer (basal cell and squamous cell carcinoma).\r\n\r\nIn August 2011, the Veteran filed a service-connection claim for “rash on mid and lower body” and for skin cancer, alleging that the rash began in the 1970s and that the skin cancer began in 1980.  The scope of a disability claim includes any disability that may reasonably be encompassed by the description of the claim, reported symptoms, and the other information of record.  See Clemons v. Shinseki, 23 Vet. App. 1 (2009).\r\n\r\nA rating decision of May 2012 denied service connection for skin cancer (basal cell and squamous cell carcinoma) and for Grover’s disease (transient and persistent acantholytic dermatosis) claimed as skin rash (mid/lower body).  The Veteran appealed as to the skin cancer claim only and not as to the denial of service connection for Grover’s disease.  See notice of disagreement of July 2012; VA Form 9 of July 2015.\r\n\r\nThe Board notes the Veteran’s appellate argument for secondary service connection for Grover’s disease based on the theory that it is triggered by the stress and sweating caused by nightmares caused by PTSD (for which he seeks service connection).  See Veteran’s filing of January 2017.  However, because no notice of disagreement was filed as to the issue of entitlement to service connection for Grover’s disease, that issue is not on appeal before the Board.  See Percy v. Shinseki, 23 Vet. App. 37, 44 (2009) (holding that, unlike a substantive appeal, a notice of disagreement is jurisdictional).\r\n\r\nBecause the Veteran served in Vietnam from November 1967 to December 1968, exposure to an herbicide agent is presumed.  38 U.S.C. § 1116(a); 38 C.F.R. §§ 3.307(a), 3.309(e).  Skin cancer is not listed as a presumptive disease associated with exposure to herbicides.  38 C.F.R. § 3.309(e).\r\n\r\nThe Veteran underwent a VA examination for skin diseases in January 2012.  The report noted diagnoses in 1999 of 1) basal and squamous cell skin cancer, 2) Grover’s disease (transient and persistent acantholytic dermatosis), 3) actinic keratosis, and 4) seborrheic keratosis.  The examiner offered a negative nexus opinion.  The rationale consisted of the single sentence, “None of these skin conditions have been associated and/or related to exposure to Agent Orange.”\r\n\r\nA VA examination and opinion must be adequate.  See Barr v. Nicholson, 21 Vet. App. 303, 312 (2007).  An examination report must contain not only clear conclusions with supporting data, but also a reasoned medical explanation connecting the two.  See Nieves-Rodriguez v. Peake, 22 Vet. App. 295 (2008); Stefl v. Nicholson, 21 Vet. App. 120, 124 (2007).  The VA examiner’s rationale does not make clear whether the lacking “association” for the Veteran’s skin disorders refers to a legal presumption of service connection for certain diseases based on herbicide exposure (under 38 C.F.R. § § 3.309(e)) or to a causal association of any kind.  Crucially, the examiner does not state who has not made the relevant association.\r\n\r\nNotwithstanding any evidentiary presumption relating to service connection, a claimant can establish service connection for a disability based upon adequate evidence of actual causation.  38 U.S.C. § 1113(b); see also Combee v. Brown, 34 F.3d 1039, 1042 (Fed. Cir. 1994).  Here, an adequate nexus opinion must clarify and explain not only why a link may not be presumed based on herbicide exposure, but also whether it is at least as likely as not that the Veteran’s skin cancer was actually caused by his herbicide exposure or other incident of service.\r\n\r\nThe matters are REMANDED for the following action:\r\n\r\n1. Undertake appropriate development to obtain any outstanding VA and private treatment records.  All records/responses received must be associated with the claims folder.\r\n\r\n2.  Schedule the Veteran for an examination by an appropriate clinician to determine the nature and etiology of any acquired psychiatric disorder other than PTSD, to include anxiety and depression, at any time since the Veteran’s claim was filed in August 2011, even if now resolved.  The examiner must opine as to whether any such disorder(s) is at least as likely as not:\r\n\r\na.\t related to an in-service injury, event, or disease; or\r\n\r\nb.\tproximately due to skin disease, to include skin cancer, or aggravated beyond its natural progression by skin disease, to include skin cancer.\r\n\r\nIf the examiner finds that aggravation of an acquired psychiatric disorder(s) other than PTSD by skin disease, to include skin cancer, is at least as likely as not, the examiner should quantify the degree of aggravation by addressing the following medical issues: (i) the baseline manifestations of the Veteran’s psychiatric disorder prior to aggravation; and (ii) the increased manifestations which, in the examiner’s opinion, are due to skin disease, to include skin cancer.\r\n\r\nFor any personality disorder of the Veteran, the examiner must address whether it is at least as likely as not that the Veteran has an additional disability due to a disease or injury superimposed upon a personality disorder as a result of his active duty service.\r\n\r\nIf the Veteran’s medical history indicates that the diagnosis of any mental disorder from August 2011 to the present has changed, the examiner must discuss the prior diagnosis or diagnoses of record and offer an opinion as to whether any finding upon examination represents the progression of a prior diagnosis, a correction of an error in the prior diagnosis, or the development of a new and separate disorder.\r\n\r\nNotify the examiner that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.\r\n\r\nNotify the examiner that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.  If there is a medical basis to support or doubt the history provided by the Veteran, the examiner should indicate this in the examination report and provide a rationale for that determination.\r\n\r\nIf the examiner cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.  In so doing, the examiner shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).\r\n\r\nA rationale is required for all opinions in the report.\r\n\r\n3. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran’s hypertension is at least as likely as not related to an in-service injury, event, or disease.\r\n\r\nThe opinion should include consideration of the Veteran’s presumed exposure to certain herbicide agents, such as Agent Orange, and the fact that the National Academy of Sciences Institute of Medicine has concluded that there is “sufficient evidence of an association” between herbicide exposure and hypertension.  See Veterans and Agent Orange: Update 11 (2018) https://www.nap.edu/read/25137/chapter/1.\r\n\r\nNotify the clinician that the mere fact that a legal presumption of service connection has not been established for a particular disorder based on herbicide exposure is not dispositive of the question of a nexus to service.  Consideration must still be given to the in-service exposure.\r\n\r\nNotify the clinician that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.\r\n\r\nNotify the clinician that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.  If there is a medical basis to support or doubt the history provided by the Veteran, the clinician should indicate this in the report and provide a rationale for that determination.\r\n\r\nIf the clinician cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.  In so doing, the clinician shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).\r\n\r\nA rationale is required for all opinions in the report.\r\n\r\n4. Obtain an addendum opinion from an appropriate clinician regarding whether the Veteran’s basal and squamous cell skin cancer is at least as likely as not related to an in-service injury, event, or disease, to include the Veteran’s presumed exposure to certain herbicide agents, such as Agent Orange.\r\n\r\nNotify the clinician that the mere fact that a legal presumption of service connection has not been established for a particular disorder based on herbicide exposure is not dispositive of the question of a nexus to service.  Consideration must still be given to the likelihood that the Veteran’s presumed herbicide exposure actually caused his basal and squamous cell carcinoma, regardless of whether such carcinoma is listed in VA regulations as a “presumed” herbicide disease.\r\n\r\nNotify the clinician that the term “at least as likely as not” does not mean within the realm of medical possibility, but rather that the medical evidence both for and against a certain conclusion is so evenly divided that it is as medically sound to find in favor of such a conclusion as it is to find against it.\r\n\r\nNotify the clinician that, in rendering the requested opinion, he or she should be aware that the Veteran is competent to attest to matters of which he has first-hand knowledge, including observable symptomatology.  If there is a medical basis to support or doubt the history provided by the Veteran, the clinician should indicate this in the report and provide a rationale for that determination.\r\n\r\nIf the clinician cannot provide an opinion without resorting to mere speculation, he or she shall provide a complete explanation for why an opinion cannot be rendered.  In so doing, the clinician shall explain whether the inability to provide a more definitive opinion is the result of a need for additional information, or that he or she has exhausted the limits of current medical knowledge in providing an answer to that particular question(s).\r\n\r\n(Continued on the next page)\r\n\r\n \r\n\r\nA rationale is required for all opinions in the report.\r\n\r\n \r\n\r\nG. A. WASIK\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nAttorney for the Board\tSteven D. Najarian, Counsel\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § § 20.1303. \r\n\r\n"
+}

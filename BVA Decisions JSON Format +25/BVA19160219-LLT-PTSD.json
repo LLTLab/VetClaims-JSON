@@ -1,0 +1,683 @@
+{
+    "caseNumber": "19160219",
+    "caseInfo": {
+        "guidKey": "0161d787-fc9b-400f-c0fb-ad94ead4efb3",
+        "name": "19160219",
+        "extension": ".json",
+        "version": "0000",
+        "owner": "VRW",
+        "keywords": "",
+        "lastChange": "2020-07-07T17:32:29.138Z",
+        "fileName": "BVA19160219-NEW-0000.json",
+        "workspace": "25newlltfall19"
+    },
+    "ruleTree": {
+        "ruleID": "SC|1",
+        "label": "The veteran has a disability that is service-connected.",
+        "nodes": [
+            {
+                "ruleID": "SC|1.1",
+                "label": "The veteran has a present disability.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.1.1",
+                        "label": "The veteran’s claim is for PTSD, and the veteran presently has a diagnosis of PTSD supported by medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125(a).",
+                        "operation": "IMP"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.2",
+                "label": "The veteran suffered an in-service incurrence or aggravation of a disease or injury in line of duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "SC|1.2.1",
+                        "label": "The veteran suffered an in-service incurrence of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.1.1",
+                                "label": "The veteran suffered an injury or contracted a disease during active military service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "PTSD|1.2.1.1.1",
+                                        "label": "The veteran’s claim is for PTSD, and there is credible supporting evidence that the claimed in-service stressor occurred.",
+                                        "operation": "OR"
+                                    },
+                                    {
+                                        "ruleID": "SC|1.2.1.1.2",
+                                        "label": "There is adequate evidence that the veteran suffered from the claimed disease or injury while in service.",
+                                        "operation": "OR"
+                                    }
+                                ]
+                            },
+                            {
+                                "ruleID": "SC|1.2.1.2",
+                                "label": "The injury or disease did not preexist entry into service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.1.2.1",
+                                        "label": "The veteran is presumed to have been in sound condition when examined, accepted, and enrolled for service (the presumption of sound condition or presumption of soundness).",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.1.2.1.1",
+                                                "label": "The veteran served in the active military, naval, or air service, during a period of war or after December 31, 1946, and clear and unmistakable evidence demonstrates that the injury or disease existed before acceptance and enrollment and was not aggravated by such service.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.2",
+                        "label": "The veteran suffered an in-service aggravation of a disease or injury.",
+                        "operation": "OR",
+                        "nodes": [
+                            {
+                                "ruleID": "SC|1.2.2.1",
+                                "label": "The injury or disease preexisted entry into service.",
+                                "operation": "AND"
+                            },
+                            {
+                                "ruleID": "SC|1.2.2.2",
+                                "label": "There was an aggravation during service.",
+                                "operation": "AND",
+                                "nodes": [
+                                    {
+                                        "ruleID": "SC|1.2.2.2.1",
+                                        "label": "The presumption of aggravation has been satisfied.",
+                                        "operation": "IMP",
+                                        "nodes": [
+                                            {
+                                                "ruleID": "SC|1.2.2.2.1.1",
+                                                "label": "Based on clear and unmistakable evidence (obvious or manifest) that is undebatable, there is a specific finding that the increase in disability is due to the natural progress of the disease.",
+                                                "operation": "REBUT"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "ruleID": "SC|1.2.3",
+                        "label": "The disability is a result of the veteran’s own willful misconduct or abuse of alcohol or drugs.",
+                        "operation": "REBUT"
+                    }
+                ]
+            },
+            {
+                "ruleID": "SC|1.3",
+                "label": "There is a causal relationship [nexus] between the present disability and the injury, disease, or aggravation of a preexisting injury or disease incurred during active duty.",
+                "operation": "AND",
+                "nodes": [
+                    {
+                        "ruleID": "PTSD|1.3.1",
+                        "label": "The veteran’s claim is for PTSD, and there is a link, established by medical evidence, between current symptoms and an in-service stressor.",
+                        "operation": "IMP"
+                    }
+                ]
+            }
+        ]
+    },
+    "sentences": [
+        {
+            "sentID": "19160219P1S1",
+            "text": "Citation Nr: 19160219",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P2S1",
+            "text": "Decision Date: 08/06/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P2S2",
+            "text": "Archive Date: 08/02/19",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P3S1",
+            "text": "DOCKET NO. 1731465",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P4S1",
+            "text":"DATE: August 6, 2019",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P5S1",
+            "text": "ORDER",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P6S1",
+            "text": "Entitlement to service connection for skin cancer is dismissed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P7S1",
+            "text": "Entitlement to service connection for posttraumatic stress disorder (PTSD) is granted.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P8S1",
+            "text": "FINDINGS OF FACT",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P9S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P9S2",
+            "text": "In July 2019, prior to the promulgation of a decision in the appeal, the Veteran withdrew from appeal the issue of entitlement to service connection for skin cancer.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P10S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P10S2",
+            "text": "The evidence is at least evenly balanced as to whether the Veteran has been diagnosed as having PTSD based on a corroborated in-service stressor.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P11S1",
+            "text": "CONCLUSIONS OF LAW",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P12S1",
+            "text": "1.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P12S2",
+            "text": "The criteria for withdrawal of an appeal by the Veteran, as to the issue of entitlement to service connection for skin cancer, are met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P12S3",
+            "text": "38 U.S.C. § 7105 (b)(2), (d)(5); 38 C.F.R. § 20.204.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P13S1",
+            "text": "2.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P13S2",
+            "text": "With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for PTSD are met.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P13S3",
+            "text": "38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.304 (f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P14S1",
+            "text": "REASONS AND BASES FOR FINDINGS AND CONCLUSIONS",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P15S1",
+            "text": "The Veteran served on active duty from June 1968 to May 1978.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P15S2",
+            "text": "These matters come before the Board of Veterans’ Appeals (Board) from an August 2013 rating decision.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P15S3",
+            "text": "The Veteran requested a Board hearing before a Veterans Law Judge on his June 2017 substantive appeal (VA Form 9).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P15S4",
+            "text": "He withdrew his hearing request in March 2019 (see a March 2019 statement from the Veteran’s representative).",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P16S1",
+            "text": "I.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P16S2",
+            "text": "Withdrawal of Appeal",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P17S1",
+            "text": "Entitlement to service connection for skin cancer",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P18S1",
+            "text": "The Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P18S2",
+            "text": "38 U.S.C. § 7105.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P18S3",
+            "text": "An appeal may be withdrawn as to any or all issues involved in the appeal at any time before the Board promulgates a decision.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P18S4",
+            "text": "38 C.F.R. § 20.204.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P18S5",
+            "text": "Withdrawal may be made by the Veteran or by his or her authorized representative in writing or on the record at a hearing on appeal.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P18S6",
+            "text": "Id.",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P19S1",
+            "text": "In the present case, the Veteran’s representative submitted a signed statement in July 2019 in which she indicated that the Veteran wished to withdraw his appeal with respect to the issue of entitlement to service connection for skin cancer.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P19S2",
+            "text": "This statement constitutes a valid withdrawal of the appeal, with respect to this issue.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P19S3",
+            "text": "See Delisio v. Shinseki, 25 Vet. App. 45, 57 (2011) (“withdrawal of a claim is only effective where the withdrawal is explicit, unambiguous, and done with a full understanding of the consequences of such action on the part of the claimant”).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P19S4",
+            "text": "The United States Court of Appeals for the Federal Circuit has not addressed the criteria as to a written request to withdraw a claim.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P19S5",
+            "text": "See Acree v. O’Rourke, 891 F.3d 1009, fn. 2 (Fed. Cir. 2018) (“Resolution of Acree’s appeal turns on the requirements necessary for an effective oral withdrawal of a claim at a board hearing. We express no view on the criteria that must be satisfied when a veteran submits a written request to withdraw a claim”).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P19S6",
+            "text": "As the Veteran has withdrawn the appeal as to this issue, there remain no allegations of errors of fact or law for appellate consideration with regard to this issue.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P19S7",
+            "text": "Accordingly, the Board does not have jurisdiction to review this issue on appeal, and the appeal is dismissed.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P20S1",
+            "text": "II.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P20S2",
+            "text": "Service Connection",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P21S1",
+            "text": "Entitlement to service connection for PTSD",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P22S1",
+            "text": "Service connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, or air service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P22S2",
+            "text": "38 U.S.C. § 1110; 38 C.F.R. § 3.303(a).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P22S3",
+            "text": "Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service injury or disease; and (3) a relationship between the two.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P22S4",
+            "text": "Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P22S5",
+            "text": "Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P22S6",
+            "text": "38 C.F.R. § 3.303(d).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P23S1",
+            "text": "Service connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125 (a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P23S2",
+            "text": "38 C.F.R. § 3.304 (f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P24S1",
+            "text": "When there is a current diagnosis of PTSD, the sufficiency of a claimed in-service stressor is presumed.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P24S2",
+            "text": "Cohen v. Brown, 10 Vet. App. 128, 144 (1997).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P24S3",
+            "text": "Nevertheless, credible evidence that the claimed in-service stressor actually occurred is still required.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P24S4",
+            "text": "38 C.F.R. § 3.304 (f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P24S5",
+            "text": "Credible supporting evidence cannot consist solely of after-the-fact medical evidence containing an opinion as to a causal relationship between PTSD and service.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P24S6",
+            "text": "See Moreau v. Brown, 9 Vet. App. 389, 396 (1996).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P25S1",
+            "text": "When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P25S2",
+            "text": "38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P26S1",
+            "text": "In this case, the Veteran contends that he has current psychiatric disability that is related to various psychiatric stressors that occurred in service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P27S1",
+            "text": "The Board finds, for the following reasons, that the evidence is at least evenly balanced as to whether the Veteran has current PTSD that is based on a corroborated in-service stressor.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P28S1",
+            "text": "The Veteran’s medical records, including an April 2014 VA mental health initial evaluation note, show he has a current diagnosis of PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P28S2",
+            "text": "He contends that his PTSD is due to various psychiatric stressors that occurred in service.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P28S3",
+            "text": "For instance, as pertinent to this decision, he has reported that he was stationed aboard the USS Gurke in the Gulf of Tonkin in August 1969.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P28S4",
+            "text": "During this time, his ship was operating in close proximity to the USS Bon Homme Richard and he witnessed the crash of a military A-4 aircraft while it was attempting to land on that ship.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P28S5",
+            "text": "The Veteran’s ship assisted in the search for survivors, but the search was unsuccessful.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S1",
+            "text": "In April 2013, the agency of original jurisdiction (AOJ) contacted the U.S. Army and Joint Services Records Research Center (JSRRC) and requested that it attempt to verify the Veteran’s reported stressor.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S2",
+            "text": "In May 2013, the JSRRC responded that it had reviewed the deck logs from the USS Gurke and the USS Bon Homme Richard.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S3",
+            "text": "The deck logs confirmed that on August 10, 1969 an aircraft exploded upon landing on the USS Bon Homme Richard, that the aircraft sank in 225 feet of water, and that the pilot was possibly in the water.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S4",
+            "text": "The USS Gurke was 2,000 yards astern of the USS Bon Homme Richard at the time of the crash and was detailed to search for the pilot.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S5",
+            "text": "Also, the Veteran has submitted information from “The Virtual Wall” website which indicates that a Navy pilot assigned to the USS Bon Homme Richard died in a plane crash on August 10, 1969 in the Gulf of Tonkin and that his body was not recovered.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P29S6",
+            "text": "Moreover, the Veteran’s service personnel records include a memorandum dated in June 1969 from the commanding officer of the USS Gurke to the Veteran, in which the Veteran was notified that he was temporarily appointed to the grade of lieutenant (junior grade).",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P30S1",
+            "text": "In light of the above evidence, the Board concludes that the Veteran has a current diagnosis of PTSD and that there is credible supporting evidence that his reported stressor in service occurred.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P30S2",
+            "text": "Hence, the only remaining question is whether there is competent medical evidence of a nexus between his PTSD and his reported stressor in service involving the aircraft crash aboard the USS Bon Homme Richard.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P30S3",
+            "text": "In this regard, there is conflicting medical evidence as to whether his PTSD is related to this stressor.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P30S4",
+            "text": "The Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the Veteran.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P30S5",
+            "text": "See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P30S6",
+            "text": "The Board may favor one medical opinion over another, provided an adequate statement of reasons or bases is provided.",
+            "rhetClass": "LegalRuleSentence"
+        },
+        {
+            "sentID": "19160219P30S7",
+            "text": "See Owens v. Brown, 7 Vet. App. 429, 433 (1995).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P31S1",
+            "text": "The psychologist who conducted a June 2013 VA psychiatric examination reported that the Veteran’s reported stressor in service involving his witnessing of an aircraft crash was not adequate to support a diagnosis of PTSD.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P31S2",
+            "text": "The examiner did not provide a specific rationale for this opinion, but did explain in a medical opinion that accompanies the June 2013 examination report that the Veteran’s response to the reported aircraft crash in service seemed to be more a moral outrage or sense of ineffectualness in recovering the victim/victims of the crash episode.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P31S3",
+            "text": "Overall, the examiner did not feel that the Veteran’s symptoms rose “to a full PTSD syndrome,” but were rather more indicative of an anxiety disorder with obsessive-compulsive traits.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P32S1",
+            "text": "In January 2014, a VA psychologist reviewed the Veteran’s claims file and explained, in pertinent part, that his Vet Center treatment records (which reflect treatment for PTSD) did not include any references to the reported stressor of witnessing an aircraft crash aboard the USS Bon Homme Richard.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P32S2",
+            "text": "Although the reported aircraft crash in service had been confirmed subsequent to the June 2013 VA psychiatric examination, the Veteran did not make any mention of this stressor during his Vet Center treatment.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P32S3",
+            "text": "Rather, the Veteran identified another unrelated stressor in service as being his most traumatic experience.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P32S4",
+            "text": "Therefore, while the conceded stressor would meet Criterion A for a diagnosis of PTSD, none of the other symptoms (intrusion, dissociative reactions, persistent avoidance, negative alterations in cognitions and mood, alterations in arousal and reactivity) were evidenced in response to the stressor.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P32S5",
+            "text": "Therefore, the psychologist concluded that the Veteran did not meet the diagnostic criteria for PTSD related to his conceded military non-combat experience.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P33S1",
+            "text": "The psychiatrist who completed the April 2014 VA mental health initial evaluation note explained that the Veteran reported various psychiatric stressors in service, including witnessing an aircraft crash and burn.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P33S2",
+            "text": "As a result of these stressors, he experienced nightmares, flashbacks, social isolation, avoidance, and problems with anger.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P33S3",
+            "text": "The psychiatrist concluded that the Veteran met the DSM-5 criteria for a diagnosis of PTSD caused by “accumulated trauma.”",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P33S4",
+            "text": "His symptoms included intrusive thoughts, nightmares, flashbacks, avoidance, hypervigilance, and emotional numbing.",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P34S1",
+            "text": "The June 2013 and January 2014 opinions are of somewhat limited probative value because they are essentially solely based upon a finding that the Veteran did not experience symptoms of PTSD in response to his reported stressor in service involving an aircraft crash.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P34S2",
+            "text": "The April 2014 VA mental health initial evaluation note, however, reflects that he did experience various symptoms of PTSD (including intrusive thoughts, nightmares, flashbacks, avoidance, hypervigilance, and emotional numbing) and that he had PTSD which was caused by various in-service stressors (including the aircraft crash in service).",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P35S1",
+            "text": "Although the psychiatrist who completed the April 2014 VA mental health initial evaluation note did not provide any detailed rationale for his conclusion, he nonetheless concluded based upon an examination of the Veteran and consideration of his reported history, that he had PTSD related to various stressors in service (including the aircraft crash that he witnessed in service).",
+            "rhetClass": "EvidenceSentence"
+        },
+        {
+            "sentID": "19160219P35S2",
+            "text": "The April 2014 opinion is therefore entitled to some probative weight.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P35S3",
+            "text": "See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (the fact that the rationale provided by an examiner “did not explicitly lay out the examiner’s journey from the facts to a conclusion,” did not render the examination inadequate); Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (medical reports must be read as a whole and in the context of the evidence of record).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P36S1",
+            "text": "In light of the above evidence, the Board finds that the evidence is at least evenly balanced as to whether the Veteran’s PTSD is based on the corroborated in-service stressor involving an aircraft crash while stationed aboard the USS Gurke.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P36S2",
+            "text": "As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, the criteria for service connection for PTSD are met and service connection for this disability is granted.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P36S3",
+            "text": "38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. § 3.304 (f).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P37S1",
+            "text": "The Board points out that the benefit granted herein is service connection for PTSD.",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P37S2",
+            "text": "Although the Veteran has been diagnosed as having other psychiatric disabilities during the claim period, including anxiety disorder and major depressive disorder, there is no evidence to distinguish between all of the symptoms of his psychiatric disabilities.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P37S3",
+            "text": "Therefore, a separate decision as to entitlement to service connection for psychiatric disability other than PTSD is unnecessary.",
+            "rhetClass": "ReasoningSentence"
+        },
+        {
+            "sentID": "19160219P37S4",
+            "text": "See Howell v. Nicholson, 19 Vet. App. 535, 540 (2006) (explaining that the Secretary must apply the benefit of the doubt doctrine and attribute the inseparable effects of a disability to the claimant’s service-connected disability).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P37S5",
+            "text": "Thus, in applying the benefit of the doubt doctrine, all of the Veteran’s psychiatric symptoms must, therefore, be attributed to his now service-connected PTSD.",
+            "rhetClass": "FindingSentence"
+        },
+        {
+            "sentID": "19160219P37S6",
+            "text": "See Mittleider v. West, 11 Vet. App. 181, 182 (1998) (VA must apply the benefit of the doubt doctrine and attribute the inseparable effects of a disability to the claimant’s service-connected disability).",
+            "rhetClass": "CitationSentence"
+        },
+        {
+            "sentID": "19160219P39S1",
+            "text": "Jonathan Hager",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P40S1",
+            "text": "Veterans Law Judge",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P41S1",
+            "text": "Board of Veterans’ Appeals",
+            "rhetClass": "Sentence"
+        },
+        {
+            "sentID": "19160219P42S1",
+            "text":"Attorney for the Board B. Elwood, Counsel",
+            "rhetClass": "Sentence"
+        }
+    ],
+    "text": "Citation Nr: 19160219\r\nDecision Date: 08/06/19\tArchive Date: 08/02/19\r\n\r\nDOCKET NO. 1731465\r\nDATE: \tAugust 6, 2019\r\n\r\nORDER\r\n\r\nEntitlement to service connection for skin cancer is dismissed.\r\n\r\nEntitlement to service connection for posttraumatic stress disorder (PTSD) is granted.\r\n\r\nFINDINGS OF FACT\r\n\r\n1. In July 2019, prior to the promulgation of a decision in the appeal, the Veteran withdrew from appeal the issue of entitlement to service connection for skin cancer.\r\n\r\n2. The evidence is at least evenly balanced as to whether the Veteran has been diagnosed as having PTSD based on a corroborated in-service stressor.\r\n\r\nCONCLUSIONS OF LAW\r\n\r\n1. The criteria for withdrawal of an appeal by the Veteran, as to the issue of entitlement to service connection for skin cancer, are met. 38 U.S.C. § 7105 (b)(2), (d)(5); 38 C.F.R. § 20.204.\r\n\r\n2. With reasonable doubt resolved in favor of the Veteran, the criteria for service connection for PTSD are met. 38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. §§ 3.102, 3.303, 3.304 (f). \r\n\r\nREASONS AND BASES FOR FINDINGS AND CONCLUSIONS\r\n\r\nThe Veteran served on active duty from June 1968 to May 1978. These matters come before the Board of Veterans’ Appeals (Board) from an August 2013 rating decision. The Veteran requested a Board hearing before a Veterans Law Judge on his June 2017 substantive appeal (VA Form 9). He withdrew his hearing request in March 2019 (see a March 2019 statement from the Veteran’s representative).\r\n\r\nI. Withdrawal of Appeal\r\n\r\nEntitlement to service connection for skin cancer\r\n\r\nThe Board may dismiss any appeal which fails to allege specific error of fact or law in the determination being appealed. 38 U.S.C. § 7105. An appeal may be withdrawn as to any or all issues involved in the appeal at any time before the Board promulgates a decision. 38 C.F.R. § 20.204. Withdrawal may be made by the Veteran or by his or her authorized representative in writing or on the record at a hearing on appeal. Id. \r\n\r\nIn the present case, the Veteran’s representative submitted a signed statement in July 2019 in which she indicated that the Veteran wished to withdraw his appeal with respect to the issue of entitlement to service connection for skin cancer. This statement constitutes a valid withdrawal of the appeal, with respect to this issue. See Delisio v. Shinseki, 25 Vet. App. 45, 57 (2011) (“withdrawal of a claim is only effective where the withdrawal is explicit, unambiguous, and done with a full understanding of the consequences of such action on the part of the claimant”). The United States Court of Appeals for the Federal Circuit has not addressed the criteria as to a written request to withdraw a claim. See Acree v. O’Rourke, 891 F.3d 1009, fn. 2 (Fed. Cir. 2018) (“Resolution of Acree’s appeal turns on the requirements necessary for an effective oral withdrawal of a claim at a board hearing. We express no view on the criteria that must be satisfied when a veteran submits a written request to withdraw a claim”). As the Veteran has withdrawn the appeal as to this issue, there remain no allegations of errors of fact or law for appellate consideration with regard to this issue. Accordingly, the Board does not have jurisdiction to review this issue on appeal, and the appeal is dismissed.\r\n\r\nII. Service Connection\r\n\r\nEntitlement to service connection for PTSD\r\n\r\nService connection will be granted if the evidence demonstrates that current disability resulted from an injury suffered or disease contracted in active military, naval, or air service. 38 U.S.C. § 1110; 38 C.F.R. § 3.303(a). Establishing service connection generally requires competent evidence of three things: (1) current disability; (2) in-service injury or disease; and (3) a relationship between the two.  Saunders v. Wilkie, 886 F.3d 1356, 1361 (Fed. Cir. 2018). Consistent with this framework, service connection is warranted for a disease first diagnosed after service when all the evidence, including that pertinent to service, establishes that the disease was incurred in service. 38 C.F.R. § 3.303(d).\r\n\r\nService connection for PTSD requires medical evidence diagnosing the condition in accordance with 38 C.F.R. § 4.125 (a); a link, established by medical evidence, between current symptoms and an in-service stressor; and credible supporting evidence that the claimed in-service stressor occurred. 38 C.F.R. § 3.304 (f).\r\n\r\nWhen there is a current diagnosis of PTSD, the sufficiency of a claimed in-service stressor is presumed. Cohen v. Brown, 10 Vet. App. 128, 144 (1997). Nevertheless, credible evidence that the claimed in-service stressor actually occurred is still required. 38 C.F.R. § 3.304 (f). Credible supporting evidence cannot consist solely of after-the-fact medical evidence containing an opinion as to a causal relationship between PTSD and service. See Moreau v. Brown, 9 Vet. App. 389, 396 (1996).\r\n\r\nWhen there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant. 38 U.S.C. § 5107; see also Gilbert v. Derwinski, 1 Vet. App. 49, 53 (1990).\r\n\r\nIn this case, the Veteran contends that he has current psychiatric disability that is related to various psychiatric stressors that occurred in service.\r\n\r\nThe Board finds, for the following reasons, that the evidence is at least evenly balanced as to whether the Veteran has current PTSD that is based on a corroborated in-service stressor.\r\n\r\nThe Veteran’s medical records, including an April 2014 VA mental health initial evaluation note, show he has a current diagnosis of PTSD. He contends that his PTSD is due to various psychiatric stressors that occurred in service. For instance, as pertinent to this decision, he has reported that he was stationed aboard the USS Gurke in the Gulf of Tonkin in August 1969. During this time, his ship was operating in close proximity to the USS Bon Homme Richard and he witnessed the crash of a military A-4 aircraft while it was attempting to land on that ship. The Veteran’s ship assisted in the search for survivors, but the search was unsuccessful.\r\n\r\nIn April 2013, the agency of original jurisdiction (AOJ) contacted the U.S. Army and Joint Services Records Research Center (JSRRC) and requested that it attempt to verify the Veteran’s reported stressor. In May 2013, the JSRRC responded that it had reviewed the deck logs from the USS Gurke and the USS Bon Homme Richard. The deck logs confirmed that on August 10, 1969 an aircraft exploded upon landing on the USS Bon Homme Richard, that the aircraft sank in 225 feet of water, and that the pilot was possibly in the water. The USS Gurke was 2,000 yards astern of the USS Bon Homme Richard at the time of the crash and was detailed to search for the pilot. Also, the Veteran has submitted information from “The Virtual Wall” website which indicates that a Navy pilot assigned to the USS Bon Homme Richard died in a plane crash on August 10, 1969 in the Gulf of Tonkin and that his body was not recovered. Moreover, the Veteran’s service personnel records include a memorandum dated in June 1969 from the commanding officer of the USS Gurke to the Veteran, in which the Veteran was notified that he was temporarily appointed to the grade of lieutenant (junior grade). \r\n\r\nIn light of the above evidence, the Board concludes that the Veteran has a current diagnosis of PTSD and that there is credible supporting evidence that his reported stressor in service occurred. Hence, the only remaining question is whether there is competent medical evidence of a nexus between his PTSD and his reported stressor in service involving the aircraft crash aboard the USS Bon Homme Richard. In this regard, there is conflicting medical evidence as to whether his PTSD is related to this stressor. The Board must analyze the credibility and probative value of the evidence, account for the evidence which it finds to be persuasive or unpersuasive, and provide the reasons for its rejection of any material evidence favorable to the Veteran. See Gabrielson v. Brown, 7 Vet. App. 36, 39-40 (1994). The Board may favor one medical opinion over another, provided an adequate statement of reasons or bases is provided. See Owens v. Brown, 7 Vet. App. 429, 433 (1995).\r\n\r\nThe psychologist who conducted a June 2013 VA psychiatric examination reported that the Veteran’s reported stressor in service involving his witnessing of an aircraft crash was not adequate to support a diagnosis of PTSD. The examiner did not provide a specific rationale for this opinion, but did explain in a medical opinion that accompanies the June 2013 examination report that the Veteran’s response to the reported aircraft crash in service seemed to be more a moral outrage or sense of ineffectualness in recovering the victim/victims of the crash episode. Overall, the examiner did not feel that the Veteran’s symptoms rose “to a full PTSD syndrome,” but were rather more indicative of an anxiety disorder with obsessive-compulsive traits.\r\n\r\nIn January 2014, a VA psychologist reviewed the Veteran’s claims file and explained, in pertinent part, that his Vet Center treatment records (which reflect treatment for PTSD) did not include any references to the reported stressor of witnessing an aircraft crash aboard the USS Bon Homme Richard. Although the reported aircraft crash in service had been confirmed subsequent to the June 2013 VA psychiatric examination, the Veteran did not make any mention of this stressor during his Vet Center treatment. Rather, the Veteran identified another unrelated stressor in service as being his most traumatic experience. Therefore, while the conceded stressor would meet Criterion A for a diagnosis of PTSD, none of the other symptoms (intrusion, dissociative reactions, persistent avoidance, negative alterations in cognitions and mood, alterations in arousal and reactivity) were evidenced in response to the stressor. Therefore, the psychologist concluded that the Veteran did not meet the diagnostic criteria for PTSD related to his conceded military non-combat experience.\r\n\r\nThe psychiatrist who completed the April 2014 VA mental health initial evaluation note explained that the Veteran reported various psychiatric stressors in service, including witnessing an aircraft crash and burn. As a result of these stressors, he experienced nightmares, flashbacks, social isolation, avoidance, and problems with anger. The psychiatrist concluded that the Veteran met the DSM-5 criteria for a diagnosis of PTSD caused by “accumulated trauma.” His symptoms included intrusive thoughts, nightmares, flashbacks, avoidance, hypervigilance, and emotional numbing.\r\n\r\nThe June 2013 and January 2014 opinions are of somewhat limited probative value because they are essentially solely based upon a finding that the Veteran did not experience symptoms of PTSD in response to his reported stressor in service involving an aircraft crash. The April 2014 VA mental health initial evaluation note, however, reflects that he did experience various symptoms of PTSD (including intrusive thoughts, nightmares, flashbacks, avoidance, hypervigilance, and emotional numbing) and that he had PTSD which was caused by various in-service stressors (including the aircraft crash in service).\r\n\r\nAlthough the psychiatrist who completed the April 2014 VA mental health initial evaluation note did not provide any detailed rationale for his conclusion, he nonetheless concluded based upon an examination of the Veteran and consideration of his reported history, that he had PTSD related to various stressors in service (including the aircraft crash that he witnessed in service). The April 2014 opinion is therefore entitled to some probative weight. See Monzingo v. Shinseki, 26 Vet. App. 97, 106 (2012) (the fact that the rationale provided by an examiner “did not explicitly lay out the examiner’s journey from the facts to a conclusion,” did not render the examination inadequate); Acevedo v. Shinseki, 25 Vet. App. 286, 294 (2012) (medical reports must be read as a whole and in the context of the evidence of record).\r\n\r\nIn light of the above evidence, the Board finds that the evidence is at least evenly balanced as to whether the Veteran’s PTSD is based on the corroborated in-service stressor involving an aircraft crash while stationed aboard the USS Gurke. As the reasonable doubt created by this relative equipoise in the evidence must be resolved in favor of the Veteran, the criteria for service connection for PTSD are met and service connection for this disability is granted. 38 U.S.C. §§ 1110, 5107(b); 38 C.F.R. § 3.304 (f).\r\n\r\nThe Board points out that the benefit granted herein is service connection for PTSD. Although the Veteran has been diagnosed as having other psychiatric disabilities during the claim period, including anxiety disorder and major depressive disorder, there is no evidence to distinguish between all of the symptoms of his psychiatric disabilities. Therefore, a separate decision as to entitlement to service connection for psychiatric disability other than PTSD is unnecessary. See Howell v. Nicholson, 19 Vet. App. 535, 540 (2006) (explaining that the Secretary must apply the benefit of the doubt doctrine and attribute the inseparable effects of a disability to the claimant’s service-connected disability). Thus, in applying the benefit of the doubt doctrine, all of the Veteran’s psychiatric symptoms must, therefore, be attributed to his now service-connected PTSD. See Mittleider v. West, 11 Vet. App. 181, 182 (1998) (VA must apply the benefit of the doubt doctrine and attribute the inseparable effects of a disability to the claimant’s service-connected disability).\r\n\r\n \r\n\r\nJonathan Hager\r\n\r\nVeterans Law Judge\r\n\r\nBoard of Veterans’ Appeals\r\n\r\nAttorney for the Board\tB. Elwood, Counsel\r\n\r\nThe Board’s decision in this case is binding only with respect to the instant matter decided. This decision is not precedential, and does not establish VA policies or interpretations of general applicability. 38 C.F.R. § 20.1303. \r\n\r\n"
+}
